@@ -1,0 +1,71 @@
+---
+layout: default
+---
+
+{% assign calendar = page %}
+{% assign lead = calendar %}
+{% assign imageAltTags = page.imageAltTags %}
+ {% for image in calendar.images %}
+ {% assign alt = imageAltTags[forloop.index] %}
+<div class="uk-card uk-card-default uk-margin-medium-bottom">
+  <div class="uk-inline">
+    <div class="uk-transition-toggle">
+      {% include image.html %}
+      <div class="uk-transition-fade uk-position-top-left uk-margin-medium-top uk-margin-medium-left">
+        <a href="https://www.pinterest.com/pin/create/button/?url={{ site.url }}{{ calendar.url }}&media=https://res.cloudinary.com/{{ site.cloudinary-name }}/image/upload/c_limit,f_auto,q_auto:best,w_800/{{ image }}" class="uk-icon-button uk-button-primary uk-margin-small-right pin" uk-icon="icon: pinterest" data-pin-do="buttonPin" data-pin-save="true" data-pin-media="https://res.cloudinary.com/{{ site.cloudinary-name }}/image/upload/c_limit,f_auto,q_auto:best,w_800/{{ image }}"
+          data-pin-description="Free {{ page.title }} by C.B. Telemann" data-pin-id="{{ site.url }}{{ calendar.url }}" data-pin-custom="true"></a>
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}
+
+<div class="content uk-margin-large-bottom">
+
+  <p class="uk-h3 uk-margin-top">
+    Free {{ calendar.title | widont }}
+    </p>
+  <p class="subhead uk-margin-remove">{{ page.description }}</p>
+  {{ calendar.content }}
+</div>
+<hr/>
+<ul class="uk-list uk-list-divider content
+          uk-margin-top calendar-details">
+            {% assign start = calendar.start | downcase %}
+
+  <li>Week Starts On:&ensp;
+  {% if start == "sunday" %}
+  {{ start | capitalize }} :sun_with_face:
+  {% else %}
+  {{ start | capitalize }} :first_quarter_moon_with_face:
+  {% endif %}
+
+    {% if calendar.singleVersion %}
+    {% elsif start == "monday" %}
+    <span class="mono-links">
+    <a href="{{ calendar.url | remove: "-monday/" }}-sunday">Sunday</a>&ensp;:sun_with_face:
+    </span>
+    {% else %}
+    <span class="mono-links">
+    <a href="{{ calendar.url | remove: "-sunday/"  }}-monday">Monday</a>&ensp;:first_quarter_moon_with_face:
+    </span>
+    {% endif %}
+  </li>
+  {% if calendar.holidays == true %}
+  <li>
+    USA Holidays
+    {% if calendar.moons == true %}
+    + Moon Phases
+    {% endif %}
+  </li>
+  {% endif %}
+
+  <li>Dimensions: {{ calendar.dimensions }}</li>
+  <li>Format: {{ calendar.format }}</li>
+  <li>Style: {{ calendar.style }}</li>
+</ul>
+
+
+
+<hr class="uk-hidden@s" />
+{% include lead/lead-box.html %}

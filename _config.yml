@@ -1,0 +1,184 @@
+title: C.B. Telemann
+description: C.B. Telemann provides book-design services and in-person or virtual training in Adobe InDesign for individuals and small groups.
+
+url: http://localhost:3000
+repository: cbtelemann/cbt-2019
+branch: master
+
+author:
+  email: hello@telemann.link
+  name: C.B. Telemann
+  photo: https://res.cloudinary.com/telemann/image/upload/v1532564428/cbtelemann-portrait.png
+  url: https://telemann.ink/
+  bio: Christopher C.B. Telemann provides **<a href="/book-design/">book design services</a>** and **<a href="/indesign-training/"> training in Adobe InDesign</a>** for individuals and small groups. Additional design services by request.<br><i class="far fa-envelope"></i>&ensp;hello@telemann.ink
+
+company:
+  name: C.B. Telemann
+  url: telemann.ink
+  location: Portland, OR
+  logo: https://res.cloudinary.com/telemann/image/upload/v1522352815/cbtelemann.png
+  phone:
+
+touch-icon:
+fav-icon: https://res.cloudinary.com/telemann/image/upload/v1517607325/favicon-book.ico
+
+cloudinary-name: telemann
+
+analytics:
+  google: UA-96858405-1
+  # momently: EB583AAIAQc
+  hotjar: 760758
+
+reCaptcha:
+  siteKey: 6LfAjx0UAAAAAOSC_W4RgPVbcekkidKpcQuxGXsg
+  secret: HWQ7wWJ3ADA+pHEf3V2z0Ocvrg17pGn+FTBylS4L/lGHOwsxgUcj0zoCetm5RDRCBsCRS8yxorMHTkyHiyTqVppwE0fzfQL1VuZdUKxzjqC0/YalxnNzA14qSIhPelsInDb7dzWDvy0r2H1b6f8I2uRVIiYnK4wnq1yowL/MdBY=
+
+mailchimp:
+  post: https://ink.us17.list-manage.com/subscribe/post?u=7889d0f7a4adfa3c895e5fc49&amp;id=6087e29901
+  hidden: b_7889d0f7a4adfa3c895e5fc49_6087e29901
+
+lead-post-script: https://script.google.com/macros/s/AKfycbw6_bbRgcIajOWw_kHo2Wn7YrHI7Yh3Oo227MaOhfcUUevlXeA/exec
+
+form-submit-script: https://script.google.com/macros/s/AKfycbxTVPtz9tc0lJem05jenNySuYsjZts8G4V6kr49pS6ZdfEr1ec/exec
+
+privacy-policy-comment: 'Privacy: Policy: Your email address will not be published or shared.'
+
+privacy-policy-lead: 'Privacy Policy: We hate spam and promise to keep your email address safe.'
+
+comment-policy: 'Comment Policy: We do our best to respond particularly on new articles, but don’t have the ability to respond to every comment. Insults and disrespectful comments are not accepted. Please do not include links not pertinent to the discussion. Thank you.'
+
+default-right-aside-cta:
+
+
+
+# Used so Jekyll outputs the site correctly so Gulp can do what it wants
+source: .tmp/src
+destination: .tmp/dist
+include: [_redirects, _headers]
+exclude: ['assets']
+
+algolia:
+  application_id:
+  index_name:
+  search_only_api_key:
+
+
+# Enables future posts (posts with dates in the future) and drafts
+future: false
+show_drafts: false
+# Disables the more accurate related posts for faster generating of the site
+lsi: false
+# Only make the last 10 posts so generating isn't slow
+# limit_posts: 10
+
+# Permalink structure and pagination options
+permalink: :categories/:year/:month/:title/
+
+# Markdown library and options
+markdown: kramdown
+highlighter: rouge
+
+# Extending Jekyll
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-paginate-v2
+  - jemoji
+  - jekyll-typogrify
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/page/:num/'
+  title: ':title - page :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  trail:
+    before: 2 # The number of links before the current page
+    after: 2  # The number of links after the current page
+
+collections_dir: my_collections
+
+collections:
+  social:
+    output: false
+  comments:
+    output: false
+  leads:
+    output: true
+    permalink: /:categories/free-:title/
+
+defaults:
+  -
+    scope:
+      path: ""      # empty string for all files
+      type: posts   # limit to posts
+    values:
+      layout: post
+      is-post: true
+      cta: "&ldquo;Thank you for being a patron of my site and I hope you enjoy the read.&rdquo;"
+      comments: true
+      comment-locked: false
+      dropcap: true
+      download: true
+  -
+    scope:
+      path: "_posts/meditations"      # empty string for all files
+      type: posts   # limit to posts
+    values:
+      share: facebook
+  -
+    scope:
+      path: ""      # empty string for all files
+      type: pages   # limit to posts
+    values:
+      layout: default
+      comments: false
+      pin-it: true
+  -
+    scope:
+      path: "_leads/calendars"
+    values:
+      layout: calendar
+      categories: calendars
+      comments: false
+      type: Printable Calendar
+      right-aside-top: true
+      right-aside-bottom: false
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 5
+  permalink: '/page/:num/'
+  title: ':title - page :num of :max'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  trail:
+    before: 2 # The number of links before the current page
+    after: 2  # The number of links after the current page
+
+############################################################
+# Site configuration for the Auto-Pages feature
+autopages:
+  enabled: true
+
+  collections:
+    layouts:
+      - 'autopage.html'
+    title: 'Posts in collection :coll' # :coll is replaced by the collection name
+    permalink: '/collection/:coll'
+
+  categories:
+    layouts:
+      - 'autopage.html'
+    title: ':cat Posts'
+    permalink: '/category/:cat'
+
+  tags:
+    layouts:
+      - 'autopage.html'
+    title: 'Posts in category :tag'
+    permalink: '/category/:tag'

@@ -1,0 +1,30 @@
+.site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.site-content {
+  flex: 1;
+}
+
+.uk-container-expand {
+  background: transparent;
+}
+
+
+@media screen and (max-width: 640px) {
+  .site, .services {
+    padding: 0;
+  }
+  // .main-paper {
+  //   padding: 20px !important;
+  // }
+  // .sidebar {
+  //   margin: 0 15px;
+  // }
+
+  .footer {
+    margin: 0 25px;
+  }
+}

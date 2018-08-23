@@ -1,0 +1,10 @@
+<aside class="right-aside-top uk-width-2-5@xl uk-width-1-3@l uk-visible@xl content uk-flex uk-flex-between uk-flex-column">
+  <h1 class="visuallyhidden">Top Aside</h1>
+  {% if page.right-aside-top == false %}
+  <div></div>
+  {% else %}
+  <div class="paper aside-paper">
+      {% include aside/content/right-aside-default.html %}
+  </div>
+  {% endif %}
+</aside>

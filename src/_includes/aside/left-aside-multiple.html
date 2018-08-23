@@ -1,0 +1,21 @@
+<div class="sidebar left-aside" style="z-index:80;" uk-sticky="offset: 150; media:960; show-on-up: true; animation: uk-animation-slide-top;">
+  <ul class="uk-subnav uk-subnav-pill uk-text-center" uk-switcher>
+    <li><a href="#">All</a></li>
+    <li><a href="#">Tarot</a></li>
+</ul>
+
+<ul class="uk-switcher uk-margin">
+    <li><div class="envelope">
+      <a class="seal red-seal" href="#subscribe" uk-toggle>
+          <span class="embossed"><i class="seal-symbol fas fa-dove"></i></span>
+      </a>
+    </div></li>
+    <li><div class="envelope envelope2">
+      <a class="seal blue-seal" href="#subscribe" uk-toggle>
+          <span class="embossed"><i class="seal-symbol fas fa-dove"></i></span>
+      </a>
+    </div></li>
+</ul>
+
+  {% include lead/subscribe-form-popup.html %}
+</div>

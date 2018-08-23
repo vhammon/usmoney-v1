@@ -1,0 +1,34 @@
+<section>
+  <h3 class="uk-text-center uk-margin-small uk-h4"><i class="far fa-folder-open"></i>&nbsp;Discover More
+    {% if include.more %}
+  {{ include.more }}
+  {% else %}
+    {% if page.nav-text == "Journal" or page.categories contains "journal" %}
+    Journal Entries
+    {% elsif page.nav-text == "Stories" %}
+    Stories
+    {% elsif page.nav-text == "Meditations" %}
+    Meditations
+    {% else %}
+    to Read
+    {% endif %}
+
+{% endif %}
+  </h3>
+  <ul class="uk-subnav categories uk-margin-remove" uk-margin>
+    {% assign categories = site.tags | sort %}
+{% for category in categories %}
+{% if page.nav-text == "Journal" or page.categories contains: "journal" %}
+  {% assign zz = category[1] | where:"categories","journal" | sort %}
+{% elsif page.nav-text == "Stories" %}
+  {% assign zz = category[1] | where:"categories","stories" | sort %}
+  {% elsif page.nav-text == "Meditations" %}
+    {% assign zz = category[1] | where:"categories","meditations" | sort %}
+{% endif %}
+{% if zz != empty %}
+    <li><a href="/category/{{ category[0] | slugify }}/">{{ category[0] | markdownify | replace:'-', ' ' | replace:'<p>', '' | replace:'</p>', '' }}
+    </a></li>
+{% endif %}
+{% endfor %}
+  </ul>
+</section>

@@ -1,0 +1,31 @@
+{% assign n_posts = 0 %}
+{% for post in site.posts %}
+    {% if post.id == page.id %}{% continue %}{% endif %}
+    {% for this_tag in page.tags %}
+        {% if post.tags contains this_tag%}
+            {% if n_posts == 0 %}
+            <hr class="uk-divider-small uk-text-center" />
+            <h3 class="uk-margin-remove uk-text-center uk-h4"><i class="far fa-edit"></i>&ensp;Related
+              {% if post.categories contains "journal" %}
+              Journal Entries
+              {% elsif post.categories contains "stories" %}
+              Stories
+              {% elsif post.categories contains "meditations" %}
+              meditations
+              {% endif %}
+            </h3>
+            <ul class="uk-list related-posts uk-text-center uk-margin-medium-bottom">
+              {% endif %}
+            <li><a href="{{ post.url }}">{{ post.title {{ post.title | markdownify | replace: '<p>', '' | replace: '</p>', '' }}</a>
+            </li>
+            {% assign n_posts = n_posts | plus: 1 %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+    {% if n_posts > 3 %}
+    {% break %}
+    {% endif %}
+{% endfor %}
+{% if n_posts > 0 %}
+</ul>
+{% endif %}
