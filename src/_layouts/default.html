@@ -4,50 +4,32 @@
 {% include head.html %}
 
 <body>
-    <div id="barba-wrapper">
-      <div class="barba-container">
-        <div class="wrap">
-          <a id="top"></a>
-          {% include head-header-footer/nav.html %}
-    <div id="main" class="uk-container uk-container-expand site">
+  <div id="barba-wrapper">
+    <div class="barba-container">
+      <div class="wrap">
+        <a id="top"></a>
+        {% include head-header-footer/nav.html %}
+        <div id="main" class="uk-container site">
           {% include page-title.html %}
-      <div class="uk-child-width-expand@s uk-grid-large uk-flex site-content" uk-grid>
-        <div>
-          <div class="uk-grid-large" uk-grid>
-            {% include default-layout/main.html %}
-            {% include default-layout/right-aside.html %}
-            <div class="uk-width-3-5@xl uk-width-1-1@l uk-width-1-1@m uk-width-1-1@s uk-margin-large-top">
-              {% if page.is-post %}
-              <div class="paper main-paper">
-                {% include default-layout/page-lead.html %}
-                {% include default-layout/related-posts.html %}
-                <div class="{% if page.lead-id == nil and page.comments == false %} {% else %} uk-hidden@xl {% endif %}">
-                  <hr class="uk-divider-small uk-text-center" />
-                  {% include aside/content/list-of-categories.html %}
-                </div>
-                {% if page.comments == true %}
-                {% include comments/list-of-comments.html %}
-                {% endif %}
-                <hr class="uk-margin-top uk-margin-large-bottom uk-divider-small uk-text-center" />
+          <div class="uk-child-width-expand@s uk-flex site-content uk-grid-collapse" uk-grid>
+            <div>
+              <div class="uk-grid-small" uk-grid>
+                {% include default-layout/main.html %} {% include default-layout/right-aside.html %}
+                {% include default-layout/bottom-main-and-bottom-right-aside.html %}
               </div>
-              {% endif %}
             </div>
-          {% include default-layout/right-aside-bottom.html %}
+            {% include default-layout/left-aside.html %}
+
+          </div>
+          {% include footer.html %} {% include head-header-footer/footer-scripts.html %}
+
+          <!-- JS -->
+          <!-- inject:js -->
+          <!-- endinject -->
         </div>
       </div>
-      {% include default-layout/left-aside.html %}
-
     </div>
-      {% include footer.html %}
-    {% include head-header-footer/scripts.html %}
-
-    <!-- JS -->
-    <!-- inject:js -->
-    <!-- endinject -->
   </div>
-</div>
-</div>
-</div>
 </body>
 
 </html>

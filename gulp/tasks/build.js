@@ -12,15 +12,14 @@ gulp.task('site:tmp', () =>
     .pipe(size({title: 'Jekyll'}))
 );
 
-
 // 'gulp jekyll' -- builds your site with development settings
 // 'gulp jekyll --prod' -- builds your site with production settings
 gulp.task('site', done => {
   if (!argv.prod) {
-    shell.exec('jekyll build --incremental');
+    shell.exec('jekyll build');
     done();
   } else if (argv.prod) {
-    shell.exec('jekyll build --incremental --config _config.yml,_config.build.yml');
+    shell.exec('jekyll build --config _config.yml,_config.build.yml');
     done();
   }
 });

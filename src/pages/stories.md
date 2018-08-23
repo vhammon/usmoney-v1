@@ -1,5 +1,5 @@
 ---
-title: Stories by C.B. Telemann
+title: Stories
 nav: true
 nav-text: Stories
 order: 2

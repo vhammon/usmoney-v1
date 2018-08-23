@@ -14,7 +14,3 @@ gulp.task('copy:site', () =>
     .pipe(gulp.dest('dist'))
 );
 
-gulp.task('copy:markdown', () =>
-  gulp.src('src/my_collections/_posts/**/*.md')
-    .pipe(gulp.dest('dist/docs'))
-);

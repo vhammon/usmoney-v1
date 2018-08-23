@@ -3,7 +3,7 @@ const gulp = require('gulp');
 const del = require('del');
 
 gulp.task('clean:assets', () => {
-  return del(['!.tmp/assets', '!.tmp/assets/images', '!.tmp/assets/images/**/*', 'dist/assets']);
+  return del(['.tmp/**/*', '!.tmp/assets', '!.tmp/assets/images', '!.tmp/assets/images/**/*', 'dist/assets']);
 });
 gulp.task('clean:images', () => {
   return del(['.tmp/assets/images', 'dist/assets/images']);
@@ -15,5 +15,5 @@ gulp.task('clean:gzip', () => {
   return del(['dist/**/*.gz']);
 });
 gulp.task('clean:site', () => {
-  return del(['.tmp/src/**/*','!.tmp/src/.jekyll-metadata']);
+  return del(['.tmp/src']);
 });

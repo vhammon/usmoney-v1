@@ -1,45 +1,46 @@
-title: C.B. Telemann
-description: C.B. Telemann provides book-design services and in-person or virtual training in Adobe InDesign for individuals and small groups.
+title: US Money
+description:
 
 url: http://localhost:3000
-repository: cbtelemann/cbt-2019
+github-username: vhammon
+repository: usmoney-v1
 branch: master
 
 author:
-  email: hello@telemann.link
-  name: C.B. Telemann
-  photo: https://res.cloudinary.com/telemann/image/upload/v1532564428/cbtelemann-portrait.png
-  url: https://telemann.ink/
-  bio: Christopher C.B. Telemann provides **<a href="/book-design/">book design services</a>** and **<a href="/indesign-training/"> training in Adobe InDesign</a>** for individuals and small groups. Additional design services by request.<br><i class="far fa-envelope"></i>&ensp;hello@telemann.ink
+  email:
+  name: Virginia Hammon
+  photo:
+  url: https://usmoney.us/
+  bio:
 
 company:
-  name: C.B. Telemann
-  url: telemann.ink
-  location: Portland, OR
-  logo: https://res.cloudinary.com/telemann/image/upload/v1522352815/cbtelemann.png
+  name: US Money
+  url: usmoney.us
+  location: Lake Oswego, OR
+  logo:
   phone:
 
 touch-icon:
-fav-icon: https://res.cloudinary.com/telemann/image/upload/v1517607325/favicon-book.ico
+fav-icon:
 
-cloudinary-name: telemann
+cloudinary-name:
 
 analytics:
-  google: UA-96858405-1
-  # momently: EB583AAIAQc
-  hotjar: 760758
+  google:
+  momently:
+  hotjar:
 
 reCaptcha:
-  siteKey: 6LfAjx0UAAAAAOSC_W4RgPVbcekkidKpcQuxGXsg
-  secret: HWQ7wWJ3ADA+pHEf3V2z0Ocvrg17pGn+FTBylS4L/lGHOwsxgUcj0zoCetm5RDRCBsCRS8yxorMHTkyHiyTqVppwE0fzfQL1VuZdUKxzjqC0/YalxnNzA14qSIhPelsInDb7dzWDvy0r2H1b6f8I2uRVIiYnK4wnq1yowL/MdBY=
+  siteKey:
+  secret:
 
 mailchimp:
-  post: https://ink.us17.list-manage.com/subscribe/post?u=7889d0f7a4adfa3c895e5fc49&amp;id=6087e29901
-  hidden: b_7889d0f7a4adfa3c895e5fc49_6087e29901
+  post:
+  hidden:
 
-lead-post-script: https://script.google.com/macros/s/AKfycbw6_bbRgcIajOWw_kHo2Wn7YrHI7Yh3Oo227MaOhfcUUevlXeA/exec
+lead-post-script:
 
-form-submit-script: https://script.google.com/macros/s/AKfycbxTVPtz9tc0lJem05jenNySuYsjZts8G4V6kr49pS6ZdfEr1ec/exec
+form-submit-script:
 
 privacy-policy-comment: 'Privacy: Policy: Your email address will not be published or shared.'
 
@@ -125,28 +126,13 @@ defaults:
       download: true
   -
     scope:
-      path: "_posts/meditations"      # empty string for all files
-      type: posts   # limit to posts
-    values:
-      share: facebook
-  -
-    scope:
       path: ""      # empty string for all files
       type: pages   # limit to posts
     values:
       layout: default
       comments: false
       pin-it: true
-  -
-    scope:
-      path: "_leads/calendars"
-    values:
-      layout: calendar
-      categories: calendars
-      comments: false
-      type: Printable Calendar
-      right-aside-top: true
-      right-aside-bottom: false
+
 # Pagination Settings
 pagination:
   enabled: true

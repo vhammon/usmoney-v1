@@ -1,4 +1,4 @@
-// generated on 2018-01-15 using generator-jekyllized 1.0.0-rc.7
+// generated on 2018-08-23 using generator-jekyllized 1.0.0-rc.8
 'use strict';
 
 const gulp = require('gulp');
@@ -16,7 +16,7 @@ gulp.task('build:site', gulp.series('site:tmp', 'inject', 'site', 'copy:site'));
 // 'gulp assets --prod' -- cleans out your assets and rebuilds them with
 // production settings
 gulp.task('assets', gulp.series(
-  gulp.parallel('styles', 'scripts', 'images', 'docs'),
+  gulp.parallel('styles', 'scripts', 'fonts', 'images'),
   gulp.series('copy:assets')
 ));
 
@@ -26,12 +26,6 @@ gulp.task('clean', gulp.parallel('clean:assets', 'clean:gzip', 'clean:dist', 'cl
 // 'gulp build' -- same as 'gulp' but doesn't serve your site in your browser
 // 'gulp build --prod' -- same as above but with production settings
 gulp.task('build', gulp.series('clean', 'assets', 'build:site', 'html'));
-
-// gulp.task('build', gulp.series('tarot', 'clean', 'assets', 'build:site', 'html'));
-
-//
-// gulp.task('build2', gulp.series('clean', 'assets', 'build:site', 'html'));
-
 
 // You can also just use 'gulp upload' but this way you can see all the main
 // tasks in the gulpfile instead of having to hunt for the deploy tasks
@@ -49,5 +43,3 @@ gulp.task('check', gulp.series('site:check'));
 // into their directory and serves the site
 // 'gulp --prod' -- same as above but with production settings
 gulp.task('default', gulp.series('build', 'serve'));
-
-// gulp.task('alt', gulp.series('build2', 'serve'));
