@@ -29,7 +29,7 @@
     "gulp-if": "^2.0.0",
     "gulp-imagemin": "^3.0.0",
     "gulp-inject": "^4.0.0",
-    "gulp-markdown-pdf": "9.0.0",
+    "gulp-markdown-pdf": "6.0.0",
     "gulp-newer": "^1.1.0",
     "gulp-pandoc": "^0.2.2",
     "gulp-pandoc-convert": "^0.1.1",
