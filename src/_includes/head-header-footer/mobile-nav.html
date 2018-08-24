@@ -1,7 +1,9 @@
-<div class="uk-offcanvas-content uk-hidden@m">
+<div class="uk-offcanvas-content uk-hidden@m uk-margin-left">
   <ul class="uk-subnav uk-subnav-divider" uk-margin>
+
+    <li><span uk-icon="icon: menu" class="bar-menu uk-margin-bottom button-in-text uk-button uk-button-default uk-button-small" uk-toggle="target: #offcanvas-nav-primary"></span></li>
+
     <li><a href="#bottom" uk-scroll class="to-bottom button-in-text uk-button uk-button-default uk-button-small" uk-icon="icon: arrow-down"></a></li>
-    <li><span uk-icon="icon: menu" class="bar-menu uk-margin-bottom" uk-toggle="target: #offcanvas-nav-primary"></span></li>
 </ul>
 
   <div id="offcanvas-nav-primary" uk-offcanvas>
@@ -25,6 +27,9 @@
 </li>
 {% endif %}
 {% endfor %}
+<li class="uk-navbar-item">
+  <a href="/search/"><i class="fas fa-search fa-xs"></i>&ensp;Search</a>
+</li>
       </ul>
       </ul>
     </div>

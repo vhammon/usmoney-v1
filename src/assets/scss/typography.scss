@@ -7,7 +7,7 @@ body {
   font-weight: 400;
   font-family: $serif;
   color: $black;
-  font-size: 25px;
+  font-size: $font-size;
   line-height: 1.25;
 }
 @media all and (max-width: 640px) and (min-width: 320px) {
@@ -175,6 +175,15 @@ u::-moz-selection {
   line-height: 60px;
   padding-top: 4px;
   padding-right: 4px;
+}
+
+.uk-dropcap::first-letter, .uk-dropcap>p:first-of-type::first-letter {
+  display: block;
+    margin-right: 10px;
+    float: left;
+    font-size: 3em;
+    line-height: 1;
+    margin-bottom: -15px;
 }
 
 // .post-content .meditations  p {

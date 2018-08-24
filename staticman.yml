@@ -22,3 +22,27 @@ comments:
     enabled:       false
     siteKey:       ""
     secret:        ""
+reviews:
+  allowedFields:   ['name', 'email', 'review', 'slug', 'replying_to']
+  branch:          "master"
+  commitMessage:   "New Book Review"
+  filename:        "book-review-{@timestamp}"
+  format:          "frontmatter"
+  path:            "src/my_collections/_book-reviews"
+  moderation:      false
+  slug:            "{fields.slug}"
+  requiredFields:  ['name', 'email', 'message']
+  transforms:
+    email:         "md5"
+    message:       "frontmatterContent"
+  generatedFields:
+    date:
+      type:        "date"
+      options:
+        format:    "iso8601"
+    approved:      false
+    title:         "Book Review"
+  reCaptcha:
+    enabled:       false
+    siteKey:       ""
+    secret:        ""

@@ -104,43 +104,11 @@ pagination:
 collections_dir: my_collections
 
 collections:
-  social:
+  book-reviews:
     output: false
   comments:
     output: false
-  leads:
-    output: true
-    permalink: /:categories/free-:title/
-  chapter-1:
-    output: true
-    permalink: /book/chapter-1/:title/
-  chapter-2:
-    output: true
-    permalink: /book/chapter-2/:title/
-  chapter-3:
-    output: true
-    permalink: /book/chapter-3/:title/
-  chapter-4:
-    output: true
-    permalink: /book/chapter-4/:title/
-  chapter-5:
-    output: true
-    permalink: /book/chapter-5/:title/
-  chapter-6:
-    output: true
-    permalink: /book/chapter-6/:title/
-  chapter-7:
-    output: true
-    permalink: /book/chapter-7/:title/
-  chapter-8:
-    output: true
-    permalink: /book/chapter-8/:title/
-  chapter-9:
-    output: true
-    permalink: /book/chapter-9/:title/
-  chapter-10:
-    output: true
-    permalink: /book/chapter-10/:title/
+
 defaults:
   -
     scope:

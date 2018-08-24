@@ -67,7 +67,7 @@
 .nav-logo {
   // font-size: .8em;
   position: relative;
-  left: 18px;
+  // left: 18px;
   // padding-bottom: 2px;
 }
 
@@ -183,5 +183,12 @@
 @media screen and (min-width: 950px) and (max-width: 1000px) {
   nav .uk-navbar-item {
     font-size: 0.65em;
+  }
+}
+@media screen and (max-width: 400px) {
+  nav .uk-navbar-left {
+    width: 140px;
+    position: relative;
+    top: 5px;
   }
 }
