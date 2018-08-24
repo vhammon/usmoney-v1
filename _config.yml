@@ -166,6 +166,7 @@ defaults:
       path: "_posts/book"
     values:
       layout: chapter
+      end: false
       comments: true
       pin-it: true
       download: false

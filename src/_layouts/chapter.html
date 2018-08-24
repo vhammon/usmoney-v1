@@ -19,9 +19,8 @@ layout: default
 
     {% endif %}
   </h1>
-    <hr class="uk-divider-small uk-text-center" />
-    <p class="post-meta uk-margin-remove">
-      <i>by</i>
+    <p class="post-meta uk-margin-top uk-margin-remove-bottom">
+      by
       <span itemprop="author" itemscope itemtype="http://schema.org/Person">
       <span itemprop="name">
         {% if page.author %}
@@ -41,10 +40,18 @@ layout: default
       {% include file-downloads.html %}
       <hr class="uk-divider-small uk-text-center" />
       {% endif %}
+
+      {% include social/social-share.html %}
+        <hr class="uk-divider-small uk-text-center" />
   </header>
   <div class="post-content {% if page.categories contains "meditations" %}
   meditations {% else %} default
 {% endif %} uk-dropcap" itemprop="articleBody">
     {{ content }}
+    {% unless page.end %}
+  <a href="{{ site.url }}/book/chapter-{{ page.chapter-number }}/section-{{ page.chapter-number }}-{{ page.next-section }}">Next: Chapter {{ page.chapter-number }}.{{ page.next-section }}</a>
+    {% endunless %}
+    <hr class="uk-divider-small uk-text-center" />
+    {% include social/social-share.html %}
   </div>
 </article>
