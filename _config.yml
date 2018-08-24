@@ -73,7 +73,7 @@ lsi: false
 # limit_posts: 10
 
 # Permalink structure and pagination options
-permalink: :categories/:year/:month/:title/
+permalink: :categories/:title/
 
 # Markdown library and options
 markdown: kramdown
@@ -163,12 +163,12 @@ defaults:
       pin-it: true
   -
     scope:
-      path: ""      # empty string for all files
-      type: chapter-1, chapter-2   # limit to posts
+      path: "_posts/book"
     values:
-      layout: post
-      comments: false
+      layout: chapter
+      comments: true
       pin-it: true
+      download: false
 # Pagination Settings
 pagination:
   enabled: true

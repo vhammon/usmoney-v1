@@ -1,13 +1,10 @@
-{% if page.homepage %}
-{% include post-lists/recent-posts.html %}
-{% else %}
-{% include aside/content/bio.html %}
-{% endif %}
 {% if page.auto-page or page.is-post %}
+{% include breadcrumb.html %}
 <hr class="uk-divider-small uk-margin-remove-top uk-text-center" />
 {% include aside/content/list-of-categories.html %}
 {% endif %}
-    {{ site.tags | inspect }}
+<hr class="uk-divider-small uk-margin-top uk-text-center" />
+{% include aside/content/bio.html %}
 <div class="uk-text-center">
   <hr class="uk-divider-small uk-text-center" />
   <ul class="bottom-wrap uk-subnav uk-subnav-divider" uk-margin>

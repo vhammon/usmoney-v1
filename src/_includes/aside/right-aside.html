@@ -1,4 +1,5 @@
-<aside class="right-aside-top uk-width-2-5@xl uk-width-1-3@l uk-visible@xl content uk-flex uk-flex-between uk-flex-column">
+<aside class="right-aside-top uk-width-2-5@xl uk-width-1-3@l uk-visible@xl content uk-flex uk-flex-between uk-flex-column uk-margin-xlarge-bottom">
+  <div style="z-index:80;" uk-sticky="offset: 150;bottom: true; media:960; show-on-up: true; animation: uk-animation-slide-top;">
   <h1 class="visuallyhidden">Top Aside</h1>
   {% if page.right-aside-top == false %}
   <div></div>
@@ -7,4 +8,5 @@
       {% include aside/content/right-aside-default.html %}
   </div>
   {% endif %}
+</div>
 </aside>

@@ -1,13 +1,15 @@
 {% if page.auto-page %}
-{% include breadcrumb.html %}
-<!-- <p class="uk-h2 uk-text-center uk-margin-remove small">Filed Under</p> -->
+
+<p class="uk-h2 uk-text-center uk-margin-remove small">Filed Under</p>
 <p class="uk-h1 uk-text-center">{{ page.autopages.display_name }}</p>
 <hr class="uk-margin-bottom"/>
 {% endif %}
 <ul class="uk-list all-posts">
-  <h2 class="visuallyhidden">
+  {% if page.pagination.category %}
+  <h2>
 {{ page.pagination.category | capitalize }}
   </h2>
+  {% endif %}
   {% if page.title == "US Money" %}
   {% include post-lists/list-of-all-chapters.html %}
 {% elsif page.autopages.display_name contains "chapter" %}

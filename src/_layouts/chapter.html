@@ -1,13 +1,16 @@
 ---
 layout: default
 ---
-{% include breadcrumb.html %}
-{% assign image = page.image %}
+
 <article class="post content" itemid="{{ site.url }}{{ page.url }}" itemscope itemtype="http://schema.org/BlogPosting">
   <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
   <meta itemprop="description" content="{{ content | strip_html | truncatewords: 40 }}" />
   <header class="post-header uk-text-center">
-    {% include image.html image=image %}
+    {% if page.image %}
+{% assign image = page.image %}
+{% include image.html image=image %}
+    {% endif %}
+
     <h1 class="uk-h1 {% if page.image %} uk-margin-medium-top {% endif %} uk-margin-remove-bottom" itemprop="name headline">
 {% if page.tags contains "tarot" %}
     {{ page.title | truncate: 25, "" | markdownify | markdownify | replace: '<p>', '' | replace: '</p>', '' | widont }}
