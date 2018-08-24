@@ -17,13 +17,19 @@ company:
   name: US Money
   url: usmoney.us
   location: Lake Oswego, OR
-  logo:
+  logo: https://res.cloudinary.com/usmoney/image/upload/v1535135004/us-money-logo.png
+  logo-alt-text: US Money book title logo
   phone:
 
 touch-icon:
 fav-icon:
 
-cloudinary-name:
+cloudinary-name: usmoney
+
+algolia:
+  application_id: XTP19ZA183
+  index_name: us-money-index
+  search_only_api_key: 7a38139c7e666cf1c8c1a47bfbce324f
 
 analytics:
   google:
@@ -58,12 +64,6 @@ destination: .tmp/dist
 include: [_redirects, _headers]
 exclude: ['assets']
 
-algolia:
-  application_id:
-  index_name:
-  search_only_api_key:
-
-
 # Enables future posts (posts with dates in the future) and drafts
 future: false
 show_drafts: false
@@ -87,6 +87,7 @@ plugins:
   - jekyll-paginate-v2
   - jemoji
   - jekyll-typogrify
+  - jekyll-algolia
 # Pagination Settings
 pagination:
   enabled: true

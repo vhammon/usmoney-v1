@@ -1,0 +1,5 @@
+# netlify.toml
+# This file should be at the root of your project
+[build]
+  command = "gulp build --prod && jekyll algolia"
+  publish = "dist"
