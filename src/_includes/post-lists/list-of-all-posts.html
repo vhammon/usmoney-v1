@@ -2,10 +2,8 @@
     <a class="post-link uk-text-center" href="{{ post.url | relative_url }}">
       {% if post.image %}
       {% assign img = post.image %}
-      {% else %}
-      {% assign img = "" %}
-      {% endif %}
       {% include image.html image=img %}
+      {% endif %}
       <h3 class="uk-h1 uk-margin-medium-top uk-margin-remove-bottom">
         {% if post.tags contains "tarot" %}
             {{ post.title | truncate: 25, "" | markdownify | markdownify | replace: '<p>', '' | replace: '</p>', '' | widont }}

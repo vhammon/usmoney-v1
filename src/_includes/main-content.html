@@ -3,13 +3,7 @@
 {% elsif page.is-post %}
 {{ content }}
 {% elsif page.image %}
-<img class="
-{% if page.url contains "service" %}
-service-icon
-{% else %}
-featured-image
-{% endif %}
-uk-margin-medium-bottom" src="{{ page.image }}" alt="{{ page.image-alt }}" /> {% if page.display-title == true %}
+<img class="uk-margin-medium-bottom" src="{{ page.image }}" alt="{{ page.image-alt }}" /> {% if page.display-title == true %}
 <p class="uk-h1">
   {{ page.title }}
 </p>

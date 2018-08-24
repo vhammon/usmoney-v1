@@ -1,5 +1,5 @@
 <div class="uk-width-3-5@xl uk-width-1-1@l uk-width-1-1@m uk-width-1-1@s uk-margin-large-top">
-  {% if page.is-post %}
+  {% if page.is-post or page.categories contains "chapter" %}
   <div class="">
     {% include default-layout/page-lead.html %} {% include default-layout/related-posts.html %}
     <div class="{% if page.lead-id == nil and page.comments == false %} {% else %} uk-hidden@xl {% endif %}">

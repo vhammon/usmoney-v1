@@ -19,7 +19,7 @@
 {% endfor %}
 </ul>
 {% endif %}
-{% if page.comment-locked == false %}
+{% if page.comment-locked == nil or page.comment-locked == false %}
   {% include comments/comment-form.html %}
 {% endif %}
 </section>

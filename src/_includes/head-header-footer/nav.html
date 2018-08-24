@@ -31,17 +31,17 @@
   </li>
 {% endif %}
 {% endfor %}
+<li class="uk-navbar-item">
+  <a href="/search/"><i class="fas fa-search fa-xs"></i></a>
+</li>
             </ul>
             <a class="uk-hidden@m" href="{{ site.url }}">
               <img class="nav-logo-mini" src="{{ site.company.logo }}" alt="CB Telemann logotext" />
             </a>
           </div>
-          <div class="uk-navbar-right uk-navbar-right-short">
-          <div class="uk-navbar-item call  uk-visible@xl">
-
-              </div>
+          <!-- <div class="uk-navbar-right uk-visible@xl uk-navbar-right-short"> -->
               {% include head-header-footer/mobile-nav.html %}
-          </div>
+          <!-- </div> -->
         </nav>
       </div>
     </div>

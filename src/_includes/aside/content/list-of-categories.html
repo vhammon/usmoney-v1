@@ -17,6 +17,7 @@
   </h3>
   <ul class="uk-subnav categories uk-margin-remove" uk-margin>
     {% assign categories = site.tags | sort %}
+
 {% for category in categories %}
 {% if page.nav-text == "Journal" or page.categories contains: "journal" %}
   {% assign zz = category[1] | where:"categories","journal" | sort %}

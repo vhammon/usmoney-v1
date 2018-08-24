@@ -3,10 +3,11 @@
 {% else %}
 {% include aside/content/bio.html %}
 {% endif %}
-{% if page.nav-text == "Journal" or page.nav-text == "Stories" or page.nav-text == "Meditations" or page.auto-page or page.is-post %}
+{% if page.auto-page or page.is-post %}
 <hr class="uk-divider-small uk-margin-remove-top uk-text-center" />
 {% include aside/content/list-of-categories.html %}
 {% endif %}
+    {{ site.tags | inspect }}
 <div class="uk-text-center">
   <hr class="uk-divider-small uk-text-center" />
   <ul class="bottom-wrap uk-subnav uk-subnav-divider" uk-margin>

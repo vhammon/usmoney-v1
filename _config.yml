@@ -11,7 +11,7 @@ author:
   name: Virginia Hammon
   photo:
   url: https://usmoney.us/
-  bio:
+  bio: Hello I am Virginia! Of friendship on inhabiting diminution discovered as. Did friendly eat breeding building few nor. Object he barton no effect played valley afford.
 
 company:
   name: US Money
@@ -110,7 +110,36 @@ collections:
   leads:
     output: true
     permalink: /:categories/free-:title/
-
+  chapter-1:
+    output: true
+    permalink: /book/chapter-1/:title/
+  chapter-2:
+    output: true
+    permalink: /book/chapter-2/:title/
+  chapter-3:
+    output: true
+    permalink: /book/chapter-3/:title/
+  chapter-4:
+    output: true
+    permalink: /book/chapter-4/:title/
+  chapter-5:
+    output: true
+    permalink: /book/chapter-5/:title/
+  chapter-6:
+    output: true
+    permalink: /book/chapter-6/:title/
+  chapter-7:
+    output: true
+    permalink: /book/chapter-7/:title/
+  chapter-8:
+    output: true
+    permalink: /book/chapter-8/:title/
+  chapter-9:
+    output: true
+    permalink: /book/chapter-9/:title/
+  chapter-10:
+    output: true
+    permalink: /book/chapter-10/:title/
 defaults:
   -
     scope:
@@ -132,7 +161,14 @@ defaults:
       layout: default
       comments: false
       pin-it: true
-
+  -
+    scope:
+      path: ""      # empty string for all files
+      type: chapter-1, chapter-2   # limit to posts
+    values:
+      layout: post
+      comments: false
+      pin-it: true
 # Pagination Settings
 pagination:
   enabled: true
@@ -154,8 +190,8 @@ autopages:
   collections:
     layouts:
       - 'autopage.html'
-    title: 'Posts in collection :coll' # :coll is replaced by the collection name
-    permalink: '/collection/:coll'
+    title: 'US Money :coll' # :coll is replaced by the collection name
+    permalink: '/book/:coll'
 
   categories:
     layouts:

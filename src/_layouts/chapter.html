@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% include breadcrumb.html %}
 {% assign image = page.image %}
 <article class="post content" itemid="{{ site.url }}{{ page.url }}" itemscope itemtype="http://schema.org/BlogPosting">
   <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
@@ -27,19 +28,6 @@ layout: default
         {% endif %}
         </span>
       </span>
-      {% if page.translator %}
-      <br />
-      <span><i>translated by</i>
-      {{ page.translator | widont }}</span>
-      {% endif %}
-      {% if page.author %}
-      <br /><i>posted by</i>
-      {{ site.author.name | widont }}
-      <i>on</i>
-      {% else %}
-      <i>on</i>
-      {% endif %}
-      <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" | widont }}</time>
     </p>
     <p class="uk-text-center italic">
       {% assign words = page.content | number_of_words %}
