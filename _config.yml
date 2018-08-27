@@ -120,8 +120,14 @@ defaults:
       cta: "&ldquo;Thank you for being a patron of my site and I hope you enjoy the read.&rdquo;"
       comments: true
       comment-locked: false
+      left-aside: true
+      right-aside-top: true
+      right-aside-bottom: true
+      bottom-cta: true
+      pin-it: true
       dropcap: true
       download: true
+      download-file:
   -
     scope:
       path: ""      # empty string for all files
@@ -129,7 +135,14 @@ defaults:
     values:
       layout: default
       comments: false
+      comment-locked: true
+      left-aside: true
+      right-aside-top: true
+      right-aside-bottom: true
+      bottom-cta: true
       pin-it: true
+      download: false
+      download-file:
   -
     scope:
       path: "_posts/book"
@@ -139,8 +152,14 @@ defaults:
       is-post: true
       comments: true
       comment-locked: false
+      left-aside: true
+      right-aside-top: true
+      right-aside-bottom: true
+      bottom-cta: true
       pin-it: true
       download: false
+      download-file:
+
 # Pagination Settings
 pagination:
   enabled: true

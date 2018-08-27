@@ -24,9 +24,13 @@ collections:
       - {label: "Next Section Number", name: "next-section", widget: "string", required: true}
       - {label: "Publish Date/Time", name: "date", widget: "datetime", default: ""}
       - {label: "Allow Comments", name: "comments", widget: "boolean", default: false, required: false}
+      - {label: "Commenting is Locked (no new comments allowed)", name: "comments-locked", widget: "boolean", default: false, required: false}
       - {label: "Include Left Aside", name: "left-aside", widget: "boolean", default: true, required: false}
-      - {label: "Include First Right Aside", name: "right-aside-top", widget: "boolean", default: true, required: false}
-      - {label: "Include Second Right Aside (CTA)", name: "right-aside-bottom", widget: "boolean", default: true, required: false}
+      - {label: "Include Top Right Aside", name: "right-aside-top", widget: "boolean", default: true, required: false}
+      - {label: "Include Bottom Right Aside", name: "right-aside-bottom", widget: "boolean", default: true, required: false}
+      - {label: "Include Bottom CTA (Section for comments, etc.)", name: "bottom-cta", widget: "boolean", default: true, required: false}
+      - {label: "Allow Pinterest Pinning on Image", name: "pin-it", widget: "boolean", default: true, required: false}
+      - {label: "Include Download Links", name: "download", widget: "boolean", default: false, required: false}
       - {label: "Featured Image", name: "image", widget: "string", required: false}
       - {label: "Featured Image Alt Text", name: "image-alt", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
