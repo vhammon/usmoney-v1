@@ -98,8 +98,6 @@ collections:
   - name: "defaults"
     label: "Default Content and Settings"
     format: yml
-    editor:
-      preview: false
     files:
       - label: "Default Content and Settings"
         name: "defaults"
