@@ -50,18 +50,18 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Publish Date/Time", name: "date", widget: "datetime", default: ""}
-          - {label: "Allow Comments", name: "comments", widget: "boolean", default: false, required: false}
-          - {label: "Commenting is Locked (no new comments allowed)", name: "comments-locked", widget: "boolean", default: false, required: false}
-          - {label: "Include Left Aside", name: "left-aside", widget: "boolean", default: true, required: false}
-          - {label: "Include Top Right Aside", name: "right-aside-top", widget: "boolean", default: true, required: false}
-          - {label: "Include Bottom Right Aside", name: "right-aside-bottom", widget: "boolean", default: true, required: false}
-          - {label: "Include Bottom CTA (Section for comments, etc.)", name: "bottom-cta", widget: "boolean", default: true, required: false}
-          - {label: "Allow Pinterest Pinning on Image", name: "pin-it", widget: "boolean", default: true, required: false}
-          - {label: "Include Download Link", name: "download", widget: "boolean", default: false, required: false}
-          - {label: "Download File URL", name: "download-file", widget: "string", required: false}
-          - {label: "Featured Image", name: "image", widget: "string", required: false}
-          - {label: "Featured Image Alt Text", name: "image-alt", widget: "string", required: false}
-          - {label: "Share Image (resize for Facebook/Twitter Cards)", name: "share-image", widget: "string", required: false}
+      - {label: "Allow Comments", name: "comments", widget: "boolean", default: false, required: false}
+      - {label: "Commenting is Locked (no new comments allowed)", name: "comments-locked", widget: "boolean", default: false, required: false}
+      - {label: "Include Left Aside", name: "left-aside", widget: "boolean", default: true, required: false}
+      - {label: "Include Top Right Aside", name: "right-aside-top", widget: "boolean", default: true, required: false}
+      - {label: "Include Bottom Right Aside", name: "right-aside-bottom", widget: "boolean", default: true, required: false}
+      - {label: "Include Bottom CTA (Section for comments, etc.)", name: "bottom-cta", widget: "boolean", default: true, required: false}
+      - {label: "Allow Pinterest Pinning on Image", name: "pin-it", widget: "boolean", default: true, required: false}
+      - {label: "Include Download Link", name: "download", widget: "boolean", default: false, required: false}
+      - {label: "Download File URL", name: "download-file", widget: "string", required: false}
+      - {label: "Featured Image", name: "image", widget: "string", required: false}
+      - {label: "Featured Image Alt Text", name: "image-alt", widget: "string", required: false}
+      - {label: "Share Image (resize for Facebook/Twitter Cards)", name: "share-image", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: categories, widget: list, default: stories, required: false}
       - {label: "Tags", name: tags, widget: list, required: false}
