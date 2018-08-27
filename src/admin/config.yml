@@ -98,11 +98,13 @@ collections:
   - name: "defaults"
     label: "Default Content and Settings"
     format: yml
+    extension: yml
     files:
-      - label: "Default Content and Settings"
-        name: "defaults"
-        file: "_config.yml"
+      - label: "Default Content and Settings File"
+        name: "defaults-file"
+        file: "./_config.yml"
         format: yml
+        extension: yml
         fields:
           - name: author
             label: Author
