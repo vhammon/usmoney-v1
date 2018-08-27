@@ -8,8 +8,8 @@ public_folder: "assets/images"
 display_url: https://usmoney.netlify.com
 
 collections:
-  - name: "book-sections"
-    label: "US Money Sections"
+  - label: "US Money Sections"
+    name: "book-sections"
     folder: "src/my_collections/_posts/book"
     sort: "section-number:desc"
     create: true
@@ -41,8 +41,8 @@ collections:
       - {label: "Tags", name: tags, widget: list, required: false}
     meta:
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
-  - name: "post"
-    label: "Blog Posts"
+  - label: "Blog Posts"
+    name: "post"
     folder: "src/my_collections/_posts/blog"
     sort: "date:desc"
     create: true
@@ -68,8 +68,8 @@ collections:
       - {label: "Tags", name: tags, widget: list, required: false}
     meta:
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
-  - name: "pages"
-    label: "Page"
+  - label: "Page"
+    name: "pages"
     folder: "src/pages"
     sort: "date:desc"
     create: true
@@ -80,8 +80,8 @@ collections:
       - {label: "Featured Image", name: "image", widget: "string", required: false}
       - {label: "Permalink ( /page-url-name/ )", name: "permalink", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "Comments"
-    label: "Comments"
+  - label: "Comments"
+    name: "Comments"
     folder: "src/my_collections/_comments"
     sort: "date:desc"
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
@@ -95,16 +95,14 @@ collections:
       - {label: "Approved", name: "approved", widget: "boolean"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Publish Date", name: "date", widget: "hidden"}
-  - name: "defaults"
-    label: "Default Content and Settings"
+  - label: "Default Content and Settings"
+    name: "defaults"
     format: yml
     extension: yml
     files:
       - label: "Default Content and Settings File"
         name: "defaults-file"
-        file: "_data/_config.yml"
-        format: yml
-        extension: yml
+        file: "./_config.yml"
         fields:
           - name: author
             label: Author
@@ -142,14 +140,14 @@ collections:
             fields:
               - {label: "Site Key", name: siteKey, widget: string}
               - {label: Secret, name: secret, widget: string}
-          - {label: "Touch Icon", name: "touch-icon", widget: "string"}
-          - {label: "Fav Icon", name: "fav-icon", widget: "string"}
-          - {label: "Lead Google Post Script", name: "lead-post-script", widget: "string"}
-          - {label: "Cloudinary Name", name: "cloudinary-name", widget: "string"}
-          - {label: "Default Right-Aside CTA", name: "default-right-aside-cta", widget: "text"}
-          - {label: "Privacy Policy (Short Version)", name: "privacy-policy-comment", widget: "text"}
-          - {label: "Comment Policy", name: "comment-policy", widget: "text"}
-          - {label: "Comment Policy", name: "comment-policy", widget: "text"}
+              - {label: "Touch Icon", name: "touch-icon", widget: "string"}
+              - {label: "Fav Icon", name: "fav-icon", widget: "string"}
+              - {label: "Lead Google Post Script", name: "lead-post-script", widget: "string"}
+              - {label: "Cloudinary Name", name: "cloudinary-name", widget: "string"}
+              - {label: "Default Right-Aside CTA", name: "default-right-aside-cta", widget: "text"}
+              - {label: "Privacy Policy (Short Version)", name: "privacy-policy-comment", widget: "text"}
+              - {label: "Comment Policy", name: "comment-policy", widget: "text"}
+              - {label: "Comment Policy", name: "comment-policy", widget: "text"}
   - label: "Home Page"
     name: "Home-Page"
     files:
@@ -162,8 +160,8 @@ collections:
           - {label: "Homepage", name: "homepage", widget: "hidden", default: "true"}
 
           - {label: "Body", name: "body", widget: "markdown"}
-  - name: "pages"
-    label: "Pages"
+  - label: "Pages"
+    name: "pages"
     folder: "src/pages"
     sort: "date:desc"
     create: true
