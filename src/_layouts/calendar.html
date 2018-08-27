@@ -10,7 +10,7 @@ layout: default
 <div class="uk-card uk-card-default uk-margin-medium-bottom">
   <div class="uk-inline">
     <div class="uk-transition-toggle">
-      {% include image.html %}
+      {% include content-blocks/main/image.html %}
       <div class="uk-transition-fade uk-position-top-left uk-margin-medium-top uk-margin-medium-left">
         <a href="https://www.pinterest.com/pin/create/button/?url={{ site.url }}{{ calendar.url }}&media=https://res.cloudinary.com/{{ site.cloudinary-name }}/image/upload/c_limit,f_auto,q_auto:best,w_800/{{ image }}" class="uk-icon-button uk-button-primary uk-margin-small-right pin" uk-icon="icon: pinterest" data-pin-do="buttonPin" data-pin-save="true" data-pin-media="https://res.cloudinary.com/{{ site.cloudinary-name }}/image/upload/c_limit,f_auto,q_auto:best,w_800/{{ image }}"
           data-pin-description="Free {{ page.title }} by C.B. Telemann" data-pin-id="{{ site.url }}{{ calendar.url }}" data-pin-custom="true"></a>
@@ -68,4 +68,4 @@ layout: default
 
 
 <hr class="uk-hidden@s" />
-{% include lead/lead-box.html %}
+{% include content-blocks/lead/lead-box.html %}

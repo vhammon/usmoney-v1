@@ -8,7 +8,7 @@
   {% seo %}
 
   <meta property="og:type" content="article">
-  <meta property="og:image" content="https://res.cloudinary.com/{{ site.cloudinary-name }}/image/upload/c_limit,f_auto,q_auto:best,w_800/{{ page.share-image }}" /> {% include head-header-footer/fonts.html %}
+  <meta property="og:image" content="https://res.cloudinary.com/{{ site.cloudinary-name }}/image/upload/c_limit,f_auto,q_auto:best,w_800/{{ page.share-image }}" /> {% include content-blocks/head-header-footer/fonts.html %}
   <!-- UIkit CSS -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-beta.38/css/uikit.min.css" />
 
@@ -21,5 +21,5 @@
   <link rel="shortcut icon" href="{{ site.fav-icon }}">
 
   <!-- RSS -->
-  <link rel="alternate" type="application/atom+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml" /> {% include head-header-footer/header-scripts.html %}
+  <link rel="alternate" type="application/atom+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml" /> {% include content-blocks/head-header-footer/header-scripts.html %}
 </head>

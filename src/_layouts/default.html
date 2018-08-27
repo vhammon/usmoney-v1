@@ -8,21 +8,23 @@
     <div class="barba-container">
       <div class="wrap">
         <a id="top"></a>
-        {% include head-header-footer/nav.html %}
+        {% include content-blocks/head-header-footer/nav.html %}
         <div id="main" class="uk-container site">
-          {% include page-title.html %}
+          {% include content-blocks/main/page-title.html %}
           <div class="uk-child-width-expand@s uk-flex site-content uk-grid-collapse" uk-grid>
             <div>
               <div class="uk-grid-large" uk-grid>
-                {% include default-layout/main.html %} {% include default-layout/right-aside.html %}
-                {% include default-layout/bottom-main-and-bottom-right-aside.html %}
+                {% include content-blocks/main/main.html %}
+                {% include content-blocks/aside/top-right-aside.html %}
+                {% include content-blocks/cta/cta.html %}
+                {% include content-blocks/aside/bottom-right-aside.html %}
               </div>
             </div>
-            {% include default-layout/left-aside.html %}
+            {% include content-blocks/aside/left-aside.html %}
 
           </div>
           {% include footer.html %}
-          {% include head-header-footer/footer-scripts.html %}
+          {% include content-blocks/head-header-footer/footer-scripts.html %}
 
           <!-- JS -->
           <!-- inject:js -->

@@ -1,0 +1,49 @@
+<div class="nav-wrap uk-margin-large-bottom" uk-sticky="show-on-up: true; animation: uk-animation-slide-top;">
+  <div class="uk-container nav">
+    <div class="uk-grid uk-grid-small">
+      <div class="uk-width-1-6@xl uk-width-1-3@l uk-width-1-3@m uk-visible@m uk-text-right">
+        <div class="uk-navbar-item logo-wrap">
+          <a class="nav-logo" href="/"><img src="{{ site.company.logo }}" alt="{{ site.company.logo-alt-text }}" />
+          </a>
+        </div>
+
+      </div>
+      <div class="uk-width-4-5@xl uk-width-2-3@l uk-width-2-3@m uk-width-1-1">
+        <nav class="uk-navbar-container uk-flex-center uk-flex-between@m uk-margin" uk-navbar>
+          <h1 class="visuallyhidden">Main Navigation</h1>
+          <div class="uk-navbar-left">
+            <ul class="uk-navbar-nav uk-visible@m">
+              {% for nav in site.data.nav %}
+{% if nav.subcategories != null %}
+  <li class="uk-navbar-item">
+    <a href="{{ nav.href }}">{{ nav.title }}&ensp;<i class="fas fa-angle-down"></i></a>
+    <div class="uk-navbar-dropdown">
+        <ul class="uk-nav uk-navbar-dropdown-nav">
+    {% for subcategory in nav.subcategories %}
+      <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+    {% endfor %}
+    </ul>
+  </div>
+  </li>
+{% else %}
+  <li class="uk-navbar-item">
+    <a href="{{ nav.href }}">{{ nav.title }}</a>
+  </li>
+{% endif %}
+{% endfor %}
+<li class="uk-navbar-item">
+  <a href="/search/"><i class="fas fa-search fa-xs"></i></a>
+</li>
+            </ul>
+            <a class="uk-hidden@m" href="{{ site.url }}">
+              <img class="nav-logo-mini" src="{{ site.company.logo }}" alt="CB Telemann logotext" />
+            </a>
+          </div>
+          <!-- <div class="uk-navbar-right uk-visible@xl uk-navbar-right-short"> -->
+              {% include content-blocks/head-header-footer/mobile-nav.html %}
+          <!-- </div> -->
+        </nav>
+      </div>
+    </div>
+  </div>
+</div>

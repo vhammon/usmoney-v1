@@ -6,7 +6,7 @@ layout: default
   <meta itemprop="keywords" content="{{ page.tags | join: ',' }}" />
   <meta itemprop="description" content="{{ content | strip_html | truncatewords: 40 }}" />
   <header class="post-header uk-text-center">
-    {% include image.html image=image %}
+    {% include content-blocks/main/image.html image=image %}
     <h1 class="uk-h1 {% if page.image %} uk-margin-medium-top {% endif %} uk-margin-remove-bottom" itemprop="name headline">
 {% if page.tags contains "tarot" %}
     {{ page.title | truncate: 25, "" | markdownify | markdownify | replace: '<p>', '' | replace: '</p>', '' | widont }}

@@ -8,7 +8,7 @@ layout: default
   <header class="post-header uk-text-center">
     {% if page.image %}
 {% assign image = page.image %}
-{% include image.html image=image %}
+{% include content-blocks/main/image.html image=image %}
     {% endif %}
 
     <h1 class="uk-h1 {% if page.image %} uk-margin-medium-top {% endif %} uk-margin-remove-bottom" itemprop="name headline">
@@ -41,7 +41,7 @@ layout: default
       <hr class="uk-divider-small uk-text-center" />
       {% endif %}
 
-      {% include social/social-share.html %}
+      {% include content-blocks/main/social/social-share.html %}
         <hr class="uk-divider-small uk-text-center" />
   </header>
   <div class="post-content {% if page.categories contains "meditations" %}
@@ -52,6 +52,6 @@ layout: default
   <a href="{{ site.url }}/book/chapter-{{ page.chapter-number }}/section-{{ page.chapter-number }}-{{ page.next-section }}">Next: Chapter {{ page.chapter-number }}.{{ page.next-section }}</a>
     {% endunless %}
     <hr class="uk-divider-small uk-text-center" />
-    {% include social/social-share.html %}
+    {% include content-blocks/main/social/social-share.html %}
   </div>
 </article>

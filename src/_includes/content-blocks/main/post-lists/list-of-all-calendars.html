@@ -1,0 +1,23 @@
+<li class="uk-margin-remove-top">
+{% assign image = post.images[0] %}
+{% assign alt = post.imageAltTags[0] %}
+
+        <a href="{{ post.url | relative_url }}">
+        {% include content-blocks/main/image.html image=image %}
+            </a>
+    <a href="{{ post.url | relative_url }}">
+    <h3 class="uk-h3 uk-text-left uk-margin-medium-top uk-margin-remove-bottom">Free {{ post.title | widont }}
+    </h3>
+    <p class="uk-margin-top uk-text-left">
+      Week starts on {{ post.start | capitalize }}
+      {% assign start = post.start | downcase %}
+      {% if start == "sunday" %}
+      :sun_with_face:
+      {% else %}
+      :first_quarter_moon_with_face:
+      {% endif %}
+    </p>
+  </a>
+  {% if forloop.last == true %} {% else %}
+  <hr /> {% endif %}
+</li>

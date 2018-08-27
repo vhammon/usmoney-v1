@@ -1,0 +1,6 @@
+{% unless page.cta == "" %}
+{% include content-blocks/lead/page-cta.html cta=page.cta %}
+{% endunless %}
+{% if page.lead-id %}
+{% include content-blocks/lead/lead-box.html %}
+{% endif %}

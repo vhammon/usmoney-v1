@@ -136,7 +136,9 @@ defaults:
     values:
       layout: chapter
       end: false
+      is-post: true
       comments: true
+      comment-locked: false
       pin-it: true
       download: false
 # Pagination Settings
