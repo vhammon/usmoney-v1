@@ -40,9 +40,10 @@ layout: default
       {% include file-downloads.html %}
       <hr class="uk-divider-small uk-text-center" />
       {% endif %}
-
+      {% if page.share-links %}
       {% include content-blocks/main/social/social-share.html %}
         <hr class="uk-divider-small uk-text-center" />
+        {% endif %}
   </header>
   <div class="post-content {% if page.categories contains "meditations" %}
   meditations {% else %} default

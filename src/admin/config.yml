@@ -24,15 +24,16 @@ collections:
       - {label: "Section Number", name: "sectino-number", widget: "string", required: true}
       - {label: "Next Section Number", name: "next-section", widget: "string", required: true}
       - {label: "Publish Date/Time", name: "date", widget: "datetime", default: ""}
+      - {label: "Add Social Share Links", name: "share-links", widget: "boolean", default: true, required: false}
       - {label: "Allow Comments", name: "comments", widget: "boolean", default: false, required: false}
       - {label: "Commenting is Locked (no new comments allowed)", name: "comments-locked", widget: "boolean", default: false, required: false}
       - {label: "Include Left Aside", name: "left-aside", widget: "boolean", default: true, required: false}
       - {label: "Include Top Right Aside", name: "right-aside-top", widget: "boolean", default: true, required: false}
       - {label: "Include Bottom Right Aside", name: "right-aside-bottom", widget: "boolean", default: true, required: false}
       - {label: "Include Bottom CTA (Section for comments, etc.)", name: "bottom-cta", widget: "boolean", default: true, required: false}
-      - {label: "Allow Pinterest Pinning on Image", name: "pin-it", widget: "boolean", default: true, required: false}
       - {label: "Include Download Link", name: "download", widget: "boolean", default: false, required: false}
       - {label: "Download File URL", name: "download-file", widget: "string", required: false}
+      - {label: "Allow Pinterest Pinning on Image", name: "pin-it", widget: "boolean", default: true, required: false}
       - {label: "Featured Image", name: "image", widget: "string", required: false}
       - {label: "Featured Image Alt Text", name: "image-alt", widget: "string", required: false}
       - {label: "Share Image (resize for Facebook/Twitter Cards)", name: "share-image", widget: "string", required: false}
@@ -51,6 +52,7 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Publish Date/Time", name: "date", widget: "datetime", default: ""}
+      - {label: "Add Social Share Links", name: "share-links", widget: "boolean", default: true, required: false}
       - {label: "Allow Comments", name: "comments", widget: "boolean", default: false, required: false}
       - {label: "Commenting is Locked (no new comments allowed)", name: "comments-locked", widget: "boolean", default: false, required: false}
       - {label: "Include Left Aside", name: "left-aside", widget: "boolean", default: true, required: false}
@@ -68,7 +70,7 @@ collections:
       - {label: "Tags", name: tags, widget: list, required: false}
     meta:
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
-  - label: "Page"
+  - label: "Pages"
     name: "pages"
     folder: "src/pages"
     sort: "date:desc"
@@ -77,9 +79,28 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Display Title", name: "display-title", widget: "boolean", default: true, required: false}
       - {label: "Featured Image", name: "image", widget: "string", required: false}
-      - {label: "Permalink ( /page-url-name/ )", name: "permalink", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Permalink ( /page-url-name/ )", name: "permalink", widget: "string", required: false}
+      - {label: "Add Social Share Links", name: "share-links", widget: "boolean", default: false, required: false}
+      - {label: "Allow Comments", name: "comments", widget: "boolean", default: false, required: false}
+      - {label: "Include Left Aside", name: "left-aside", widget: "boolean", default: true, required: false}
+      - {label: "Include First Right Aside", name: "right-aside-top", widget: "boolean", default: true, required: false}
+      - {label: "Allow Pins", name: "pin-it", widget: "boolean", default: true, required: false}
+      - {label: "Include Second Right Aside (CTA)", name: "right-aside-bottom", widget: "boolean", default: true, required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+  - label: "Homepage"
+    name: "Home-Page"
+    files:
+      - label: "Home"
+        name: "home"
+        file: "src/index.md"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Display Title", name: "display-title", widget: "boolean", default: true}
+          - {label: "Homepage", name: "homepage", widget: "hidden", default: "true"}
+
+          - {label: "Body", name: "body", widget: "markdown"}
   - label: "Comments"
     name: "Comments"
     folder: "src/my_collections/_comments"
@@ -148,33 +169,3 @@ collections:
               - {label: "Privacy Policy (Short Version)", name: "privacy-policy-comment", widget: "text"}
               - {label: "Comment Policy", name: "comment-policy", widget: "text"}
               - {label: "Comment Policy", name: "comment-policy", widget: "text"}
-  - label: "Home Page"
-    name: "Home-Page"
-    files:
-      - label: "Home"
-        name: "home"
-        file: "src/index.md"
-        fields:
-          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
-          - {label: "Display Title", name: "display-title", widget: "boolean", default: true}
-          - {label: "Homepage", name: "homepage", widget: "hidden", default: "true"}
-
-          - {label: "Body", name: "body", widget: "markdown"}
-  - label: "Pages"
-    name: "pages"
-    folder: "src/pages"
-    sort: "date:desc"
-    create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
-    fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Display Title", name: "display-title", widget: "boolean", default: true, required: false}
-      - {label: "Featured Image", name: "image", widget: "string", required: false}
-      - {label: "Permalink ( /page-url-name/ )", name: "permalink", widget: "string", required: false}
-      - {label: "Allow Comments", name: "comments", widget: "boolean", default: false, required: false}
-      - {label: "Include Left Aside", name: "left-aside", widget: "boolean", default: true, required: false}
-      - {label: "Include First Right Aside", name: "right-aside-top", widget: "boolean", default: true, required: false}
-      - {label: "Allow Pins", name: "pin-it", widget: "boolean", default: true, required: false}
-      - {label: "Include Second Right Aside (CTA)", name: "right-aside-bottom", widget: "boolean", default: true, required: false}
-      - {label: "Body", name: "body", widget: "markdown", required: false}

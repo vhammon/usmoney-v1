@@ -125,9 +125,11 @@ defaults:
       right-aside-bottom: true
       bottom-cta: true
       pin-it: true
+      share-links: true
       dropcap: true
       download: true
       download-file:
+      lead-id:
   -
     scope:
       path: ""      # empty string for all files
@@ -143,6 +145,7 @@ defaults:
       pin-it: true
       download: false
       download-file:
+      lead-id:
   -
     scope:
       path: "_posts/book"
@@ -150,16 +153,17 @@ defaults:
       layout: chapter
       end: false
       is-post: true
-      comments: true
+      comments: false
       comment-locked: false
       left-aside: true
       right-aside-top: true
       right-aside-bottom: true
       bottom-cta: true
       pin-it: true
+      share-links: true
       download: false
       download-file:
-
+      lead-id:
 # Pagination Settings
 pagination:
   enabled: true

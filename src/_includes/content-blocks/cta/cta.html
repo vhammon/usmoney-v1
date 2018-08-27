@@ -1,11 +1,13 @@
 <div class="uk-width-3-5@xl uk-width-1-1@l uk-width-1-1@m uk-width-1-1@s uk-margin-large-top">
   {% if page.is-post or page.categories contains "chapter" %}
   <div>
-    {% include content-blocks/cta/page-lead.html %} {% include content-blocks/cta/related-posts.html %}
+    {% include content-blocks/cta/page-lead.html %} 
+    {% include content-blocks/cta/related-posts.html %}
     <div class="{% if page.lead-id == nil and page.comments == false %} {% else %} uk-hidden@xl {% endif %}">
       <hr class="uk-divider-small uk-text-center" /> {% include content-blocks/aside/cat-and-tags/list-of-categories.html %}
     </div>
-    {% if page.comments == true %} {% include content-blocks/cta/comments/list-of-comments.html %} {% endif %}
+    {% if page.comments == true %}
+    {% include content-blocks/cta/comments/list-of-comments.html %} {% endif %}
     <hr class="uk-margin-top uk-margin-large-bottom uk-divider-small uk-text-center" />
   </div>
   {% endif %}
