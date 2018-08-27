@@ -102,7 +102,7 @@ collections:
     files:
       - label: "Default Content and Settings File"
         name: "defaults-file"
-        file: "./_config.yml"
+        file: "_data/_config.yml"
         format: yml
         extension: yml
         fields:
