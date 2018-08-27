@@ -11,14 +11,15 @@ collections:
   - name: "book-sections"
     label: "US Money Sections"
     folder: "src/my_collections/_posts/book"
-    editor:
-      preview: false
     sort: "section-number:desc"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1", required: true}
+      - {label: "Focus Keyword", name: "focus-keyword", widget: "string", required: false}
+      - {label: "Meta Description", name: "meta-description", widget: "string", required: false}
+      - {label: "Section Number", name: "section-number", widget: "string", required: true}
       - {label: "Chapter Number", name: "chapter-number", widget: "string", required: true}
       - {label: "Section Number", name: "sectino-number", widget: "string", required: true}
       - {label: "Next Section Number", name: "next-section", widget: "string", required: true}
