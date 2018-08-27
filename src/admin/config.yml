@@ -4,8 +4,6 @@ backend:
 
 media_folder: "src/assets/images"
 public_folder: "assets/images"
-editor:
-     preview: false
 
 display_url: https://usmoney.netlify.com
 
@@ -13,6 +11,8 @@ collections:
   - name: "book-sections"
     label: "US Money Sections"
     folder: "src/my_collections/_posts/book"
+    editor:
+      preview: false
     sort: "section-number:desc"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
@@ -30,9 +30,11 @@ collections:
       - {label: "Include Bottom Right Aside", name: "right-aside-bottom", widget: "boolean", default: true, required: false}
       - {label: "Include Bottom CTA (Section for comments, etc.)", name: "bottom-cta", widget: "boolean", default: true, required: false}
       - {label: "Allow Pinterest Pinning on Image", name: "pin-it", widget: "boolean", default: true, required: false}
-      - {label: "Include Download Links", name: "download", widget: "boolean", default: false, required: false}
+      - {label: "Include Download Link", name: "download", widget: "boolean", default: false, required: false}
+      - {label: "Download File URL", name: "download-file", widget: "string", required: false}
       - {label: "Featured Image", name: "image", widget: "string", required: false}
       - {label: "Featured Image Alt Text", name: "image-alt", widget: "string", required: false}
+      - {label: "Share Image (resize for Facebook/Twitter Cards)", name: "share-image", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: categories, widget: list, default: stories, required: false}
       - {label: "Tags", name: tags, widget: list, required: false}
@@ -48,15 +50,21 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Publish Date/Time", name: "date", widget: "datetime", default: ""}
-      - {label: "Allow Comments", name: "comments", widget: "boolean", default: false, required: false}
-      - {label: "Include Left Aside", name: "left-aside", widget: "boolean", default: true}
-      - {label: "Include First Right Aside", name: "right-aside-top", widget: "boolean", default: true}
-      - {label: "Include Second Right Aside (CTA)", name: "right-aside-bottom", widget: "boolean", default: true}
-      - {label: "Featured Image", name: "image", widget: "string", required: false}
-      - {label: "Featured Image Alt Text", name: "image-alt", widget: "string", required: false}
+          - {label: "Allow Comments", name: "comments", widget: "boolean", default: false, required: false}
+          - {label: "Commenting is Locked (no new comments allowed)", name: "comments-locked", widget: "boolean", default: false, required: false}
+          - {label: "Include Left Aside", name: "left-aside", widget: "boolean", default: true, required: false}
+          - {label: "Include Top Right Aside", name: "right-aside-top", widget: "boolean", default: true, required: false}
+          - {label: "Include Bottom Right Aside", name: "right-aside-bottom", widget: "boolean", default: true, required: false}
+          - {label: "Include Bottom CTA (Section for comments, etc.)", name: "bottom-cta", widget: "boolean", default: true, required: false}
+          - {label: "Allow Pinterest Pinning on Image", name: "pin-it", widget: "boolean", default: true, required: false}
+          - {label: "Include Download Link", name: "download", widget: "boolean", default: false, required: false}
+          - {label: "Download File URL", name: "download-file", widget: "string", required: false}
+          - {label: "Featured Image", name: "image", widget: "string", required: false}
+          - {label: "Featured Image Alt Text", name: "image-alt", widget: "string", required: false}
+          - {label: "Share Image (resize for Facebook/Twitter Cards)", name: "share-image", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: categories, widget: list, default: stories, required: false}
       - {label: "Tags", name: tags, widget: list, required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
     meta:
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
   - name: "pages"
