@@ -1,7 +1,10 @@
 .uk-navbar-nav>li>a {
-  font-family: $sans-serif;
+  // font-family: $sans-serif;
+  // font-weight: $bold-weight;
   text-transform: none;
   color: $black;
+  font-family: $condensed-sans-serif;
+  font-weight: $condensed-weight;
 }
 
 .nav-wrap {

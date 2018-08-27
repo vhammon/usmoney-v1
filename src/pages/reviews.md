@@ -1,4 +1,4 @@
 ---
-title: Review
-permalink: /review/
+title: Reviews
+permalink: /reviews/
 ---
