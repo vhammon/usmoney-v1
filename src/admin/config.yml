@@ -97,6 +97,9 @@ collections:
       - {label: "Publish Date", name: "date", widget: "hidden"}
   - name: "defaults"
     label: "Default Content and Settings"
+    format: yaml
+    editor:
+      preview: false
     files:
       - label: "Default Content and Settings"
         name: "defaults"
