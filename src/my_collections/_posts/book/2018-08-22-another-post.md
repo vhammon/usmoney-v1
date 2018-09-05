@@ -3,6 +3,7 @@ layout: chapter
 title: Chapter 2.1 The Title
 date: 2018-08-02T07:00:00.000Z
 chapter-number: 2
+discourse-page:
 categories:
   - book
   - chapter-2

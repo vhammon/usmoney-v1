@@ -23,6 +23,7 @@ collections:
       - {label: "Chapter Number", name: "chapter-number", widget: "string", required: true}
       - {label: "Section Number", name: "sectino-number", widget: "string", required: true}
       - {label: "Next Section Number", name: "next-section", widget: "string", required: true}
+      - {label: "Discourse Page", name: "discourse-page", widget: "string", required: false}
       - {label: "Publish Date/Time", name: "date", widget: "datetime", default: ""}
       - {label: "Add Social Share Links", name: "share-links", widget: "boolean", default: true, required: false}
       - {label: "Allow Comments", name: "comments", widget: "boolean", default: false, required: false}

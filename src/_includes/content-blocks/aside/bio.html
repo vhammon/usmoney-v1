@@ -1,5 +1,5 @@
 <section class="clearfix">
-  <h3 class="visuallyhidden">Meet {{ site.author.name }}</h3>
+  <h3 class="uk-h4 uk-text-center"><i class="far fa-user-circle"></i> Meet The Author</h3>
 <img class="uk-border-circle headshot" src="{{ site.author.photo }}" alt="{{ site.author.name }} headshot">
 <p class="bio{% if include.large == true %}large-bio-text{% endif %}">{{ site.author.bio | markdownify | remove: '<p>' | remove: '</p>' }}</p>
 </section>

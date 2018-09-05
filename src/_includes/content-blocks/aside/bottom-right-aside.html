@@ -1,6 +1,6 @@
 {% unless page.right-aside-bottom == false %}
 {% if page.lead-id == nil and page.comments == false %} {% else %}
-<aside class="uk-width-2-5@xl uk-width-1-3@l uk-margin-xlarge-top uk-visible@xl content {% if page.lead-id == nil and page.comments == false %} uk-hidden {% endif %}">
+<aside class="uk-width-2-5@l uk-margin-xlarge-top uk-visible@l content {% if page.lead-id == nil and page.comments == false %} uk-hidden {% endif %}">
   <div style="z-index:80;" uk-sticky="bottom: true; offset: 150;">
     <h1 class="visuallyhidden">Bottom Aside</h1> {% unless page.right-aside-bottom == false %}
     <div class="paper" uk-scrollspy="cls:uk-animation-slide-right; delay:500">

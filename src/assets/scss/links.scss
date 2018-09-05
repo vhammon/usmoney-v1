@@ -1,5 +1,12 @@
 // /* Links: replicate underline that clears descenders */
 
+.uk-breadcrumb>:nth-child(n+2):not(.uk-first-column)::before {
+  margin: 0 5px;
+}
+// .uk-breadcrumb>*>* {
+//   font-size: 1em;
+// }
+
 .uk-accordion-title:hover {
   cursor: pointer;
 }

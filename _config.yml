@@ -146,6 +146,7 @@ defaults:
       download: false
       download-file:
       lead-id:
+      cta: "&ldquo;Thank you for being a patron of my site and I hope you enjoy the read.&rdquo;"
   -
     scope:
       path: "_posts/book"
