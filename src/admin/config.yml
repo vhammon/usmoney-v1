@@ -5,6 +5,11 @@ backend:
 media_folder: "src/assets/images"
 public_folder: "assets/images"
 
+media_library:
+  name: uploadcare
+  config:
+    publickey: 7e16f30c88d308040803
+
 display_url: https://usmoney.netlify.com
 
 collections:
