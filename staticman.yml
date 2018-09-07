@@ -33,6 +33,7 @@ comments:
     # Mailgun domain (encrypted)
     domain: "hSttu3w7QEicGF4Kl3UTzK3ldSekipYbXNIdsEGG9Ve1z9mfbxaF4uoXojEMxJUTaEGXffhfCKzaDnwEZHaa0dCHDLIZKABO7+sq5nlyNU8/D3jUio3qkdfN8RiN51E6EZwXsuPFV2ydxhE0dVJIVs9KrqXRnT5JS5vG4h/G3h0="
     fromAddress: "admin@usmoney.us"
+
 reviews:
   allowedFields:   ['name', 'email', 'review', 'slug']
   branch:          "master"
