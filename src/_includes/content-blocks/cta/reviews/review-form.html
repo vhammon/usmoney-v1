@@ -5,8 +5,8 @@
       <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
       <input type="hidden" name="options[parent]" value="{{ page.url | absolute_url }}">
       <input type="hidden" id="comment-post-id" name="fields[slug]" value="{{ page.slug }}">
-      <!-- <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
-   <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}"> -->
+      <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
+   <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">
     </fieldset>
     <div class="uk-margin">
       <label for="message" class="uk-form-label">Book Review: <small class="grey">(<a href="https://kramdown.gettalong.org/quickref.html" target="_blank">Markdown</a> and <a href="https://gist.github.com/rxaviers/7360908" target="_blank">:Emojis:</a> are allowed)</small></label>
