@@ -19,11 +19,22 @@ comments:
     approved:      false
     title:         "Comment"
   reCaptcha:
-    enabled:       false
-    siteKey:       ""
-    secret:        ""
+    enabled:       true
+    siteKey:       "6Ld4FW8UAAAAABmpB_p6McNQeG4rOix72-atbo9D"
+    secret:        "wKNLVMWIrZDG1zvkrwm8aFcvbJkORaaE1VfoL5MobE5prBo45g9ga2SmrggF5MbKuYpbesndTEIjTIc8HPCfhjvHo7V6C5tHd5FCE2Y3mv2hgNelAB0aD/wTZiIzERsUwH87PfIvbl6+3Bv40HYMuTvuOR6l7mOrjDwrayMFsA8="
+  allowedOrigins: ["usmoney.us"]
+  notifications:
+    # Enable notifications
+    enabled: true
+    # (!) ENCRYPTED
+    # Mailgun API key
+    apiKey: "Jkfgj9+hkMZTBzP6t7YMEGZwVqcNUyxBU84iF/3BojQvIvKCMAMvr0ddVAtHkPXrTX89PI1GIz1Z5gQWXOUaYgW/F7YxS/kN0qORL82BakgzNxuNmB6Cf+bXZWwBvtwhodI35gdFjwiDyGar0isJPIzqqzwUIGvs027/1s7eFOM="
+    # (!) ENCRYPTED
+    # Mailgun domain (encrypted)
+    domain: "hSttu3w7QEicGF4Kl3UTzK3ldSekipYbXNIdsEGG9Ve1z9mfbxaF4uoXojEMxJUTaEGXffhfCKzaDnwEZHaa0dCHDLIZKABO7+sq5nlyNU8/D3jUio3qkdfN8RiN51E6EZwXsuPFV2ydxhE0dVJIVs9KrqXRnT5JS5vG4h/G3h0="
+    fromAddress: "admin@usmoney.us"
 reviews:
-  allowedFields:   ['name', 'email', 'review', 'slug', 'replying_to']
+  allowedFields:   ['name', 'email', 'review', 'slug']
   branch:          "master"
   commitMessage:   "New Book Review"
   filename:        "book-review-{@timestamp}"
@@ -31,7 +42,7 @@ reviews:
   path:            "src/my_collections/_book-reviews"
   moderation:      false
   slug:            "{fields.slug}"
-  requiredFields:  ['name', 'email', 'message']
+  requiredFields:  ['name', 'email', 'review']
   transforms:
     email:         "md5"
     message:       "frontmatterContent"
@@ -43,6 +54,6 @@ reviews:
     approved:      false
     title:         "Book Review"
   reCaptcha:
-    enabled:       false
-    siteKey:       ""
-    secret:        ""
+    enabled:       true
+    siteKey:       "6Ld4FW8UAAAAABmpB_p6McNQeG4rOix72-atbo9D"
+    secret:        "wKNLVMWIrZDG1zvkrwm8aFcvbJkORaaE1VfoL5MobE5prBo45g9ga2SmrggF5MbKuYpbesndTEIjTIc8HPCfhjvHo7V6C5tHd5FCE2Y3mv2hgNelAB0aD/wTZiIzERsUwH87PfIvbl6+3Bv40HYMuTvuOR6l7mOrjDwrayMFsA8="
