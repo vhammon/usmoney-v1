@@ -39,7 +39,7 @@ reviews:
   commitMessage:   "New Book Review"
   filename:        "book-review-{@timestamp}"
   format:          "frontmatter"
-  path:            "src/my_collections/_book-reviews"
+  path: "src/my_collections/_book-reviews"
   moderation:      false
   slug:            "{fields.slug}"
   requiredFields:  ['name', 'email', 'review']
@@ -54,6 +54,6 @@ reviews:
     approved:      false
     title:         "Book Review"
   reCaptcha:
-    enabled:       true
-    siteKey:       "6Ld4FW8UAAAAABmpB_p6McNQeG4rOix72-atbo9D"
+    enabled: true
+    siteKey: "6Ld4FW8UAAAAABmpB_p6McNQeG4rOix72-atbo9D"
     secret:        "wKNLVMWIrZDG1zvkrwm8aFcvbJkORaaE1VfoL5MobE5prBo45g9ga2SmrggF5MbKuYpbesndTEIjTIc8HPCfhjvHo7V6C5tHd5FCE2Y3mv2hgNelAB0aD/wTZiIzERsUwH87PfIvbl6+3Bv40HYMuTvuOR6l7mOrjDwrayMFsA8="
