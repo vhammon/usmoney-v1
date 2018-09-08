@@ -8,8 +8,7 @@ approved: true
 date: '2018-09-08T16:22:29.745Z'
 ---
 ## My Review
-
-\### Hello!
-\*\*some text\*\*
+### Hello!
+**some text**
 :heart:
 :wave:
