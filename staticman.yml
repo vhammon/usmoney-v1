@@ -46,7 +46,7 @@ reviews:
   requiredFields:  ['name', 'email', 'review']
   transforms:
     email:         "md5"
-    message:       "frontmatterContent"
+    review:       "frontmatterContent"
   generatedFields:
     date:
       type:        "date"
