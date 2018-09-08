@@ -4,7 +4,6 @@ backend:
 
 media_folder: "src/assets/images"
 public_folder: "assets/images"
-
 media_library:
   name: uploadcare
   config:
