@@ -1,5 +1,6 @@
 title: US Money
 description:
+timezone: America/Los_Angeles
 
 url: http://localhost:3000
 github-username: vhammon
