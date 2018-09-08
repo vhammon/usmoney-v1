@@ -17,7 +17,10 @@ comments:
       options:
         format:    "iso8601"
     approved:      false
-    title:         "{@date:YYYY-MM-DD}-comment-for-{fields.slug}-from-{fields.name}"
+    title:
+      type:        "date"
+      options:
+        format:    "iso8601"
   reCaptcha:
     enabled:       true
     siteKey:       "6Ld4FW8UAAAAABmpB_p6McNQeG4rOix72-atbo9D"
@@ -53,7 +56,10 @@ reviews:
       options:
         format:    "iso8601"
     approved:      false
-    title:         "{@date:YYYY-MM-DD}-book-review-from-{fields.name}"
+    title:
+      type:        "date"
+      options:
+        format:    "iso8601"
   reCaptcha:
     enabled:       true
     siteKey:       "6Ld4FW8UAAAAABmpB_p6McNQeG4rOix72-atbo9D"
