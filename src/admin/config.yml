@@ -122,6 +122,21 @@ collections:
       - {label: "Approved", name: "approved", widget: "boolean"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Publish Date", name: "date", widget: "hidden"}
+  - label: "Book Reviews"
+    name: "book-reviews"
+    folder: "src/my_collections/_book-reviews"
+    sort: "date:desc"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Slug", name: "slug", widget: "hidden"}
+      - {label: "id", name: "_id", widget: "hidden"}
+      - {label: "email", name: "email", widget: "hidden"}
+      - {label: "replying_to", name: "replying_to", widget: "hidden"}
+      - {label: "Name", name: "name", widget: "string"}
+      - {label: "Approved", name: "approved", widget: "boolean"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Publish Date", name: "date", widget: "hidden"}
   - label: "Default Content and Settings"
     name: "defaults"
     format: yml
