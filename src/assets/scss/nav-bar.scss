@@ -7,6 +7,10 @@
   font-weight: $condensed-weight;
 }
 
+.nav-wrap.uk-sticky-fixed {
+  z-index: 500;
+}
+
 .nav-wrap {
   z-index: 100;
 }
