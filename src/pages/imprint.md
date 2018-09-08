@@ -22,7 +22,7 @@ right-aside-bottom: false
 Set in <a href="https://fonts.google.com/specimen/Fira+Sans">Fira Sans</a> and <a href="https://fonts.google.com/specimen/Fira+Sans+Condensed">Fira Sans Condensed</a>.
 <br><br>
 Website content by Virginia Hammon.<br> Copyright © {{ 'now' | date: "%Y" }}&ensp;All rights reserved.<br><br>
-Book cover, interior book layout, <br> web design and development by <a href="https://telemann.ink/">C.B. Telemann.</a><br>
+US Money book layout, cover, web design and development by <a href="https://telemann.ink/">C.B. Telemann.</a> 
 Built with :heart: with <a href="https://jekyllrb.com/">Jekyll</a>,
 <a href="https://cloudinary.com/">Cloudinary</a>,  
 <a href="https://getuikit.com/">UIKit</a>, and <a href="https://www.netlify.com/">Netlify</a>.

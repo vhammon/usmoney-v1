@@ -6,7 +6,7 @@
         <a class="uk-accordion-title" href="#">Chapter {{ i }} &ndash; {{ site.data.chapter-titles[i]}}</a>
         <div class="uk-accordion-content">
           {% for post in myPosts %}
-          <a class="post-link uk-text-center" href="{{ post.url | relative_url }}"><p>
+          <a class="post-link uk-text-center" href="{{ post.url | relative_url }}"><p>Section {{ post.chapter-number}}.{{ post.section-number }} &ndash;
             {{ post.title }}
           </p>
           <p class="excerpt uk-text-left">{{ post.content | strip_html | truncatewords: 20 }}</p>

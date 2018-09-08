@@ -26,7 +26,6 @@ collections:
       - {label: "Meta Description", name: "meta-description", widget: "string", required: false}
       - {label: "Section Number", name: "section-number", widget: "string", required: true}
       - {label: "Chapter Number", name: "chapter-number", widget: "string", required: true}
-      - {label: "Section Number", name: "sectino-number", widget: "string", required: true}
       - {label: "Next Section Number", name: "next-section", widget: "string", required: true}
       - {label: "Discourse Page", name: "discourse-page", widget: "string", required: false}
       - {label: "Publish Date/Time", name: "date", widget: "datetime", default: ""}

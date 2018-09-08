@@ -6,16 +6,16 @@
 {% endif %}
 <ul class="uk-list all-posts">
   {% if page.pagination.category %}
-  <h2>
-{{ page.pagination.category | capitalize }}
+  <h2 class="uk-h2 uk-text-center">
+{{ page.title }}
   </h2>
   {% endif %}
   {% if page.title == "US Money" %}
   {% include content-blocks/main/post-lists/list-of-all-chapters.html %}
-{% elsif page.autopages.display_name contains "chapter" %}
+{% elsif page.pagination.category contains "chapter" %}
   {% assign sorted = paginator.posts | sort:"section-number" %}
   {% for post in sorted %}
-    {% include content-blocks/main/post-lists/list-of-all-posts.html %}
+    {% include content-blocks/main/post-lists/list-of-all-sections.html %}
   {% endfor %}
 {% else %}
   {% for post in paginator.posts %}
