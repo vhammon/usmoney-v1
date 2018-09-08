@@ -47,7 +47,7 @@ layout: default
   </header>
   <div class="post-content {% if page.categories contains "meditations" %}
   meditations {% else %} default
-{% endif %} uk-dropcap" itemprop="articleBody">
+{% endif %}" itemprop="articleBody">
     {{ content }}
     {% unless page.end %}
   <a href="{{ site.url }}/book/chapter-{{ page.chapter-number }}/section-{{ page.chapter-number }}-{{ page.next-section }}">Next: Chapter {{ page.chapter-number }}.{{ page.next-section }}</a>
