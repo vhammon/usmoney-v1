@@ -30,6 +30,7 @@ a:visited {
 p, .services, .uk-accordion-content,
 ul.related-posts, .calendar-details,
 #respond {
+  a:link,
   a:hover,
   a:visited {
     color: $black;

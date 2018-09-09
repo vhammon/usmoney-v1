@@ -166,6 +166,7 @@ defaults:
       download: false
       download-file:
       lead-id:
+      cta: Thank you for reading. <a href="https://forum.usmoney.us/c/us-money-book">Join the discussion</a> on our forum.
 # Pagination Settings
 pagination:
   enabled: true
