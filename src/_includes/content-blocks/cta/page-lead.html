@@ -1,5 +1,9 @@
 {% unless page.cta == "" %}
+{% if page.is-book %}
+{% include content-blocks/lead/book-cta.html discuss=page.discuss %}
+{% else %}
 {% include content-blocks/lead/page-cta.html cta=page.cta %}
+{% endif %}
 {% endunless %}
 {% if page.lead-id %}
 {% include content-blocks/lead/lead-box.html %}
