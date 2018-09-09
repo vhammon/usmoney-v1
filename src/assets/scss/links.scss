@@ -3,9 +3,6 @@
 .uk-breadcrumb>:nth-child(n+2):not(.uk-first-column)::before {
   margin: 0 5px;
 }
-// .uk-breadcrumb>*>* {
-//   font-size: 1em;
-// }
 
 .uk-accordion-title:hover {
   cursor: pointer;
@@ -25,7 +22,6 @@ a:visited {
 .mono-links {
   float: right;
 }
-
 
 p, .services, .uk-accordion-content,
 ul.related-posts, .calendar-details,
