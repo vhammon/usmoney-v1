@@ -6,7 +6,7 @@ slug: acknowledgements
 name: test
 email: ece7b983cadd149174194e022068a90c
 date: '2018-09-11T22:54:46.650Z'
-approved: false
+approved: true
 title: '2018-09-11T22:54:46.650Z'
 ---
 test
