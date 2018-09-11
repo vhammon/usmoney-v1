@@ -5,7 +5,7 @@ slug: ''
 name: Christopher
 email: 9cc5235323f5a8bbd0af4f2c08c83bc0
 date: '2018-09-11T22:59:29.142Z'
-approved: false
+approved: true
 title: '2018-09-11T22:59:29.142Z'
 ---
 great book! I :heart: it!!!
