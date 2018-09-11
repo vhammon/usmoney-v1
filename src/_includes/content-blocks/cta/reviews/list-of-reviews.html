@@ -1,9 +1,9 @@
 {% assign pageComments = site.book-reviews | where:"slug", page.slug %}
 {% assign comments = pageComments | where_exp:"item", "item.replying_to == blank" %}
-{% if comments.size >= 1 %}
 <section>
 <h3 class="uk-h2">Reviews</h3>
 <hr class="uk-divider-small uk-text-center" />
+{% if comments.size >= 1 %}
 <ul class="comments uk-list uk-list-divider uk-margin-medium-bottom">
 {% for comment in comments %}
 {% if comment.approved == true %}
@@ -20,7 +20,6 @@
 {% endfor %}
 </ul>
 {% endif %}
-<hr class="uk-divider-small uk-margin-large-bottom uk-text-center" />
 {% if page.comment-locked == nil or page.comment-locked == false %}
   {% include content-blocks/cta/reviews/review-form.html %}
 {% endif %}
