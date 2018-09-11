@@ -28,7 +28,7 @@ collections:
       - {label: "Next Section Number", name: "next-section", widget: "string", required: true}
       - {label: "Discourse Page", name: "discourse-page", widget: "string", required: false}
       - {label: "Publish Date/Time", name: "date", widget: "datetime", default: ""}
-      - {label: "Add Social Share Links", name: "share-links", widget: "boolean", default: true, required: false}
+      - {label: "Add Social Share Links", name: "share", widget: "boolean", default: true, required: false}
       - {label: "Allow Comments", name: "comments", widget: "boolean", default: false, required: false}
       - {label: "Commenting is Locked (no new comments allowed)", name: "comments-locked", widget: "boolean", default: false, required: false}
       - {label: "Include Left Aside", name: "left-aside", widget: "boolean", default: true, required: false}
@@ -56,7 +56,7 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Publish Date/Time", name: "date", widget: "datetime", default: ""}
-      - {label: "Add Social Share Links", name: "share-links", widget: "boolean", default: true, required: false}
+      - {label: "Add Social Share Links", name: "share", widget: "boolean", default: true, required: false}
       - {label: "Allow Comments", name: "comments", widget: "boolean", default: false, required: false}
       - {label: "Commenting is Locked (no new comments allowed)", name: "comments-locked", widget: "boolean", default: false, required: false}
       - {label: "Include Left Aside", name: "left-aside", widget: "boolean", default: true, required: false}
@@ -86,7 +86,7 @@ collections:
       - {label: "Display Title", name: "display-title", widget: "boolean", default: true, required: false}
       - {label: "Featured Image", name: "image", widget: "string", required: false}
       - {label: "Permalink ( /page-url-name/ )", name: "permalink", widget: "string", required: false}
-      - {label: "Add Social Share Links", name: "share-links", widget: "boolean", default: false, required: false}
+      - {label: "Add Social Share Links", name: "share", widget: "boolean", default: false, required: false}
       - {label: "Allow Comments", name: "comments", widget: "boolean", default: false, required: false}
       - {label: "Include Left Aside", name: "left-aside", widget: "boolean", default: true, required: false}
       - {label: "Include First Right Aside", name: "right-aside-top", widget: "boolean", default: true, required: false}

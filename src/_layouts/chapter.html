@@ -40,7 +40,7 @@ layout: default
       {% include file-downloads.html %}
       <hr class="uk-divider-small uk-text-center" />
       {% endif %}
-      {% if page.share-links %}
+      {% if page.share %}
       {% include content-blocks/main/social/social-share.html %}
         <hr class="uk-divider-small uk-text-center" />
         {% endif %}
@@ -50,7 +50,7 @@ layout: default
 {% endif %}" itemprop="articleBody">
     {{ content }}
     {% unless page.end %}
-  <a href="{{ site.url }}/book/chapter-{{ page.chapter-number }}/section-{{ page.chapter-number }}-{{ page.next-section }}">Next: Chapter {{ page.chapter-number }}.{{ page.next-section }}</a>
+  <a href="{{ site.url }}/book/chapter-{{ page.chapter-number }}/section-{{ page.chapter-number }}-{{ page.next-section }}">Next: Section {{ page.chapter-number }}.{{ page.next-section }} <span uk-icon="arrow-right"></span></a>
     {% endunless %}
     <hr class="uk-divider-small uk-text-center" />
     {% include content-blocks/main/social/social-share.html %}

@@ -10,9 +10,9 @@ branch: master
 author:
   email:
   name: Virginia Hammon
-  photo: https://ucarecdn.com/4052feaf-0f87-4941-8701-52396fdfd1d6/virginiasmall.png
+  photo: virginia-small.png
   url: https://usmoney.us/
-  bio: Hello I am Virginia! Of friendship on inhabiting diminution discovered as. Did friendly eat breeding building few nor. Object he barton no effect played valley afford.
+  bio: A lifetime optimist, Virginia believes that when we have the right information, understanding, and decision-making skills, we will make good decisions together. Dedicated to researching and understanding the foundations of our current political dysfunction, she found a practical path to a better future. <a href="/meet-virginia">Read more.<span uk-icon="arrow-right"></span></a>
 
 company:
   name: US Money
@@ -126,7 +126,7 @@ defaults:
       right-aside-bottom: true
       bottom-cta: true
       pin-it: true
-      share-links: true
+      share: true
       dropcap: true
       download: true
       download-file:
@@ -163,7 +163,7 @@ defaults:
       right-aside-bottom: true
       bottom-cta: true
       pin-it: true
-      share-links: true
+      share: true
       download: false
       download-file:
       lead-id:
