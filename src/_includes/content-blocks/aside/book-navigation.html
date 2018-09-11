@@ -1,0 +1,10 @@
+<section>
+<h3 class="uk-text-center uk-margin-small uk-h4"><i class="far fa-map"></i>&nbsp;Book Navigation</h3> {% include content-blocks/aside/breadcrumb.html %}
+{% unless page.end %}
+<ul class="uk-subnav uk-margin-remove-top categories" uk-margin>
+  <li>
+    <a href="{{ site.url }}/book/chapter-{{ page.chapter-number }}/section-{{ page.chapter-number }}-{{ page.next-section }}">Next: Chapter {{ page.chapter-number }}.{{ page.next-section }} <span uk-icon="arrow-right"></span></a>
+  </li>
+</ul>
+{% endunless %}
+</section>

@@ -12,12 +12,7 @@ layout: default
     {% endif %}
 
     <h1 class="uk-h1 {% if page.image %} uk-margin-medium-top {% endif %} uk-margin-remove-bottom" itemprop="name headline">
-{% if page.tags contains "tarot" %}
-    {{ page.title | truncate: 25, "" | markdownify | markdownify | replace: '<p>', '' | replace: '</p>', '' | widont }}
-{% else %}
       {{ page.title | markdownify | markdownify | replace: '<p>', '' | replace: '</p>', '' | widont }}
-
-    {% endif %}
   </h1>
     <p class="post-meta uk-margin-top uk-margin-remove-bottom">
       by
@@ -42,17 +37,23 @@ layout: default
       {% endif %}
       {% if page.share %}
       {% include content-blocks/main/social/social-share.html %}
-        <hr class="uk-divider-small uk-text-center" />
-        {% endif %}
+      {% endif %}
   </header>
   <div class="post-content {% if page.categories contains "meditations" %}
   meditations {% else %} default
 {% endif %}" itemprop="articleBody">
     {{ content }}
+    {% if page.start %}
+    {% assign chapter-number = 1 %}
+    {% else %}
+    {% assign chapter-number = page.chapter-number %}
+    {% endif %}
     {% unless page.end %}
-  <a href="{{ site.url }}/book/chapter-{{ page.chapter-number }}/section-{{ page.chapter-number }}-{{ page.next-section }}">Next: Section {{ page.chapter-number }}.{{ page.next-section }} <span uk-icon="arrow-right"></span></a>
+  <a href="{{ site.url }}/book/chapter-{{ chapter-number }}/section-{{ chapter-number }}-{{ page.next-section }}">Next: Section {{ chapter-number }}.{{ page.next-section }} <span uk-icon="arrow-right"></span></a>
     {% endunless %}
-    <hr class="uk-divider-small uk-text-center" />
+      <hr class="uk-divider-small uk-text-center" />
+    {% if page.share %}
     {% include content-blocks/main/social/social-share.html %}
+    {% endif %}
   </div>
 </article>

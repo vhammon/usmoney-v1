@@ -1,28 +1,28 @@
 <main class="uk-width-3-5@l uk-width-3-5@m uk-width-3-5@s">
   <div>
     {% if page.blog or page.auto-page or page.pagination %}
-    {% include content-blocks/main/post-lists/pagination-list.html %}
+      {% include content-blocks/main/post-lists/pagination-list.html %}
     {% elsif page.is-post %}
-    {{ content }}
+      {{ content }}
     {% elsif page.image %}
-    <img class="uk-margin-medium-bottom" src="{{ page.image }}" alt="{{ page.image-alt }}" /> {% if page.display-title == true %}
-    <p class="uk-h1">
-      {{ page.title }}
-    </p>
-    {% endif %}
+      <img class="uk-margin-medium-bottom" src="{{ page.image }}" alt="{{ page.image-alt }}" />
+      {% if page.display-title == true %}
+        <p class="uk-h1">
+          {{ page.title }}
+        </p>
+      {% endif %}
     {{ content }}
     {% else %}
-    {% if page.display-title == true %}
-    <p class="uk-h1">
-      {{ page.title }}
-    </p>
-    {% endif %}
-    {{ content }}
-    {% endif %}
-
-    {% if page.is-post %}
-      <hr class="uk-divider-small uk-text-center" />
+      {% if page.display-title == true %}
+      <p class="uk-h1">
+        {{ page.title }}
+      </p>
       {% endif %}
+      {{ content }}
+    {% endif %}
 
+    {% if page.is-post or page.is-book %}
+        {% include content-blocks/cta/page-lead.html %}
+      {% endif %}
   </div>
 </main>

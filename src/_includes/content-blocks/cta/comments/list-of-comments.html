@@ -1,8 +1,9 @@
 {% assign pageComments = site.comments | where:"slug", page.slug %}
 {% assign comments = pageComments | where_exp:"item", "item.replying_to == blank" %}
-{% if comments.size >= 1 %}
 <section>
-<h3 class="uk-h2">Comments</h3>
+<h3 class="uk-h2 visuallyhidden">Comments</h3>
+<hr class="uk-divider-small uk-text-center" />
+{% if comments.size >= 1 %}
 <ul class="comments uk-list uk-list-divider uk-margin-medium-bottom">
 {% for comment in comments %}
 {% if comment.approved == true %}

@@ -1,30 +1,24 @@
 {% unless page.right-aside-top == false %}
-<aside class="right-aside-top uk-width-2-5@l uk-width-2-5@m  uk-width-2-5@s content uk-flex uk-flex-between uk-flex-column uk-margin-xlarge-bottom">
+<aside class="right-aside-top uk-width-2-5@l uk-width-2-5@m  uk-width-2-5@s content uk-flex uk-flex-between uk-flex-column uk-margin-xlarge-bottom@m">
+  <hr class="uk-hidden@s" />
   <div style="z-index:80;" uk-sticky="offset: 150;bottom: true; media:640; show-on-up: true; animation: uk-animation-slide-top;">
     <h1 class="visuallyhidden">Top Aside</h1>
     <div>
-      <section>
-          {% if page.is-post %}
-        <h3 class="uk-text-center uk-margin-small uk-h4"><i class="far fa-map"></i>&nbsp;Book Navigation</h3>
-      {% include content-blocks/aside/breadcrumb.html %}
-      {% unless page.end %}
-      <ul class="uk-subnav uk-margin-remove-top categories" uk-margin>
-        <li>
-          <a href="{{ site.url }}/book/chapter-{{ page.chapter-number }}/section-{{ page.chapter-number }}-{{ page.next-section }}">Next: Chapter {{ page.chapter-number }}.{{ page.next-section }} <span uk-icon="arrow-right"></span></a>
-        </li>
-      </ul>
-        <hr class="uk-margin-remove-top uk-text-center" />
-       {% endunless %}
+        {% if page.is-book %}
+          {% include content-blocks/aside/book-navigation.html%}
+          <hr class="uk-margin-remove-top uk-text-center" />
+        {% endif %}
+      {% if page.is-post %}
       {% include content-blocks/aside/cat-and-tags/list-of-categories.html %}
+      <hr class="uk-margin-top uk-text-center" />
       {% endif %}
-    </section>
+
 
       {% include content-blocks/aside/bio.html %}
-      <div class="uk-text-center">
+      <div class="uk-text-center uk-visible@s">
         <hr class="uk-divider-small uk-text-center" />
-<a href="#bottom" uk-scroll class="button-in-text uk-button uk-button-default uk-button-small" uk-icon="icon: arrow-down"></a>
+        <a href="#bottom" uk-scroll class="button-in-text uk-button uk-button-default uk-button-small" uk-icon="icon: arrow-down"></a>
       </div>
-
     </div>
   </div>
 </aside>

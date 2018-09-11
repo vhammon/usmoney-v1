@@ -7,7 +7,7 @@
 }
 
 // .uk-breadcrumb>*>:focus, .uk-breadcrumb>*>:hover {
-//   color: $black;
+//   color: $primary;
 // }
 
 .uk-accordion-title:hover {
@@ -30,13 +30,13 @@ a:visited {
 }
 
 .post-content>a, {
-  color: $black;
+  color: $primary;
   &:link,
   &:hover,
   &:focus {
-    color: $black;
-    background: -webkit-linear-gradient($white, $white), -webkit-linear-gradient($white, $white), -webkit-linear-gradient($black, $black);
-    background: linear-gradient($white, $white), linear-gradient($white, $white), linear-gradient($black, $black);
+    color: $primary;
+    background: -webkit-linear-gradient($white, $white), -webkit-linear-gradient($white, $white), -webkit-linear-gradient($primary, $primary);
+    background: linear-gradient($white, $white), linear-gradient($white, $white), linear-gradient($primary, $primary);
     -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
     -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
     background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
@@ -48,12 +48,12 @@ a:visited {
 
 
 .uk-accordion-title {
-  color: $black;
+  color: $primary;
   // &:hover,
   // &:focus {
-  //   color: $black;
-  //   background: -webkit-linear-gradient($white, $white), -webkit-linear-gradient($white, $white), -webkit-linear-gradient($black, $black);
-  //   background: linear-gradient($white, $white), linear-gradient($white, $white), linear-gradient($black, $black);
+  //   color: $primary;
+  //   background: -webkit-linear-gradient($white, $white), -webkit-linear-gradient($white, $white), -webkit-linear-gradient($primary, $primary);
+  //   background: linear-gradient($white, $white), linear-gradient($white, $white), linear-gradient($primary, $primary);
   //   -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
   //   -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
   //   background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
@@ -63,18 +63,18 @@ a:visited {
   // }
 }
 
-p, .uk-accordion-content,
+p, .uk-accordion-content, .acknowledgments,
 ul.related-posts, .calendar-details, aside .uk-subnav>*>,
 #respond {
   a {
-    color: $black;
+    color: $primary;
     &:link,
     &:hover,
     &:focus,
     &:visited {
-      color: $black;
-      background: -webkit-linear-gradient($white, $white), -webkit-linear-gradient($white, $white), -webkit-linear-gradient($black, $black);
-      background: linear-gradient($white, $white), linear-gradient($white, $white), linear-gradient($black, $black);
+      color: $primary;
+      background: -webkit-linear-gradient($white, $white), -webkit-linear-gradient($white, $white), -webkit-linear-gradient($primary, $primary);
+      background: linear-gradient($white, $white), linear-gradient($white, $white), linear-gradient($primary, $primary);
       -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
       -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
       background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
@@ -132,5 +132,5 @@ ul.related-posts, .calendar-details, aside .uk-subnav>*>,
 }
 
 .post-link, .post-link:hover {
-  color: $black;
+  color: $primary;
 }

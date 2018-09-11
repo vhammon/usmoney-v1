@@ -1,5 +1,7 @@
 <h1>US Money</h1>
-<a href="/book/acknowledgements/">Acknowledgements</a>
+<div class="acknowledgments uk-margin">
+     <a href="/book/acknowledgements/">Acknowledgements</a>
+</div>
 <ul class="uk-margin-medium-bottom uk-padding-remove-left" uk-accordion>
   {% for i in (1..10) %}
   {% assign myPosts = paginator.posts | where:"chapter-number", i %}

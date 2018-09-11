@@ -1,6 +1,6 @@
 <div id="respond">
 <form id="comment-form" class="page__form js-form form" method="POST" action="https://api.staticman.net/v2/entry/{{ site.github-username }}/{{ site.repository }}/{{ site.branch }}/comments">
- <h4 class="page__section-label uk-h3">Share Your Message <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" style="display:none;">Cancel reply</a></small></h4>
+ <h4 class="page__section-label uk-h3 uk-text-center">Share Your Message <small><a rel="nofollow" id="cancel-comment-reply-link" href="{{ page.url | absolute_url }}#respond" style="display:none;">Cancel reply</a></small></h4>
  <fieldset class="hidden" style="display: none;">
    <input type="hidden" name="options[origin]" value="{{ page.url | absolute_url }}">
    <input type="hidden" name="options[parent]" value="{{ page.url | absolute_url }}">
@@ -33,12 +33,12 @@
            </p>
      </div>
  </div>
- <div class="uk-margin-medium-top">
-    <div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}" data-badge="inline"></div>
+ <div class="uk-margin-top uk-margin-bottom">
    <label for="comment-form-reply">
-     <input class="uk-checkbox uk-margin-bottom" type="checkbox" id="comment-form-reply" name="options[subscribe]" value="email">
+     <input class="uk-checkbox" type="checkbox" id="comment-form-reply" name="options[subscribe]" value="email">
      Notify me of replies by email.
    </label>
+    <div class="g-recaptcha uk-margin-top" data-sitekey="{{ site.reCaptcha.siteKey }}" data-badge="inline"></div>
  </div>
    <button type="submit" id="comment-form-submit" class="uk-button uk-button-primary uk-margin-medium-bottom">Submit</button>
 </form>

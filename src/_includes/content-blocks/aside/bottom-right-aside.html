@@ -1,12 +1,14 @@
 {% unless page.right-aside-bottom == false %}
-{% if page.lead-id == nil and page.comments == false %} {% else %}
-<aside class="uk-width-2-5@l uk-margin-xlarge-top uk-visible@l content {% if page.lead-id == nil and page.comments == false %} uk-hidden {% endif %}">
+{% if page.lead-id == nil and page.comments == false %}
+{% else %}
+<aside class="uk-width-2-5@l uk-width-2-5@m  uk-width-2-5@s uk-margin-xlarge-top uk-visible@s">
   <div style="z-index:80;" uk-sticky="bottom: true; offset: 150;">
     <h1 class="visuallyhidden">Bottom Aside</h1> {% unless page.right-aside-bottom == false %}
-    <div class="paper" uk-scrollspy="cls:uk-animation-slide-right; delay:500">
+    <div uk-scrollspy="cls:uk-animation-slide-right; delay:500">
       {% include content-blocks/aside/right-aside-cta.html %}
     </div>
     {% endunless %}
   </div>
 </aside>
-{% endif %} {% endunless %}
+{% endif %}
+{% endunless %}
