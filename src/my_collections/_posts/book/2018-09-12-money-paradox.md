@@ -1,11 +1,11 @@
 ---
 layout: chapter
+date: 2018-09-12T07:00:00.000Z
 title: Money paradox
 subtitle: wealth and/or tool
 section-number: 16
 chapter-number: 3
 next-section: 17
-date: 2018-09-12T07:00:00.000Z
 share: true
 comments: false
 comments-locked: false
@@ -85,7 +85,7 @@ your money thinking leads to false dichotomies of makers and takers
 and false assumptions that government austerity and debt-reduction
 will bring prosperity.
 
-##Tracking the use of a tool
+## Tracking the use of a tool
 
 As a tool, money functions in a third dimension that cannot be
 recorded as a two-dimensional, zero-sum account. Instead of one
