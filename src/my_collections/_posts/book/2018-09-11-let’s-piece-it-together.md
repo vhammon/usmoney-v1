@@ -1,10 +1,10 @@
 ---
 layout: chapter
+date: 2018-09-11T07:00:00.000Z
 title: Let’s piece it together
 section-number: 4
 chapter-number: 1
 next-section: 4
-date: 2018-09-11T07:00:00.000Z
 share: true
 comments: false
 comments-locked: false
@@ -15,9 +15,9 @@ bottom-cta: true
 download: false
 pin-it: true
 categories:
-- book
-- chapter-1
-- section-1-4
+  - book
+  - chapter-1
+  - section-1-4
 tags:
   - money
 ---
@@ -56,7 +56,7 @@ Here are my goals:
 To make understanding our money system easier, I begin with some
 foundation concepts in the next section.
 
-Endnotes
+## Endnotes
 1.0 Introduction
 1 U.S. Constitution. Preamble. https://www.archives.gov/founding-docs/
 constitution-transcript
