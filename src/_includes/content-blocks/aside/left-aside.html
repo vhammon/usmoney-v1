@@ -1,10 +1,11 @@
-<div class="uk-width-1-1@s uk-width-1-6@m uk-width-1-6@l uk-flex-first@l uk-visible@l">
+<div class="uk-width-1-1@s uk-width-1-6@m uk-width-1-6@l uk-flex-first@l uk-visible@l ">
   {% unless page.left-aside == false %}
   <div style="z-index:80;" uk-sticky="offset: 150; bottom: true; media:960;">
-      <a class="" href="#subscribe" uk-toggle>
-          Subscribe
-      </a>
-
-  </div>
+      <a class="" href="{{ site.url }}">
+        {% include content-blocks/main/image.html image="us-money-book.jpg" pin="false" class="book-mockup" %}</a>
+        <div class="content">
+          <a class="" href="{{ site.url }}">Buy the Book</a>
+        </div>
+    </div>
   {% endunless %}
 </div>
