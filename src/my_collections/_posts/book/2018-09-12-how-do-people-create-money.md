@@ -1,10 +1,10 @@
 ---
 layout: chapter
+date: 2018-09-12T07:00:00.000Z
 title: How do people create money?
 section-number: 21
 chapter-number: 3
 next-section: 22
-date: 2018-09-12T07:00:00.000Z
 share: true
 comments: false
 comments-locked: false
@@ -21,10 +21,9 @@ categories:
 tags:
   - money
 ---
-There are three aspects to the _how_ of money creation: the tangible, the
+https://usmoney.us/book/chapter-4https://usmoney.us/book/chapter-8There are three aspects to the _how_ of money creation: the tangible, the
 intangible, and how money is entered into an economy. This is true
 whether or not the actual money token itself is tangible.
-
 
 ## Hands on
 
@@ -126,10 +125,10 @@ spending. They might put the money into long term savings, giving
 the banks money to invest on their behalf.
 
 Economists refer to this method of introducing money into an
-economy as a helicopter drop, a term first used by 20th century
+economy as a _helicopter drop,_ a term first used by 20th century
 economist, Milton Friedman.^10 The difference between the piece
 of paper or accounting entry representing units of money and the
-value in the marketplace – so called, seignorage – would go to every
+value in the marketplace – so called, _seignorage_ – would go to every
 adult citizen.
 
 #### TO STATES
@@ -168,13 +167,13 @@ To use the US as an example, in 2014, our federal government spent
 a total of $552 billion on non-defense discretionary spending, which
 included, in billions:
 
-- $24 for agriculture
-- $67 for education
-- $27 for energy
-- $80 for health and human services
-- $27 for the administration of justice
-- $18 for transportation
-- $243 for all else (includes funding for natural resources and
+* $24 for agriculture
+* $67 for education
+* $27 for energy
+* $80 for health and human services
+* $27 for the administration of justice
+* $18 for transportation
+* $243 for all else (includes funding for natural resources and
     environment; general science, space, and technology; general
     government; community and regional development; Social
     Security administration, and commerce and housing).^11
@@ -193,14 +192,15 @@ to a well-functioning standard.^12
 If our government had the power to create new money and decided
 to add $625 billion to the economy every year for the next 6 years by
 spending on fixing our transportation infrastructure, we could not
-only bring our transportation network up to well-functioning, we
+only bring our transportation network up to _well-functioning,_ we
 could take our infrastructure into a sustainable, renewable energy
 producing and money-saving future – high-speed cross country rail;
 paint city streets white in hot climes to cool and save energy; put
 solar panels or energy generators in highways...^13
 
 In this case, the seignorage would accrue to the public through the
-enhanced value of the transportation system. There would be no need to increase taxes to pay for these infrastructure improvements and
+enhanced value of the transportation system. There would be no need
+ to increase taxes to pay for these infrastructure improvements and
 no interest on debt accruing – another big bonus. And, think of the
 well-paying jobs this would create, again benefiting our communities
 as the bridge and public transit builders spent their wages!
@@ -237,7 +237,8 @@ innovations that enrich life for everyone.
 
 Again, using the US and the dollar as an example, if we wanted to
 add $625 billion to the money supply, we could increase research and
-development dollars in our universities, freeing them to do research and development unfettered by the demands of proprietary private
+development dollars in our universities, freeing them to do research
+ and development unfettered by the demands of proprietary private
 interests.
 
 On the other hand, we could give a select group of people the
@@ -248,7 +249,7 @@ to develop.
 
 Whoever has the privilege of creating the new money can lend it
 into the economy. This is how IOU money systems work, which are
-explained in Chapter 4.29–4.36. The money creator gets an IOU – a
+explained in [Chapter 4.29–4.36.](https://usmoney.us/book/chapter-4) The money creator gets an IOU – a
 lien on future production from the borrower, and then creates new
 money against this IOU. Interest may or may not be charged on
 this loan.
@@ -275,7 +276,8 @@ of system. (It was initially named the Swiss Economic Circle – in
 German, Wirtschaftsring-Genossenschaft, or in short, WIR.)^14
 
 The WIR is used within a membership of businesses who agree to use
-it to buy and sell from each other. Systems with cooperative forms of governance, that lend money into creation, are sometimes named by
+it to buy and sell from each other. Systems with cooperative forms of
+ governance, that lend money into creation, are sometimes named by
 the type of governance that chooses the system. For example, Bernard
 Lietaer, an expert on money, now at the Center for Sustainable
 Resource Development at the University of California, Berkeley,
@@ -310,4 +312,4 @@ to create new money, it could give it to state governments, which
 would then give part of it to citizens outright, spend some of it
 on state infrastructure, and loan some of it to private businesses.
 The government could also establish a primary system and
-complementary systems. We’ll consider this in Chapter 8.
+complementary systems. We’ll consider this in [Chapter 8.](https://usmoney.us/book/chapter-8)
