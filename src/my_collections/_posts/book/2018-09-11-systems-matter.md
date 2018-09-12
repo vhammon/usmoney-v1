@@ -33,7 +33,7 @@ experience. Our lives work like this, too: we live in the grooves of our
 thinking and culture. It takes a determined, conscious effort to step off
 the track and out of these grooves to see them clearly.
 
-##Two-way shaping
+## Two-way shaping
 On a football field with a team of players who agree to follow the rules
 of football, characteristics of the players will be reinforced over time.
 The quarterback will be trim and fleet of foot. The linemen will be bulky.
@@ -48,7 +48,7 @@ possible to develop an understanding of how we are shaped, we have
 the capacity to turn around and make choices to reshape our culture
 and environment.
 
-###An example
+### An example
 I was Head of a Montessori school for many years and had occasion
 to discuss the nature of children with both traditional and Montessori
 teachers. Traditional teachers often bemoaned what they believed to
