@@ -96,8 +96,10 @@ the table for discussion.
 **Money created/produced:**
 
 * by private individuals or businesses
+
     - unregulated or
     - regulated and/or controlled by government
+
 * by local, state or federal government
 
 **Money authenticated and guaranteed:**
