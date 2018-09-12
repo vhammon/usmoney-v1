@@ -17,7 +17,7 @@ pin-it: true
 categories:
   - book
   - chapter-3
-  - chapter-3-20
+  - section-20
 tags:
   - money
 ---
@@ -61,7 +61,7 @@ economies or make stock picks.
 It is a false and dangerous premise. For example, in 2000 a
 mathematician named David X. Li created a formula called the
 Gaussian Copula Function. In February 2009, Wired magazine
-described this formula as 
+described this formula as
 
 _...an unambiguously positive breakthrough, a piece of financial technology that
 allowed hugely complex risks to be modeled with more ease and accuracy than

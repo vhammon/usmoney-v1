@@ -49,7 +49,9 @@ layout: default
     {% assign chapter-number = page.chapter-number %}
     {% endif %}
     {% unless page.end %}
-  <a href="{{ site.url }}/book/chapter-{{ chapter-number }}/section-{{ chapter-number }}-{{ page.next-section }}">Next: Section {{ chapter-number }}.{{ page.next-section }} <span uk-icon="arrow-right"></span></a>
+
+    {% assign chapter-name = site.data.chapter-titles[ chapter-number] %}
+  <a href="{{ site.url }}/book/chapter-{{ chapter-number }}/section-{{ page.next-section }}">Next: {{ chapter-name }} {{ chapter-number }}.{{ page.next-section }} <span uk-icon="arrow-right"></span></a>
     {% endunless %}
       <hr class="uk-divider-small uk-text-center" />
     {% if page.share %}

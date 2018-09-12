@@ -17,7 +17,7 @@ pin-it: true
 categories:
   - book
   - chapter-2
-  - section-2-6
+  - section-6
 tags:
   - money
 ---

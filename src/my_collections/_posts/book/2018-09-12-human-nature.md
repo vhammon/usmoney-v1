@@ -18,7 +18,7 @@ pin-it: true
 categories:
   - book
   - chapter-2
-  - section-2-10
+  - section-10
 tags:
   - money
 ---
@@ -35,7 +35,7 @@ they had to use their hands. They each made an investigation to their
 satisfaction, and then packed up and returned to their king.
 
 After the long journey home, they were brought into the presence of
-the king to give their report. 
+the king to give their report.
 
 The first blind man said, _“I know the elephant; it is like the trunk of a tree. It is round and sturdy.”_
 
