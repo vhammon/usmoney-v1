@@ -1,10 +1,10 @@
 ---
 layout: chapter
+date: 2018-09-12T07:00:00.000Z
 title: Who creates new money?
 section-number: 20
 chapter-number: 3
 next-section: 21
-date: 2018-09-12T07:00:00.000Z
 share: true
 comments: false
 comments-locked: false
@@ -41,15 +41,15 @@ to be who actually creates new money and puts it into service. For
 example, today the US Government gives the stamp of authenticity,
 and declares Federal Reserve Notes will be legal tender in our nation.
 Our government provides the trustworthiness of our money by
-guaranteeing it is backed by the full faith, credit and resources of our
-commonwealth, and by declaring it will always take this money in
+guaranteeing it is backed by the _full faith, credit and resources of our
+commonwealth,_ and by declaring it will always take this money in
 payment for taxes. But our government does not create the new
 money; currently in the US, new money is created by the private
-banking sector (Chapter 5). Be careful of the phrase, to issue money.
-Some economists, including the Modern Monetary Theorists use issue
+banking sector (Chapter 5). Be careful of the phrase, _to issue money._
+Some economists, including the Modern Monetary Theorists use _issue_
 in a way that confuses two distinct functions: guarantee-authenticity-
 trustworthiness and the actual creation of money. They speak of the
-US Government issuing our currency, when it does not create it; it
+US Government _issuing_ our currency, when it does not create it; it
 only authorizes it as legal tender and guarantees it.^8
 
 When a democratic republic – a government of, by and for the people chooses a money system that gives the power to create new money to private bankers, they hand off the power of rule to the money creators. The private bankers will be the ones deciding what the nation’s priorities will be, what direction new development will take,
