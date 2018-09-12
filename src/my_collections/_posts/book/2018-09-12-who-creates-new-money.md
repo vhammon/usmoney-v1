@@ -17,7 +17,7 @@ pin-it: true
 categories:
   - book
   - chapter-3
-  - chapter-20
+  - section-20
 tags:
   - money
 ---
