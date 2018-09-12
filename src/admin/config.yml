@@ -23,9 +23,9 @@ collections:
       - {label: "Title", name: "title", widget: "string", tagname: "h1", required: true}
       - {label: "Focus Keyword", name: "focus-keyword", widget: "string", required: false}
       - {label: "Meta Description", name: "meta-description", widget: "string", required: false}
-      - {label: "Section Number", name: "section-number", widget: "string", required: true}
-      - {label: "Chapter Number", name: "chapter-number", widget: "string", required: true}
-      - {label: "Next Section Number", name: "next-section", widget: "string", required: true}
+      - {label: "Section Number", name: "section-number", widget: "number", required: true}
+      - {label: "Chapter Number", name: "chapter-number", widget: "number", required: true}
+      - {label: "Next Section Number", name: "next-section", widget: "number", required: true}
       - {label: "Discourse Page", name: "discourse-page", widget: "string", required: false}
       - {label: "Publish Date/Time", name: "date", widget: "datetime", default: ""}
       - {label: "Add Social Share Links", name: "share", widget: "boolean", default: true, required: false}
