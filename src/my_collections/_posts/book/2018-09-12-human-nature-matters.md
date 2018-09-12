@@ -1,10 +1,10 @@
 ---
 layout: chapter
+date: 2018-09-12T07:00:00.000Z
 title: Human nature matters
 section-number: 9
 chapter-number: 2
 next-section: 10
-date: 2018-09-12T07:00:00.000Z
 share: true
 comments: false
 comments-locked: false
@@ -30,8 +30,8 @@ influence. But even the authors who did explain the process did
 so in a few paragraphs and then slid right past the meaning and
 implications of their own explanations. It seemed as if someone had
 performed a Jedi mind trick on them – or they were playing a mind
-trick on themselves and the rest of us. How can these experts be
-unaware of such obvious blind spots?
+trick on themselves and the rest of us. **How can these experts be
+unaware of such obvious blind spots?**
 
 In my research, I also examined every Federal Reserve consolidated
 financial report back to 1914. I built a spreadsheet about the money
@@ -41,23 +41,24 @@ the spreadsheet form a clear exponential growth curve of the money
 supply and today we are on the steep upward end of the money
 supply curve.
 
-History tells us in our current money system, when the money supply
+History tells us _in our current money system,_ when the money supply
 grows outlandishly large, it must be corrected – and the natural
 means of correction in our current money system is recession or
 depression. The pendulum cannot swing wildly in one direction
 without swinging the other way just as wildly. The graph tells us a
 whopper of a correction – a depression – is on the way; dire outcomes
 are evident and imminent and most of the nation will suffer grievous
-harm. How can so many well paid experts ignore the story here?
-I’ve searched for answers. The why resides in our human nature.
+harm. **How can so many well paid experts ignore the story here?**
+I’ve searched for answers. The _why_ resides in our human nature.
 
 I have included this section on human nature in the foundation
 material because it is important to understand why we continue with a money system that causes so much harm. It is also important to
 understand how so many schools of economics can teach incorrect
 information about our money system for generations, resulting in
 poorly informed pundits, politicians and voters. Certainly, the few
-who benefit have enough power to keep the myths in place. But why
-do so many people accept the myths so readily?
+who benefit have enough power to keep the myths in place. But **why
+do so many people accept the myths so readily?**
+
 I’ve done my best to select characteristics that most impact our choice
 of money system. Here are a few of the mind quirks that make all of
 us vulnerable to pyramids and exponential growth schemes, including
@@ -210,8 +211,8 @@ a rational reason, economics philosophers assumed in every market
 exchange both parties were getting what they rationally wanted.
 Because everyone was acting rationally, the combined economic
 behavior would act like an unseen force that arrives at just prices.
-Early economist Adam Smith, in The Wealth of Nations (1776), coined
-the term the invisible hand to describe _“the unobservable market force
+Early economist Adam Smith, in _The Wealth of Nations_ (1776), coined
+the term _the invisible hand_ to describe _“the unobservable market force
 that helps the demand and supply of goods in a free market to reach
 equilibrium automatically.”_ As long as people are free to act on their
 rational choices, the marketplace will function to efficient perfection.

@@ -1,11 +1,11 @@
 ---
 layout: chapter
+date: 2018-09-12T07:00:00.000Z
 title: Math matters
 subtitle: Ponzis & pyramid schemes
 section-number: 8
 chapter-number: 2
 next-section: 9
-date: 2018-09-12T07:00:00.000Z
 share: true
 comments: false
 comments-locked: false
@@ -157,7 +157,7 @@ her got anything back, and how that affected community spirit and
 her place in the community. Maybe not at all, as people are often
 willing to say, _“It was my fault; I didn’t work hard enough to bring in
 more people under me.”_ Or, in hindsight, they say, _“Wow! I was sure a
-sucker, so it’s my own fault.”_
+sucker, so it’s my own fault.”
 
 With a Ponzi scheme, we see our own effort and not the system that
 drives the outcome. We also see those who succeed or fail and credit
