@@ -45,14 +45,15 @@ guaranteeing it is backed by the _full faith, credit and resources of our
 commonwealth,_ and by declaring it will always take this money in
 payment for taxes. But our government does not create the new
 money; currently in the US, new money is created by the private
-banking sector (Chapter 5). Be careful of the phrase, _to issue money._
-Some economists, including the Modern Monetary Theorists use _issue_
-in a way that confuses two distinct functions: guarantee-authenticity-
+banking sector [(Chapter 5).](https://usmoney.us/book/chapter-5) Be careful of the phrase, _to issue money._ Some economists, including the Modern Monetary Theorists use _issue_ in a way that confuses two distinct functions: guarantee-authenticity-
 trustworthiness and the actual creation of money. They speak of the
 US Government _issuing_ our currency, when it does not create it; it
 only authorizes it as legal tender and guarantees it.^8
 
-When a democratic republic – a government of, by and for the people chooses a money system that gives the power to create new money to private bankers, they hand off the power of rule to the money creators. The private bankers will be the ones deciding what the nation’s priorities will be, what direction new development will take,
+When a democratic republic – a government of, by and for the people chooses a money system that gives the power to create new money
+ to private bankers, they hand off the power of rule to the money
+ creators. The private bankers will be the ones deciding what the
+ nation’s priorities will be, what direction new development will take,
 who benefits, and who gets left out. Giving away this power is, in
 effect, giving away our right to citizen rule.
 So, THIS is the critical question, because no matter what the system of
