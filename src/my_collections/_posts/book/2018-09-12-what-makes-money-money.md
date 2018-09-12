@@ -1,10 +1,10 @@
 ---
 layout: chapter
+date: 2018-09-12T07:00:00.000Z
 title: 'What makes money, money?'
 section-number: 17
 chapter-number: 3
 next-section: 18
-date: 2018-09-12T07:00:00.000Z
 share: true
 comments: false
 comments-locked: false
@@ -91,7 +91,8 @@ IOU for future value, the promise of trustworthiness is dependent on
 the ability of the borrowers to produce the value in the future and
 pay off the loans. We are saying that we have invested in our nation,
 we can maintain our assets into the future, remain productive, and
-guarantee our money. The trustworthiness of this promise depends on preserving a community of educated, innovative, healthy people
+guarantee our money. The trustworthiness of this promise depends
+ on preserving a community of educated, innovative, healthy people
 living and working in safe, healthy and productive jobs.
 Money systems can combine these means to trustworthiness.
 
@@ -130,7 +131,8 @@ the supply to suit their purpose. In any system that allows a few
 individuals to control significant percentages of the total wealth,
 these individuals will be able to control the amount of money in the
 economy. Hence they will be able to control its value and **the value
-of all else in the economy.**
+of all else in the economy.
+**
 
 This gives people of great wealth a secondary power to introduce
 money into the economy or remove it at will, effectively creating or
@@ -161,7 +163,7 @@ separate matter.
 
 **Money is a token that can be authenticated and held trustworthy,
 chosen by a community to act as an intermediary in exchanges.
-Money can be created or destroyed.**
+Money can be created or destroyed.**
 
-_That which is essential cannot be seen with the human eye._
-- Antoine Saint Exupery, _The Little Prince,_ 1943
+_That which is essential cannot be seen with the human eye._
+— Antoine Saint Exupery, _The Little Prince,_ 1943
