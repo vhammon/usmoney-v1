@@ -97,7 +97,7 @@ recommend stocking up on gold and guns and planting a garden.
 There are other options. Preferably, we will call on our wisest selves
 NOW and take action before it is too late.
 Our current money supply is on the high ascending slope of an
-exponential curve [(Chapter 2.7).](/book/chapter-2/section-2-7/) The meltdowns will inevitably be
+exponential curve [(Chapter 2.7).](/book/chapter-2/section-7/) The meltdowns will inevitably be
 bigger and bigger until the entire system collapses. If we do not take
 preventive action now, we can at least educate ourselves, understand
 alternatives, and increase our options.
@@ -106,12 +106,12 @@ Right now we urgently need to get basic information broadly
 dispersed to inform a constructive national debate. My goal is to stick
 to the basics. This means there is room to present deeper analysis and
 supporting evidence for my conclusions. There are links to additional
-information and discussion forums on the website, USMoney.US.
+information and discussion forums on the website, [USMoney.US.](https://usmoney.us/)
 
 I welcome your constructive arguments. I’m happy to have my
 conclusions challenged with evidence. I have also accumulated some
 puzzling data and welcome fellow puzzlers. I can be reached about
-the contents of this book at [USMoney.US.](https://usmoney.us/)
+the contents of this book at [USMoney.US.](https://usmoney.us/).
 
 **We have a choice.**
 
