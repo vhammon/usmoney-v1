@@ -96,7 +96,7 @@ It could be one or more of the following:
 * maintaining accounts
 * by keystroke
 
-**Created & entered?**\
+**Created & entered?**
 How will it be entered into the economy? Will it become money by:
 
 * gifting it into the economy
