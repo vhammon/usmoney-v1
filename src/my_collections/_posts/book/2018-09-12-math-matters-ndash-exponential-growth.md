@@ -1,11 +1,11 @@
 ---
 layout: chapter
+date: 2018-09-12T07:00:00.000Z
 title: Math matters &ndash; exponential growth
 subtitle: 'You can have your own opinion, but you can’t have your own math.'
 section-number: 7
 chapter-number: 2
 next-section: 8
-date: 2018-09-12T07:00:00.000Z
 share: true
 comments: false
 comments-locked: false
@@ -52,13 +52,15 @@ increase in the amount of activity. The fourth child seemed an
 exponential increase!)
 
 There is a wonderful Indian folktale, _One Grain of Rice,_ about a young
-girl who earns a reward from a stingy Rajah. She asks for a reward of one grain of rice on the first day, and double the amount of rice from
+girl who earns a reward from a stingy Rajah. She asks for a reward of
+ one grain of rice on the first day, and double the amount of rice from
 the previous day for 30 days total. The Rajah says yes, thinking she’s
 not asking for much. After all, it will only be two grains of rice, then
 four grains, then eight...what a silly girl! By the 30th day of doubling,
 it takes 536,870,912 grains of rice to make the day’s payment. Over
 the 30 days, the girl has received more than a billion grains of rice –
 all of the Rajah’s stores!
+
 Humans are often focused on the present, and exponential growth
 can lull us to sleep with its slow growth beginning. This is such an
 important concept, here is another look at exponential growth in a
@@ -88,7 +90,8 @@ One day, the algae cover half of the lake surface. People look out
 and say, _“Hmm, looks like we’ve got a growing problem. We will have
 to act soon. Maybe we should set up a commission to study it.”_ Others
 point out the algae only cover half the lake, and it would cost too
-much money to do anything about it, and surely some enterprising entrepreneur will step in and fix it. The next day, the lake is covered
+much money to do anything about it, and surely some enterprising
+ entrepreneur will step in and fix it. The next day, the lake is covered
 and all the fish die.
 
 NO living system on planet earth can sustain exponential growth.
