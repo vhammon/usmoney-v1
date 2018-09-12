@@ -140,10 +140,9 @@ the table for discussion.
 
 * Owned by government or
 * Owned by a wealthy, hereditary elite or
-* Owned by anyone in the private sector who can afford
-    to buy them
+* Owned by anyone in the private sector who can afford to buy them
        - unregulated or
-       -* some sectors regulated (e.g., to prevent monopolies) or
+       - some sectors regulated (e.g., to prevent monopolies) or
 * Owned jointly by those working to produce
 
 **Production quantities and allocation**
@@ -166,15 +165,13 @@ the table for discussion.
 
 * Military dictatorship – rule by physical power and force
 * Hereditary dictatorship – rule by cultural or religious edict
-* Monarchy – rule by a single person or by cultural or
-    religious edict
+* Monarchy – rule by a single person or by cultural or religious edict
 * Plutocracy – rule by the rich
 * Oligarchy – rule by a few
 
 **Based on an ideology**
 
-* Theocracy (authority resides in religious leaders and their
-    interpretation of texts)
+* Theocracy (authority resides in religious leaders and their interpretation of texts)
 * Authority from the writings of exalted thinkers
 
 **Based on law (republic)**
