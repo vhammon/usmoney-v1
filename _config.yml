@@ -160,7 +160,7 @@ defaults:
       comment-locked: false
       left-aside: true
       right-aside-top: true
-      right-aside-bottom: true
+      right-aside-bottom: false
       bottom-cta: true
       pin-it: true
       share: true

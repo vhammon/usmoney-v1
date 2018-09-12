@@ -5,8 +5,8 @@ start: true
 next-section: 0
 discuss: https://forum.usmoney.us/t/introduction-0-8-us-money-earlier
 date: 2018-08-02T07:00:00.000Z
-comments: true
-share: true
+comments: false
+share: false
 categories:
   - book
 tags:
@@ -18,10 +18,10 @@ The research and writing has been a decade long effort, supported by family, fri
 
 A wonderful, supportive family made this work possible. I am deeply grateful.
 
-Published by Great Democracy Media, Inc.
+Published by Great Democracy Media, Inc.  
 Portland, Oregon
 
-Cover and book design by Christopher C.B. Telemann – telemann.ink
+Cover and book design by Christopher C.B. Telemann
 
 Printed in the United States of America
 
