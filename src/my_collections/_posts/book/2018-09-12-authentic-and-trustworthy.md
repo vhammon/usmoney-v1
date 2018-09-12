@@ -1,10 +1,10 @@
 ---
 layout: chapter
+date: 2018-09-12T07:00:00.000Z
 title: Authentic and Trustworthy
 section-number: 19
 chapter-number: 3
 next-section: 20
-date: 2018-09-12T07:00:00.000Z
 share: true
 comments: false
 comments-locked: false
@@ -58,6 +58,7 @@ as a subject that could be studied scientifically. According to the misconceptio
 mathematical formulas, collects the right data and plugs it into a
 computer – Presto! we get an economic theory with which to manage
 economies or make stock picks.
+
 It is a false and dangerous premise. For example, in 2000 a
 mathematician named David X. Li created a formula called the
 Gaussian Copula Function. In February 2009, Wired magazine
@@ -67,7 +68,7 @@ _...an unambiguously positive breakthrough, a piece of financial technology that
 allowed hugely complex risks to be modeled with more ease and accuracy than
 ever before. With his brilliant spark of mathematical legerdemain, Li made it
 possible for traders to sell vast quantities of new securities, expanding financial
-markets to unimaginable levels.^7_
+markets to unimaginable levels.^7_
 
 Risk was supposed to be readily managed and reduced almost entirely.
 It wasn’t. And, this blind faith in mathematical predictability and
@@ -87,9 +88,9 @@ market advocates want the invisible hand of this mythical, rational
 marketplace to rule as the ultimate authority. They want political
 government to leave them alone – free to do as the market will allow.
 In essence, they are demanding those with the most money rule,
-because that is the predictable outcome when money is given free rein - it reigns.
+because that is the predictable outcome when money is given free rein — it reigns.
 
-## Trustworthiness and wealth
+## Trustworthiness and wealth
 
 Wealth and the power it bestows establish the trustworthiness of most
 money by serving as a form of guarantee. This wealth can belong
@@ -106,7 +107,7 @@ idea is that all these private owners will act rationally to protect their
 investment and everything will work out for the best. This ignores
 that we live in community and the well-intentioned, ignorant, or
 selfish actions of others can do irreparable harm to all of us – and do
-so, on a daily basis (Chapter 6).
+so, on a daily basis [(Chapter 6).](https://usmoney.us/book/chapter-6)
 
 In reality, we share in the common wealth of our communities and
 our nation. A safe community, with good schools, public libraries,
@@ -126,7 +127,8 @@ healthier our planet, the healthier we will all be. We only have one
 planet and we are on this big blue space ship together.
 
 The idea of wealth and common wealth and the roles they play in
-a society strays into economic and political theory. However, it intersects with monetary theory; wealth can guarantee that a money
+a society strays into economic and political theory. However, it
+ intersects with monetary theory; wealth can guarantee that a money
 is trustworthy – whether the wealth is owned by individuals or
 governments.
 
