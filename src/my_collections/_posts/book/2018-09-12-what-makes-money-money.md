@@ -131,8 +131,7 @@ the supply to suit their purpose. In any system that allows a few
 individuals to control significant percentages of the total wealth,
 these individuals will be able to control the amount of money in the
 economy. Hence they will be able to control its value and **the value
-of all else in the economy.
-**
+of all else in the economy.**
 
 This gives people of great wealth a secondary power to introduce
 money into the economy or remove it at will, effectively creating or
