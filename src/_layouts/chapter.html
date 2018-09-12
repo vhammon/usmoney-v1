@@ -14,6 +14,12 @@ layout: default
     <h1 class="uk-h1 {% if page.image %} uk-margin-medium-top {% endif %} uk-margin-remove-bottom" itemprop="name headline">
       {{ page.title | markdownify | markdownify | replace: '<p>', '' | replace: '</p>', '' | widont }}
   </h1>
+  {% if page.subtitle %}
+  <h2>{{ page.subtitle }}</h2>
+  {% endif% }
+  {% if page.subtitle-2 %}
+  <h3>{{ page.subtitle-2 }}</h3>
+  {% endif% }
     <p class="post-meta uk-margin-top uk-margin-remove-bottom">
       by
       <span itemprop="author" itemscope itemtype="http://schema.org/Person">

@@ -4,6 +4,7 @@ title: Clear thinking matters
 section-number: 12
 chapter-number: 2
 next-section: 13
+chapter-end: true
 date: 2018-09-12T07:00:00.000Z
 share: true
 comments: false

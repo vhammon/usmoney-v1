@@ -7,6 +7,9 @@
   font-weight: $condensed-weight;
 }
 
+.uk-navbar-container {
+    z-index: 500 !important;
+}
 .nav-wrap {
   z-index: 500 !important;
 }
