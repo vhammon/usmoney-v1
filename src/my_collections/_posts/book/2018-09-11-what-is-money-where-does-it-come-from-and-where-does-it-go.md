@@ -1,11 +1,11 @@
 ---
 layout: chapter
+date: 2018-09-11T07:00:00.000Z
 title: What is money?
 subtitle: Where does it come from and where does it go?
 section-number: 3
 chapter-number: 1
 next-section: 4
-date: 2018-09-11T07:00:00.000Z
 share: true
 comments: false
 comments-locked: false
@@ -26,7 +26,7 @@ _It is well enough that people of the nation do not understand our banking
 and monetary system, for if they did, I believe there would be a revolution
 before tomorrow morning._
 
-- Attributed to Henry Ford, Sr. (1863–1947)
+—Attributed to Henry Ford, Sr. (1863–1947)
 by Representative Charles G. Binderup of
 Nebraska, Congressional Record, 1937^6
 
