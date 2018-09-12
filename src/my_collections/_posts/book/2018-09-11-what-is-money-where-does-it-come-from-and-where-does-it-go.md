@@ -26,7 +26,7 @@ _It is well enough that people of the nation do not understand our banking
 and monetary system, for if they did, I believe there would be a revolution
 before tomorrow morning._
 
--Attributed to Henry Ford, Sr. (1863–1947)
+—Attributed to Henry Ford, Sr. (1863–1947)
 by Representative Charles G. Binderup of
 Nebraska, Congressional Record, 1937^6
 
