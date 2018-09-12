@@ -29,6 +29,7 @@ collections:
       - {label: "Section Number", name: "section-number", widget: "number", valueType: "int", required: true}
       - {label: "Chapter Number", name: "chapter-number", widget: "number", valueType: "int", required: true}
       - {label: "Next Section Number", name: "next-section", widget: "number", valueType: "int", required: true}
+      - {label: "End of Chapter", name: "chapter-end", widget: "boolean", default: false, required: false}
       - {label: "Discourse Page", name: "discourse-page", widget: "string", required: false}
       - {label: "Add Social Share Links", name: "share", widget: "boolean", default: true, required: false}
       - {label: "Allow Comments", name: "comments", widget: "boolean", default: false, required: false}
