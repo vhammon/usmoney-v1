@@ -21,6 +21,8 @@ collections:
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "chapter"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1", required: true}
+      - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
+      - {label: "Subtitle 2", name: "subtitle-2", widget: "string", required: false}
       - {label: "Focus Keyword", name: "focus-keyword", widget: "string", required: false}
       - {label: "Meta Description", name: "meta-description", widget: "string", required: false}
       - {label: "Section Number", name: "section-number", widget: "number", required: true}

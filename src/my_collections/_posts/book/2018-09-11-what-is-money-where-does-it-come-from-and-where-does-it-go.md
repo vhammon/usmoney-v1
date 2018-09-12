@@ -1,9 +1,10 @@
 ---
-layout: post
-title: What is money? Where does it come from and where does it go?
-section-number: '3'
-chapter-number: '1'
-next-section: '4'
+layout: chapter
+title: What is money?
+subtitle: Where does it come from and where does it go?
+section-number: 3
+chapter-number: 1
+next-section: 4
 date: 2018-09-11T07:00:00.000Z
 share: true
 comments: false
@@ -15,7 +16,9 @@ bottom-cta: true
 download: false
 pin-it: true
 categories:
-  - book
+- book
+- chapter-1
+- section-1-3
 tags:
   - money
 ---

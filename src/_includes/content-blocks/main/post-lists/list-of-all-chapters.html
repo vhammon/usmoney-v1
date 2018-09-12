@@ -2,13 +2,14 @@
 <div class="acknowledgments uk-margin">
      <a href="/book/acknowledgements/">Acknowledgements</a>
 </div>
+{% assign sortedPosts = paginator.posts | sort:"section-number" %}
 <ul class="uk-margin-medium-bottom uk-padding-remove-left" uk-accordion>
   {% for i in (1..10) %}
-  {% assign myPosts = paginator.posts | where:"chapter-number", i %}
+  {% assign myPost = sortedPosts | where:"chapter-number", i %}
     <li>
         <a class="uk-accordion-title" href="#">Chapter {{ i }} &ndash; {{ site.data.chapter-titles[i]}}</a>
         <div class="uk-accordion-content">
-          {% for post in myPosts %}
+          {% for post in myPost %}
           <div>
           <span class=" uk-text-uppercase">Section {{ post.chapter-number}}.{{ post.section-number }} &ndash;
             {{ post.title }}</span><br />
