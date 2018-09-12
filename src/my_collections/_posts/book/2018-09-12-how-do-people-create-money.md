@@ -21,7 +21,7 @@ categories:
 tags:
   - money
 ---
-https://usmoney.us/book/chapter-4https://usmoney.us/book/chapter-8There are three aspects to the _how_ of money creation: the tangible, the
+There are three aspects to the _how_ of money creation: the tangible, the
 intangible, and how money is entered into an economy. This is true
 whether or not the actual money token itself is tangible.
 
