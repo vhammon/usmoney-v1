@@ -45,13 +45,14 @@ layout: default
     {{ content }}
     {% if page.start %}
     {% assign chapter-number = 1 %}
+    {% elsif page.chapter-end %}
+    {% assign chapter-number = page.chapter-number | plus: 1 %}
     {% else %}
     {% assign chapter-number = page.chapter-number %}
     {% endif %}
     {% unless page.end %}
-
-    {% assign chapter-name = site.data.chapter-titles[ chapter-number] %}
-  <a href="{{ site.url }}/book/chapter-{{ chapter-number }}/section-{{ page.next-section }}">Next: {{ chapter-name }} {{ chapter-number }}.{{ page.next-section }} <span uk-icon="arrow-right"></span></a>
+    {% assign chapter-name = site.data.chapter-titles[ chapter-number] %} Next:
+  <a href="{{ site.url }}/book/chapter-{{ chapter-number }}/section-{{ page.next-section }}">{{ chapter-name }}&ensp;{{ chapter-number }}.{{ page.next-section }} <span uk-icon="arrow-right"></span></a>
     {% endunless %}
       <hr class="uk-divider-small uk-text-center" />
     {% if page.share %}

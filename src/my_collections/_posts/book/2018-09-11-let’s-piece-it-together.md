@@ -5,6 +5,7 @@ title: Let’s piece it together
 section-number: 4
 chapter-number: 1
 next-section: 5
+chapter-end: true
 share: true
 comments: false
 comments-locked: false
