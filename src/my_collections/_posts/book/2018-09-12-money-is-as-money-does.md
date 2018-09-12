@@ -55,12 +55,13 @@ exchanges with others.
 Our daily living measures began as measures of concrete things –
 an arms-length, a foot, a pace, a bucket, a bushel. Over hundreds
 of years, these measures have been refined and become more
-standardized and abstract. In the mid 20th century, a set of international standard measurements were calibrated to the properties
+standardized and abstract. In the mid 20th century, a set of
+ international standard measurements were calibrated to the properties
 of the elements and then to that of light.
 
 _A meter, which is now accepted internationally as the standard measure of
 length, is “the path travelled by light in a vacuum in 1⁄299,792,458 of a second
-(17th CGPM).^3_
+(17th CGPM).^3_
 
 Value when exchanging a good or service cannot so readily be
 matched to an exact physical standard. We value things for many
@@ -94,7 +95,8 @@ This does not mean things will always cost the same amount. But, it
 means the cost of anything will be determined by production costs
 and supply and demand in the marketplace, not by the availability
 and value of money. So, in a stable value money system, if the
-number of people buying eggs remains in the same proportion to the number eggs laid, the price will remain the same. If more eggs are
+number of people buying eggs remains in the same proportion to the
+ number eggs laid, the price will remain the same. If more eggs are
 in demand, but the supply remains the same, then the price will go
 up. Changes in price represent changes in the market, not changes in
 money’s value.
@@ -125,13 +127,14 @@ with rulers that kept changing the size of one-inch from the length of
 your fingernail to the length of your hand! Well, that is what money
 does in our current system.
 
-##Money is a store of value
+## Money is a store of value
 
 Money represents a fundamental promise from your community that
 the chosen money token will be usable into the future. Money lets us
 translate our work today into something we can exchange for goods
 and services tomorrow and over great distance. As such, it is a store
-of value. Money is best at storing value over the short term because it best serves as a medium of exchange and measure of value when it is
+of value. Money is best at storing value over the short term because it
+ best serves as a medium of exchange and measure of value when it is
 circulating freely and not in storage. In recognition of the importance
 of money as a means of exchange, rather than a store of value, some
 money systems impose the equivalent of a parking fee for keeping
@@ -169,7 +172,8 @@ people of great wealth.
 
 Historically money stored and carried its value over time and distance
 in one of two forms: as an accounting of an IOU (a note), or as a
-tangible commodity (e.g. gold). An IOU or note is vulnerable to the demise of whoever, or whatever, is guaranteeing that the note
+tangible commodity (e.g. gold). An IOU or note is vulnerable to
+ the demise of whoever, or whatever, is guaranteeing that the note
 will eventually be paid. So, people want the strongest most stable
 guarantor possible. For this reason, IOU forms of money have evolved
 to have a central government (community-wide) guarantee, as
@@ -190,4 +194,4 @@ of money.
 **Money is a token, used by agreement of a group of people as a
 medium for exchanging goods and services, for storing value
 over time and distance, and for establishing a measure of value
-across society.**
+across society.**
