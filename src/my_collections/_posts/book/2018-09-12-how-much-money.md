@@ -26,7 +26,7 @@ _There is a certain proportionate quantity of money requisite to carry on
 the trade of a country freely and currently; more than which would be of
 no advantage in trade, and less, if much less, exceedingly detrimental to it._
 
-— Benjamin Franklin, The Nature and Necessity of a Paper Currency, 172915
+— Benjamin Franklin, _The Nature and Necessity of a Paper Currency,_ 1729^15
 
 After the Great Depression, when President Franklin D. Roosevelt
 took office in 1933, one quarter of the US workforce was unemployed.
