@@ -1,10 +1,10 @@
 ---
 layout: chapter
+date: 2018-09-12T07:00:00.000Z
 title: Human nature matters
 section-number: 9
 chapter-number: 2
 next-section: 10
-date: 2018-09-12T07:00:00.000Z
 share: true
 comments: false
 comments-locked: false
@@ -30,8 +30,8 @@ influence. But even the authors who did explain the process did
 so in a few paragraphs and then slid right past the meaning and
 implications of their own explanations. It seemed as if someone had
 performed a Jedi mind trick on them – or they were playing a mind
-trick on themselves and the rest of us. How can these experts be
-unaware of such obvious blind spots?
+trick on themselves and the rest of us. **How can these experts be
+unaware of such obvious blind spots?**
 
 In my research, I also examined every Federal Reserve consolidated
 financial report back to 1914. I built a spreadsheet about the money
@@ -41,7 +41,7 @@ the spreadsheet form a clear exponential growth curve of the money
 supply and today we are on the steep upward end of the money
 supply curve.
 
-History tells us in our current money system, when the money supply
+History tells us _in our current money system,_ when the money supply
 grows outlandishly large, it must be corrected – and the natural
 means of correction in our current money system is recession or
 depression. The pendulum cannot swing wildly in one direction
