@@ -42,8 +42,8 @@ collections:
       - {label: "Featured Image Alt Text", name: "image-alt", widget: "string", required: false}
       - {label: "Share Image (resize for Facebook/Twitter Cards)", name: "share-image", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Categories", name: categories, widget: list, default: stories, required: false}
-      - {label: "Tags", name: tags, widget: list, required: false}
+      - {label: "Categories", name: categories, widget: list, default: [""], required: false}
+      - {label: "Tags", name: tags, widget: list, default: [""], required: false}
     meta:
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
   - label: "Blog Posts"
@@ -70,8 +70,8 @@ collections:
       - {label: "Featured Image Alt Text", name: "image-alt", widget: "string", required: false}
       - {label: "Share Image (resize for Facebook/Twitter Cards)", name: "share-image", widget: "string", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Categories", name: categories, widget: list, default: stories, required: false}
-      - {label: "Tags", name: tags, widget: list, required: false}
+      - {label: "Categories", name: categories, widget: list, default: [""], required: false}
+      - {label: "Tags", name: tags, widget: list, default: [""], required: false}
     meta:
       - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
   - label: "Pages"
