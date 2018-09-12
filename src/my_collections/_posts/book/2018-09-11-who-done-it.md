@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: chapter
 title: Who Done It?
 section-number: 2
 chapter-number: 1
@@ -15,7 +15,9 @@ bottom-cta: true
 download: false
 pin-it: false
 categories:
-  - 'book'
+  - book
+  - chapter-1
+  - section-1-2
 tags:
   - 'money'
 ---

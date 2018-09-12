@@ -19,7 +19,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "chapter"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1", required: true}
       - {label: "Focus Keyword", name: "focus-keyword", widget: "string", required: false}
       - {label: "Meta Description", name: "meta-description", widget: "string", required: false}

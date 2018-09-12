@@ -74,7 +74,7 @@ lsi: false
 # limit_posts: 10
 
 # Permalink structure and pagination options
-permalink: :categories/:title/
+permalink: /:categories/
 
 # Markdown library and options
 markdown: kramdown

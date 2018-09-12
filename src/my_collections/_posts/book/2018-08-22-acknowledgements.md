@@ -9,6 +9,7 @@ comments: false
 share: false
 categories:
   - book
+  - acknowledgements
 tags:
   - null
 ---
