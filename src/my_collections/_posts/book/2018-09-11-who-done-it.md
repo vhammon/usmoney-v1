@@ -1,10 +1,10 @@
 ---
 layout: chapter
+date: 2018-09-11T07:00:00.000Z
 title: Who Done It?
 section-number: 2
 chapter-number: 1
 next-section: 3
-date: 2018-09-11T07:00:00.000Z
 share: true
 comments: false
 comments-locked: false
@@ -76,8 +76,7 @@ to the very rich. We end up accepting economic harm as the norm
 because we fail to understand how the system we have makes these
 undesirable outcomes inevitable.
 
-**That’s no way to run a country.**
-**We can change this system.**
+**That’s no way to run a country.  We can change this system.**
 
 There are many excellent books out about the latest financial
 meltdown, which join other excellent books about the previous
