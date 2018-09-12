@@ -19,7 +19,7 @@ categories:
   - chapter-1
   - section-1-2
 tags:
-  - 'money'
+  - money
 ---
 I love a good murder mystery. So, as I read the paper and watch the
 news, I wonder, what is poisoning and crippling our nation? Will
@@ -60,7 +60,7 @@ banking systems. This book is the result. After 10 years of intensive study, I�
 structural component of a community. It sets the boundaries of
 commerce, determines who gets rich and stays rich, who becomes
 poor and stays poor. It determines whether privilege or hard work
-reigns. It determines whether we work toward a “more perfect Union”
+reigns. It determines whether we work toward a _“more perfect Union”_
 or toward extraordinary wealth disparity. Because a money system
 is a matter of choice, as we shall see, it is a practical reflection of
 our values.
@@ -95,11 +95,10 @@ There is substantial historical evidence, and a mathematical certainty
 predicts an even bigger whopper of a meltdown very soon. Some
 recommend stocking up on gold and guns and planting a garden.
 
-
 There are other options. Preferably, we will call on our wisest selves
 NOW and take action before it is too late.
 Our current money supply is on the high ascending slope of an
-exponential curve (Chapter 2.7). The meltdowns will inevitably be
+exponential curve [(Chapter 2.7).](/book/chapter-2/section-2-7/) The meltdowns will inevitably be
 bigger and bigger until the entire system collapses. If we do not take
 preventive action now, we can at least educate ourselves, understand
 alternatives, and increase our options.
@@ -113,7 +112,7 @@ information and discussion forums on the website, USMoney.US.
 I welcome your constructive arguments. I’m happy to have my
 conclusions challenged with evidence. I have also accumulated some
 puzzling data and welcome fellow puzzlers. I can be reached about
-the contents of this book at USMoney.US.
+the contents of this book at [USMoney.US.](https://usmoney.us/)
 
 **We have a choice.**
 
@@ -132,7 +131,6 @@ vanishes. If you understand the basics of our money system, and
 share your understanding with at least two of your friends, and they
 engage two of their friends, then we have the makings of a productive
 problem-solving movement.
-
 
 Our monetary system is so bizarre, you will likely say many times,
 _“That can’t be true!”_ before you can accept it for what it is. It took me
