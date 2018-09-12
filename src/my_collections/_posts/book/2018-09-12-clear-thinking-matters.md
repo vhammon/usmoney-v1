@@ -141,8 +141,8 @@ the table for discussion.
 * Owned by government or
 * Owned by a wealthy, hereditary elite or
 * Owned by anyone in the private sector who can afford to buy them
-       - unregulated or
-       - some sectors regulated (e.g., to prevent monopolies) or
+    - unregulated or
+    - some sectors regulated (e.g., to prevent monopolies) or
 * Owned jointly by those working to produce
 
 **Production quantities and allocation**
