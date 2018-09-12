@@ -1,11 +1,11 @@
 ---
 layout: chapter
+date: 2018-09-12T07:00:00.000Z
 title: Human nature
 subtitle: The blind men and the elephant
 section-number: 10
 chapter-number: 2
 next-section: 11
-date: 2018-09-12T07:00:00.000Z
 share: true
 comments: false
 comments-locked: false
@@ -26,7 +26,7 @@ An old Sufi story tells of a long ago king who heard stories about an
 enormous and strange animal in a faraway land. He was curious to
 know more about it and sent his wisest men to learn what they could
 and return to inform him. His wisest men set out to find the animal
-called elephant.
+called _elephant._
 
 After months of journeying they came to the land of elephants and
 were taken to see one. Now as it happened, these wise men, though
