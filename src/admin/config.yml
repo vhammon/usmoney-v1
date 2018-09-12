@@ -20,6 +20,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "chapter"}
+      - {label: "Publish Date/Time", name: "date", widget: "datetime", default: ""}
       - {label: "Title", name: "title", widget: "string", tagname: "h1", required: true}
       - {label: "Subtitle", name: "subtitle", widget: "string", required: false}
       - {label: "Subtitle 2", name: "subtitle-2", widget: "string", required: false}
@@ -29,7 +30,6 @@ collections:
       - {label: "Chapter Number", name: "chapter-number", widget: "number", valueType: "int", required: true}
       - {label: "Next Section Number", name: "next-section", widget: "number", valueType: "int", required: true}
       - {label: "Discourse Page", name: "discourse-page", widget: "string", required: false}
-      - {label: "Publish Date/Time", name: "date", widget: "datetime", default: ""}
       - {label: "Add Social Share Links", name: "share", widget: "boolean", default: true, required: false}
       - {label: "Allow Comments", name: "comments", widget: "boolean", default: false, required: false}
       - {label: "Commenting is Locked (no new comments allowed)", name: "comments-locked", widget: "boolean", default: false, required: false}
