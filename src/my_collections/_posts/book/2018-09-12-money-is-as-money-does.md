@@ -1,11 +1,11 @@
 ---
 layout: chapter
+date: 2018-09-12T07:00:00.000Z
 title: Money is as money does
 subtitle: 'Money functions: tool, measure, store of value'
 section-number: 15
 chapter-number: 3
 next-section: 16
-date: 2018-09-12T07:00:00.000Z
 share: true
 comments: false
 comments-locked: false
@@ -57,9 +57,10 @@ an arms-length, a foot, a pace, a bucket, a bushel. Over hundreds
 of years, these measures have been refined and become more
 standardized and abstract. In the mid 20th century, a set of international standard measurements were calibrated to the properties
 of the elements and then to that of light.
-A meter, which is now accepted internationally as the standard measure of
+
+_A meter, which is now accepted internationally as the standard measure of
 length, is “the path travelled by light in a vacuum in 1⁄299,792,458 of a second
-(17th CGPM).^3
+(17th CGPM).^3_
 
 Value when exchanging a good or service cannot so readily be
 matched to an exact physical standard. We value things for many
@@ -82,7 +83,7 @@ unit of money into a general measure of value.
 Depending on the money system, money can be a variable or fixed
 measuring stick.
 
-In a stable value money system, money as a measure does not
+In a **stable value** money system, money as a measure does not
 shrink and stretch; it remains fixed. The amount of money in the
 system, while it may increase, remains proportional to the goods and
 services available. Once proportion and value are established in the
@@ -134,10 +135,11 @@ of value. Money is best at storing value over the short term because it best se
 circulating freely and not in storage. In recognition of the importance
 of money as a means of exchange, rather than a store of value, some
 money systems impose the equivalent of a parking fee for keeping
-money out of circulation. This fee is called demurrage in reference
+money out of circulation. This fee is called _demurrage_ in reference
 to the charge applied when goods on a ship are not unloaded by the
 agreed-upon time. Because applying and collecting demurrage is
 cumbersome, it is rare to find in a money system.
+
 Depending on the money system, money may be a poor choice for
 long-term value storage. By design, in an elastic value money system,
 money will not be a stable store of value. Elastic value money systems
