@@ -17,7 +17,7 @@ download: false
 pin-it: true
 categories:
   - book
-  - chapter-6
+  - chapter-7
   - section-76
 tags:
   - money
@@ -1325,5 +1325,3 @@ how-germany-is-reluctantly-assuming-a-leadership-role-in-nato
 (2009–2018).” American Enterprise Institute. Retrieved August 3, 2018. [http://](http://)
 [http://www.aei.org/china-global-investment-tracker/](http://www.aei.org/china-global-investment-tracker/)
 297 Oxfam. Ibid.
-
-
