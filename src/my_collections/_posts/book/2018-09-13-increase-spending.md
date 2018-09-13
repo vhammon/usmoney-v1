@@ -19,7 +19,7 @@ pin-it: true
 categories:
   - book
   - chapter-6
-  - section-61
+  - section-60
 tags:
   - money
 ---
