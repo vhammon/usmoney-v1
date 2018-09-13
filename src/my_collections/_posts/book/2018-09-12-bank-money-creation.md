@@ -2,10 +2,10 @@
 layout: chapter
 date: 2018-09-12T07:00:00.000Z
 title: Bank money creation
-subtitle: ANCHORED BY RESERVES
-section-number: 34
+subtitle: ANCHORED BY bank’s capital
+section-number: 35
 chapter-number: 4
-next-section: 35
+next-section: 36
 chapter-end: false
 share: true
 comments: false
@@ -19,81 +19,116 @@ pin-it: true
 categories:
   - book
   - chapter-4
-  - section-34
+  - section-35
 tags:
   - money
 ---
-_Yet few people not versed in banking ever dream that their money ‘in the bank’
-is not in the bank; and few people versed in banking ever dream that the
-money which is not there ought to be there, or that it is practical to have it there._  
-— Irving Fisher, Economist, 1936^12
+In a privately run reserve money creation system, the pressure to
+expand the money supply is like the force of water carving out a
+canyon. Overtime, the canyon gets deeper and wider. First, the
+reserve requirements are whittled away to almost nothing. When
+reserve requirements have effectively been eliminated, even bankers
+are willing to admit it might be prudent to have some standard
+limiting how much new money the banks create.
 
-An anchor provides stability or confidence in an otherwise uncertain
-situation. Money created by fractional reserve is inherently uncertain
-and unstable. Yet, this has been the prevailing system for hundreds
-of years. What anchors this money has shrunk over time. The
-next sections look at this evolution from money creation partially
-collateralized with a reserve, to partially collateralized with banker
-equity, to no meaningful collateralization.
+## Capital ratio requirements
 
-By definition, in a fractional reserve money creation system there is
-some money in reserve that anchors the promises made. This reserve
-is there to make the money in circulation more trustworthy. Reserves
-are defined as a portion of the money deposited by customers. This
-is true whether the money is an IOU-receipt for a commodity or an
-IOU-future value promise. In a true fractional reserve system, these
-reserves anchor and constrain the money creation of the private
-bankers. Bankers must first have deposits before they can create new
-money. Then, they must gauge how many reserves they must keep on
-hand to satisfy the demands of their customers and avoid a run on
-their bank.
+As reserve requirements have been phased out, governments have
+instituted requirements that banks have a net worth, also known as
+equity or capital, that is a specified ratio to their assets. This ratio
+of equity to assets is called _leverage,_ because the banks are using
+what they own (equity) as the basis for speculative juggling of their
+own IOUs (liabilities) with the IOUs of others to them (assets). The
+global banking leverage ratio has run in the 2–8 percent range for
+decades. This means when a bank creates new money by lending
+out $100, it must have $2–$8 of its own money on hand to cover
+losses. For example, if too many of the people to whom they have
+issued mortgages default, or too many of their speculative bets prove
+bad, and the value of their net equity drops more than the required
+2–8 percent, they are broke – insolvent.
 
-These deposits become the base of the money creation pyramid
-described in Chapter 4.32. You deposit $100, the bank puts $10 on
-reserve and loans out the other $90. The borrower deposits the $90
-and the bank puts $9 on reserve and loans out another $81. The
-borrower deposits the $81 and the bank adds $8.10 to its reserves and loans out another $72.90. It keeps doing this until it has created
-$1,000 in new money that is circulating with only $100 on reserve.
-The required reserve ratio limits the amount of new money that can
-be created and earn interest for the bankers.
-In a truly fractional reserve money creation system, the deposits from
-customers serve as a control on how much new money can be created.
-The reserves are generally small in proportion to the money banks
-create anew.
+By 2007, the bankers were generally operating at 2–3 percent equity.
+It wasn’t enough. The drops in the value of banks’ assets after the
+2007 market crash were well into the double digits and the banks
+were insolvent. They needed that $16.1 trillion in revolving credit
+from the central bank to stay afloat ([Chapter 3.23](https://usmoney.us/book/chapter-3/section-23) and [Chapter 5.53](https://usmoney.us/book/chapter-5/section-53)).
 
-Some authority decides what the ratio of reserves must be to the new
-money created. It may be that a private, independent bank judges
-from its own experience that keeping 20 percent on hand will protect
-it from any run on the bank. It may be that a private central bank
-demands its cartel members maintain a certain reserve to assure all
-members are sound. It may be a government that says all the nation’s
-banks must maintain a reserve of a specific amount. Historical
-reserves have ranged from almost nothing to almost 90 percent.
+After the 2008 meltdown, a global, voluntary regulatory framework
+for bankers, headquartered at the Bank of International Settlements
+in Switzerland, signed on to what is called the _Basel III Accord_. This
+accord established a voluntary set of standards requiring 8 percent in equity capital as a percentage of all of a bank’s assets. The
+requirements were to be implemented beginning in 2013. But, under
+pressure from the banks, full implementation has been postponed
+until 2019.^14 The Basel III Accord is a recommendation, and it is
+being made law using different accounting standards in different
+countries.
 
-In a fractional reserve money creation system, the reserve ratio
-determines how much new money a bank can create. For example,
-if banks must maintain a 10 percent reserve, then they can create 10
-times the money they have from depositors. If they must maintain a
-one percent reserve, then they can create 100 times the money they
-have from depositors. Whatever the ratio, **a fractional reserve money
-creation system requires some money be deposited by the public
-to anchor the creation of new money, and some of those deposits
-must be held on reserve.**
+At 2–8 percent equity, bankers do not have much skin in the game.
+Unlike a reserve requirement, a capital requirement does not demand
+the bank set aside a certain value and keep it out of the action.
 
-## NOT OUR SYSTEM
+An asset can be earning new revenue for them and count as equity.
+The banks are required to keep enough of what are considered
+low-risk assets to serve as this equity anchor. However, as with reserve
+requirements, the banks work hard to minimize any loss of profit. In
+this endeavor, they have had a great deal of control over how their
+assets should be counted in these calculations. Their manipulation
+of governments and laws has rendered capital requirements nearly as
+meaningless as reserve requirements.
 
-In practice, this is not the bank system we currently have, especially
-for the five or six big banks that control most of the banking business.
-We have a fractional reserve system in name only. Smaller, local
-and regional banks, which overall have a small share of the money
-creation business, practice this model to some extent. But the big
-banks have been able to manipulate the laws to the point that, for all
-practical purposes, they keep nothing at all on reserve. Overall, our
-banking sector’s creation of new money is not anchored by a need for
-customer deposits that they multiply.
+## Measuring the value of assets
 
-For all intents and purpose, a true reserve money creation system is
-a story of the past. The money multiplier affects less than 10 percent
-of the money supply (in the US), and, _“the tight link suggested by the
-multiplier between reserves and money and bank lending does not exist.”_
-Federal Reserve, 2010^13
+What banks own and count as their equity-capital may consist of
+precious metals, commodities, property, or claims to any to these.
+Equity may also consist of high value IOUs such as government bonds,
+or the IOU promises from institutions with a high rating. Most banks’
+assets are other people’s IOUs of one kind or another.
+
+Some IOU promises are more likely to be kept than others. Your high-
+risk-taking Uncle Ernie is not as secure a bet as Uncle Sam – the US
+government. And, broad economic conditions can negatively impact
+even the most responsible of borrowers. Since an IOU is vulnerable
+to default, and properties pledged are vulnerable to destruction or
+devaluation, governments require banks to risk-weight the value of
+their assets.
+
+However, banks have convinced most governments they should be
+allowed to create their own formulas to determine how to weight
+their bets when calculating their reportable assets. Banks and governments have established elaborate systems and standards for risk-weighting assets. Unfortunately, the more elaborate the standards,
+the more likely it is that bankers find ways to game them. And, that
+is what happens.
+
+It is clear it is NOT easy for banks to see where hazards may lie, and
+pretty foolish to allow them to create their own formulas for risk-
+weighting their own assets, when they put the entire economy in
+jeopardy with their decisions in our current system.
+
+## Anchor assets-Government IOUs
+
+In the US, and to a lesser and lessening extent abroad, US
+Government debt is considered the best bet of all and is expected to
+anchor a bank’s other bets with a degree of certain return. According
+to the International Monetary Fund, US dollars make up 63 percent
+of the foreign exchange reserves held by global banks.^15 In the United
+States, banks count US government debt as sound as cash or gold.
+So, under our current system, government debt has a key role in
+the purported stability of the system. Because US government debt
+fills this anchor role, there must be enough of it to anchor the new
+money created by the private banking sector. The more money the
+private bankers create, the more US government debt there must be
+to count towards the stability and security of their choices. A graph of
+government debt roughly follows the same exponential curve as the
+total money supply created by the private bankers.
+
+Hence, it makes no sense to talk about reducing government
+overspending and debt when the money system in place **requires
+government debt keep up with the money creation of the
+private bankers.**
+
+### Politicians with a poor understanding
+
+ANY politician who says the government should keep within its
+budget, just as individuals should, does not understand our monetary
+system. And, that is dangerous. Politicians who believe this will be
+easy to manipulate and will make poor decisions, since their decisions
+will NOT be grounded in an understanding of our money system.
