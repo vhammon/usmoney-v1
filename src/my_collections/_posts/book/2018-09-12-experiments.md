@@ -154,7 +154,7 @@ a commodity money with increasing value, as it was designed to do.
 Because, it is designed to have a steadily increasing value, a few will
 benefit at the expense of the many.
 
-##In a Bitcoin money system...
+## In a Bitcoin money system...
 
 Bitcoin is designed to mimic a commodity based money system,
 but one could design a virtual money system based on other money
@@ -186,6 +186,7 @@ makes it a haven for people who wish privacy for their buying and
 selling. Unfortunately, criminal elements fall into this group.
 
 #### DOES IT HAVE A COMMUNITY-WIDE AGREEMENT TO USE IT
+
 AS AN INTERMEDIARY IN EXCHANGES?
 
 Yes, though the community using it to buy and sell goods and
@@ -314,8 +315,7 @@ on January 14, 2015. When a new government regulated bit coin
 exchange came on line in late January 2015, the value moved up
 into the $250–300 range, and rose above $400 by 2016. From 2016
 to 2018 the price skyrocketed to $19,783 in December 2017, before
-plummeting in a month to $7,964, where it has mostly remained into
-2018. Volatility is high and I can’t keep this section up to date.
+plummeting in a month to $7,964, where it has mostly remained into 2018. Volatility is high and I can’t keep this section up to date.
 
 Can it be a store of value over time and distance? Yes. Bitcoin is
 designed to be a coin with a steadily increasing value. Because the
@@ -361,6 +361,7 @@ supply. Whoever initiated the creation of Bitcoins – and it is a secret eviden
   see what type of money system other crypto-currencies choose.
 
 ## Endnotes
+
 4.28 Commodity Money
 1 Locke, John. An Essay on Money & Bullion; Wherein are considered, Value
 Intrinsick and Extrinsick. Money and Bullion compared. Mr. Locke’s Considerations
