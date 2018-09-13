@@ -3,7 +3,7 @@ layout: chapter
 title: Our money system matters
 section-number: 6
 chapter-number: 2
-next-section: 5
+next-section: 7
 date: 2018-09-12T07:00:00.000Z
 share: true
 comments: false
