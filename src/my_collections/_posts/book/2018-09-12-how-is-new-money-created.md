@@ -18,6 +18,8 @@ download: false
 pin-it: true
 categories:
   - book
+  - chapter-5
+  - section-47
 tags:
   - money
 ---
