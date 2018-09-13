@@ -2,9 +2,9 @@
 layout: chapter
 date: 2018-09-13T07:00:00.000Z
 title: 'NO ‘of, by and for the People’'
-section-number: 71
+section-number: 72
 chapter-number: 6
-next-section: 72
+next-section: 73
 chapter-end: false
 share: true
 comments: false
@@ -51,7 +51,7 @@ general welfare and domestic tranquility of our democratic republic.^220
 
 When private bankers create our money, they can afford to buy
 Congress. And they do. A 2014 study by political scientists Martin
-Gilens of Princeton, and Benjamin Page of Northwestern, found, 
+Gilens of Princeton, and Benjamin Page of Northwestern, found,
 
 _the preferences of rich people had a much bigger impact on subsequent policy
 decisions than the views of middle-income and poor Americans. Indeed, the
