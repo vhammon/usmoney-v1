@@ -2,10 +2,10 @@
 layout: chapter
 date: 2018-09-12T07:00:00.000Z
 title: Bank money creation
-subtitle: ANCHORED BY bank’s capital
-section-number: 35
+subtitle: NO ANCHOR
+section-number: 36
 chapter-number: 4
-next-section: 36
+next-section: 37
 chapter-end: false
 share: true
 comments: false
@@ -19,116 +19,77 @@ pin-it: true
 categories:
   - book
   - chapter-4
-  - section-35
+  - section-36
 tags:
   - money
 ---
-In a privately run reserve money creation system, the pressure to
-expand the money supply is like the force of water carving out a
-canyon. Overtime, the canyon gets deeper and wider. First, the
-reserve requirements are whittled away to almost nothing. When
-reserve requirements have effectively been eliminated, even bankers
-are willing to admit it might be prudent to have some standard
-limiting how much new money the banks create.
+_The essence of the contemporary monetary system is creation of money, out
+of nothing, by private banks’ often foolish lending._  
+— Martin Wolf, Financial Times, November 9, 2010^16
 
-## Capital ratio requirements
+There is a natural immature human inclination to find a way around
+the rules if a tangible, immediate reward is at hand. History shows
+us we need our collective grownup selves in the form of governance
+to set limits and curtail bad behavior – especially in the face of
+enormous temptation. What greater temptation than the privilege of
+creating money?
 
-As reserve requirements have been phased out, governments have
-instituted requirements that banks have a net worth, also known as
-equity or capital, that is a specified ratio to their assets. This ratio
-of equity to assets is called _leverage,_ because the banks are using
-what they own (equity) as the basis for speculative juggling of their
-own IOUs (liabilities) with the IOUs of others to them (assets). The
-global banking leverage ratio has run in the 2–8 percent range for
-decades. This means when a bank creates new money by lending
-out $100, it must have $2–$8 of its own money on hand to cover
-losses. For example, if too many of the people to whom they have
-issued mortgages default, or too many of their speculative bets prove
-bad, and the value of their net equity drops more than the required
-2–8 percent, they are broke – insolvent.
+Over the past century, the banks of the world with the privilege
+of creating our money, have managed a steady deregulation of the
+banking sector that in practice removed deposit reserve requirements
+and nearly any meaningful capital-equity requirements. Great Britain
+removed reserve requirements in 1888. The US still has some reserve
+requirements in place, but they are readily, routinely and legally
+circumvented. For at least the past 50 years in the US, the multiplier
+model of reserve banking has hardly applied to US banking and
+money creation, although it is still taught in economics classes, and
+we still call our banking system, The Federal _Reserve_ System. So,
+once the reserve requirements are gone, and the capital requirements
+are almost nonexistent, what determines how much new money
+is created?
 
-By 2007, the bankers were generally operating at 2–3 percent equity.
-It wasn’t enough. The drops in the value of banks’ assets after the
-2007 market crash were well into the double digits and the banks
-were insolvent. They needed that $16.1 trillion in revolving credit
-from the central bank to stay afloat ([Chapter 3.23](https://usmoney.us/book/chapter-3/section-23) and [Chapter 5.53](https://usmoney.us/book/chapter-5/section-53)).
+## The bankers’ moods
 
-After the 2008 meltdown, a global, voluntary regulatory framework
-for bankers, headquartered at the Bank of International Settlements
-in Switzerland, signed on to what is called the _Basel III Accord_. This
-accord established a voluntary set of standards requiring 8 percent in equity capital as a percentage of all of a bank’s assets. The
-requirements were to be implemented beginning in 2013. But, under
-pressure from the banks, full implementation has been postponed
-until 2019.^14 The Basel III Accord is a recommendation, and it is
-being made law using different accounting standards in different
-countries.
+The moods of private bankers become the only limit on their creation
+of new money through the issuance of credit-debt. When bankers
+are confident the economy is perking along and they think they are
+likely to be repaid, they create new money by freely handing out new loans. When considering just how freely, think of the NINJA
+loans of the early 2000s (No INcome, Job or Assets); banks were
+making $500,000 house loans without requiring proof of income,
+employment or assets.^17 When the inevitable bubble pops, the
+bankers are doom and gloomy and money is tight. People suffer.
 
-At 2–8 percent equity, bankers do not have much skin in the game.
-Unlike a reserve requirement, a capital requirement does not demand
-the bank set aside a certain value and keep it out of the action.
+Bankers have convinced academics and Congress that this cycle of
+boom and bust, exuberance and restraint is a normal economic-
+business cycle. It is not. There is a natural business cycle from new, to
+we-must-all-have-this, to ho-hum, to gone and forgotten, to the next
+new thing. Think of the businesses that boomed and collapsed as we
+innovated from phonograph records to the cloud: the manufacturers
+of record players, magnetic tape decks, 8-track and then cassette
+players. Think of the video stores, and the manufacturers of all the
+products supporting these technologies.
 
-An asset can be earning new revenue for them and count as equity.
-The banks are required to keep enough of what are considered
-low-risk assets to serve as this equity anchor. However, as with reserve
-requirements, the banks work hard to minimize any loss of profit. In
-this endeavor, they have had a great deal of control over how their
-assets should be counted in these calculations. Their manipulation
-of governments and laws has rendered capital requirements nearly as
-meaningless as reserve requirements.
+There is also the business cycle of a successful bandwagon. Selling
+Christmas trees is a ready example of this common business cycle.
+If only a few people are selling, they can demand full price and sell
+out, making a nice profit. Interested people notice and the next year
+more people decide to sell Christmas trees. If in the next year there
+are too many sellers, no one will sell their entire inventory, and many
+will lose money. Then the year after, there will be only the few who
+survived. Of course, this pattern repeats.
 
-## Measuring the value of assets
+## Money force not market force
 
-What banks own and count as their equity-capital may consist of
-precious metals, commodities, property, or claims to any to these.
-Equity may also consist of high value IOUs such as government bonds,
-or the IOU promises from institutions with a high rating. Most banks’
-assets are other people’s IOUs of one kind or another.
+Our money system inflates the entire economy like a giant balloon
+until it pops. The idea that this is a natural economic cycle of boom
+and bust is part of the con. An entire economy that cycles from boom
+to bust every 7–12 years is only natural in a private money creation
+system such as ours; a fractional reserve money creation system is
+prone to asset bubbles and market crashes. They are part and parcel
+of this system.
 
-Some IOU promises are more likely to be kept than others. Your high-
-risk-taking Uncle Ernie is not as secure a bet as Uncle Sam – the US
-government. And, broad economic conditions can negatively impact
-even the most responsible of borrowers. Since an IOU is vulnerable
-to default, and properties pledged are vulnerable to destruction or
-devaluation, governments require banks to risk-weight the value of
-their assets.
+**Boom and bust can happen in any business, but it only happens
+in an entire economy when the money supply itself is ballooning
+and bursting.**
 
-However, banks have convinced most governments they should be
-allowed to create their own formulas to determine how to weight
-their bets when calculating their reportable assets. Banks and governments have established elaborate systems and standards for risk-weighting assets. Unfortunately, the more elaborate the standards,
-the more likely it is that bankers find ways to game them. And, that
-is what happens.
-
-It is clear it is NOT easy for banks to see where hazards may lie, and
-pretty foolish to allow them to create their own formulas for risk-
-weighting their own assets, when they put the entire economy in
-jeopardy with their decisions in our current system.
-
-## Anchor assets-Government IOUs
-
-In the US, and to a lesser and lessening extent abroad, US
-Government debt is considered the best bet of all and is expected to
-anchor a bank’s other bets with a degree of certain return. According
-to the International Monetary Fund, US dollars make up 63 percent
-of the foreign exchange reserves held by global banks.^15 In the United
-States, banks count US government debt as sound as cash or gold.
-So, under our current system, government debt has a key role in
-the purported stability of the system. Because US government debt
-fills this anchor role, there must be enough of it to anchor the new
-money created by the private banking sector. The more money the
-private bankers create, the more US government debt there must be
-to count towards the stability and security of their choices. A graph of
-government debt roughly follows the same exponential curve as the
-total money supply created by the private bankers.
-
-Hence, it makes no sense to talk about reducing government
-overspending and debt when the money system in place **requires
-government debt keep up with the money creation of the
-private bankers.**
-
-### Politicians with a poor understanding
-
-ANY politician who says the government should keep within its
-budget, just as individuals should, does not understand our monetary
-system. And, that is dangerous. Politicians who believe this will be
-easy to manipulate and will make poor decisions, since their decisions
-will NOT be grounded in an understanding of our money system.
+**This is our system now.**
