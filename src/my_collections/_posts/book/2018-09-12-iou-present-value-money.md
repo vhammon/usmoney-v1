@@ -23,7 +23,7 @@ categories:
 tags:
   - money
 ---
-<https://usmoney.us/book/chapter-4/section-32>We have discussed tangible commodity money, now let’s consider
+We have discussed tangible commodity money, now let’s consider
 money that _represents_ a commodity or real asset with an IOU (keep in
 mind we are using the traditional but misleading frame for defining
 money systems by their token).
