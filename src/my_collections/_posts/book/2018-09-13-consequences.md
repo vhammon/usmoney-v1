@@ -1,10 +1,11 @@
 ---
 layout: chapter
 date: 2018-09-13T07:00:00.000Z
-title: Consequences
-section-number: 56
-chapter-number: 6
-next-section: 57
+title: consequences
+subtitle: sustainable life
+section-number: 88
+chapter-number: 9
+next-section: 89
 chapter-end: false
 share: true
 comments: false
@@ -17,72 +18,85 @@ download: false
 pin-it: true
 categories:
   - book
-  - chapter-6
-  - section-56
+  - chapter-9
+  - section-88
 tags:
   - money
 ---
-Our money system choice has consequences. In this Chapter, I make
-the case for changing our money system to one that more closely
-matches the values we champion. The first five chapters of this book
-have been explanatory. This chapter offers analysis, opinion and
-supporting evidence. As I’ve worked on finding links to the evidence
-for the endnotes, I’ve discovered I was wrong about some things.
-Sometimes I could find multiple sources that repeated the same story,
-but I couldn’t find an original source for the data-facts, and had
-to revise or eliminate a point. It’s a challenging world out there of
-stories, facts, and _alternative facts._ We can help each other find a path
-to understanding and solutions. If errors in my arguments remain,
-please feel free to disagree and present counter-evidence on _USMoney.
-US_. I’d love to get a good discussion going; we’ll all learn more!
+Chapter 6 looked at the consequences of our current money system.
+Now let’s consider the potential impact of a new common wealth
+money system.
 
-Our fractional reserve money creation system gives the extraordinary
-power to create new money to private banks, with few constraints on
-their freedom to choose how much new money is introduced into the
-economy and who gets it first. Because private bankers collect interest
-on the money they create for us, the supply must grow exponentially.
-What are the discernible consequences?
+A stable, sovereign, 100% equity money system removes the necessity for
+exponential growth in our economy. This is a critical change we must
+make to remain a healthy species on the planet. Without the constant
+monetary pressure to grow bigger, use more and consume more, artifi-
+cial scarcity will gradually cease to exist. Real scarcity will remain. We
+have already diminished many of our natural resources to the point of
+scarcity. But, we will have the money to repair our natural resources and
+rebuild our common wealth. This will reduce real scarcity, too.
 
-We know foundation systems push behavior in certain directions.
-As with the playing field example, sometimes the parameters and
-pathways are clear, and outcomes easy to see. But in very big systems,
-it is harder to distinguish consequences because anecdotal evidence
-can contradict an overall trend. It takes expensive resources to gather
-information beyond that which is right in front of us and impacting
-us personally.
+## Equal justice and peace
 
-The following consequences follow logically from a system that
-privileges a small elite group of people and exponentially increases the
-money supply. This section explains how our money system pushes
-us toward:
+We will have a money system that makes everyone equal _under the law_.
+The systemic money transfer-to-the-wealthy will cease to exist. This
+will go a long way toward establishing _Liberty and Justice for All_ and a
+peaceful society.
 
-- Glorification of exponential growth in
-    - Debt,
-    - Population,
-    - Spending,
-    -  Waste and war;
-- A hard times economy, by design, that cycles from boom to bust,
-    - Fueled by testosterone;
-    - Corrupted by speculation; in which
-    - Everything costs more: and
-    - Our common wealth is lost.
-- A wealth transfer system that
-   - Transfers our common wealth to a private and wealthy
-       elite; and
-    - Compromises innovation.
-- Rule by a wealthy few, which
-    - Diminishes competition and makes a free market
-       impossible; and
-    - Eliminates rule of, by, and for the people.
-- The idolatry of money, which
-    - Makes growing profits and getting rich our highest values;
-    - Leads to bailouts and moral hazard; and
-    - Produces bad decisions.
-- An end to the road we currently travel.
+With commonwealth money we can all have the basic essentials of life.
+When we have enough, hyper-competition and exploitation of each
+other will no longer be necessary. We can genuinely establish domestic
+tranquility and move along in our pursuit of happiness. Enough can
+be enough; we may cease to try to fill emptiness with purchased stuff.
 
-By describing the consequences of our current money system in
-some detail I am doing my best to make a strong case for why it is
-critically important to change our money system. This chapter is full
-of bad news, which makes it hard to read. Grab a bar of chocolate
-and proceed, or, skim and skip ahead to the hopeful and practical
-solution in Chapters 7 through 10.
+We can savor craftsmanship, creativity, spirituality, quality goods, neigh-
+borliness, and plentiful family time. When each of us can strive to
+achieve our fullest potential without artificial hindrance, we may not
+need war to give meaning to an otherwise dreary drudge of a life.^1
+
+## A renewable economy
+
+Without the demand for exponential growth we can establish a stable
+and renewable economy. We can spend some of our money on clean-
+ing up the mess we’ve made with resource extraction, fossil fuels and
+toxic waste disposal. We can save our bees. We can do the right thing,
+instead of what will make money for a few people, because everything
+we do will not need to be a moneymaker. We can become good stewards
+of our place on our planet, leaving it in better shape for the genera-
+tions to come.
+
+## Fewer black holes
+
+We cannot stop natural disasters. However, with forethought and
+investment we can minimize their impact. Without the overwhelming
+money-system demands for short-term profits, we can make long-term
+investments in prevention. We can invest in the technologies of peace,
+instead of constantly feeding the war machine. We can still maintain a
+military for the common defense, but we will not need to be constantly
+putting it to use to promote and defend the interests of the private bank-
+ers and other special interests.
+
+## Innovation
+
+We will continue to innovate and develop efficiencies because this
+is our nature; doing new and creative things brings us joy. Research
+says money is one of the poorest motivators, and removing money
+from its place as the one and only motivator will see a flowering of
+creative ideas.^2 More time for relaxation, nurturing family connections,
+random knowledge gathering, and reflection will generate creativity on
+an unprecedented scale.
+
+## An economy in equilibrium
+
+Economy-wide cycles of boom and bust will stop. Banks will still fail,
+but their failure will not cost people their deposits, nor will it take down
+the entire economy. Our currency will be stable with very minor fluctu-
+ations of value. Businesses will still go through the same cycles of arising,
+thriving, declining and vanishing. Individuals will still make fortunes
+and keep them or blow them away. But, the entire economy will reach
+a sustainable and healthy equilibrium. We can be happier and health-
+ier and have:
+
+**Health and prosperity;**  
+**A free and fair market; and**  
+**The best decision-making**
