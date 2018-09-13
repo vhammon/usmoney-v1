@@ -17,7 +17,7 @@ download: false
 pin-it: true
 categories:
   - book
-  - chapter-4
+  - chapter-5
   - section-43
 tags:
   - money
