@@ -23,8 +23,7 @@ tags:
   - money
 ---
 _Observe well these rules: It is a very common mistake to say that money is
-a commodity...Bullion is valued by its weight...money is valued by its stamp._\
-— John Locke, An Essay on Money & Bullion, 1718^1
+a commodity...Bullion is valued by its weight...money is valued by its stamp._  — John Locke, An Essay on Money & Bullion, 1718^1
 
 Commodity money is defined by the physical nature of the token.
 The physical token is only one aspect, sometimes minor, of a money
