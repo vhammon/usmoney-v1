@@ -2,9 +2,7 @@
 layout: chapter
 date: 2018-09-13T07:00:00.000Z
 title: Intermission & Thank you!
-section-number: .nan
-chapter-number: 1
-next-section: 1
+next-section: 77
 chapter-end: false
 share: true
 comments: false
