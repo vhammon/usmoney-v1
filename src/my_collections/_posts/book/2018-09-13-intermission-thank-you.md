@@ -15,6 +15,7 @@ download: false
 pin-it: true
 categories:
   - book
+  - intermission
 tags:
   - money
 ---
