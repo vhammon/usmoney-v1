@@ -3,7 +3,7 @@ layout: chapter
 date: 2018-09-13T07:00:00.000Z
 title: The End of this Road
 section-number: 76
-chapter-number: 2
+chapter-number: 6
 next-section: 77
 chapter-end: true
 share: true
@@ -17,7 +17,7 @@ download: false
 pin-it: true
 categories:
   - book
-  - chapter-7
+  - chapter-6
   - section-76
 tags:
   - money
