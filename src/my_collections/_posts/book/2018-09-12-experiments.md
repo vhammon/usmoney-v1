@@ -18,6 +18,8 @@ download: false
 pin-it: true
 categories:
   - book
+  - chapter-4
+  - section-39
 tags:
   - money
 ---
