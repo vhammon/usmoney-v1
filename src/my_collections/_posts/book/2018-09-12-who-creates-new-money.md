@@ -1,10 +1,12 @@
 ---
 layout: chapter
 date: 2018-09-12T07:00:00.000Z
-title: Who creates new money?
-section-number: 20
-chapter-number: 3
-next-section: 21
+title: WHO creates new money?
+subtitle: A privileged elite of private bankers
+section-number: 46
+chapter-number: 5
+next-section: 47
+chapter-end: false
 share: true
 comments: false
 comments-locked: false
@@ -16,50 +18,58 @@ download: false
 pin-it: true
 categories:
   - book
-  - chapter-3
-  - section-20
+  - chapter-5
+  - section-46
 tags:
   - money
 ---
-The power to create new money is a profound privilege. Who creates
-new money is the most critical aspect of a money system, because
-as noted earlier, this determines who will essentially rule. Money
-creation has three aspects: who will do the creating, how will it be
-created, and how will it enter the economy.
+The Federal Reserve Act hands the privilege of creating our money
+supply over to the private banking sector. About 99 percent of the
+money we use today is created by private bankers or their central
+bank. Our government can only make and issue coins, and these
+represent about one percent of the money supply.
 
-## WHO
+Privately held banks and their central bank are essentially free to
+create as much new money as their confidence dictates, and they are
+free to choose who will receive the new money first and for what.
+This puts them in charge of our economy and our society. This is a
+privilege – a law just for them that gives banks powers accorded to no
+other business in the nation. It is a privilege not currently accorded
+to our government, which can print cash bills, but cannot turn them
+into money. Our government is currently limited to providing the
+authority and guaranteeing our money.
 
-In order to be recognizably authentic, some authority must put
-its stamp on a money token – either literally or figuratively. This
-stamp of authority often declares who created the money and
-turns the token into money at the same time. Historically, large,
-wealthy institutions like churches and governments or individuals of
-enormous wealth provide this authority and create new money.
+## Consolidation and monopoly
 
-But who gives the stamp of authenticity does not necessarily need
-to be who actually creates new money and puts it into service. For
-example, today the US Government gives the stamp of authenticity,
-and declares Federal Reserve Notes will be legal tender in our nation.
-Our government provides the trustworthiness of our money by
-guaranteeing it is backed by the _full faith, credit and resources of our
-commonwealth,_ and by declaring it will always take this money in
-payment for taxes. But our government does not create the new
-money; currently in the US, new money is created by the private
-banking sector [(Chapter 5).](https://usmoney.us/book/chapter-5) Be careful of the phrase, _to issue money._ Some economists, including the Modern Monetary Theorists use _issue_ in a way that confuses two distinct functions: guarantee-authenticity-
-trustworthiness and the actual creation of money. They speak of the
-US Government _issuing_ our currency, when it does not create it; it
-only authorizes it as legal tender and guarantees it.^8
+In 1913 when this decision was made, the right to make our nation’s
+money was more broadly distributed among a substantial number
+of privately owned, government chartered banks. However, we have
+been in an era of increasing monopoly, due to technological advances
+and the tendency of wealth to accumulate more wealth when
+unconstrained. The number of banks has dwindled dramatically as
+banks consolidate, and the big guys push efficiencies of scale and
+regulations that give them an advantage. Fewer and fewer people
+make the decisions about how much new money to create and how
+to enter it into the economy.
 
-When a democratic republic – a government of, by and for the people chooses a money system that gives the power to create new money
- to private bankers, they hand off the power of rule to the money
- creators. The private bankers will be the ones deciding what the
- nation’s priorities will be, what direction new development will take,
-who benefits, and who gets left out. Giving away this power is, in
-effect, giving away our right to citizen rule.
-So, THIS is the critical question, because no matter what the system of
-governance is – whether dictatorship or democracy – whoever has the
-power to create new money and enter it into the economy will rule,
-perhaps not overtly or officially, but effectively.
+In 1915 there were 25,825 banks, one bank for every 3,893 people. By
+1983 there were 14,400 banks creating our money supply, one bank
+for every 16,250 people. By 2017 there were 4,852 banks, one bank for
+every 67,300 people.^24 25
 
-**Whoever has the power to create new money and enter it into the
-economy effectively rules.**
+But the number of banks is only part of the story; size matters.
+
+## The big banks rule
+
+According to the St. Louis Fed, in 2015, the five largest US financial
+institutions held 47 percent of the national bank and thrift industry’s
+total assets. The top ten banks held 53 percent.^26 Remember these
+assets are what balance the creation of the money supply.
+
+The top 10 largest banks create 53 percent of our reported money
+supply by picking and choosing who gets a loan and for what
+purpose. If on average they have 10 people on their boards setting
+policy for issuing these loans, then just 100 people have the ability to
+determine the direction of our economy and the quality of our lives.
+One hundred people are deciding for 325,000,000. That’s a recipe for
+bad decisions. It is crazy and scary!
