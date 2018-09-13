@@ -18,7 +18,7 @@ pin-it: true
 categories:
   - book
   - chapter-5
-  - section-46
+  - section-45
 tags:
   - money
 ---
