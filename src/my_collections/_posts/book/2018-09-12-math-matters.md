@@ -91,7 +91,7 @@ a low investment. And lest you think the women were the only dupes,
 there was a parallel scheme with another theme going on at the same
 time for the men.
 
-[ graph ]
+\[ graph ]
 
 In the scheme outlined above, the mathematical reality is that for one
 person to get $40,000, eight people must pay in $5,000 each. Since you pay $5,000 to get in the game, you net $35,000 if you’re one of
@@ -160,7 +160,7 @@ her got anything back, and how that affected community spirit and
 her place in the community. Maybe not at all, as people are often
 willing to say, _“It was my fault; I didn’t work hard enough to bring in
 more people under me.”_ Or, in hindsight, they say, _“Wow! I was sure a
-sucker, so it’s my own fault.”
+sucker, so it’s my own fault.”_
 
 With a Ponzi scheme, we see our own effort and not the system that
 drives the outcome. We also see those who succeed or fail and credit
