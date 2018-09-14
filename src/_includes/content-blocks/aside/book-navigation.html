@@ -11,7 +11,7 @@
     {% assign chapter-number = page.chapter-number %}
     {% endif %}
     {% unless page.end %}
-    {% assign chapter-name = site.data.chapter-titles[ chapter-number] %}  <a href="{{ site.url }}/book/chapter-{{ chapter-number }}/section-{{ page.next-section }}">{{ chapter-name }}&ensp;{{ chapter-number }}.{{ page.next-section }} <span uk-icon="arrow-right"></span></a>
+    {% assign chapter-name = site.data.book.chapters[ chapter-number].name %}  <a href="{{ site.url }}/book/chapter-{{ chapter-number }}/section-{{ page.next-section }}">{{ chapter-name }}&ensp;{{ chapter-number }}.{{ page.next-section }} <span uk-icon="arrow-right"></span></a>
     {% endunless %}
   </li>
 </ul>

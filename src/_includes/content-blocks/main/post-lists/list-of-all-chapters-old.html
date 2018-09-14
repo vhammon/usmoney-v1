@@ -7,7 +7,7 @@
   {% for i in (1..10) %}
   {% assign myPost = sortedPosts | where:"chapter-number", i %}
     <li>
-        <a class="uk-accordion-title" href="#">Chapter {{ i }} &ndash; {{ site.data.chapter-titles[i]}}</a>
+        <a class="uk-accordion-title" href="#">Chapter {{ i }} &ndash; {{ site.data.book.chapters[i].name}}</a>
         <div class="uk-accordion-content">
           {% for post in myPost %}
           <div>

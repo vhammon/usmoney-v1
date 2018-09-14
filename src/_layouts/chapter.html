@@ -59,7 +59,7 @@ layout: default
     {% assign chapter-number = page.chapter-number %}
     {% endif %}
     {% unless page.end %}
-    {% assign chapter-name = site.data.chapter-titles[ chapter-number] %} Next:
+    {% assign chapter-name = site.data.book.chapters[ chapter-number].name %} Next:
   <a href="{{ site.url }}/book/chapter-{{ chapter-number }}/section-{{ page.next-section }}">{{ chapter-name }}&ensp;{{ chapter-number }}.{{ page.next-section }} <span uk-icon="arrow-right"></span></a>
     {% endunless %}
       <hr class="uk-divider-small uk-text-center" />
