@@ -91,6 +91,8 @@ a low investment. And lest you think the women were the only dupes,
 there was a parallel scheme with another theme going on at the same
 time for the men.
 
+[ graph ]
+
 In the scheme outlined above, the mathematical reality is that for one
 person to get $40,000, eight people must pay in $5,000 each. Since you pay $5,000 to get in the game, you net $35,000 if you’re one of
 the lucky ones. It only takes 15 total participants for the first person
