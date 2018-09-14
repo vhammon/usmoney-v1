@@ -28,9 +28,6 @@
         <div>
         <span class=" uk-text-uppercase">Section {{ post.section-number }} &ndash;
           <a class="uk-margin-remove" href="{{ post.url | relative_url }}">{{ post.title }}
-            {% if post.subtitle %}
-            : {{ post.subtitle }}
-            {% endif %}
           </span>&ensp;<span uk-icon="arrow-right"></span> </a>
         {% endfor %}
       </div>
