@@ -139,6 +139,7 @@ people, who get two more people, who get two more people – and
 get a payout it serves to fire up everyone else: _“Hey, this works!”_ The
 successful early-in players will prove it all works, and will stand as
 beacons to draw the rest of the moths into the flame.
+
 Once the con artists collect from the top positions, they fade into
 the sunset with $280,000, leaving the community to the inevitable
 collapse of the pyramid and the ensuing ill will.
