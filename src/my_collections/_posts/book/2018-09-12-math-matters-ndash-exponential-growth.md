@@ -122,7 +122,7 @@ and makes them a profit.
 Shaving off a bit of the growth rate stretches out the exponential
 curve but does not change the fact that if the algae continue to grow
 by a steady percentage each year, they will cover the lake – a little
-later, rather than sooner, but inevitably. That’s the math. Hanging
+later, rather than sooner, but _inevitably._ That’s the math. Hanging
 onto the jobs now can kill all the food and jobs later.
 
 Our brains are shaped to see the immediate and not the underlying
