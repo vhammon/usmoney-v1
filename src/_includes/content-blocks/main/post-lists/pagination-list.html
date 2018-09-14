@@ -10,13 +10,8 @@
 {{ page.title }}
   </h2>
   {% endif %}
-  {% if page.title == "US Money" %}
+  {% if page.title == "US Money" or page.pagination.category contains "chapter" %}
   {% include content-blocks/main/post-lists/list-of-all-chapters.html %}
-{% elsif page.pagination.category contains "chapter" %}
-  {% assign sorted = paginator.posts | sort:"section-number" %}
-  {% for post in sorted %}
-    {% include content-blocks/main/post-lists/list-of-all-sections.html %}
-  {% endfor %}
 {% else %}
   {% for post in paginator.posts %}
     {% include content-blocks/main/post-lists/list-of-all-posts.html %}

@@ -1,22 +1,42 @@
+{% if page.title == "US Money" %}
 <h1>US Money</h1>
 <div class="acknowledgments uk-margin">
-     <a href="/book/acknowledgements/">Acknowledgements</a>
+     <a href="/book/acknowledgements/">Acknowledgements&ensp;<span uk-icon="arrow-right"></span></a>
 </div>
+{% endif %}
+
+{% assign open1 = page.pagination.category | remove: "chapter-" %}
+
+{% assign open = open1 | plus:0 %}
+
+
 {% assign sortedPosts = paginator.posts | sort:"section-number" %}
 <ul class="uk-margin-medium-bottom uk-padding-remove-left" uk-accordion>
+  {% if page.title == "US Money" %}
+
   {% for i in (1..10) %}
   {% assign myPost = sortedPosts | where:"chapter-number", i %}
-    <li>
-        <a class="uk-accordion-title" href="#">Chapter {{ i }} &ndash; {{ site.data.chapter-titles[i]}}</a>
+  <li class="{% if i == open %}uk-open{% endif %}">
+      <a class="uk-accordion-title" href="#">Chapter {{ i }} &ndash; {{ site.data.chapter-titles[i]}}</a>
+      <div class="uk-accordion-content">
+        {% for post in myPost %}
+        <div>
+        <span class=" uk-text-uppercase">Section {{ post.section-number }} &ndash;
+          <a class="uk-margin-remove" href="{{ post.url | relative_url }}">{{ post.title }}</span>&ensp;<span uk-icon="arrow-right"></span> </a>
+        {% endfor %}
+      </div>
+  </li>
+  {% endfor %}
+  {% else %}
+  {% assign myPost = sortedPosts | where:"chapter-number", open %}
+    <li class="uk-open">
+        <a class="uk-accordion-title" href="#">Chapter {{ open }} &ndash; {{ site.data.chapter-titles[open]}}</a>
         <div class="uk-accordion-content">
           {% for post in myPost %}
           <div>
-          <span class=" uk-text-uppercase">Section {{ post.chapter-number}}.{{ post.section-number }} &ndash;
-            {{ post.title }}</span><br />
-      {{ post.content | strip_html | truncatewords: 20 }} <a class="uk-margin-remove" href="{{ post.url | relative_url }}">Read More <span uk-icon="arrow-right"></span> </a></p>
-
+          <span class=" uk-text-uppercase">Section {{ post.section-number }} &ndash; <a class="uk-margin-remove" href="{{ post.url | relative_url }}">{{ post.title }}</span>&ensp;<span uk-icon="arrow-right"></span></a>
           {% endfor %}
         </div>
     </li>
-    {% endfor %}
+    {% endif %}
 </ul>
