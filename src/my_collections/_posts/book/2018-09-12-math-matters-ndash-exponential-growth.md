@@ -94,6 +94,8 @@ much money to do anything about it, and surely some enterprising
  entrepreneur will step in and fix it. The next day, the lake is covered
 and all the fish die.
 
+[ graph ]
+
 NO living system on planet earth can sustain exponential growth.
 This is an immutable fact. All living systems have checks that
 maintain balance. The only living things that grow exponentially and
