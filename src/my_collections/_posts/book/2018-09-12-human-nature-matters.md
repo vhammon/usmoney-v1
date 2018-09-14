@@ -62,8 +62,7 @@ understand how so many schools of economics can teach incorrect
 information about our money system for generations, resulting in
 poorly informed pundits, politicians and voters. Certainly, the few
 who benefit have enough power to keep the myths in place. But **why
-do so many people accept the myths so readily?
-**
+do so many people accept the myths so readily?**
 
 I’ve done my best to select characteristics that most impact our choice
 of money system. Here are a few of the mind quirks that make all of
