@@ -26,7 +26,7 @@ An old Sufi story tells of a long ago king who heard stories about an
 enormous and strange animal in a faraway land. He was curious to
 know more about it and sent his wisest men to learn what they could
 and return to inform him. His wisest men set out to find the animal
-called _elephant._
+called _elephant._
 
 After months of journeying they came to the land of elephants and
 were taken to see one. Now as it happened, these wise men, though
@@ -37,7 +37,8 @@ satisfaction, and then packed up and returned to their king.
 After the long journey home, they were brought into the presence of
 the king to give their report.
 
-The first blind man said, _“I know the elephant; it is like the trunk of a tree. It is round and sturdy.”_
+The first blind man said, _“I know the elephant; it is like the trunk of a
+ tree. It is round and sturdy.”_
 
 The second blind man said, _“No, that is wrong. I know the elephant
 and it is like a carpet. It is thin and leathery and flaps like a flag in
