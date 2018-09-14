@@ -193,7 +193,7 @@ should it succeed. The con gives her success a bad taste; it makes any
 success that follows rotten at the core, and creates a culture where if it
 makes money, it’s OK. Does that sound familiar?
 
-Clearly, the losers will see the answer to the worth it question
+Clearly, the losers will see the answer to the _worth it_ question
 differently, too. Perhaps the loss of $5,000 meant a mom went
 without the medical care she needed and died, leaving her motherless
 children dependent on the State – at a cost of millions to the
