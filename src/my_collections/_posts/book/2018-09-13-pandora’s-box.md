@@ -29,7 +29,7 @@ us. Nearly all of money today is created and used online. So, most of
 our money is already digital. However, the term, digital currency, is
 recently being used in two different ways. In each use it describes a
 money system that eliminates cash, and takes advantage of emerging
-cryptocurrency technologies (Chapter 4.39). Value still references
+cryptocurrency technologies [(Chapter 4.39).](https://usmoney.us/book/chapter-4/section-39) Value still references
 a national currency, for now. The term is used to describe two very
 different money systems.
 
@@ -49,7 +49,7 @@ the power to create new money for the commons, which will give
 them enormous control over society and the marketplace.
 
 In a cross fertilization, just as our central bank decided it can create
-money directly for corporate businesses (Chapter 5.53), corporate
+money directly for corporate businesses [(Chapter 5.53),](https://usmoney.us/book/chapter-5/section-53) corporate
 businesses decided they can act as banks, currently with little
 oversight. Businesses offering credit to their customers is not
 new. But, up until recently, the credit that a business offered to its
@@ -145,7 +145,7 @@ standards, rules, and regulations that protect the common wealth
 from the predations of a few business entities that act to make
 more money for a few owners. Or, we can assure that the creation
 of our money supply becomes a public utility, in service to all.
-(Chapters 8 – 10)
+[(Chapters 8 – 10)](https://usmoney.us/book/)
 
 The transfer efficiencies of blockchain technology in a digital currency
 have not been lost on central banks. They are exploring how this
@@ -176,6 +176,7 @@ money creation powers will rule. A commonwealth money system
 can serve the economy.
 
 ## Endnotes
+
 5.40 Our Current System: How Did We Get Here?
 1 Conway, Moncure Daniel, Editor. The Writings of Thomas Paine, Volume 3: 1791–
 18 0 4 , “Chapter 26: The Decline and Fall of the English System of Finance.” New
@@ -457,4 +458,7 @@ https://www.bloomberg.com/graphics/2018-payment-systems-china-usa/
 67 Shatzkin, Mike. “A Changing book business: it all seems to be flowing downhill to
 Amazon.” The Idea Logical Company. January 22, 2018. https://www.idealog.
 com/blog/changing-book-business-seems-flowing-downhill-amazon/
+
+```
+
 ```
