@@ -31,7 +31,7 @@ economy isn’t growing, people don’t have houses, something went wrong.
 We can change that around because it really comes from us to begin with,
 so I think if democracy is to mean anything, it has to mean that everybody
 can weigh in on that process of deciding what kind of promises we make
-and what kind of promises we readjust when we have to do that._  
+and what kind of promises we readjust when we have to do that._\
 — David Graeber, in Debt: the first 5000 years (2011)^4
 
 There are decisions made every day that change our lives – some we
@@ -94,7 +94,7 @@ interest in being informed.
 
 Humans are naturally diverse. We are independent beings, each with a
 unique background, education, culture, beliefs. This natural diversity
-when allowed to flourish will strengthen our nation. Naturally, we are
+_when allowed to flourish_ will strengthen our nation. Naturally, we are
 going to disagree. Conflict is inevitable. But we are more likely to be
 fear-free, respectful, collaborative, and creative in the face of conflict
 when our families’ lives are not on the line.
@@ -131,7 +131,6 @@ means of individual investors. We can afford to do this again.
 _“All men are created equal”_ and we are all due a _“separate and equal Station
 to which the Laws of Nature and of Nature’s God entitle”_ us.
 
-
 The US made a commitment to equal station in our Declaration
 of Independence. Our founding fathers did their best, within the
 confines of their time and place in history, to embody this belief in our
@@ -143,7 +142,7 @@ a truly level playing field since we the people gave away the power to
 create our nation’s money to an elite group of bankers.
 
 It is important to note there are still many people in the United States
-who do not share a love of equal justice and democratic decision-making.
+who do _not_ share a love of equal justice and democratic decision-making.
 Some people still believe if you have money, you should have a greater
 say in how our nation is run. It is time we discuss what values we want
 our nation’s laws and money system to reflect.
