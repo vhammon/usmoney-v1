@@ -26,7 +26,7 @@ _This disposition to admire, and almost to worship, the rich and the powerful,
 and to despise, or, at least, to neglect, persons of poor and mean condition,
 though necessary both to establish and to maintain the distinction of ranks
 and the order of society, is, at the same time, the great and most universal
-cause of the corruption of our moral sentiments._  
+cause of the corruption of our moral sentiments._\
 — Adam Smith, Scottish political economist in his
     1759 _The Theory of Moral Sentiments_^273
 
@@ -49,7 +49,7 @@ United States elected in 2016 surrounded himself with gold – walls,
 floors, even his toilets – and, many admire that as an indicator
 of success.
 
-Sacrifice on the altar
+\## Sacrifice on the altar
 
 Today one in five children goes hungry during the year.^274 One in
 seven have developmental issues requiring special help.^275 If any
@@ -58,8 +58,7 @@ with them. Instead, politicians claim the regulations and standards
 that would keep our children safer would hamper the profit-making
 efforts of corporate America. So far, we accept this.
 
-In the US, people work hard and long – 1,770 hrs/year on average in
-2014. In France people work about 1,473 and in Germany 1,366 hours.
+In the US, people work hard and long – 1,770 hrs/year on average in 2014. In France people work about 1,473 and in Germany 1,366 hours.
 The Netherlands with the second shortest hours at 1,422 is more
     productive than average.^276 In Switzerland, people work an average
 35-hour workweek – and they make more than Americans. European
