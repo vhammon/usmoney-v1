@@ -89,7 +89,7 @@ gold. The IOU-receipts became the money in use – the monetizing
 of a receipt. The money is a commodity (gold), but the gold itself
 is not being used for money. A receipt has been issued for the gold
 money, and the receipt is being used for the money token. This is
-commodity-backed money (Chapter 4.28). But, wait...
+commodity-backed money [(Chapter 4.28).](https://usmoney.us/book/chapter-4/section-28) But, wait...
 
 ### Introducing fractional reserve money creation
 
@@ -325,7 +325,7 @@ to sustain confidence is to get the money you are creating declared
 the legal tender of the realm. This adds a luster and puts the common
 wealth of a nation behind the IOUs the private bankers make when
 they create a nation’s money. This is important enough to warrant its
-own section (next).
+own section [(next).](https://usmoney.us/book/chapter-4/section-33)
 
 ## A fractional reserve money system
 
@@ -389,7 +389,8 @@ meltdown, former Chairman of the Federal Reserve, Alan Greenspan,
 admitted his lifelong faith in bankers to act in the best interest of
 their banks and the public was sadly misplaced.
 
-_Those of us who have looked to the self-interest of lending institutions to protect shareholder’s equity – myself especially – are in a state of shocked disbelief._\
+_Those of us who have looked to the self-interest of lending institutions to protect shareholder’s equity – myself especially – are in a state of shocked disbelief._
+
 — Congressional Hearing, October 23, 2008^9
 
 This man, an Ayn Rand acolyte, with the lifelong belief that if
@@ -416,7 +417,7 @@ money-creators interest on their money creation activities.**
 
 Fractional reserve money is created when a bank exchanges its
 own IOU-future-value money for an IOU from another party. It is a
-refinement of basic IOU-future value money (Chapter 4.30) in that it
+refinement of basic IOU-future value money [(Chapter 4.30)](https://usmoney.us/book/chapter-4/section-30) in that it
 requires a certain collateral be set aside as a reserve to provide some
 guarantee the promises made will be kept. In a fractional reserve
 money creation system, when someone pays back a loan, money is
