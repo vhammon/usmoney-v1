@@ -30,14 +30,14 @@ Describing money is a challenge, and the way it is described has a
 significant impact on the way people view it and understand its role
 in an economy.
 
-Money is a tool and it can be a store of wealth. But, money as wealth
+Money is a tool _and_ it can be a store of wealth. But, money as wealth
 and as a medium of exchange cannot be described in the same terms.
 Money stored as wealth and not in use, is not circulating. It is not
 available to facilitate exchanges. If everyone stored their wealth in the
 form of money, there would be no money circulating. And, if money
 is not circulating, it’s not a tool. If money is not a tool to facilitate
 exchanges, it no longer has value, and cannot be wealth. And, yet,
-money does serve us as a tool to facilitate exchanges and a store of
+money does serve us as a tool to facilitate exchanges _and_ a store of
 wealth, even though these functions inherently contradict each other.
 
 This paradox makes it challenging to describe how money works.
@@ -54,7 +54,8 @@ But, it often is.
 ## Accounting for a store of wealth
 
 Money as a store of wealth can be described in two-dimensional
-terms: it is a zero sum proposition. It is mine or it is yours. I earn money. I spend money. I own or I owe. It is easy to map my finances
+terms: it is a zero sum proposition. It is mine or it is yours. I earn
+ money. I spend money. I own or I owe. It is easy to map my finances
 with accounting. An income and expense statement reports on
 revenue and expenses for a period of time. A balance sheet reports
 what I own (assets), what I owe (liabilities), and my net worth at
@@ -92,9 +93,11 @@ recorded as a two-dimensional, zero-sum account. Instead of one
 plus one equals two, as money moves around facilitating exchanges,
 1+1+1+1 can equal five or ten or more. A brand new $100 bill
 introduced into the economy can be used for thousands of dollars in
-transactions. I get $100 in Social Security and buy $100 in groceries from my local store. They pay $100 in salary to my neighbor, who
+transactions. I get $100 in Social Security and buy $100 in groceries
+ from my local store. They pay $100 in salary to my neighbor, who
 buys a $100 fruit tree for their yard from the nursery down the street.
-The nursery buys $100 in stock from a valley farmer. And, so on. So, if we are describing money in its role as a tool, how do we put
+The nursery buys $100 in stock from a valley farmer. And, so on.
+ So, if we are describing money in its role as a tool, how do we put
 that $100 on a balance sheet and pin down its value or the wealth it
 generates? We can’t. But economists try.
 
@@ -135,7 +138,7 @@ that government spends ends up in the hands of an individual.
 Whoever creates the $100, and however the money is created, once it
 enters the economy it will operate in the two-dimensional model _for
 each entity_ that keeps track of its finances – me, you, a business, or
-government (Money creation explained in Chapter 3.20–21).
+government (Money creation explained in [Chapter 3.20](https://usmoney.us/book/chapter-3/section-20)–[21](https://usmoney.us/book/chapter-3/section-21)).
 
 But, for the economy as a whole, money functions as a three-
 dimensional construct that cannot be pinned down on a balance
@@ -167,7 +170,8 @@ of the few who are very rich, then you will want a model-map that
 describes how money works in its three-dimensional tool function.
 Money as a tool that facilitates exchanges is not zero-sum. It creates
 an abundance of wealth and an abundance of transactions that
-cannot be mapped on a balance sheet. The choice of money system determines whether abundance is distributed fairly, or whether
+cannot be mapped on a balance sheet. The choice of money system
+ determines whether abundance is distributed fairly, or whether
 abundance goes to a privileged few. And, we make the best choice
 when our definitions and maps account for both the particle and the
 wave of money function: wealth storage and medium of exchange.
