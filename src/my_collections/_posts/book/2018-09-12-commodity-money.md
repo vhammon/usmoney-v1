@@ -289,9 +289,7 @@ that own the mines, and own the world’s stocks of gold bullion,
 would control the supply available for currency, hence the value of
 the coins, and consequently the cost of everything in the marketplace.
 
-#### WHO DESTROYS MONEY OR REMOVES IT FROM
-
-CIRCULATION AND HOW IS THAT DONE?
+#### WHO DESTROYS MONEY OR REMOVES IT FROM CIRCULATION AND HOW IS THAT DONE?
 
 Gold coins can be removed by melting them into bullion and using
 it for one of gold’s many commercial or industrial purposes. It
