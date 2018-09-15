@@ -24,28 +24,30 @@ tags:
 ---
 Here’s a little sunshine on the Federal Reserve balance sheets.
 
-##UNITED STATES FEDERAL RESERVE
-STATEMENT OF CONDITION OF ALL FEDERAL RESERVE BANKS
-COMBINED^63
+## UNITED STATES FEDERAL RESERVE STATEMENT OF CONDITION OF ALL FEDERAL RESERVE BANKS COMBINED^63
+
+\[ graph ]
 
 ### Notes for United States Federal Reserve
+
 Statement of Condition of All Federal Reserve Banks Combined
 (p.257–258):
 
-1. Special drawing rights certificates are a kind of international
-    exchange money
-2. IOUs from others are listed in the accounts as “Securities purchased under
-    agreements to resell,” and in 2011 includes, “Term Asset-Backed Securities
-Loan Facility,” “Government-sponsored enterprise debt securities,” and
-“Investments held by consolidated variable interest entities.”
-3. Net notes: Notes outstanding (issued to banks) less notes held by the
-    Federal Reserve Bank
-4. IOUs TO others are listed in the accounts as “Securities sold under
-agreements to repurchase
-5. Deferred credit: generally something paid before its earned, hence a
-    liability
-6. If the space is blank, then this category was not itemized in that year and
-    is likely in ‘other.’
+_1. Special drawing rights certificates are a kind of international
+   exchange money_
+
+2. _IOUs from others are listed in the accounts as “Securities purchased under
+       agreements to resell,” and in 2011 includes, “Term Asset-Backed Securities
+   Loan Facility,” “Government-sponsored enterprise debt securities,” and
+   “Investments held by consolidated variable interest entities.”_
+3. _Net notes: Notes outstanding (issued to banks) less notes held by the
+   Federal Reserve Bank_
+4. _IOUs TO others are listed in the accounts as “Securities sold under
+   agreements to repurchase_
+5. _Deferred credit: generally something paid before its earned, hence a
+   liability_
+6. _If the space is blank, then this category was not itemized in that year and
+   is likely in ‘other.’_
 
 ## Worrisome rate of increase
 
@@ -61,8 +63,8 @@ are dramatic and unsustainable.
 
 ### Assets
 
-Remember bank assets are mostly IOUs from others. Banks in our
-current system juggle IOUs from others with their own IOUs, which
+Remember bank assets are mostly IOUs from others. Banks _in our
+current system_ juggle IOUs from others with their own IOUs, which
 constitute our money supply. US government IOUs are the safe and
 stable anchor of banks’ balance sheets. However, US government
 IOUs have gone from representing 85–90 percent of the Fed’s assets,
@@ -76,7 +78,7 @@ expanding money system).
 Facing resistance to increasing government debt enough to keep
 up with the exponentially increasing money supply, the Fed has
 turned to creating new money for other private entities. In 1996,
-the Fed had no IOUs from others. In 2016, these IOUs from others
+the Fed had no IOUs from _others._ In 2016, these IOUs from others
 represent 41 percent of the total assets. These are IOUs from private
 sector financial and corporate entities, some government sponsored
 (such as Fannie Mae and Freddie Mac). This category includes all
@@ -95,11 +97,15 @@ the many to the few. We see the impact in the dramatically increasing
 inequality – the rich are getting radically richer and the number of
 poor is exploding.
 
+\[graph]
+
 ## US Government Debt 1913–2017^64
 
 FRED. Economic Research. Federal Reserve Bank of St. Louis.
 Categories>National Accounts>Federal Government Debt
 https://fred.stlouisFed.org/series/GFDEBTN
+
+\[graph]
 
 ## The M3 money supply growth 1913–2017^65
 
@@ -111,7 +117,7 @@ https://fred.stlouisFed.org/series/MABMM301USA189S
 ## Unsustainable
 
 I can’t see any way this system can be sustained. Can you? The system
-must change and can change. Chapter 6 looks at the consequences of
-our current system. Chapter 7 looks at short-term backwards moves,
-bandages and bridges. And Chapter 8 looks at simply done, but
+must change and can change. [Chapter 6](https://usmoney.us/book/chapter-6) looks at the consequences of
+our current system. [Chapter 7](https://usmoney.us/book/chapter-7) looks at short-term backwards moves,
+bandages and bridges. And [Chapter 8](https://usmoney.us/book/chapter-8) looks at simply done, but
 profound change to a sustainable and prosperous system.
