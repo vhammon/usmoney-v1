@@ -24,12 +24,12 @@ tags:
   - money
 ---
 _...gold and economic freedom are inseparable, that the gold standard is
-an instrument of laissez-faire and that each implies and requires the other._  
+an instrument of laissez-faire and that each implies and requires the other._\
 — Alan Greenspan in _Gold and Economic Freedom_ (1966), Chair of the Federal Reserve System, 1987–2006^3
 
 Returning to a gold standard is another option that steps backwards.
 Proponents of gold money are of different minds: some mean a
-gold standard, others mean 100% gold money.
+gold _standard,_ others mean 100% gold money.
 
 ## Gold standard
 
@@ -46,7 +46,6 @@ Proponents see gold as a consistent measure for the value of all
 currencies, whether its marketplace value floats, or is controlled at a
 set price. Here is a common thread about a new gold standard from
 Steve Forbes, of Forbes magazine:
-
 
 _What should a new gold standard look like? Representative Ted Poe (R-Tex.) has
 introduced an original and practical version. Unlike in days of old, we don’t need
@@ -149,6 +148,7 @@ honest and sensible monetary system founded on real money rather than debt-
 based paper notes conjured into existence by a private banking cartel. Indeed,
 one of the chief aims of gold-and-silver-as-currency proponents is to restore
 sound money – and the Texas law could help pave the way.^5_
+
 ```
 However, as explained in Chapter 4.28, commodity money is neither
 _sound,_ nor _honest,_ nor _real_ money. As with any commodity money,
@@ -204,3 +204,4 @@ the period of always tangible exchanges into a world of virtual
 exchanges at the speed of light. This pushed us to really look at the
 essence of money and see beyond the glitter that is gold, to money’s
 role as a neutral intermediary.
+```
