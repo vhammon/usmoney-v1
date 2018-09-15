@@ -89,7 +89,7 @@ executive and a pittance for deliberate manslaughter. In 2018, Don
 Blankenship ran for a US Senate seat in West Virginia and got
 20 percent of the Republican votes.^283
 
-If corporations are people, why not try the company itself for willful
+If corporations are _people,_ why not try the company itself for willful
 murder. If the company deserves the death penalty for killing people,
 sell the company off to the highest bidder, put the proceeds into
 a community fund so stockholders lose their stake, and ban the
@@ -100,8 +100,7 @@ hide the data about dangers and make decisions that kill.
 Here’s another recently publicized example of unpunished criminal
 wrongdoing in the name of profit-making: The patent ran out on a
 Johnson & Johnson anti-psychotic drug. To hold on to this market
-they created a new drug, Risperdal, with a new patent they released in
-1994. It wasn’t deemed any better than the old drug, which could now
+they created a new drug, Risperdal, with a new patent they released in 1994. It wasn’t deemed any better than the old drug, which could now
     be manufactured and sold as a generic, but it was especially good for
     schizophrenia in adults – a small market. J&J wanted a blockbuster,
     billion-dollar drug so they deliberately set out to market it to the
@@ -109,8 +108,7 @@ they created a new drug, Risperdal, with a new patent they released in
     uses, but sadly, increasing _markets._ J&J used corrupt practices to
     essentially bribe gatekeepers and prescribers to order the use of this
     drug. Despite an FDA report of _“an excess number of deaths”_ in the
-    elderly taking the drug, and the growth of pendulous breasts in over
-5 percent of the children, they continued to market the drug to these
+    elderly taking the drug, and the growth of pendulous breasts in over 5 percent of the children, they continued to market the drug to these
     populations.
 
 The company made about $30 billion in sales of this drug, killing
@@ -127,7 +125,7 @@ Alex Gorsky, the man who was in charge of marketing this drug
 falsely, was elevated to chief executive of J&J, and earned over $25
 million in 2014. It is deeply immoral and repellent that a man who
 may have destroyed so many lives is rewarded. But, this is our current
-system, and those are the values of this family company.
+system, and those are the values of this _family_ company.
 
 They are also clearly the values of the GOP. They are slashing
 monitoring and enforcement action on corporate wrongdoers to
