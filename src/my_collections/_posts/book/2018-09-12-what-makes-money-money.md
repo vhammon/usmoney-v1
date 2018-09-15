@@ -94,6 +94,8 @@ we can maintain our assets into the future, remain productive, and
 guarantee our money. The trustworthiness of this promise depends
  on preserving a community of educated, innovative, healthy people
 living and working in safe, healthy and productive jobs.
+
+
 Money systems can combine these means to trustworthiness.
 
 ### Creation & destruction
@@ -165,4 +167,5 @@ chosen by a community to act as an intermediary in exchanges.
 Money can be created or destroyed.**
 
 _That which is essential cannot be seen with the human eye._
+
 — Antoine Saint Exupery, _The Little Prince,_ 1943
