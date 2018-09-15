@@ -23,8 +23,9 @@ tags:
   - money
 ---
 _The Federal Reserve, the central bank of the United States, provides the nation
-with a safe, flexible, and stable monetary and financial system._ 
-- [http://www.federalreserve.gov](http://www.federalreserve.gov)
+with a safe, flexible, and stable monetary and financial system.  _
+
+– http://www.federalreserve.gov
 
 The Federal Reserve Act makes money created by private bankers
 using a fractional reserve system our national money. Our money is
@@ -43,7 +44,7 @@ all private banks in the US.
 ## Key elements of our current choice:
 
 Despite the aspirations of the Fed, it does not, has not and cannot
-provide a system that is “safe, flexible and stable” – not as currently
+provide a system that is _“safe, flexible and stable”_ – not as currently
 mandated.
 
 ### Who Decided?
@@ -83,7 +84,7 @@ gold or silver. (The banks issuing these notes were never required to
 keep 100% of their promises in gold or silver on hand. The system has
 always been fractional reserve.) The text on the note changed over the
 years, and now our national money bears the words, _“Federal Reserve
-Note * United States of America * This note is legal tender for all debts
+Note  United States of America  This note is legal tender for all debts
 public and private.”_
 
 Roughly 97 percent of the money in use is a record of dollar money
@@ -115,13 +116,12 @@ when necessary to keep the promises made by the private bank issued
 notes. Our money is only as strong as our nation.
 
 ### Creation & Destruction
-```
-```
-WHO: The Federal Reserve Act hands the power to create new
+
+**WHO:** The Federal Reserve Act hands the power to create new
 money to the private banking sector. Our national currency consists
 of IOUs from these private bankers.
 
-How is money created? New money is created when a bank issues a
+**How is money created?** New money is created when a bank issues a
 loan, exchanging a bank system IOU (a Federal Reserve Note) for the
 IOU of a borrower. With the exception of more stringent requirements
 placed on small local and regional banks, reserves no longer exist in
@@ -129,7 +129,7 @@ practice. Capital-equity requirements were substituted for reserves,
 but again, the biggest banks are in the 2–4 percent range in practice,
 which is a negligible constraint on the creation of new money.
 
-How is money destroyed? A physical piece of money like a dollar bill
+**How is money destroyed?** A physical piece of money like a dollar bill
 can be burned or shredded. When it’s just worn out, it is replaced by
 a new bill of the same value, which does not change the amount of
 money in the supply. But, most money in our current system is an
@@ -140,11 +140,11 @@ supply shrinks as loans are repaid and few new loans are issued.
 
 ### A Measure & Store of Value
 
-Our chosen system is by its nature an elastic value money system with
+Our chosen system is _by its nature_ an elastic value money system with
 an erratically increasing money supply and a continuously declining
 money value. Over the last 100 years, our money supply increases
 at a rate of 3–11 percent per annum according to official measures,
-averaging about 8 percent (Chapter 5.54).
+averaging about 8 percent [(Chapter 5.54).](https://usmoney.us/book/chapter-5/section-54)
 
 A steadily declining dollar value is how the Fed defines a stable
 monetary system. The Federal Reserve Act gives the central bank a
@@ -177,10 +177,10 @@ of appointment is intentionally more a courtesy and window dressing
 than any form of influence or control. The bankers need only to
 threaten economic discomfort, which is readily within their power
 under this law, in order to get their way. This forces the President
-to ask, “Will Wall Street like this appointment?” And, somehow,
+to ask, _“Will Wall Street like this appointment?”_ And, somehow,
 the politicians and public have been convinced the question is
 appropriate.
-```
+
 The central bank is there to supply transfer services to the private
 member banks, to facilitate borrowing and lending of reserves
 between the banks, and to act as a lender of last resort to the banks
@@ -203,7 +203,7 @@ debt in the marketplace. In a reserve system, having all of the
 deposits of the largest employer, tax collector, and biggest spender in
 your vault, is a profitable gift.
 
-In 1913, the citizens of the US married the private banking sector,
+In 1913, the citizens of the US _married_ the private banking sector,
 giving them the power to create money for the nation. Divorce is
 an option.
 
