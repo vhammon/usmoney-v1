@@ -57,7 +57,7 @@ The PDX City Bank could keep a register, and money could be created
 as a mutual credit system between Portland businesses and/or indi-
 viduals. As the Swiss and others have proven, these complementary
 systems do not detract from the strength of the primary currency; they
-support and maintain its strength. Chapter 4.37 mentioned the Swiss
+support and maintain its strength. [Chapter 4.37](https://usmoney.us/book/chapter-4/section-37) mentioned the Swiss
 WIR, which functions as a dual currency that has cushioned the Swiss
 economy from global financial crisis for over 80 years. It is a comple-
 mentary closed system with over 60,000 Swiss business members. Our
@@ -82,9 +82,9 @@ late. Blockchain technology offers ways to establish extremely secure
 transactions and can revolutionize primary and complementary money
 [(Chapter 4.39).](https://usmoney.us/book/chapter-4/section-39)
 
-One caveat: None of these alternative systems must be allowed to
+One caveat: **None of these alternative systems must be allowed to
 use any form of fractional reserve money creation or leveraging to
-create new money.
+create new money.**
 
 ## Endnotes
 
