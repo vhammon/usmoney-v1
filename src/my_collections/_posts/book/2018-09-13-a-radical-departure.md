@@ -22,10 +22,10 @@ categories:
 tags:
   - money
 ---
-A century ago, between 1913 when The Federal Reserve Act was passed
+A century ago, between 1913 when _The Federal Reserve Act_ was passed
 and 1929 when the economy came crashing down, banks with the
 power to create new money could also invest it. This ability to self-
-deal created a booming economy as a few wealthy people created
+deal created a _booming_ economy as a few wealthy people created
 money for themselves to buy real estate, invest in new technologies,
 monopolize old technologies and live a Gilded Age lifestyle. An asset
 bubble was created that burst on October 29, 1929. Within a year
@@ -33,7 +33,7 @@ bubble was created that burst on October 29, 1929. Within a year
 sunk into the Great Depression, which lasted 10 years.
 
 Recognizing that this ability of money creators to self-deal is a
-problem, Congress passed the Glass-Steagal Act in 1933, which
+problem, Congress passed the _Glass-Steagal Act_ in 1933, which
 required a legal separation between deposit bankers (who get to create
 new money by issuing loans) and investment bankers (who gather
 investment funds to make investments). This law meant a money
@@ -41,7 +41,7 @@ creator bank could not loan itself money for investment; a bank
 could not create money for its own, or a subsidiary’s risky investing.
 
 However, by the late 1990s Wall Street had found so many creative
-ways to get around Glass-Steagal, they could successfully argue it
+ways to get around _Glass-Steagal,_ they could successfully argue it
 wasn’t really a meaningful law in practice. In 1999, bankers convinced
 Congress and President Clinton that the _Glass-Steagal Act_ was
 old-fashioned hooey – an unnecessary constriction on their activities
@@ -92,7 +92,7 @@ IOU-debt procedure.
 But Congress authorized the Fed to use this money to buy a variety of
 toxic assets from struggling banks and private companies, including
 stock ownership in the companies themselves. Some call this strategy
-quantitative easing because it increases the quantity of money in
+_quantitative easing_ because it increases the quantity of money in
 the whole system by feeding it to the big players in the financial
 sector – which takes the stress of consequences off their shoulders
 and makes their lives easier. New money on their balance sheets eases
@@ -186,14 +186,12 @@ $14,724 – an increase of $8,888 billion – two and one half times what
 it was 10 years earlier.^61
 
 In 2016, of $4,453 billion in assets on the central Fed’s balance sheet,
-$2,567 billion was in US Treasury securities – up from $784 billion in
-
-2006. So of that increase of $8,888 billion in US Government debt,
-      $1,783 billion is sitting on the Fed’s balance sheet. Twenty percent
-          of the increase in government debt is sitting with the central Fed
-      [(Chapter 5.54).](https://usmoney.us/book/chapter-5/section-54) In the past, member banks, big corporations and
-      the general public held most of the US Government debt. So much
-      sitting on the Fed’s balance sheet is unusual.
+$2,567 billion was in US Treasury securities – up from $784 billion in 2006. So of that increase of $8,888 billion in US Government debt,
+$1,783 billion is sitting on the Fed’s balance sheet. Twenty percent
+    of the increase in government debt is sitting with the central Fed
+[(Chapter 5.54).](https://usmoney.us/book/chapter-5/section-54) In the past, member banks, big corporations and
+the general public held most of the US Government debt. So much
+sitting on the Fed’s balance sheet is unusual.
 
 The central Fed appears to be propping up the value of our nation’s
 debt by keeping an increasing amount of it on its own books. This is
