@@ -23,7 +23,7 @@ tags:
   - money
 ---
 _So many of our dreams at first seem impossible, then they seem improbable,
-and then, when we summon the will, they soon become inevitable._  
+and then, when we summon the will, they soon become inevitable._\
 — Christopher Reeve (1952–2004)
 
 Pretend for a moment the money fairy waved her wand and money
@@ -52,8 +52,7 @@ inherited wealth and/or the privilege of money creation? What role
 should wealth play in public decision-making. How can our money
 system create and protect an equal access playing field?
 
-### We are endowed by our Creator with certain inalienable rights, that
-among these are life, liberty and the pursuit of happiness.
+### We are endowed by our Creator with certain inalienable rights, that among these are life, liberty and the pursuit of happiness.
 
 What does it mean for **Life** to be a right? How does this apply to
 the availability of basic life support – food, shelter, education, justice,
