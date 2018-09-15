@@ -33,9 +33,9 @@ and have more leisure and family time.
 
 Banking will only see one change for individuals. You will make depos-
 its, use your debit card or write checks just as you do today. You will
-be able to make deposits or take cash out of your bank. However, you
+be able to make deposits or take cash out of your bank. However, **you
 will pay a specific fee for these banking services instead of paying
-fees buried and hidden in the system itself.
+fees buried and hidden in the system itself.**
 
 While it’s not an issue for most of us, the need for deposit insurance
 will disappear. In our current system, deposit insurance covers only
