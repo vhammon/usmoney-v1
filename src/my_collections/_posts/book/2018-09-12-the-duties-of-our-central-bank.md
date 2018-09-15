@@ -233,11 +233,11 @@ Congress are fighting the existence of the Consumer Financial
 Protection Bureau. In July 2015 and again in February 2017, Texas
 Republican Senator Ted Cruz submitted a bill to do away with
 the bureau, claiming the bureau’s _“financial activism...stunt(s)
-economic growth.” 22_ Where does this idea come from that American
+economic growth.” _22 Where does this idea come from that American
 business can’t grow and make profits when it is required to meet
 ethical behavior standards and be held accountable when it cheats
 consumers? Doing away with the meager protections this bureau
-provides is part of the 2016 _Republican National Platform.^23_ With the
+provides is part of the 2016 _Republican National Platform._^23 With the
 three branches of government under Republican control beginning
 in January 2017, if you disagree, and want an agency protecting
 consumer interests, speak up. Where does your Congressman stand?
