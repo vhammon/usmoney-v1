@@ -47,14 +47,14 @@ pay principle and interest is for someone else to expand the money
 supply by borrowing more. Then we must compete to grab enough
 of the new money to pay our expenses and our debts and the interest
 on them. This creates a musical chairs situation. We’re working as
-hard as we can to get enough. But, the system by its nature never has
+hard as we can to get enough. But, the system _by its nature_ never has
 enough for all of us.
 
 In our system, if there is more for you, there is less for me. This
 creates a stressful and highly competitive work environment. Fear
 drives us – fear that we won’t be able to grab a share for ourselves and
-our families. It pushes people towards, “It’s mine!” instead of “How
-can we take care of each other and our commonwealth?” It pushes us to
+our families. It pushes people towards, _“It’s mine!”_ instead of _“How
+can we take care of each other and our commonwealth?”_ It pushes us to
 pick someone lower on the economic ladder to step on and it is at the
 root of racism and xenophobia.
 
@@ -69,7 +69,7 @@ bankers’ interest-on-newly-created-money bucket is not available
 on Main Street for other productive purposes; it tends to pool in
 offshore accounts or it buys assets and control of future income
 streams. It shorts everyone but the bank owners, increasing people’s
-need to borrow. It is that giant straw described in Chapter 2.7.
+need to borrow. It is that giant straw described in [Chapter 2.7.](https://usmoney.us/book/chapter-2/section-7)
 
 ## Exploitation creates more scarcity
 
