@@ -27,7 +27,7 @@ increase. To make this growth possible, bankers can create as much
 money as the number of available borrowers allows.
 
 Remember the exponential curve of our money supply growth for the
-past 100 years presented in Chapter 2.7. As we moved up the steep
+past 100 years presented in [Chapter 2.7.](https://usmoney.us/book/chapter-2/section-7) As we moved up the steep
 end of the curve’s slope – the last years of the 20th century – to create
 an exponentially growing supply of money, bankers had to come up
 with new borrowers.
@@ -42,8 +42,8 @@ which cuts into their profits.
 
 Our system does not support or encourage personal savings. So the
 amount of money people save has been slowly shrinking. The Federal
-Reserve reports that our “Net saving as a percentage of gross national
-income” has dropped from averaging about 11 percent in the 1960s to
+Reserve reports that our _“Net saving as a percentage of gross national
+income”_ has dropped from averaging about 11 percent in the 1960s to
 1980s to averages below 3 percent since 2000. The rate in January 2018
 is 1.5 percent.^1 In fact, we recorded negative saving rates from 2008
 to 2011, which means people were taking more out of savings than
@@ -70,7 +70,7 @@ are happy.
 
 In 1900 America, the 46 percent who owned their homes generally
 owned them outright. Today, while we are above 60 percent home
-ownership, only about 30 percent of home owners actually own their
+_ownership,_ only about 30 percent of home owners actually own their
 home mortgage free.^3 That represents a substantial increase in the
 amount of debt against homes. Creating new money by making a
 mortgage loan against real property has always been a favorite of
@@ -123,7 +123,7 @@ in addition to the average household mortgage burden of $118,232,
 American adults carry an average of $30,200 each – roughly $150,
 or more per household.^5
 
-In 2017 median household income was roughly $58,000.^6 So in
+In 2017 median _household_ income was roughly $58,000.^6 So in
 about 50 years, from 1970 to 2017, American households went from
 having almost no consumer debt to owing more than twice what
 they earn in a year. With an average interest rate of 5 percent, the
@@ -182,10 +182,10 @@ made goods and services. This did triple duty: increased the supply
 of money as the system required by issuing more and bigger loans;
 increased the economic output of American business; and, put
 developing countries and their natural resources under American
-corporate thumbs. John Perkins book, Confessions of an Economic
-Hitman (2004) or S.C. Gwynne’s Selling Money; a Young Banker’s
+corporate thumbs. John Perkins book, _Confessions of an Economic
+Hitman_ (2004) or S.C. Gwynne’s _Selling Money; a Young Banker’s
 First-hand Account of the Rise and Extraordinary Fall of the Great
-International Lending Boom (1986) explain this immoral and shameful
+International Lending Boom_ (1986) explain this immoral and shameful
 activity in detail.8 9
 
 ## More borrowers – Students
