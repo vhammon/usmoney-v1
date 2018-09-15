@@ -79,14 +79,14 @@ sounder understanding of money as a medium of exchange. You now
 have the information you need to determine whether or not Ether is
 money and what kind of system it is.
 
-Bitcoin – Money or Banking?
+\## Bitcoin – Money or Banking?
 
 Is Bitcoin a money system, a banking system, or a tradeable asset?
 Courts and governments are weighing in, and some have classified
-it as a commodity asset, and not as money, and others have accepted
+it as a commodity asset, and _not as money,_ and others have accepted
 it as currency. Bitcoin and some other crypto-currencies blur the
 line by turning a transfer service (a traditional basic bank function)
-into a virtual commodity asset intended to function as 100%
+into a _virtual_ commodity asset intended to function as 100%
 commodity money.
 
 Bitcoin is designed to perform two functions of money [(Chapter
@@ -95,10 +95,9 @@ of money, serving as a measure of value, will likely remain tied to
 national currencies. As an extra-governmental currency, it likely will
 always function like a foreign currency – one you buy with your
 national currency to use in the global marketplace. Though some
-advocates believe it can supplant national currencies and become
-
-a primary global medium of exchange, it seems unlikely, given it is
+advocates believe it can supplant national currencies and become a primary global medium of exchange, it seems unlikely, given it is
 modeled on commodity money.
+
 Bitcoin models itself on gold commodity money. It is called bit _coin_.
 Those who create new money for the system are called _miners_. It is a
 perfect example of how the agreement of a community is the critical
@@ -185,9 +184,7 @@ participants. It has a heavily encrypted record of transactions which
 makes it a haven for people who wish privacy for their buying and
 selling. Unfortunately, criminal elements fall into this group.
 
-#### DOES IT HAVE A COMMUNITY-WIDE AGREEMENT TO USE IT
-
-AS AN INTERMEDIARY IN EXCHANGES?
+#### DOES IT HAVE A COMMUNITY-WIDE AGREEMENT TO USE IT AS AN INTERMEDIARY IN EXCHANGES?
 
 Yes, though the community using it to buy and sell goods and
 services is dwarfed by speculators, counting on its value rising. This
@@ -285,11 +282,10 @@ admitting it lost over $480 million of its clients’ Bitcoin money
 (850,000 Bitcoins). This would be like your bank saying, _“Oops, our
 computer shutdown and we have no record of your money. It is gone.”_ By
 law the value for depositors was frozen at the time of the bankruptcy
-at $400USD. However, Mark Karpeles, former CEO of Mt.Gox,
-
-rediscovered several hundred thousand Bitcoins after the bankruptcy.
-In November 2017 these were valued at $7,500/coin. He will do very
+at $400USD. However, Mark Karpeles, former CEO of Mt.Gox, rediscovered several hundred thousand Bitcoins after the bankruptcy. In November 2017 these were valued at $7,500/coin. He will do very
 well from the bankruptcy, but his customers suffered.^37 38
+
+
 In August 2016, Hong Kong-based Bitcoin exchange Bitfinex lost
 $68 million in customer money and suggested it would spread the
 loss over all its customer accounts.^39 Virtual money requires some
@@ -340,8 +336,7 @@ commodity money, which has many drawbacks and which has not
 been in much use for millennia. The Commodity Futures Trading
 Organization (CFTC) ruled in 2015 that Bitcoins are not money, they
 are commodities because they fit the CFTC’s definition of _“all services,
-rights, and interests in which contracts for future delivery are presently_
-or in the future dealt in.”_ Then by 2018, they’d ruled that Bitcoin
+rights, and interests in which contracts for future delivery are presently or in the future dealt in.”_ Then by 2018, they’d ruled that Bitcoin
 and virtual currencies were _“virtual currencies serving as a medium of
 exchange, a unit of account, and/or a store of value.”_ In other words,
 they changed their mind and accept that it is a form of money.^40
