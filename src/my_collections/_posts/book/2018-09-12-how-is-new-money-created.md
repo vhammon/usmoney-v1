@@ -118,7 +118,7 @@ general transactions.
 ### In practice: no reserve requirements
 
 Fractional reserve bankers have been gaming this system for hundreds
-of years. They are very good at it. Under The Federal Reserve Act,
+of years. They are very good at it. Under _The Federal Reserve Act,_
 bankers continue at this game; they’ve just gotten better at hiding
 their games in nests of companies, derivatives and fancy financial
 instruments.
@@ -196,7 +196,7 @@ of the big global banks.
 
 #### DEFINING ASSETS
 
-Again as noted in Chapter 4.35, in addition to moving assets off
+Again as noted in [Chapter 4.35,](https://usmoney.us/book/chapter-4/section-35) in addition to moving assets off
 balance sheet, banks have a great deal of freedom to define what
 constitutes an asset to meet this requirement. For example, banks
 can include goodwill as an asset. JPMorgan Chase in 2014 meets its
