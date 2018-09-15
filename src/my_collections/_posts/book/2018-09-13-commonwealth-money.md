@@ -24,7 +24,7 @@ tags:
   - money
 ---
 _All of the intellectual models of the new economy are about cooperation, sharing
-and abundance._  
+and abundance._\
 — Hazel Henderson, Economist (1933– )^1
 
 Reforming our money system has a simple solution: on behalf of WE
@@ -37,26 +37,24 @@ common wealth equity: US Money.
 
 ### Key features of our current money system
 
-- Private bankers and people of great wealth create our money and
+* Private bankers and people of great wealth create our money and
     are in control.
-- Decisions are made by a tiny few behind closed doors.
-- Money is created by debt, a lien against the future productivity
+* Decisions are made by a tiny few behind closed doors.
+* Money is created by debt, a lien against the future productivity
     of Main Street, and guaranteed by the full faith and credit of our
     nation and our common wealth.
-- Some people have special privilege and an advantage over
+* Some people have special privilege and an advantage over
     everyone else.
 
 ### Common wealth money key features
 
-- WE the people, using the Constitutional powers of our democratic
+* WE the people, using the Constitutional powers of our democratic
     republic, create our money and WE are in control.
-- Decisions are made by a democratic, accountable, and transpar-
+* Decisions are made by a democratic, accountable, and transpar-
     ent process.
-
-- Money is created as a token representing common wealth equity,
+* Money is created as a token representing common wealth equity,
     and guaranteed by the full faith and credit of our nation.
-- No one has special privilege; the playing field is level.
-
+* No one has special privilege; the playing field is level.
 
 ## Simple and profound change
 
@@ -94,8 +92,8 @@ electronic (as it is today). Seignorage goes to our government, our states
 and our citizens, to provide for the general welfare.
 
 Money can only be added to the supply by the deliberate action of our
-government. Money cannot be leveraged by anyone else to create new
-money as happens in a fractional reserve system. This is critically import-
+government. **Money cannot be leveraged by anyone else to create new
+money** as happens in a fractional reserve system. This is critically import-
 ant, and the financial industry will work very hard to create loopholes,
 so it must be very simply and clearly stated in the law. No exceptions.
 
@@ -104,13 +102,13 @@ so it must be very simply and clearly stated in the law. No exceptions.
 We will still have private banks that store, transfer money, and keep
 accounts for depositors. They will be basic 100% banks. We will still
 have investment banks that serve as intermediaries between investors
-and investment opportunities (Chapter 3.25–3.26). They will compete
+and investment opportunities ([Chapter 3.25](https://usmoney.us/book/chapter-3/section-25)–[3.26](https://usmoney.us/book/chapter-3/section-26)). They will compete
 for your business. You will pay a fee for banking services.
 
 #### CENTRAL BANKS
 
 We will still have a central bank. It will be a basic central bank with no
-money creation powers (Chapter 3.25). We will keep some of what we
+money creation powers [(Chapter 3.25).](https://usmoney.us/book/chapter-3/section-25) We will keep some of what we
 now call the Federal Reserve System. Our central bank can reside in
 the Department of the Treasury of the Executive Branch. It will _not_ be
 independent of the oversight and political will of the people. It will be
@@ -166,7 +164,6 @@ go bankrupt like any other business. There will be no bailouts from the
 central bank. And, the downfall of banks will no longer put the entire
 economy at risk. Our domestic tranquility will consequently increase.
 
-
 **6. Monetary policy.** Monetary policy is about how much money
     should be in the economy. Currently, this decision is made
     haphazardly by the distributed and collective decisions of the
@@ -177,7 +174,6 @@ economy at risk. Our domestic tranquility will consequently increase.
     money/make loans to its member banks); and setting reserve
     requirements. None of these controls will be necessary in our
     new system.
-
 
 In our new system, monetary policy is simple and defined by the law
 establishing our new system:
@@ -190,7 +186,7 @@ It’s that simple. Ongoing maintenance policy requires addressing two
 important questions:
 
 1. How much new money must be created to keep the value
-    stable?, and
+   stable?, and
 2. How will the new money be entered into the economy?
 
 These questions are so important they each have their own sections
@@ -202,7 +198,6 @@ coming up.
     ployment. These will be established in the marketplace based on
     supply and demand, or influenced as they are today by policy
     decisions enacted by Congress.
-
 
 ### Token
 
@@ -223,7 +218,7 @@ by the full faith, credit and common wealth of our nation, as it is today.
 ### Measure & Store of Value
 
 By design, we change from money with an intentionally shrinking value
-to money that maintains as steady a value as we can manage. To keep the
+to money that maintains _as steady a value as we can manage._ To keep the
 value steady, increases in the money supply must only reflect increases
 in population and/or productivity. These are already measured.
 
@@ -231,7 +226,7 @@ Some proposals for commonwealth money accept the old premise that
 when the value of money shrinks, people will spend it more quickly and
 the economy will prosper. Therefore, money should slowly be devalued
 by exponentially increasing the supply in proportion to the demand.
-However, as noted in Chapter 2.7 and Chapter 6.54–6.58, an exponen-
+However, as noted in [Chapter 2.7](https://usmoney.us/book/chapter-2/section-7) and [Chapter 6.54–6.58,](https://usmoney.us/book/chapter-6) an exponen-
 tially growing financial system is no longer a sustainable option. We
 must figure out how to have a prosperous economy that does not grow
 in size. We will grow in ingenuity and productivity. And, it is in our
@@ -252,11 +247,11 @@ of our money.
 
 As with any money system, who and how money is created is of supreme
 importance. In our new system, only our Congress will create new
-money. This must be absolutely and resolutely clear so there are no
+money. **This must be absolutely and resolutely clear** so there are no
 loopholes that allow the private sector to continue to create some form
 of money for the nation. For example, this means Wall Street investors
 will have to borrow money from someone in order to buy stocks; buying
-and selling naked or on margin without ever actually taking possession
+and selling _naked_ or _on margin_ without ever actually taking possession
 of a loan or a stock will not be lawful. A bank can only issue a line of
 credit to someone if the bank has the full amount on hand and available.
 
@@ -274,8 +269,8 @@ taxes. These taxes are again given, spent, invested, or lent and continue
 to circulate. Government taxing and spending (or giving, investing, or
 lending) is an important element in a healthy economy; it balances the
 I-for-me-and-mine spending, with what WE choose to invest in our
-common wealth. Government taxing and spending increases money
-circulation and enhances broad prosperity.
+common wealth. Government taxing and spending _increases_ money
+circulation and _enhances_ broad prosperity.
 
 #### DESTRUCTION
 
