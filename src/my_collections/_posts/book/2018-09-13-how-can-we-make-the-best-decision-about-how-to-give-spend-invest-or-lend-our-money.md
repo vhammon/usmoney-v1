@@ -27,11 +27,11 @@ tags:
 _Many forms of Government have been tried, and will be tried in this world of
 sin and woe. No one pretends that democracy is perfect or all-wise. Indeed
 it has been said that democracy is the worst form of Government except for
-all those other forms that have been tried from time to time...._  
-— Winston Churchill, 1947(**)
+all those other forms that have been tried from time to time...._\
+— Winston Churchill, 1947(\*\*)
 
 _You never change things by fighting the existing reality. To change something,
-build a new model that makes the existing model obsolete._
+build a new model that makes the existing model obsolete._\
 — R. Buckminster Fuller
 
 When I talk to people about changing to a commonwealth money
@@ -91,8 +91,7 @@ people who take no money from Big Money.
 Here’s where we start on monetary reform. We have a draft of a law that
 changes the money system. A small group of smart and dedicated people
 worked on it for several years. It went through the Office of Legislative
-Council in Congress and was reviewed to see what impact it would have on previous legislation. Let’s use social technology to review it, under-
-stand it, and perfect it @ USMoney.US.
+Council in Congress and was reviewed to see what impact it would have on previous legislation. Let’s use social technology to review it, understand it, and perfect it @ [USMoney.US.](https://usmoney.us/)
 
 Let’s work hard to get our representatives and senators to join us, so
 that we know what they understand and where they stand on the issue.
@@ -100,10 +99,10 @@ If you have a Congress person who refuses to demonstrate their under-
 standing of our financial system and/or refuses to let you know where
 they stand on monetary reform, and most importantly, why they stand
 where they do, then work to put someone else into office who is on board
-with change. This is one of the most important things you can do.
+with change. **This is one of the most important things you can do.**
 
 We have yet to practice democracy in a way that aggregates the wisdom
 of a diverse, independent and informed electorate. We must begin to
 practice making decisions this way in order to get good at it.
 
-So, let’s begin.
+**So, let’s begin.**
