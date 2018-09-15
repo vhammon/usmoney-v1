@@ -25,7 +25,7 @@ tags:
 ---
 _Yet few people not versed in banking ever dream that their money ‘in the bank’
 is not in the bank; and few people versed in banking ever dream that the
-money which is not there ought to be there, or that it is practical to have it there._  
+money which is not there ought to be there, or that it is practical to have it there._\
 — Irving Fisher, Economist, 1936^12
 
 An anchor provides stability or confidence in an otherwise uncertain
@@ -49,7 +49,7 @@ hand to satisfy the demands of their customers and avoid a run on
 their bank.
 
 These deposits become the base of the money creation pyramid
-described in Chapter 4.32. You deposit $100, the bank puts $10 on
+described in [Chapter 4.32.](https://usmoney.us/book/chapter-4/section-32) You deposit $100, the bank puts $10 on
 reserve and loans out the other $90. The borrower deposits the $90
 and the bank puts $9 on reserve and loans out another $81. The
 borrower deposits the $81 and the bank adds $8.10 to its reserves and loans out another $72.90. It keeps doing this until it has created
