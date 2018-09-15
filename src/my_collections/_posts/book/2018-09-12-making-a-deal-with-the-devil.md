@@ -204,7 +204,7 @@ of scale and the resources to provide more sophisticated services to
 the people with the greatest wealth. National, and now global banks,
 are more popular with the people of greatest wealth, who often own
 them. Because a fractional reserve money creation system will shift
-the wealth of a nation from the many to the few [(Chapter 6.67–6.68)](https://usmoney.us/book/chapter-6/),
+the wealth of a nation from the many to the few ([Chapter 6.67](https://usmoney.us/book/chapter-6/section-67)–[6.68](https://usmoney.us/book/chapter-6/section-68)),
 those with greatest wealth have won this struggle between distributed
 or monopolized privilege, steadily reducing the number of banks in
 the world.
@@ -222,7 +222,7 @@ It is difficult to see any benefit to citizens in a pact that gives private
 bankers the privilege of creating a nation’s money, while requiring
 that the full faith, credit, and common wealth of the nation
 guarantee this privately-created money. Please let me know if you can
-think of any at USMoney.US.
+think of any at [USMoney.US.](https://usmoney.us/)
 
 As opposed to a benefit, the system shifts wealth from the many to
 the few and makes increasing one’s wealth the overriding value. That
