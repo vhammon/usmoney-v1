@@ -36,9 +36,10 @@ The Fed’s duties fall into 4 distinguishable areas:
 _Providing financial services to depository institutions, the U.S. Government, and
 foreign official institutions, including playing a major role in operating the nation’s payments system (Fed 2005)._
 
-These are the same banking services explained in [Chapter 3.25–3.26](https://usmoney.us/book/chapter-3) — secure storage, transfer, accounting, plus the financial service of brokering loans between the banks.
+These are the same banking services explained in [Chapter 3.25](https://usmoney.us/book/chapter-3/section-25)–[3.26](https://usmoney.us/book/chapter-3/section-26) — secure storage, transfer, accounting, plus the financial service of brokering loans between the banks.
 
 ## Bank regulations and supervision
+
 ### Supervision & regulation
 
 _Supervising and regulating banking institutions to ensure the safety and soundness
@@ -132,12 +133,11 @@ The Fed admits it doesn’t really work this way; they produce the
 reserves after the banks have created the money. The _money-multiplier_
 reserve story is that the reserves of member banks and the reserves
 created by the central Fed when it loans its members money are
-the base money of the pyramid (Chapter 4.34). Some bankers and
+the base money of the pyramid [(Chapter 4.34).](https://usmoney.us/book/chapter-4/section-34) Some bankers and
 economists consider this central Fed-created money a special kind of
 money, even though it functions like any other, describing it as _base
 money,_ or _narrow money,_ or _high-powered money._ These special names
 are a map-making conventions, not the reality.
-
 
 ### Buy and sell US Government securities in the Open Market
 
@@ -232,12 +232,12 @@ of integrity and honesty, the money power and its minions in
 Congress are fighting the existence of the Consumer Financial
 Protection Bureau. In July 2015 and again in February 2017, Texas
 Republican Senator Ted Cruz submitted a bill to do away with
-the bureau, claiming the bureau’s “financial activism...stunt(s)
-economic growth.” 22 Where does this idea come from that American
+the bureau, claiming the bureau’s _“financial activism...stunt(s)
+economic growth.” 22_ Where does this idea come from that American
 business can’t grow and make profits when it is required to meet
 ethical behavior standards and be held accountable when it cheats
 consumers? Doing away with the meager protections this bureau
-provides is part of the 2016 Republican National Platform.^23 With the
+provides is part of the 2016 _Republican National Platform.^23_ With the
 three branches of government under Republican control beginning
 in January 2017, if you disagree, and want an agency protecting
 consumer interests, speak up. Where does your Congressman stand?
