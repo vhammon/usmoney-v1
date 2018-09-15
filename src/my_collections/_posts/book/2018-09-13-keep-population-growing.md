@@ -58,6 +58,8 @@ energy to our nation. Our legal policy values the contributions of
 immigrants and allows roughly one million people to enter the US
 legally every year.^19 Given our population of 326 million, this is a
 relatively tiny number – an addition of 0.3 percent.
+
+
 But this level of absorption has not been enough to meet the demand
 of our current money system. The CDC says between births and
 deaths we have a net gain of about 1.2 million people each year.^20
@@ -72,10 +74,10 @@ million, and has dropped to 11.3 million in 2016.
 Eight million of the unauthorized immigrants are in the workforce
 in 2016 – again a decline since a peak of 8.3 million in 2007. They
 represent about 5 percent of the workforce.^21 With no legal standing,
-they accept lower wages. Politico reports that, “trends over the past
+they accept lower wages. Politico reports that, _“trends over the past
 half-century suggest that a 10 percent increase in the number of workers
 with a particular set of skills probably lowers the wage of that group by at
-least 3 percent.” 22
+least 3 percent.”_ 22
 
 So some fields, particularly low-skilled jobs have lower wages because
 of these unauthorized immigrants, which reduces buying power
