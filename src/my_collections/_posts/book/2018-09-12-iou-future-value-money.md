@@ -40,7 +40,7 @@ now. This IOU is for:**
 ...an ounce of gold I will store for you in my vault.
 
 **IOU _future_ value money is a promise to produce value in the
-future. This IOU is for:***
+future. This IOU is for:**
 
 ...one of my new lambs in the spring.
 
@@ -208,7 +208,7 @@ systems make excellent complementary systems, providing backup
 when primary currencies are experiencing difficulty. The Swiss WIR
 mention in [Chapter 3.21](https://usmoney.us/book/chapter-3/section-21) is an example of such a system. Whether a mutual credit money system could function on a very broad, national
 or global level has yet to be tested. New computer technologies may
-offer a way to establish trustworthiness and authority (Chapter 4.39).
+offer a way to establish trustworthiness and authority [(Chapter 4.39).](https://usmoney.us/book/chapter-4/section-39)
 
 ## The value of borrowing
 
@@ -240,8 +240,8 @@ can serve to create new money in an IOU-future-value money system.
 How loans are issued in relation to the creation of money is a system
 choice. In other words: **making a loan does not always create
 new money, but in an IOU-future-value money system, all new
-money is created by making a loan (a promise of future value to be
-delivered).**
+money is created by making a loan** (a promise of future value to be
+delivered).
 
 ## The issuer makes a difference
 
@@ -358,6 +358,7 @@ over promise. The most common form of this partially collateralized
 IOU-future value money is called fractional reserve [(See Chapter
 4.32).](https://usmoney.us/book/chapter-4/section-32) Collateralizing strategies shift the money system to a hybrid of
 commodity-backed and future value money.
+
 Note: this form of guarantee was not a product of a _free_ market.
 Markets have shown no inclination to tie up assets in the interest of
 the general welfare or the stability of a monetary system. Markets
