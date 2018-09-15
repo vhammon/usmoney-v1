@@ -135,8 +135,8 @@ from the financial sector and the political sector.
 
 In the mid 1990s I was at a social event in Marin, California. I was
 fortunate to enjoy a conversation with Mark Reisner, American
-environmentalist and author of Cadillac Desert: The American West
-and its Disappearing Water – originally published in 1986, revised and
+environmentalist and author of _Cadillac Desert: The American West
+and its Disappearing Water_ – originally published in 1986, revised and
 reprinted in hopes someone would finally listen in 1993.^192 He talked
 passionately about the rice field burning in California. This burning
 polluted the air and wasted a resource. In Asia, for centuries they
@@ -155,7 +155,7 @@ hardship, but good sense finally prevailed. And, note: it took
 government intervention and encouragement. Private business was
 not willing to do it on their own.^193
 
-The first solar collector was created in 1767. In 1839 a French scientist
+The first solar collector was created in **1767.** In 1839 a French scientist
 identified the first photovoltaic effect. In 1873 the photoconductivity
 of selenium and it’s emission of solar energy was discovered.^194 It
 took until the late 1940s – nearly 200 years later – for solar power to
@@ -228,7 +228,7 @@ carats for the wealthiest Americans.^197
 #### INDIVIDUAL TAXES
 
 The very wealthy make most of their money in the form of capital
-gains, or what they sometimes call carried interest; wages are a
+gains, or what they sometimes call _carried interest;_ wages are a
 relatively small part of their income. The reverse is true for 90 percent
 of us. The tax rate is set to advantage the very wealthy: taxes on
 capital gains are considerably lower than they are on wage income.
@@ -263,12 +263,12 @@ most of their estates for their children. Eliminating estate taxes
 benefits less than 0.2 percent of Americans (remember the top
 0.1 percent owns 22 percent of all wealth in America).^200 Estate taxes
 hit the top tiniest percent of people almost entirely. But, the super-
-rich have successful sold the idea that taxing big estates is a death
-tax and double taxation. One study found the financial support for
+rich have successful sold the idea that taxing big estates is a _death
+tax_ and _double taxation._ One study found the financial support for
 eliminating inheritance taxes came from 18 super-rich families. These
 people provide the anti-government activists with most of the money
 for this anti-tax effort. So, 18 families are driving a grassroots campaign
-to cut their focus-group tested death taxes – leaving most Americans
+to cut their focus-group tested _death taxes_ – leaving most Americans
 to fill the gap in government revenues.^201 If you’re on this bandwagon,
 the super-rich are conducting the band.
 
@@ -314,12 +314,12 @@ The Institute on Taxation and Economic Policy analyzed 258 of the
 Fortune 500 companies that earned $3.8 trillion in profits over the
 eight years from 2008 to 2015. They found:
 
-- 8 paid ZERO in taxes over the full eight-year period.
-- 100 paid zero – or less – in at least one profitable year during the
-    eight-year period, and 58 of those companies had multiple zero-
-tax years.
-- 24 companies zeroed out their taxes in at least four of the eight years.
-- 48 companies paid a rate between 0 and 10 percent over
+* 8 paid ZERO in taxes over the full eight-year period.
+* 100 paid zero – or less – in at least one profitable year during the
+      eight-year period, and 58 of those companies had multiple zero-
+  tax years.
+* 24 companies zeroed out their taxes in at least four of the eight years.
+* 48 companies paid a rate between 0 and 10 percent over
     eight years.^205
 
 Corporations have shrunk their overall share of taxes, too. Corporate
@@ -407,7 +407,7 @@ collapse. So, the point holds. Bankers are still mostly quite privileged.
 Here’s a significant example that took place at the highest level of
 our privatized global money creation system: Our big global banks
 created global central banking institutions for the same reasons
-national banks create a central bank (Chapter 3.25 & 4.32). The
+national banks create a central bank ([Chapter 3.25](https://usmoney.us/book/chapter-3/section-25) & [4.32](https://usmoney.us/book/chapter-4/section-32)). The
 British Bankers Association, which is a cartel of big international
 banks, monitors the rates at which its members lend to each other.
 This global interbank lending rate is called LIBOR (London Interbank
@@ -418,9 +418,9 @@ An investigation begun in 2012 found a number of international
 banks had been making false reports to rig this rate to the benefit
 of traders back as far as 2003. For at least 10 years, traders at big
 banks rigged a rate that impacted the buying and selling of over
-$350,000,000,000,000 in loans every year. The rate was rigged to
-benefit a few at the expense of the many on $3.5 QUADRILLION in
-loans over the 10 years. For this crime, the banks and their traders
+$350,000,000,000,000 in loans _every year._ The rate was rigged to
+benefit a few at the expense of the many on $3.5 QUADRILLION _in
+loans over the 10 years._ For this crime, the banks and their traders
 were given a slap on the wrist fine of $9 billion. This is a tiny, tiny,
 piddling fine compared to the profits they made on their crime. A
 few individuals were charged, and acquitted. No one was jailed. In
@@ -460,9 +460,9 @@ average, this drove a steady, exponential increase in CEO pay.^216 In
 
 In 2015, the Securities and Exchange Commission (SEC) ruled that
 U.S. companies that are already required to publish an annual report,
-must publish, “the ratio of the median of the annual total compensation
+must publish, _“the ratio of the median of the annual total compensation
 of all employees to the annual total compensation of the chief Executive
-officer... effective on or after January 1, 2017.” 217
+officer... effective on or after January 1, 2017.”_ 217
 
 We are beginning to have solid data on the disparity between CEO
 pay and workers, so the justifications for this disparity are coming out as well. In February 2017, Alex Edmans at the Harvard Business
