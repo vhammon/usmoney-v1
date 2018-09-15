@@ -75,7 +75,7 @@ any one citizen could spend on election campaigning. The laws
 were getting threadbare as wealthy individuals worked under the
 radar creating grassroots organizations, think tanks, non-profits, and
 engaged churches in political campaigning. Then, the floodgates were
-opened after the US Court of Appeals decision in Speechnow v. FEC
+opened after the US Court of Appeals decision in _Speechnow v. FEC_
 in 2010.^222 When money equals speech, those who have more money
 get to have a bigger say in our elections. And, they do.
 
@@ -145,7 +145,7 @@ These think tanks churn out policy papers justifying our current
 monetary system, our wealth-transfer economic policies, and write
 the laws that support their personal agendas and beliefs.
 
-Just one organization, the American Legislative Exchange Council
+Just one organization, the _American Legislative Exchange Council_
 (ALEC), well-funded by big corporations and the extraordinarily
 rich, has an inordinate amount of power in crafting legislation. It
 pays legislators all over the country to come to forums to craft bills
@@ -240,8 +240,8 @@ less than 40 percent of our teachers are satisfied with their jobs.
 Between 40 and 50 percent of them quit within five years.^235 As a
 lifetime educator I know this does not need to be the case.
 
-And, returning to the monetizing of education mentioned in Chapter
-6.60, by focusing on marketable skill sets, Common Core deprives
+And, returning to the monetizing of education mentioned in [Chapter
+6.60,](https://usmoney.us/book/chapter-6/section-60) by focusing on marketable skill sets, Common Core deprives
 children of the richness of our culture. David Coleman, one of the
 developers of the Common Core curriculum said, _“It is rare in a
 working environment that someone says, ‘Johnson, I need a market_ analysis by Friday, but before that, I need a compelling account of your
@@ -249,7 +249,9 @@ childhood.” He’s explaining why Common Core de-emphasizes
 literature and relies on more informational texts – speeches, magazine
 articles, government reports. This thinking completely misses the role
 of great literature in developing our minds and hearts.^236
-I read through J.K. Rowling’s Harry Potter books every couple of
+
+
+I read through J.K. Rowling’s _Harry Potter_ books every couple of
 years for the fun of it. They are a pleasant counterpoint to economic
 tomes. I enjoy the world she creates, the characters and the complex
 story. I was reading one of the larger volumes while waiting for my
@@ -274,9 +276,9 @@ tiny group of elites.
 
 Jay P. Greene, head of the Department of Education Reform at
 the University of Arkansas, says the Gates Foundation’s overall
-dominance in education policy has subtly muffled dissent. “Really
+dominance in education policy has subtly muffled dissent. _“Really
 rich guys can come up with ideas that they think are great, but there is
-a danger that everyone will tell them they’re great, even if they’re not,”
+a danger that everyone will tell them they’re great, even if they’re not,”_
 Greene said. This is profound. It is the reason why we do not want
 any part of our nation ruled by an elite few.^237
 
@@ -350,7 +352,7 @@ administration, fifty media companies controlled 90 percent of our
 news and media.
 
 In 1996, President Clinton and a Republican Congress put the nail
-in the coffin when he signed the Telecommunications Act (House &
+in the coffin when he signed the _Telecommunications Act_ (House &
 Senate-Republican majorities). This law allowed further consolidation
 and over the next fifteen years media ownership dropped to nine big
 media giants.
@@ -374,9 +376,9 @@ By 2011, 90 percent of our media was controlled by just six
 companies. Today, just five Big Corporations control 90 percent
 of our media. Just 15 billionaires own America’s news media
 companies.^244 According to the New York Times, testimony before
-the House Judiciary Committee reports that “In 1983, 50 companies
+the House Judiciary Committee reports that _“In 1983, 50 companies
 owned 90 percent of the media consumed by Americans. By 2012, just six
-companies ...controlled that 90 percent.” 245
+companies ...controlled that 90 percent.”_ 245
 
 Even our public broadcasting of national news is strained through the
 perspective of a handful of people who are entrenched for decades in
@@ -445,10 +447,10 @@ minutes. You must watch about 20 minutes of ads.
 Our media is overwhelmingly about getting you to shop! High
 levels of emotion anchor advertising and political messages. So
 programming is a steady rumble of threats to personal safety, keeping
-people anxious, fearful and xenophobic. Buy a drug. Buy a can of
+people anxious, fearful and xenophobic. _Buy a drug. Buy a can of
 mace. Buy an alarm system. Dark-skinned people are “infesting” our
 cities. Buy a gun. Spend taxpayer money on a bigger military and lots of
-bombs. Build a wall! High emotion and fear serves the money power
+bombs. Build a wall!_ High emotion and fear serves the money power
 because it makes people easy to manipulate. The owners know this,
 because the networks charge higher prices for ads that are broadcast
 during moments of high emotion such as a football touchdown.^250
@@ -471,7 +473,6 @@ Spending on prescription medicines grows exponentially at a rate of
 2021.^253 There is no positive correlation between increases in spending
     on prescription drugs and good health.
 
-
 The biopharmaceutical sector accounts for about 5 percent of
 our entire economy. The US may be the most drug dependent
 nation on the planet – and not the healthiest. Not including any
@@ -487,8 +488,8 @@ us over 12 were taking antidepressants – 16.5 percent of women and
 9 percent of men.^255 Recent research finds these drugs may do more
 harm than good.^256 Pharmaceuticals are important, but is this the
 right proportion of our energy and wealth going toward prescription
-drugs? We should be paying attention to why one in eight of us
-are clinically depressed, instead of making it a profit center.
+drugs? **We should be paying attention to why one in eight of us
+are clinically depressed, instead of making it a profit center.**
 
 #### MANIPULATION – CHILDREN’S TV
 
