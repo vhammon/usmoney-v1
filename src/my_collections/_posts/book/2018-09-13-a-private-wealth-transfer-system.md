@@ -23,7 +23,7 @@ categories:
 tags:
   - money
 ---
-Our current money system is designed to shift wealth from the people
+Our current money system is _designed_ to shift wealth from the people
 who produce goods and services on Main Street to the bankers and
 financiers who have the privilege of creating new money for our
 nation. The system is designed to privatize profit and socialize risks
@@ -95,6 +95,8 @@ government and perpetuate their wealth grab. For example, President
 Trump chose billionaire Stephen A. Schwarzman, Chairman,
 CEO and co-founder of Blackstone Group to chair his Strategic
 and Policy Forum. Schwarzman picked the financial leaders who would determine the Trump administration’s economic policy.
+
+
 Not surprisingly, he chose a stable of billionaire Big Bank and Big
 Business corporate interests. Former Goldman Sachs executive, Gary
 Cohn became the Director of the National Economic Council. No
@@ -223,18 +225,18 @@ and secured $11.8 billion in relief for over 29 million consumers.^155
 Then came President Trump. Congress and the administration are
 under Republican control. They have made it a top priority to do
 away with the Bureau entirely. In the meantime, they’ve changed
-the mission to “The Consumer Financial Protection Bureau is a 21st
+the mission to _“The Consumer Financial Protection Bureau is a 21st
 century agency that helps consumer finance markets work by regularly
 identifying and addressing outdated, unnecessary, or unduly burdensome
-regulations...” 156 That is a radical ass-backward transformation of the
+regulations...”_ 156 That is a radical ass-backward transformation of the
 mission! To the GOP this Bureau represents that pesky interference in
 the freedom of the money power to make as much money as they can.
 
 ## Investor exploitation
 
 We have a law protecting people who own money that someone else
-manages for them. The Employee Retirement Income Security Act of
-1974 (ERISA) defines a fiduciary as someone who acts financially in
+manages for them. _The Employee Retirement Income Security Act of
+1974_ (ERISA) defines a fiduciary as someone who acts financially in
 trust for someone else.^157 This law established an ethical and legal
 requirement that a fiduciary act in the client’s best interest, disclosing
 conflict of interest and fees. The definition has been strictly applied
@@ -338,13 +340,13 @@ percentage increases exponentially.^166 167 How is our well-oiled wealth
 transfer machine working? Very well. The rich are getting richer and
 taking ownership of more of the nation’s wealth. In 2014 in the US:
 
-- The wealthiest 10 percent own 75 percent of America and take
+* The wealthiest 10 percent own 75 percent of America and take
     40 percent of all US income.
-- The wealthiest one percent own 43 percent of America, and take
+* The wealthiest one percent own 43 percent of America, and take
     20 percent of all US income.
-- The wealthiest 1/10th of one percent own 22 percent of America
+* The wealthiest 1/10th of one percent own 22 percent of America
     and take 8 percent of all US Income.
-- The wealthiest one hundredth of one percent own 11.2 percent
+* The wealthiest one hundredth of one percent own 11.2 percent
     of America and take 5 percent of all US income.^168 And, this
     was in 2014.
 
@@ -372,7 +374,6 @@ cry; I feel deep sorrow in my chest.^169 Think about the power and the
 bad decision-making that follows:
 
 8 people own as much wealth as  
-- 
 3,800,000,000 1/2 the world’s population.
 
 There is an end to this game. All ownership of all the assets and
