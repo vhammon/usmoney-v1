@@ -1,7 +1,7 @@
 ---
 layout: chapter
 date: 2018-09-12T07:00:00.000Z
-title: our current system
+title: Our Current System
 subtitle: How did we get here?
 section-number: 40
 chapter-number: 5
@@ -27,7 +27,7 @@ _There is something curious in the movements of this modern complicated
 machine, the funding system; and it is only now that it is beginning to unfold
 the full extent of its movements. In the first part of its movements it gives
 great powers into the hands of government, and in the last part it takes them
-completely away._  
+completely away._\
 — Thomas Paine, 1796^1
 
 In America, money creation has been an issue of contention since
@@ -158,13 +158,13 @@ ask that they give equal time to individual and civic responsibility for
 the general welfare. Choosing a money system that supports genuine
 self-governance will be a step toward achieving this balance.
 
-Defining money
+## Defining money
 
-Is money a commodity or a social technology?
+### Is money a commodity or a social technology?
 
 Defining money as a commodity that can be stored as wealth
 benefits the wealthy, and a dominator model of society. This is the
-particle theory of money (Chapter 3.16). Defining money as a social
+particle theory of money ([Chapter 3.16).](https://usmoney.us/book/chapter-3/section-16) Defining money as a social
 technology supports a partnership model of society. This is the wave
 model of money. How we define money has been debated since well
 before the founding of our nation.
@@ -226,7 +226,7 @@ by the commitment of our young nation.
 From the point of view of the global money interests – home based
 in England and Scotland at that time – the creation of a sovereign
 or commonwealth currency was a dire threat to their global control
-of commerce. The British ship, the HMS Phoenix, sat off New York’s
+of commerce. The British ship, the _HMS Phoenix,_ sat off New York’s
 shore with printing presses on board turning out counterfeit $
 bills to flood the fledgling and war torn economy. When the British
 General Howe took New York in 1776, the printing presses moved
