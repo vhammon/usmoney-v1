@@ -109,8 +109,8 @@ improve? How can a change in the money system support improvement?
 
 What role does equal footing play in establishing domestic tranquility?
 What role do extremes of wealth play? And remember John F. Kennedy’s
-words, “Those who make peaceful revolution impossible will make violent
-revolution inevitable.” How do his words apply today?
+words, _“Those who make peaceful revolution impossible will make violent
+revolution inevitable.”_ How do his words apply today?
 
 ### Provide for the common defense
 
@@ -124,7 +124,7 @@ wealth of a few individuals?
 
 Our founders recognized that if we want to establish a more perfect
 Union, then we must promote the general welfare – a strong founda-
-tion for all of our citizens. “Promoting the general welfare” is mentioned
+tion for all of our citizens. _“Promoting the general welfare”_ is mentioned
 in our Declaration of Independence and in our Constitution as one of
 its main purposes. Do we still believe promoting the general welfare is
 one of our most important national goals? How can we tell the differ-
