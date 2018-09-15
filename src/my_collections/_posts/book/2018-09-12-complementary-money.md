@@ -54,7 +54,7 @@ still accepting the currency. In 2015 another Ithaca group launched a
 digital local currency, which is still in startup. The rest of these local
 currencies show a wide range of failure and success.^26
 
-As first described in Chapter 3.21, the Swiss have a complementary
+As first described in [Chapter 3.21,](https://usmoney.us/book/chapter-3/section-21) the Swiss have a complementary
 currency called the WIR. It is credited with stabilizing their economy
 over the past 80 years, enabling it to weather global financial storms
 better than most other nations. The Swiss WIR is pegged to the Swiss national money, but it is not convertible into any other currency,
@@ -78,7 +78,7 @@ complementary systems.^27
 
 In the realm of alternatives to a traditional money system, there are
 endless ways people can use time or service to buy other goods or
-services. These systems, while called currencies , are closer to barter
+services. These systems, while called _currencies,_ are closer to barter
 banks than money systems. However, they successfully match
 unmet needs with unused time or production and they are a worthy
 supplement to a primary money system.
@@ -98,6 +98,8 @@ program, called caring relationship tickets, or _fureai kippu_ , in which anyone
 hours of service. One can transfer these credits to someone else, or
 bank them for one’s personal use when one gets old. Established in
 1995, this successful program is serving as a model.^28
+
+
 Schools have experimented with banks for tutoring services provided
 by students. Tutoring units can either be used to purchase tutoring
 for themselves, or they can use their savings to pay state college
@@ -207,7 +209,7 @@ to continue, they must buy and sell using the money units.
 
 Some complementary money systems are IOU-future value money
 systems that create money in an initial exchange. These are called
-mutual-credit currencies , because the money is created in a mutually
+_mutual-credit currencies,_ because the money is created in a mutually
 agreed upon trade between two participants. This is a system in which having a negative balance is not a bad thing. It is necessary to
 get the ball rolling. Participants are generally expected to maintain a
 positive balance most of the time, though an option to run a negative
