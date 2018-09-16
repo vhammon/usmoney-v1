@@ -13,7 +13,7 @@ categories:
 tags:
   - null
 ---
-Thank you for purchasing this book. I hope you’ll join me online at USMoney.US and help foster a broad conversation about our money system. I am indebted to many monetary reformers whose writings contributed to my understanding of our money. There are so many of consequence, I’ve introduced them on the website.
+Thank you for purchasing this book. I hope you’ll join me online at [USMoney.US](https://usmoney.us/) and help foster a broad conversation about our money system. I am indebted to many monetary reformers whose writings contributed to my understanding of our money. There are so many of consequence, I’ve introduced them on the website.
 
 The research and writing has been a decade long effort, supported by family, friends and professionals. Many helpful people have read parts or the whole. Jan Sturtevant and Rosalind Hamar read through, questioned, and commented when it was at its earliest and most disjointed. Editors DeAnn Herringshaw and Dawn White polished the first half. Vickie Rooks read through the whole and checked my math. Editor Fran Gardner offered exceptionally helpful criticism and suggestions toward the end of the process, which I wish I’d had more time to implement.
 
