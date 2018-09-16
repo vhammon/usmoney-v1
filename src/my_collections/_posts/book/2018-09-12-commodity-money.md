@@ -23,7 +23,9 @@ tags:
   - money
 ---
 _Observe well these rules: It is a very common mistake to say that money is
-a commodity...Bullion is valued by its weight...money is valued by its stamp._  — John Locke, An Essay on Money & Bullion, 1718^1
+a commodity...Bullion is valued by its weight...money is valued by its stamp._
+
+– John Locke, An Essay on Money & Bullion, 1718^1
 
 Commodity money is defined by the physical nature of the token.
 The physical token is only one aspect, sometimes minor, of a money
@@ -137,12 +139,14 @@ agreement to use gold as money, and transferable use would make
 gold a commodity money.
 
 ### Who Decides
+
 #### HOW IS COMMUNITY-WIDE AGREEMENT ACHIEVED?
 
 Any kind of government, from dictator to democracy, can choose to
 use commodity money.
 
 ### The Token
+
 #### A COMMODITY.
 
 Throughout history many commodities have been used for money,
@@ -263,6 +267,7 @@ long term wealth storage or for speculation is not necessarily the best
 choice for a medium of exchange.
 
 ### Creation & Destruction
+
 #### CREATION
 
 Gold money gives this power of creation to those who own or control
@@ -284,8 +289,7 @@ that own the mines, and own the world’s stocks of gold bullion,
 would control the supply available for currency, hence the value of
 the coins, and consequently the cost of everything in the marketplace.
 
-#### WHO DESTROYS MONEY OR REMOVES IT FROM
-CIRCULATION AND HOW IS THAT DONE?
+#### WHO DESTROYS MONEY OR REMOVES IT FROM CIRCULATION AND HOW IS THAT DONE?
 
 Gold coins can be removed by melting them into bullion and using
 it for one of gold’s many commercial or industrial purposes. It

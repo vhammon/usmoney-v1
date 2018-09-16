@@ -119,7 +119,7 @@ credit certificates, moved around by plastic card and bank transfer
 instructions. Nearly all money today is a digital, computer-
 based record.
 
-A new term, digital currency, is being used by bankers, economists,
+A new term, _digital currency,_ is being used by bankers, economists,
 and monetary reformers. They are using these words to mean more
 than the words alone suggest. This new use of these words needs
 some explaining, which I’ll do at the end of this chapter.
@@ -174,7 +174,7 @@ Banks pay no cost to the commonwealth for this privilege. Our banks
 have the same costs a basic bank serving as an intermediary would
 have of labor, overhead and collection. But, unlike a basic bank,
 our banks pay no cost for the use of the money they create. This is
-a windfall. There is a reported $14 trillion supply – and it’s probably
+a windfall. There is a _reported_ $14 trillion supply – and it’s probably
 closer to $20 trillion or more, when the money created for the
 shadow banking sector is included in the supply count. Think about
 the interest the banks are collecting on $14–20 trillion!

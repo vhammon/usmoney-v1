@@ -37,9 +37,9 @@ and use of money. Remember, govern itself can mean different
 things and who gets to create new money will override any other
 governing power.
 
-In all uses of sovereign for a money system, the role of government is
+In all uses of _sovereign_ for a money system, the role of government is
 essential. All uses have two characteristics in common: government
-authorizes the money, and government guarantees the money. But
+_authorizes_ the money, and government _guarantees_ the money. But
 they differ in who has the critical money-creation power. Here are the
 three uses of the term.
 
@@ -53,7 +53,7 @@ Modern Money Theorists (MMT) use the term sovereign money to
 refer to US money. In the US system today, private bankers create
 the money. Government only provides the authority that makes this
 money national legal tender, and government provides the guarantee.
-MMT is using sovereign to mean national. If you’re a reader of MMT
+MMT is using sovereign to mean _national._ If you’re a reader of MMT
 texts, please note: while the texts acknowledge private banks create
 money, they refer to the money as issued by government.^18 This
 conflates authority with creation, and confuses money creation and

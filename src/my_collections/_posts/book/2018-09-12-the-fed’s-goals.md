@@ -22,12 +22,12 @@ categories:
 tags:
   - money
 ---
-The Purposes and Functions of the Federal Reserve System...
+**The Purposes and Functions of the Federal Reserve System...**
 _The goals of monetary policy are spelled out in the Federal Reserve Act, which
 specifies that the Board of Governors and the Federal Open Market Committee
 should “seek to promote effectively the goals of maximum employment, stable
-prices, and moderate long-term interest rates._  
-— The Federal Reserve: Its Purposes and Functions, 9th Edition, 2005
+prices, and moderate long-term interest rates._\
+— _The Federal Reserve: Its Purposes and Functions,_ 9th Edition, 2005
 
 We gave away the power to create 99 percent of our new money to
 the private banking sector, only retaining a right to appoint a Board
@@ -58,7 +58,7 @@ unemployment as a barometer of how well the amount of money
 in the system matches the needs of the economy – from their
 point of view.
 
-However, there is no definition of maximum in the law and it will
+However, there is no definition of _maximum_ in the law and it will
 mean different things to different segments of the population. When
 there is plenty of money, and even too much money for a time, the
 economy will accelerate and there will be low unemployment. There
@@ -95,8 +95,10 @@ the marketplace. Sometimes it will be to the advantage of labor and
 sometimes to the advantage of business owners. Like a real business cycle, it will be business specific, not economy-wide; there might
 be too few nurses and they can demand a high wage, or too many
 combustion engine mechanics when all vehicles are electric.
+
+
 However, in our current system, the Fed acts on the belief that its
-goal is to keep overall employment in the sweet spot for big and
+goal is to keep _overall_ employment in the sweet spot for big and
 global business owners. The general idea seems to be to maximize
 the profits going to the owners of invested capital without throwing
 the nation into dissolution or depression – but, a little pain for small
@@ -121,9 +123,9 @@ will go up. The governing board, independent of elected oversight,
 determines what monetary policies will best meet this demand to
 overgrow the money supply.
 
-Given our system choice, “promoting stable prices” is an impossible
-goal for the Fed; stable means a steady and acceptable-to-some
-decline in the value of our money – also called inflation. Some
+Given our system choice, _“promoting stable prices”_ is an impossible
+goal for the Fed; _stable_ means a steady and acceptable-to-some
+decline in the value of our money – also called _inflation._ Some
 consider inflation’s steady dollar decline a form of taxation – but
 often mistakenly believe the tax is going to government. It is not. It
 is going to the bankers who create our money. A fractional reserve
@@ -131,7 +133,7 @@ money creation system that allows new money to carry interest will
 always be an exponentially increasing money supply with a declining
 value. Unless increases are carefully controlled to stay within the increases in population and productivity, the value of the money will
 decrease. Our system does not have these controls. It’s disingenuous
-to call this deliberately depreciating money, stable.
+to call this deliberately depreciating money, _stable._
 
 ## 3. Moderate long-term interest rates
 
@@ -171,8 +173,7 @@ drastically diminished. The Fed certainly has little influence over the
 interest rates, so the goal of moderate interest rates is an exercise in
 futility.
 
-## 4. Ensure the safety and soundness of the nation’s banking and
-    financial system and protect the credit rights of consumers.
+## 4. Ensure the safety and soundness of the nation’s banking and financial system and protect the credit rights of consumers.
 
 These outcomes are compromised by the choice of a fractional reserve
 money creation system in the hands of private parties. This system is

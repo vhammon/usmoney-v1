@@ -23,13 +23,13 @@ categories:
 tags:
   - money
 ---
-Fiat is a Latin word meaning let it be done. It is generally used to
+Fiat is a Latin word meaning _let it be done._ It is generally used to
 mean a decree by an authority. The term fiat money means some
 authority decreed a certain type of money to be valid currency.
 
 By definition, money is used broadly as a medium of exchange by
 some form of community-wide agreement. Any form of agreement –
-formal or informal – requires a let it be done declaration of some kind.
+formal or informal – requires a _let it be done_ declaration of some kind.
 So, in this sense, ALL money is fiat money.
 
 However, the term creates confusion because it is now commonly
@@ -38,11 +38,10 @@ the name to each in reference to a single, but different, aspect.
 According to the common understanding, such as information on
 Wikipedia,^6 fiat money has two different meanings:
 
-
 ## Fiat money means No marketplace or commodity value
 
 For some fiat money means a money that has no marketplace
-commodity value – it “represents nothing at all.” Commodity or not is
+commodity value – it _“represents nothing at all.”_ Commodity or not is
 a discussion about one aspect of money: the token used. So making
 this distinction the defining characteristic of a system for today
 is not particularly useful. There are more accurate ways to name

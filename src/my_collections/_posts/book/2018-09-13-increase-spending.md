@@ -61,6 +61,8 @@ This is partly by choice; both parents often want to keep a career on
 track, or just enjoy their work outside the home more than home-
 making and FT parenting. But, it’s usually not a matter of choice,
 two working parents are an economic necessity.^24
+
+
 An economy in which one partner works without intersecting
 with the money system won’t cut it when you need to increase the
 amount of money moving around by 8 percent every year. So, as the

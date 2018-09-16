@@ -94,6 +94,8 @@ much money to do anything about it, and surely some enterprising
  entrepreneur will step in and fix it. The next day, the lake is covered
 and all the fish die.
 
+[ graph ]
+
 NO living system on planet earth can sustain exponential growth.
 This is an immutable fact. All living systems have checks that
 maintain balance. The only living things that grow exponentially and
@@ -120,7 +122,7 @@ and makes them a profit.
 Shaving off a bit of the growth rate stretches out the exponential
 curve but does not change the fact that if the algae continue to grow
 by a steady percentage each year, they will cover the lake – a little
-later, rather than sooner, but inevitably. That’s the math. Hanging
+later, rather than sooner, but _inevitably._ That’s the math. Hanging
 onto the jobs now can kill all the food and jobs later.
 
 Our brains are shaped to see the immediate and not the underlying

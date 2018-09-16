@@ -33,8 +33,8 @@ but I couldn’t find an original source for the data-facts, and had
 to revise or eliminate a point. It’s a challenging world out there of
 stories, facts, and _alternative facts._ We can help each other find a path
 to understanding and solutions. If errors in my arguments remain,
-please feel free to disagree and present counter-evidence on _USMoney.
-US_. I’d love to get a good discussion going; we’ll all learn more!
+please feel free to disagree and present counter-evidence on [_USMoney.
+US_.](https://usmoney.us/) I’d love to get a good discussion going; we’ll all learn more!
 
 Our fractional reserve money creation system gives the extraordinary
 power to create new money to private banks, with few constraints on
@@ -56,33 +56,38 @@ privileges a small elite group of people and exponentially increases the
 money supply. This section explains how our money system pushes
 us toward:
 
-- Glorification of exponential growth in
-    - Debt,
-    - Population,
-    - Spending,
-    -  Waste and war;
-- A hard times economy, by design, that cycles from boom to bust,
-    - Fueled by testosterone;
-    - Corrupted by speculation; in which
-    - Everything costs more: and
-    - Our common wealth is lost.
-- A wealth transfer system that
-   - Transfers our common wealth to a private and wealthy
-       elite; and
-    - Compromises innovation.
-- Rule by a wealthy few, which
-    - Diminishes competition and makes a free market
-       impossible; and
-    - Eliminates rule of, by, and for the people.
-- The idolatry of money, which
-    - Makes growing profits and getting rich our highest values;
-    - Leads to bailouts and moral hazard; and
-    - Produces bad decisions.
-- An end to the road we currently travel.
+* Glorification of exponential growth in
+  * Debt,
+  * Population,
+  * Spending,
+  * Waste and war;
+
+* A hard times economy, by design, that cycles from boom to bust,
+  * Fueled by testosterone;
+  * Corrupted by speculation; in which
+  * Everything costs more: and
+  * Our common wealth is lost.
+
+* A wealth transfer system that
+  * Transfers our common wealth to a private and wealthy
+      elite; and
+  * Compromises innovation.
+
+* Rule by a wealthy few, which
+  * Diminishes competition and makes a free market
+     impossible; and
+  * Eliminates rule of, by, and for the people.
+
+* The idolatry of money, which
+  * Makes growing profits and getting rich our highest values;
+  * Leads to bailouts and moral hazard; and
+  * Produces bad decisions.
+
+* An end to the road we currently travel.
 
 By describing the consequences of our current money system in
 some detail I am doing my best to make a strong case for why it is
 critically important to change our money system. This chapter is full
 of bad news, which makes it hard to read. Grab a bar of chocolate
 and proceed, or, skim and skip ahead to the hopeful and practical
-solution in Chapters 7 through 10.
+solution in [Chapters 7 through 10.](https://usmoney.us/book/)

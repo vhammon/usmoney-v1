@@ -36,16 +36,16 @@ Here is what the Fed says about itself:
 > often reviews the Federal Reserve’s activities and can alter its responsibilities
 > by statute. Therefore, the Federal Reserve can be more accurately described as
 > “independent within the government” rather than “independent of government.”_
-
-The 12 regional Federal Reserve Banks, which were established by the Congress
-as the operating arms of the nation’s central banking system, are organized
-similarly to private corporations – possibly leading to some confusion about
-“ownership.” For example, the Reserve Banks issue shares of stock to member
-banks. However, owning Reserve Bank stock is quite different from owning
-stock in a private company. The Reserve Banks are not operated for profit, and
-ownership of a certain amount of stock is, by law, a condition of membership
-in the System. The stock may not be sold, traded, or pledged as security for a
-loan; dividends are, by law, 6 percent per year.^16
+>
+> _The 12 regional Federal Reserve Banks, which were established by the Congress
+> as the operating arms of the nation’s central banking system, are organized
+> similarly to private corporations – possibly leading to some confusion about
+> “ownership.” For example, the Reserve Banks issue shares of stock to member
+> banks. However, owning Reserve Bank stock is quite different from owning
+> stock in a private company. The Reserve Banks are not operated for profit, and
+> ownership of a certain amount of stock is, by law, a condition of membership
+> in the System. The stock may not be sold, traded, or pledged as security for a
+> loan; dividends are, by law, 6 percent per year.^16_
 
 Let’s unpack that.
 
@@ -56,11 +56,11 @@ government”_ rather than _“independent of government.”_ Independent is
 the key word. By design, Congress and the Executive Branch cannot
 participate in decisions made by the Federal Reserve System.
 
-In our democratic republic none of our duly elected branches
-of government have any control over the policy decisions of our central bank and its private member banks. This is true, despite
+**In our democratic republic none of our duly elected branches
+of government have any control over the policy decisions of our central bank and its private member banks.** This is true, despite
 the fact that their money-creation decisions determine our economic
 well-being. Our Congress can review some of the central bank’s
-activities, and can “alter its responsibilities by statute,” but today it can
+activities, and can _“alter its responsibilities by statute,”_ but today it can
 have no say in the day-to-day operations and choices of our money
 creation system.
 

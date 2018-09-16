@@ -106,10 +106,9 @@ report would include the recommendations from each perspective as
 well as the aggregate.
 
 Under ordinary circumstances this recommendation is final. Congress
-can establish and alter the formula , but Congress will not have the
+can establish and alter _the formula,_ but Congress will not have the
 authority to alter the decision about how much money to create, with-
-out a sound justification and a super majority. The requirement to keep
-the value of our money as stable as possible must be met.
+out a sound justification and a super majority. **f**
 
 The law can require a set aside for emergencies, such as a massive natu-
 ral disaster. If that set-aside is inadequate for the size of the emergency,
@@ -181,7 +180,7 @@ innovation, new development and a thriving economy. Remember a
 thriving economy has been defined as a growing-in-size economy. This
 intermittent boom-bust growth has been responsible for improvements
 and declines in the quality of our lives, the shrinking of our middle
-class, and the destruction of our planet. So, can we have the improve-
+class, and _the destruction of our planet._ So, can we have the improve-
 ments without the destruction?
 
 **What is the just right amount of money in an economy to keep the
@@ -193,8 +192,8 @@ ardship to all life on our small blue planet?**
 
 It will take a little trial and error to achieve truly stable value money.
 In addition to discovering how much new money creation maintains
-a stable value, we want good information on the impact of how new
-money is entered into the economy. This means we need a way to isolate
+a stable value, we want good information on the impact of how _new
+money is entered_ into the economy. This means we need a way to isolate
 how new money is entered into the economy from how much new
 money is created.
 

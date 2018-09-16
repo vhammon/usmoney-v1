@@ -97,7 +97,7 @@ Let’s say we have a large and robust economy that currently uses
 11,293 billion units of money. We decide by the end of the coming
 year, we want to have 11,917 billion units of money in circulation.
 (How we decide on the amount of new money needed is another
-issue, addressed in Chapter 8.)
+issue, addressed in [Chapter 8.](https://usmoney.us/book/chapter-8))
 
 We decide to increase the money supply by 625 billion units – an
 increase of 6 percent. If we could have any money system we want,

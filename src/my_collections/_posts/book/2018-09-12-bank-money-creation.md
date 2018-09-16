@@ -24,7 +24,7 @@ tags:
   - money
 ---
 _The essence of the contemporary monetary system is creation of money, out
-of nothing, by private banks’ often foolish lending._  
+of nothing, by private banks’ often foolish lending._\
 — Martin Wolf, Financial Times, November 9, 2010^16
 
 There is a natural immature human inclination to find a way around
@@ -61,7 +61,7 @@ bankers are doom and gloomy and money is tight. People suffer.
 
 Bankers have convinced academics and Congress that this cycle of
 boom and bust, exuberance and restraint is a normal economic-
-business cycle. It is not. There is a natural business cycle from new, to
+business cycle. It is not. There is a natural _business_ cycle from new, to
 we-must-all-have-this, to ho-hum, to gone and forgotten, to the next
 new thing. Think of the businesses that boomed and collapsed as we
 innovated from phonograph records to the cloud: the manufacturers

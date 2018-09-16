@@ -59,4 +59,53 @@ and environment.
 I was Head of a Montessori school for many years and had occasion
 to discuss the nature of children with both traditional and Montessori
 teachers. Traditional teachers often bemoaned what they believed to
-be a fact: children are lazy and will do as little schoolwork as possible.
+be a fact: children are lazy and will do as little schoolwork as possible. These teachers believed rewards and punishment are
+necessary classroom tools. Montessori teachers know that in the right
+environment kids are naturally eager learners. Children learn because
+they love to learn when they are given the freedom to do so in a well-
+equipped classroom with skilled guides. There is then no need for
+them to expect a reward for every correct action and punishment for
+transgressions. Children develop different attitudes and characteristics
+in different environments and different types of classrooms.
+
+In the same way, people who grow up in one money system will
+have different attitudes and characteristics from those who grow up
+in another. Within one system some people may be dishonest, get
+away with anything they can, and value money more than the health
+of their communities. Within another system, people may act quite
+differently. Systems can bring out the best or worst in our nature.
+
+Because it is so important we understand how much our money
+system matters, here is another example of how the system we choose
+determines outcomes and reflects specific values.
+
+Only a generation or two back, it was standard practice for teachers
+to grade on the curve. Grading on the curve compared everyone’s
+performance with the rest of their class; it did not determine whether
+everyone had mastered a subject. When grading on the curve, even
+if everyone did well, only a small number could get ‘A’s and some
+had to flunk. Grades have lifetime impacts, so choosing to grade on
+the curve meant some kids were labeled the best and some the worst.
+Grading on the curve said we valued establishing an elite and culling
+flunkies; we did not care so much about competency.
+
+We recognized this system did not match our values, and we changed
+it. Most teachers today grade on competency because we are clear
+we value competency over establishing a hierarchy of greater and
+lesser people. This conscious change matches our grading system to
+our values. We value giving everyone an equal shot at mastering an
+education and we made that value match our practices.
+Our money system has lifetime impacts: Who has the best chance
+of succeeding with new enterprise? Is the playing field level? Do we
+fund prevention or crisis management? How equitably is wealth
+distributed in our society?
+
+What drives our economy? Health? Long-term sustainability? Short-
+term profits? Family values? Efficiency? Stability? Hard work?
+Privilege? Who has the power to make choices for us all?
+
+When we understand our money system is not working as we would
+like, we can choose a different system that more closely matches
+our values.
+
+**We can change our system.**

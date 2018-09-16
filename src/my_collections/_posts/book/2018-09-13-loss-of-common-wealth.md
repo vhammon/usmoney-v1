@@ -96,9 +96,9 @@ The impact will be exponential. Deaths of little species and habitats at
 one end of the food chain will pyramid into catastrophic loss.
 
 We are squeezing the life out of the planet. In May, 2007 Ahmed Djoghlaf, head of the U.N. Convention on Biological Diversity, said
-that “Extinction rates are rising by a factor of up to 1,000 above natural
+that _“Extinction rates are rising by a factor of up to 1,000 above natural
 rates. Every hour, three species disappear. Every day, up to 150 species are
-lost.” 136 According to a 1998 survey of 400 biologists conducted by
+lost.” _136 According to a 1998 survey of 400 biologists conducted by
 New York’s American Museum of Natural History, nearly 70 percent
 believed that we are currently in the early stages of a human-caused
 mass extinction event, comparable to the End Cretaceous Extinction
@@ -112,7 +112,7 @@ our lives. But, a system that demands exponential growth must find
 and exploit new resources and new markets; it cannot ask, _“How can
 we find a healthy equilibrium?”_
 
-This is now. Unless we take immediate, strong action, we’re too late.
+**This is now.** Unless we take immediate, strong action, we’re too late.
 Life as we know it will be gone and humans may be extinct. We may
 still have a rapidly closing window of time to change our behavior
 and take remedial action. Prudence and stewardship demand it. If
@@ -136,7 +136,8 @@ significant building block of our common wealth.
 An effective democracy requires three important components: citizens who are informed; independent thinkers; and who have diverse
 worldviews, aptitudes, and knowledge bases. Over the past century, as
 the money system transferred wealth to the very few, we significantly
-diminished these attributes (Chapter 6.72).
+diminished these attributes [(Chapter 6.72).](https://usmoney.us/book/chapter-6/section-72)
+
 Jane Mayer, in her book, _Dark Money: The Hidden History of the
 Billionaires Behind the Rise of the Radical Right_ (2016) tells us some
 of the ways this happened. She tells stories of the corruption of our
@@ -163,7 +164,7 @@ care of us all to increasing their private wealth. And, they succeeded.
 
 In the early 20th century a small group of very wealthy people came
 up with the idea of the Family Foundation tax dodge – put a billion
-in a foundation, spend the income for 20 years on philanthropy, and
+in a foundation, spend the _income_ for 20 years on philanthropy, and
 then take ownership of the principle tax free. These foundations
 did some public good. Some of the income they were required to
 spend built libraries, university buildings, and art museums. But

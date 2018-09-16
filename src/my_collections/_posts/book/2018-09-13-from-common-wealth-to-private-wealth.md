@@ -87,21 +87,22 @@ rural communities while contributing to... America’s social fabric and identit
 maintain open spaces in the fast-growing West, provide habitat for wildlife, offer
 a myriad of recreational opportunities for public land users, and help preserve
 the character of the rural West.^174_
-```
+
 Whew! This is a lot of work to do on a skimpy budget, and we end up
 being poor stewards. If the going rate for renting land for grazing is
 higher, why not charge the market rate and use the funds to improve our common wealth? Give discounts to lessees and extractors who
 restore and improve the land, habitat and animal populations.
-Republican President Theodore Roosevelt signed the Antiquities Act
-of 1906 into law. This law established the first general legal protection
+
+Republican President Theodore Roosevelt signed the _Antiquities Act
+of 1906_ into law. This law established the first general legal protection
 for cultural and natural resources. It gave us our National Parks and
 Monuments. It required that land set aside as part of a monument
-be “confined to the smallest area compatible with the proper care
+be _“confined to the smallest area compatible with the proper care
 and management of the objects of historic or scientific interest to be
-protected.” 175
+protected.”_ 175
 
 Today, there is a clear difference in the political parties about the
-meaning of “smallest area compatible” when it comes to protecting,
+meaning of _“smallest area compatible”_ when it comes to protecting,
 preserving, and exploiting our treasured wild lands. On a party
 line vote in January 2016, Republicans eliminated a requirement to
 consider the income and costs of public lands when considering their

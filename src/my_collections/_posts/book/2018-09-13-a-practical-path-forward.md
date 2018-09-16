@@ -28,7 +28,7 @@ ment? How do we decide what a new system should be? How can we
 move towards a good decision? If you’ve made it this far, I hope you
 have enough understanding and enthusiasm to take another step.
 
-Chapter 8 presented an alternative money system that is the work of
+[Chapter 8](https://usmoney.us/book/chapter-8) presented an alternative money system that is the work of
 many reformers who have gone before us. However, it’s worth a couple
 blocks to acknowledge that the best possible solution will come from
 engaging a broad and diverse community. Even reformers are capable
@@ -42,17 +42,17 @@ The most successful decision-making employs a facilitator focused strictly
 on the process who has no agenda or axe to grind. The best decision-mak-
 ing follows a process:
 
-- Engage all the stakeholders
-- Engage a diverse group of informed, independent thinkers
-- State the problem
-- Gather the facts
-- Clarify values
-- Define goals in general and concrete terms
-- Allow space for strong feelings
-- Brainstorm many alternatives
-- Establish criteria for choosing among the alternatives
-- Discuss the pros and cons, benefits and burdens of each alternative
-- Keep pushing for alternatives that will bridge conflicting interests
+* Engage all the stakeholders
+* Engage a diverse group of informed, independent thinkers
+* State the problem
+* Gather the facts
+* Clarify values
+* Define goals in general and concrete terms
+* Allow space for strong feelings
+* Brainstorm many alternatives
+* Establish criteria for choosing among the alternatives
+* Discuss the pros and cons, benefits and burdens of each alternative
+* Keep pushing for alternatives that will bridge conflicting interests
 
 ## Gather
 
@@ -77,16 +77,16 @@ Open Space is a meeting approach that works for 5–2000 people over
 1–3 days. Harrison Owen, the originator, explains this approach works
 best when the following conditions are present, namely high levels of:
 
-- **Complexity** , in terms of the tasks to be done or outcomes achieved;
-- **Diversity** , in terms of the people involved and/or needed to make
+* **Complexity** , in terms of the tasks to be done or outcomes achieved;
+* **Diversity** , in terms of the people involved and/or needed to make
     any solution work;
-- **Conflict** , real or potential, meaning people really care about the
+* **Conflict** , real or potential, meaning people really care about the
     central issue or purpose; and
-- **Urgency** , meaning that the time to act was _yesterday._
+* **Urgency** , meaning that the time to act was _yesterday._
 
 Changing our money system fits these criteria. You can find more infor-
-mation about how Open Space works at osius.org, Open Space Technology
-Institute-US. The technology is free to use and simple to learn (though,
+mation about how Open Space works at osius.org, _Open Space Technology
+Institute-US._ The technology is free to use and simple to learn (though,
 like everything, experience and practice at facilitating an Open Space
 is valuable.)
 

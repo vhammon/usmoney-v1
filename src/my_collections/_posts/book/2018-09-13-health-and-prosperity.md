@@ -71,9 +71,9 @@ spending on their products. This will happen in a commonwealth money
 system (if the product is worthy and the price is right).
 
 PositiveMoney.org gathered economic research on this issue and
-published a short and convincing paper, Would There be Enough Credit
-in a Sovereign Money System, by Frank VanLerven, Graham Hodgson,
-and Ben Dyson. (They are using the name sovereign to mean what I
+published a short and convincing paper, _Would There be Enough Credit
+in a Sovereign Money System,_ by Frank VanLerven, Graham Hodgson,
+and Ben Dyson. (They are using the name _sovereign_ to mean what I
 have called commonwealth money). They make a convincing case that
 a commonwealth money system will provide an adequate (but not infla-
 tionary) level of credit.^3

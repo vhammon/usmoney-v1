@@ -91,8 +91,8 @@ can then be exchanged into dollars.
 ### Money creation
 
 Global banks create money for people all over the world in many curren-
-cies. In the pre-crash years of 2004 to 2008 the global bankers increased
-the supply of dollars held in foreign hands at annual growth rates of
+cies. In the pre-crash years of 2004 to 2008 the _global_ bankers increased
+the supply of dollars _held in foreign hands_ at annual growth rates of
 12–24 percent.^17 They increased the supply of dollars by making dollar
 denominated loans to each other, to countries – guaranteed by natural
 resources and future tax income streams, to global corporations and to
@@ -121,16 +121,16 @@ The remaining **$3 trillion** moves around in the global economy extract-
 ing wealth from 99 percent of the world’s population and moving it
 into the hands of a very tiny few.
 
-In 2014, a total reported money supply of $12 trillion was in use in the
+In 2014, a total _reported_ money supply of $12 trillion was in use in the
 US, and another $8 trillion in US money created by global bankers
-for use in the rest of the world. So 40 percent of the dollars in the total
-global supply have been created by global bankers for use outside the US.
+for use in the rest of the world. So 40 percent of _the dollars in the total
+global supply_ have been created by global bankers for use outside the US.
 
-This will stop.
+**This will stop.**
 
 Global bankers must follow the same laws that will apply to bankers in
 the US with regard to US money. If they want to make loans or issue
-credit in US currency, they must have that amount from investors.
+credit in US currency, **they must have that amount from investors.**
 Global bankers will no longer be allowed to create US money. Transition
 accounting changes will be the same for global banks as for domestic
 banks. The transition from bank money to US commonwealth money

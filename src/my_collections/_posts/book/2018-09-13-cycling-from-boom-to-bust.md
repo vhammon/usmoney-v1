@@ -83,15 +83,15 @@ Households borrowed against the continuously inflating value of
 their homes. The money created by this borrowing increased buying
 and selling. From the year 2000 to the housing market crash in 2007,
 our financial wizards were using a formula to calculate the risks of
-home mortgages and bundles of mortgages that did not include the
-possibility home prices could ever drop.^99
+home mortgages and bundles of mortgages that _did not include the
+possibility home prices could ever drop._^99
 
 Countless reports admired our healthy and booming economy, and
 attributed it to innovation, or a new world of never-diminishing
 property prices, or President Clinton’s deregulation of banking and
 the commodities market, or President Bush’s leadership. But, nearly
-every pundit and politician ignored that the boom was almost entirely
-fueled by increasing debt.
+every pundit and politician ignored that the boom was almost _entirely
+fueled by increasing debt._
 
 A version of this movie is replaying from 2009–2018 with the bubble
 in the stock market and in the bond and non-investment grade debt

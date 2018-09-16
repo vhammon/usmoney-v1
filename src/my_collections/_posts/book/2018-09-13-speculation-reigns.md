@@ -84,15 +84,15 @@ by high-speed speculators who hold the stocks for micro seconds,
 leveraging their high data transmission speed so they see who is
 intending to buy, beat them to the purchase, add a sliver of profit
 and sell immediately. It’s difficult to know, but some estimate there
-is a high-speed trader on at least one side of every single trade in our
-markets. By making millions of these trades, adept traders take home
+is a high-speed trader on at least one side of _every single trade in our
+markets._ By making millions of these trades, adept traders take home
 billion dollar incomes. Their incomes come out of the nation’s pocket,
 as they raise the price of everything. This raises the prices of stocks,
 too, which is a boon to investors, including the retirement accounts
 of many. But, the increase is unrelated to an actual increase in the
 value of a company, and it is vulnerable to the next bust.
 
-Michael Lewis’s book, Flash Boys (2014), offers a jaw-dropping
+Michael Lewis’s book, _Flash Boys_ (2014), offers a jaw-dropping
 glimpse into this world. These traders are skimming cream off the top
 of the entire economy, making everything we buy cost more.^126
 

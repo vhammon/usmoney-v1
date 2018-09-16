@@ -37,7 +37,7 @@ an unnecessarily unstable marketplace.
 In review, in any money system the money supply must grow to
 accommodate increases in population and productivity, with a pinch
 for mistakes along the way to innovation, and a pinch to manage
-disasters (Chapter 3.23).
+disasters ([Chapter 3.23).](https://usmoney.us/book/chapter-3/section-23)
 
 ### Population
 
@@ -72,7 +72,7 @@ accommodate interest payments to the money creators.
 
 The Federal Reserve Act requires that the Board of Governors use
 what powers they have (which are minimal and ineffective) to
-maintain a steady 2 percent devaluation of our dollar.
+maintain a steady 2 percent _devaluation of our dollar._
 
 In order for the dollar to lose value, more money than is necessary
 is created. The extra money inflates the supply so that there is more
@@ -80,7 +80,7 @@ money in the system than is needed for all economic activity. Each
 dollar loses value and prices go up. This inflation is what the CPI is
 tracking.
 
-This declining value is defined as stable. According to the average
+This declining value is defined as _stable._ According to the average
 devaluation over time the Board has failed to keep inflation at a
 steady 2 percent. The Bureau of Labor Statistics’ (BLS) calculates our
 money has deteriorated in value by an average of 3 percent over the

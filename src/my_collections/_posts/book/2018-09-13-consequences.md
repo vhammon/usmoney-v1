@@ -23,7 +23,7 @@ categories:
 tags:
   - money
 ---
-Chapter 6 looked at the consequences of our current money system.
+[Chapter 6](https://usmoney.us/book/chapter-6) looked at the consequences of our current money system.
 Now let’s consider the potential impact of a new common wealth
 money system.
 
@@ -97,6 +97,6 @@ and keep them or blow them away. But, the entire economy will reach
 a sustainable and healthy equilibrium. We can be happier and health-
 ier and have:
 
-**Health and prosperity;**  
-**A free and fair market; and**  
+**Health and prosperity;**\
+**A free and fair market; and**\
 **The best decision-making**

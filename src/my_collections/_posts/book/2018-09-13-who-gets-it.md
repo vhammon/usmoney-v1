@@ -49,8 +49,8 @@ Since at present, government mostly spends, for simplicity, I’ll just refer
 to government spending as its means of entering money into the econ-
 omy. (Just remember we may choose to have it given, invested or loaned.)
 
-Remember, government spending is not a zero-sum proposition; it’s
-an important part of a healthy circulation cycle. For example, let’s say
+**Remember, government spending is not a zero-sum proposition; it’s
+an important part of a healthy circulation cycle.** For example, let’s say
 we have a money supply of 100 units and WE the people decide how to
 spend those 100 units every year. Government spending pays for those
 things that matter to all of us – the foundation of a healthy and prosper-
@@ -83,8 +83,8 @@ of our economic activity in taxes, the government will have the same
 100 units to spend back into circulation the next year. And, when we
 change systems, from one that steadily deteriorates the value of money
 to a stable value money system, government spending will remain rela-
-tively stable. Government spending is not taking other people’s money
-and we won’t run out of it. It circulates. Government spending is a crit-
+tively stable. Government spending is not taking _other people’s money_
+and we won’t _run out of it._ It circulates. Government spending is a crit-
 ical component of the circulation in a healthy economy.
 
 If we taxed every bit of income over a basic living amount, our tax could
@@ -145,7 +145,7 @@ have more to give, spend, invest, or lend into circulation.
 If we slowly phased out increasing the money supply every year, we
 would have an additional hefty sum to move into circulation (about
 one trillion dollars in 2018). To decide how we want to put money into
-circulation differently, it may be helpful to review Chapter 3.20, and
+circulation differently, it may be helpful to review [Chapter 3.20,](https://usmoney.us/book/chapter-3/section-20) and
 keep in mind our values – foremost: equity, justice, life, liberty and the
 pursuit of happiness for all.
 
@@ -265,7 +265,7 @@ they will be bankrupt and jobless if they need medical care. The nations
 providing health care for everyone spend less on health care and have
 better outcomes than we do in the US. So we will save money, resources
 and lives when we provide basic care for all our citizens – Medicare for
-all. And, again, this is not spending other people’s money; it is spending
+all. And, again, this is not spending _other people’s money;_ it is spending
 Our Money.
 
 Hospice provided wonderful home services when my mother was dying.
@@ -292,10 +292,10 @@ into life-time failure and sometimes crime.
 Finland and Sweden had pilot sabbatical programs, giving people a
 stipend to take a year off from their job. We could do this. There are
 many things we could do to promote the general welfare, and improve
-domestic tranquility. Remember none of this takes your hard earned
+domestic tranquility. **Remember none of this takes your hard earned
 money and gives it to someone else, in a zero-sum transaction. WE,
 as a nation circulate this money to benefit all of us. You give a little
-in taxes to get a lot from a healthy common wealth.
+in taxes to get a lot from a healthy common wealth.**
 
 ### Unconditional basic income for everyone
 
@@ -320,9 +320,9 @@ In June 2016, after 10 years of discussion, the Swiss people became the
 first nation to vote on a plan to give every adult a basic income of about
 $2,555 a month (2500 Swiss Francs), and kids about $625 a month. As
 Che Wagner from the campaign group Basic Income Switzerland, argued
-before the vote, “In Switzerland over 50% of total work that is done is
-[already] unpaid. It’s care work, it’s at home, it’s in different communities,
-so that work would be more valued with a basic income.” The referendum
+before the vote, _“In Switzerland over 50% of total work that is done is
+\[already] unpaid. It’s care work, it’s at home, it’s in different communities,
+so that work would be more valued with a basic income.”_ The referendum
 went down 77–23 percent, but almost 70 percent of voters believe that
 it will reappear on a ballot after further discussion polishes the plan.^11
 What would you choose to do if you had a basic income?
@@ -392,7 +392,7 @@ current system for their lifetimes. Then we either raise basic income to
 the SS high, or provide for all at a lower and equal level.
 
 Social Security began as an insurance program. That’s still its official
-name, Old-Age, Survivors and Disability Insurance Program. It was not
+name, _Old-Age, Survivors and Disability Insurance Program._ It was not
 intended to be a retirement plan, paying more to those who contrib-
 uted more; it was intended to be a basic survival income for the old
 and disabled. However, the money power twisted it into a system that
@@ -474,15 +474,15 @@ enough to generate some citizen directed economic activity.
 Congress can specify a percentage of annual money creation and recir-
 culation that goes toward any or all of the following:
 
-- Re-loan to the banks to assist them in the transition (over a
+* Re-loan to the banks to assist them in the transition (over a
     limited time)
-- Pay down government debt as it comes due
-- Spend to make the transformation from fossil fuels to renew-
+* Pay down government debt as it comes due
+* Spend to make the transformation from fossil fuels to renew-
     able energy
-- Spend for infrastructure maintenance at federal and state levels
-- Pay for universal health care
-- Give to citizens as basic income or as a bonus.
-- Whatever else citizens vote to give, spend, or lend it on.
+* Spend for infrastructure maintenance at federal and state levels
+* Pay for universal health care
+* Give to citizens as basic income or as a bonus.
+* Whatever else citizens vote to give, spend, or lend it on.
 
 How would you like to see our common wealth improved? What would
 you want to see funded? How could this decision be made to best serve
@@ -501,8 +501,8 @@ assets and the current liabilities against them. Let’s take a comprehen-
 sive look at our common wealth and its value.
 
 Unfortunately, we don’t currently keep track of this. Our US Government
-Financial Report gives a nod at the end of the Notes #25 to what it calls
-our Heritage Assets – our public lands and historical sites. It acknowl-
+Financial Report gives a nod at the end of the _Notes #25_ to what it calls
+our _Heritage Assets_ – our public lands and historical sites. It acknowl-
 edges we have set aside land for public and military use, public parks
 and sites of cultural importance. But, none of this is given any value.
 Only financial assets are booked in our national accounts (cash on hand,

@@ -23,8 +23,9 @@ tags:
   - money
 ---
 _When I am working on a problem, I never think about beauty... but when I
-have finished, if the solution is not beautiful, I know it is wrong._  
-- Buckminster Fuller (1895–1983)
+have finished, if the solution is not beautiful, I know it is wrong.  _
+
+– Buckminster Fuller (1895–1983)
 
 We face a daunting challenge. While the mechanics of switching to a
 commonwealth money system are relatively simple and easy to accom-
@@ -64,6 +65,7 @@ that support a new story about how money should work:
 ## E Pluribus Unum
 
 ### From we are individual, separate and independent TO we are an indi-
+
 vidual, AND we are all interconnected and interdependent.
 
 We are shifting from a story idolizing the independence and self-suffi-
@@ -88,8 +90,7 @@ is one of them.
 
 ## Dominator TO partnership
 
-### From an authoritarian-dominator model of social organization TO a
-partnership model.
+### From an authoritarian-dominator model of social organization TO a partnership model.
 
 ### Governance
 
@@ -134,7 +135,7 @@ We’re shifting from a story saying father always knows best and it’s
 OK to use physical force and verbal abuse to enforce his dictates, TO
 a parenting model balancing firm limits with respect for parents _and_
 the individual child’s needs. In this emerging story it is important that
-parents help children learn _self-_ discipline, compassion for others, and
+parents help children learn _self-_discipline, compassion for others, and
 confidence in their ability to make a positive contribution with their
 lives. We are increasingly interested in developing good human beings
 instead of just raising obedient wage earners or authoritarian talent.
@@ -251,8 +252,7 @@ essentially heartless creed is on the wane.
 
 ## Tough competition TO nurture & collaboration
 
-### From competition is the only way to progress TO collaboration has the
-greatest benefits.
+### From competition is the only way to progress TO collaboration has the greatest benefits.
 
 Our old story overvalues competition because that is what our money
 system requires. Stressful competition is promoted for life’s basics,
@@ -285,11 +285,10 @@ get. This reduces the number of people who face preventable suffering.
 
 ## There’s not enough to go around TO there’s enough for everyone
 
-### From there’s not enough to go around so some must suffer TO we have
-enough for everyone.
+### From there’s not enough to go around so some must suffer TO we have enough for everyone.
 
 _There is enough for everyone. People think that there isn’t enough, so they
-get as much as they can. Then many people don’t have enough._  
+get as much as they can. Then many people don’t have enough._\
 — R. Buckminster Fuller
 
 We have enough for everyone on earth to prosper. It is simply a matter
@@ -306,13 +305,13 @@ overcomes hunger or provides quality education. We would get better
 decisions from a much more diverse community of decision-makers.
 
 Some people have been programmed to hear better distribution of wealth
-as “hating the successful and rich.” It is important to understand this is
+as _“hating the successful and rich.”_ It is important to understand this is
 not the point. Only a very few truly begrudge the wealth of those who
 work hard, or innovate, or build businesses. People begrudge the wealth
 accumulated in a rigged system, and gained by causing harm to others.
 
 If we truly want to prosper, we must change our story about money: a
-money system can let natural abundance prevail. We can have minimum
+money system can _let natural abundance prevail._ We can have minimum
 life support for all our citizens, so we can each get on with finding and
 fulfilling our highest purpose.
 

@@ -49,6 +49,7 @@ longer have the privilege of creating money for our nation.
 Banks will have three general accounts:
 
 **1. The banks’ own operating accounts**
+
 **2. Investment accounts.** If you choose to have the bank invest for
     you, you hand over ownership of your money to the bank and
        they give you an IOU. Your money becomes a cash asset on their
@@ -173,7 +174,7 @@ supply. But, in our new system, when money-creation loans are paid
 back to the banks, the banks will cancel the loan asset, pay the amount
 to the US Bank, and cancel their own liability IOU. The banks pay the
 returned money to the US government as if it had borrowed the money
-from our common wealth. The money supply will remain the same.
+from our common wealth. **The money supply will remain the same.**
 
 In the US Government account at the Bank of the United States (our
 new central bank), the IOUs of the private banks are entered as an asset.

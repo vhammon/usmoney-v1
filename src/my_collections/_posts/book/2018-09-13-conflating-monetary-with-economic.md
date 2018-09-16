@@ -27,8 +27,8 @@ and confuses monetary and financial issues. It’s hard to see clear choices,
 and when the money system fails, the economy fails along with it.
 
 The Fed’s Board of Governors is tasked with paying attention to the
-national economy: it must “promote effectively the goals of maximum
-employment, stable prices, and moderate long-term interest rates.” Those
+national economy: it must _“promote effectively the goals of maximum
+employment, stable prices, and moderate long-term interest rates.”_ Those
 are economic issues that could be decided in the marketplace. However,
 with the power to create money, the private banks, financial institutions
 and their central bank direct the entire economy. So, they are tasked
@@ -41,7 +41,7 @@ decisions for a $20 trillion (2017) economy is a recipe for poor long-
 term results.^57
 
 The Fed knows this on some level; as I read through the Fed publication,
-The Purposes and Functions of the Federal Reserve Bank, 2005.^58 I was
+_The Purposes and Functions of the Federal Reserve Bank,_ 2005.^58 I was
 struck by the power they hoped to be able to exercise over our economy - not so much the money supply, but over the entire economy. But
     they repeatedly use words like, _difficult, hard, unpredictable._ They
     readily acknowledge their mission, _“to provide the nation with a safer,_
@@ -51,7 +51,7 @@ struck by the power they hoped to be able to exercise over our economy - not so 
     Charlie Rose in May 2014, _“Financial systems are inherently unstable.”_ 59
     His excuse was a don’t blame me apologia for the 2007 meltdown.
 
-The truth is, all financial systems are not unstable. But systems tied to
+The truth is, _all_ financial systems are _not_ unstable. But systems tied to
 unstable monetary systems, such as fractional reserve money creation,
 certainly are.
 
@@ -63,7 +63,7 @@ and bad for others; maintaining stability and _“containing systemic risk
 that may arise in financial markets”_ requires prioritizing the health of
 Wall Street over the health of Main Street.
 
-Our 1913 Federal Reserve Act tied an economic mission to our
+Our _1913 Federal Reserve Act_ tied an economic mission to our
 monetary system, and assigned a central bank the task of using its
 influence to maintain a healthy economy. Keeping in mind a small
 elite bunch of group thinkers will almost never make the best choices,

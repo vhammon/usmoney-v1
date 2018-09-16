@@ -91,6 +91,8 @@ a low investment. And lest you think the women were the only dupes,
 there was a parallel scheme with another theme going on at the same
 time for the men.
 
+\[ graph ]
+
 In the scheme outlined above, the mathematical reality is that for one
 person to get $40,000, eight people must pay in $5,000 each. Since you pay $5,000 to get in the game, you net $35,000 if you’re one of
 the lucky ones. It only takes 15 total participants for the first person
@@ -137,6 +139,7 @@ people, who get two more people, who get two more people – and
 get a payout it serves to fire up everyone else: _“Hey, this works!”_ The
 successful early-in players will prove it all works, and will stand as
 beacons to draw the rest of the moths into the flame.
+
 Once the con artists collect from the top positions, they fade into
 the sunset with $280,000, leaving the community to the inevitable
 collapse of the pyramid and the ensuing ill will.
@@ -157,7 +160,7 @@ her got anything back, and how that affected community spirit and
 her place in the community. Maybe not at all, as people are often
 willing to say, _“It was my fault; I didn’t work hard enough to bring in
 more people under me.”_ Or, in hindsight, they say, _“Wow! I was sure a
-sucker, so it’s my own fault.”
+sucker, so it’s my own fault.”_
 
 With a Ponzi scheme, we see our own effort and not the system that
 drives the outcome. We also see those who succeed or fail and credit
@@ -190,7 +193,7 @@ should it succeed. The con gives her success a bad taste; it makes any
 success that follows rotten at the core, and creates a culture where if it
 makes money, it’s OK. Does that sound familiar?
 
-Clearly, the losers will see the answer to the worth it question
+Clearly, the losers will see the answer to the _worth it_ question
 differently, too. Perhaps the loss of $5,000 meant a mom went
 without the medical care she needed and died, leaving her motherless
 children dependent on the State – at a cost of millions to the

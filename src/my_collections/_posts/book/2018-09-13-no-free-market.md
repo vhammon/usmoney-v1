@@ -48,7 +48,7 @@ a reasonable idea. In order for free enterprise to work for the general
 welfare there must be a balance of freedom and responsibility.
 Because human nature is always at various stages of development,
 including moral development, not everyone will make responsible
-decisions. For many, stuck at the stage of “it’s all about ME & MINE,”
+decisions. For many, stuck at the stage of _“it’s all about ME & MINE,”_
 shortsightedness and greed will harm the community unless there are
 standards, rules, regulations, and enforcement.
 
@@ -113,8 +113,8 @@ are not even shy about promoting the idea that killing a few people
 with unsafe products is part of the noble free enterprise system.
 
 From just 2005 to 2014, the Charles Koch Foundation doled out
-nearly $108 million to colleges and universities to promote laissez-
-faire economics – low taxes, minimal regulations on business. In 2008,
+nearly $108 million to colleges and universities to promote _laissez-
+faire_ economics – low taxes, minimal regulations on business. In 2008,
 Florida State University made an agreement with this foundation
 that gives the foundation a say in the curriculum and hiring decisions
 of the University. The Koch funding established a Program for
@@ -137,6 +137,7 @@ economic factor is suspect, and this particular textbook is a gross
 distortion of a free AND responsible marketplace. It is discouraging
 when a few men can and do use their extraordinary wealth to corrupt
 economics education throughout the nation.
+
 Here is one selection from the Foundation for Economic Education
 website: Sacrificing Lives for Profits by Common Sense Economics
 co-author Dwight Lee. It argues we’d be better off if companies cut
@@ -144,18 +145,18 @@ corners, even risking customers’ lives, in the name of profit. He says,
 
 _The charge that sways juries and offends public sensitivities...is that greedy
 corporations sacrifice human lives to increase their profits. Is this charge true?
-Of course it is. But this isn’t a criticism of corporations; rather it is a reflection of
+Of course it is. But this isn’t a criticism of corporations; rather it is **a reflection of
 the proper functioning of a market economy. Corporations routinely
 sacrifice the lives of some of their customers to increase profits, and
-we are all better off because they do. That’s right, we are lucky to live in
+we are all better off because they do.** That’s right, we are lucky to live in
 an economy that allows corporations to increase profits by intentionally selling
 products less safe than could be produced. The desirability of sacrificing lives
 for profits may not be as comforting as milk, cookies and a bedtime story, but
 it follows directly from a reality we cannot wish away._
 
 _The reality is scarcity. There are limits to the desirable things that can be produced.
-If we want more of one thing, we have to do with less of other things.” (Bold
-added for emphasis.)^269_
+If we want more of one thing, we have to do with less of other things.” **(Bold
+added for emphasis.)**^269_
 
 So, a child who dies in a poorly designed car helps the market
 economy function. Lee makes the argument that if, for instance,
@@ -180,8 +181,8 @@ more important than the deaths of those who die unnecessarily
 without seat belts. According to the CDC, 13,000 people were saved
 by a seatbelt, and another 4,000 would have lived if they’d worn
 theirs in 2009 alone.^271 Author Dwight Lee thinks their deaths are a
-worthy sacrifice on the altar of lazy profits and a proper functioning
-market economy.
+worthy sacrifice on the altar of lazy profits and _a proper functioning
+market economy._
 
 This tells us, it’s not about a market in which the customer is free-to-
 choose; it’s about a free-to-make-as-much-money-as-possible market
@@ -241,9 +242,9 @@ capitalism and free market are terms requiring a definition with every
 use, because they are often conflated, confused or polluted with other
 concepts.
 
-Google defines capitalism as, “an economic and political system in
+Google defines capitalism as, _“an economic and political system in
 which a country’s trade and industry are controlled by private owners for
-profit, rather than by the state.” What this definition leaves out is the
+profit, rather than by the state.”_ What this definition leaves out is the
 importance of the money-creation power, which will determine how
 capital, hence capitalism works in practice. Since whoever has the
 privilege and power to create money will rule, there can be no free market when the privilege of money creation and all the power that
@@ -261,8 +262,8 @@ to those in the rest of the economy.
 However, private ownership of industry and profit-making is easily
 tweezed apart from the process of money creation and exploitation.
 A simple amendment to the Google definition changes capitalism
-from predatory to partnership. Add “...controlled by private owners for
-profit and for community well-being.” With this definition we have
+from predatory to partnership. Add _“...controlled by private owners for
+profit and for community well-being.”_ With this definition we have
 the benefits of capitalism, a truly free market, and the benefits of a
 healthy community.
 
@@ -281,10 +282,10 @@ governmental ownership and administration of the means of production and
 This definition comes closest to the authoritarian socialism-
 communism of the 20th century.
 
-Here’s the definition that shows up front and center on Google: “a
+Here’s the definition that shows up front and center on Google: _“a
 political and economic theory of social organization that advocates that
 the means of production, distribution, and exchange should be owned or
-regulated by the community as a whole.”
+**regulated** by the community as a whole.”_
 
 These definitions allow for night and day. There is a significant
 difference between owning, controlling, or administering, and

@@ -23,7 +23,11 @@ tags:
 ---
 I’ve read about 100 books on money, including many tomes by
 the acknowledged experts of economics. Throughout my studies I
-noticed the authors overlook or minimize a vital aspect of economics one that could transform the theory and practice to benefit everyone in society. The more I researched the more I wondered: **Why don’t** **these brilliant economic theorists discuss how money is created** **and introduced into the economy?**
+noticed the authors overlook or minimize a vital aspect of economics
+ one that could transform the theory and practice to benefit everyone
+ in society. The more I researched the more I wondered: **Why don’t**
+ **these brilliant economic theorists discuss how money is created**
+ **and introduced into the economy?**
 
 How money is created and entered into the economy is a powerful
 influence. But even the authors who did explain the process did
@@ -31,7 +35,7 @@ so in a few paragraphs and then slid right past the meaning and
 implications of their own explanations. It seemed as if someone had
 performed a Jedi mind trick on them – or they were playing a mind
 trick on themselves and the rest of us. **How can these experts be
-unaware of such obvious blind spots?**
+unaware of such obvious blind spots?**
 
 In my research, I also examined every Federal Reserve consolidated
 financial report back to 1914. I built a spreadsheet about the money
@@ -48,16 +52,17 @@ depression. The pendulum cannot swing wildly in one direction
 without swinging the other way just as wildly. The graph tells us a
 whopper of a correction – a depression – is on the way; dire outcomes
 are evident and imminent and most of the nation will suffer grievous
-harm. **How can so many well paid experts ignore the story here?**
+harm. **How can so many well paid experts ignore the story here?**
 I’ve searched for answers. The _why_ resides in our human nature.
 
 I have included this section on human nature in the foundation
-material because it is important to understand why we continue with a money system that causes so much harm. It is also important to
+material because it is important to understand why we continue with
+ a money system that causes so much harm. It is also important to
 understand how so many schools of economics can teach incorrect
 information about our money system for generations, resulting in
 poorly informed pundits, politicians and voters. Certainly, the few
 who benefit have enough power to keep the myths in place. But **why
-do so many people accept the myths so readily?**
+do so many people accept the myths so readily?**
 
 I’ve done my best to select characteristics that most impact our choice
 of money system. Here are a few of the mind quirks that make all of
@@ -89,7 +94,8 @@ investment-high reward situations. Finding true opportunities is
 a good survival skill; however, what serves us can also make us
 vulnerable. Our adrenaline begins to pump at the possibility of
 easy wealth and then – swoosh – we’re an easy mark. Or if we get
-in on the deal early enough, we can set aside any ethical and moral considerations and take advantage of the other marks who come
+in on the deal early enough, we can set aside any ethical and moral
+ considerations and take advantage of the other marks who come
 after us.
 
 While adrenaline sends extra blood to our extremities which helps
@@ -127,7 +133,8 @@ of Stanley Milgram in the 1960s. He found that many people are
 willing to obey an authority figure and torture, even kill a fellow
 human when told to do so by an authority.^4 These experiments have
 been repeated in many cultures, times, and places. A remarkably
-consistent 60–65 percent of people will inflict fatal harm when instructed by an authority to do so. So it should be no surprise that it
+consistent 60–65 percent of people will inflict fatal harm when
+ instructed by an authority to do so. So it should be no surprise that it
 is relatively easy to maintain a monetary system that does significant
 harm, when so many in positions of authority say it is a good and
 worthy system.
@@ -165,7 +172,8 @@ and mature.
 For generations the President’s Economic Advisory Council,
 Treasurer and the Head of the Federal Reserve System have been
 from Wall Street or from the academic institutions funded by Wall
-Street. However bright, experienced, and well-intentioned, they are creatures of Wall Street; they have spent their entire careers living and
+Street. However bright, experienced, and well-intentioned, they are
+ creatures of Wall Street; they have spent their entire careers living and
 breathing the assumptions of the people who live and work on Wall
 Street. Their thinking is limited by their groupthink experience. And
 that is dangerous, as our current situation demonstrates.
@@ -201,7 +209,7 @@ take steps to assure we have independence and diversity in all our
 community decision-making bodies – at local, state and federal levels.
 Only in diversity will we have our assumptions challenged and the
 widest selection of constructive options available.
-
+
 ## We are NOT rational
 
 Most of the economic philosophers of the 18th through 20th
@@ -238,7 +246,8 @@ right in front of them. In one study, pilots practicing landings on
 simulators fail to see a big plane sitting on the runway. In another
 study, ordinary people fail to see a gorilla in a video because they have
 been given a task that requires focused attention.^7 This may explain
-how economists can focus on specific sets of numbers they have been taught to value and fail to see the underlying system and the impact
+how economists can focus on specific sets of numbers they have been
+ taught to value and fail to see the underlying system and the impact
 of the numbers on society as a whole.
 
 ### We justify and rationalize – especially when we are wrong.
@@ -276,7 +285,8 @@ Perhaps most important, we are capable of learning and changing.
 We can learn to step outside our perspectives and see the influences
 that our upbringing and surroundings have on our thinking. We can
 shift from judgment to curiosity and choose to be learners. If we’re
-humble about our own certainties, if we’re willing to read and study from many points of view, we will understand that each person may
+humble about our own certainties, if we’re willing to read and study
+ from many points of view, we will understand that each person may
 have an important piece of the whole picture.
 
 We make choices every day and every moment. Will we be mindless

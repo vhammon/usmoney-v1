@@ -37,7 +37,7 @@ to ask those key questions when you are reading about a money
 system theory. And ask what answers an economist is assuming
 are true in policy discussions. This chapter looks specifically at the
 basic kinds of money systems. Using the flip book concept in the
-Clear Thinking [(Chapter 2.12),](https://usmoney.us/book/chapter-2/section-12) we need six mix and match sections.
+_Clear Thinking_ [(Chapter 2.12),](https://usmoney.us/book/chapter-2/section-12) we need six mix and match sections.
 A particular combination will reflect specific ideas about wealth
 and power.
 

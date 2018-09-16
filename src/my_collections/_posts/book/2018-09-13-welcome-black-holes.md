@@ -36,6 +36,7 @@ toss it down black holes.
 It helps the economy to waste a lot.
 
 ### Food
+
 We waste and throw away about 30–40 percent of our food. Families
 throw out about 25 percent of the food and beverages we buy, and the
 rest is lost in the chain from production to retail.^46
@@ -114,24 +115,24 @@ management and remediation. And sadly, we make this choice again
 and again, leaving many people and our infrastructure unnecessarily
 broken. Did you know:
 
-- We spend more on prisons than schools. We now have more
-    people behind bars than any other nation on the planet – EVER!
-And a year in prison costs taxpayers more than a year in an Ivy
-League University.^53 54 In contrast the Netherlands has closed 32
-prisons since 2009 because they weren’t needed.^55
-- We spend more on health care than any other nation – double
-    the next highest countries, and 18 percent of the US GDP.
-Among the 10 highest income countries, we have the lowest life
-expectancy, the highest percentage of residents without basic
-medical coverage, and highest infant mortality rate.^56
-- We spend more on special education than we spend on parent
-    education and support, or on assuring children’s food supply
-    and environments are free of the poverty and poisons that
-    compromise their development. In 2000, we spent $50 billion
-    on special education, and $7 billion on the environmental
-protection that would reduce the number of children needing
-remedial help. This ratio likely applies in 2017, too.^57 58
-- We have let our bridges and highways deteriorate to the point
+* We spend more on prisons than schools. We now have more
+      people behind bars than any other nation on the planet – EVER!
+  And a year in prison costs taxpayers more than a year in an Ivy
+  League University.^53 54 In contrast the Netherlands has closed 32
+  prisons since 2009 because they weren’t needed.^55
+* We spend more on health care than any other nation – double
+      the next highest countries, and 18 percent of the US GDP.
+  Among the 10 highest income countries, we have the lowest life
+  expectancy, the highest percentage of residents without basic
+  medical coverage, and highest infant mortality rate.^56
+* We spend more on special education than we spend on parent
+      education and support, or on assuring children’s food supply
+      and environments are free of the poverty and poisons that
+      compromise their development. In 2000, we spent $50 billion
+      on special education, and $7 billion on the environmental
+  protection that would reduce the number of children needing
+  remedial help. This ratio likely applies in 2017, too.^57 58
+* We have let our bridges and highways deteriorate to the point
     that we are in danger when driving to work.
 
 ## Black holes: perpetual poverty, disease, violence, and war
@@ -148,7 +149,7 @@ The poor ultimately cost more: children in poverty cost more to
 educate, cost more to keep healthy, and cost more to support when
 they can’t function well as adults. Currently 30 percent of American
 children would be living in poverty without some government
-assistance – even though most of their parents are working! With
+assistance – even though most of their parents are working! _fim_
 government assistance, this percentage drops to 19 percent – 14
 million children.^59 60 So, roughly one in five of America’s children are
 poor, going hungry and getting a lousy start in life – a waste, and a
@@ -416,7 +417,7 @@ created in the private sector, but many misunderstand this and lobby
 effectively for cutting back the federal budget while allowing the
 banks to go on a money creation spree.
 
-This creates an untenable imbalance. When Congress cuts
+**This creates an untenable imbalance.** When Congress cuts
 expenditures in the mistaken belief that eliminating government
 debt will strengthen the economy, the extra money the private sector
 creates must go somewhere. And, what better way to waste money
@@ -426,9 +427,9 @@ started a war that ran up trillions in debt. Then, Obama cut spending
 and reduced the deficit and allowed the bankers to continue their
 mostly unfettered money creation.
 
-Now the drums of war are beating again. “Bomb, bomb Iran.” Carpet
-bomb Syria!” “Bomb any country with angry Muslims!” or “Bomb
-North Korea!”
+Now the drums of war are beating again. _“Bomb, bomb Iran.” Carpet
+bomb Syria!” “Bomb any country with angry Muslims!”_ or _“Bomb
+North Korea!”_
 
 When wasting money is needed, perpetual war is the supreme black
 hole solution. We know better. We know beating your wife and kids

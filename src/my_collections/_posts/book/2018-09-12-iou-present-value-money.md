@@ -1,7 +1,7 @@
 ---
 layout: chapter
 date: 2018-09-12T07:00:00.000Z
-title: IOu present-value money
+title: IOU present-value money
 subtitle: receipt or representative money
 section-number: 29
 chapter-number: 4
@@ -34,13 +34,13 @@ future. If I have a protected storeroom and you leave your gold with
 me, I give you a receipt that says I will hand over the gold upon
 presentation of the receipt. If the receipt itself is used for money, it is
 called receipt or representative money, because the receipt represents
-the gold in storage. With true receipt or representative money, the
-amount of gold in storage is the amount on the receipt. Whoever
+the gold in storage. With true receipt or representative money, _the
+amount of gold in storage is the amount on the receipt._ Whoever
 maintains the storage is an important person in this system; their
 power to protect what is stored and their integrity matter greatly.
 
 Referencing the generally accepted method of sorting money systems,
-this is also called, commodity backed money. In 100% commodity-
+this is also called, _commodity backed money._ In 100% commodity-
 backed money, the money in use is a receipt for a commodity that
 exists in the present and that is in storage somewhere.
 
@@ -48,13 +48,13 @@ Today, there are no 100% commodity receipt money systems in
 widespread, primary use. There probably have not been any for at
 least the past 700 years, if ever. There is a considerable amount of
 confusion about what it means for an IOU-money to be backed by
-gold. By definition, backed should refer to IOU-receipt money, with
+gold. By definition, _backed_ should refer to IOU-receipt money, with
 an equal quantity of gold in storage. However, when many people
-use the term gold backed money system they are referring to a system
+use the term _gold backed money system_ they are referring to a system
 in which there may be a very small amount of gold in proportion
 to the IOU promises to produce it that are in use as money. So, in
 any discussion about money or banking, when someone uses the
-term, commodity backed or gold backed , beware and be clear. A small
+term, _commodity backed _or _gold backed,_ beware and be clear. A small
 amount of gold in storage for a large amount of money is an entirely
 different money system, discussed in [Chapter 4.32.](https://usmoney.us/book/chapter-4/section-32)
 
@@ -66,7 +66,7 @@ Any kind of government can decide to use a 100% receipt money
 system. The transition from exchanging IOUs between a few
 individuals and money used by a community happens when the use
 of transferable receipts becomes widespread. This transition might
-happen via an authority in power declaring the receipts legal tender - which generally means the receipts can be used to pay taxes for the
+happen via an authority in power declaring the receipts _legal tender_ - which generally means the receipts can be used to pay taxes for the
 maintenance of the community and by law must be accepted for payment by everyone. Or, the decision could be made organically by the actions of many individuals who trust the IOU issuer, thereby promoting a widespread practice that turns the IOUs into money. This is called _common tender._ Legal tender requires authority and law. Common tender only requires the agreement of users.
 
 ### Token
