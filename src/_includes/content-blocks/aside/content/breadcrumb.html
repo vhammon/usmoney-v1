@@ -1,7 +1,9 @@
 <ul class="uk-breadcrumb uk-margin-remove-top uk-margin-small-bottom uk-flex-center sans-serif">
   <li><a href="/book/">All Chapters</a></li>
+  {% unless page.title == "Acknowledgments" %}
   <li><a href="/book/{% if page.autopage %}{{ page.autopages.display_name }}{% else %}chapter-{{ page.chapter-number }}{% endif %}/">{% if page.autopage %}{{ page.autopages.display_name }}{% else %}Chapter {{ page.chapter-number }}{% endif %}</a></li>
-  {% unless page.title contains "US Money" %}
+  {% endunless %}
+  {% unless page.permalink == "/book/" %}
   <li><a href="{{ page.url }}">{{ page.title }}</a></li>
   {% endunless %}
 </ul>

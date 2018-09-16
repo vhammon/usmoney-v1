@@ -1,0 +1,19 @@
+<section>
+<h3 class="uk-text-center uk-margin-small uk-h4"><i class="far fa-map"></i>&nbsp;Book Navigation</h3> {% include content-blocks/aside/content/breadcrumb.html %}
+{% unless page.end %}
+<ul class="uk-subnav uk-margin-remove-top categories" uk-margin>
+  <li>
+    {% if page.start %}
+    {% assign chapter-number = 1 %}
+    {% elsif page.chapter-end %}
+    {% assign chapter-number = page.chapter-number | plus: 1 %}
+    {% else %}
+    {% assign chapter-number = page.chapter-number %}
+    {% endif %}
+    {% unless page.end %}
+    {% assign chapter-name = site.data.book.chapters[ chapter-number].name %}  <a href="{{ site.url }}/book/chapter-{{ chapter-number }}/section-{{ page.next-section }}">{{ chapter-name }}&ensp;{{ chapter-number }}.{{ page.next-section }} <span uk-icon="arrow-right"></span></a>
+    {% endunless %}
+  </li>
+</ul>
+{% endunless %}
+</section>
