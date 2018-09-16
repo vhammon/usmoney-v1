@@ -1,12 +1,12 @@
 {% if page.auto-page %}
-<p class="uk-h2 uk-text-center uk-margin-remove small">Filed Under</p>
-<p class="uk-h1 uk-text-center">{{ page.autopages.display_name }}</p>
+<p class="uk-h2 uk-margin-remove small">Filed Under</p>
+<p class="uk-h1">{{ page.autopages.display_name }}</p>
 <hr class="uk-margin-bottom"/>
 {% endif %}
 
 <ul class="uk-list all-posts">
   {% if page.pagination.category %}
-  <h2 class="uk-h2 uk-text-center">
+  <h2 class="uk-h2">
     {{ page.title }}
   </h2>
   {% endif %}

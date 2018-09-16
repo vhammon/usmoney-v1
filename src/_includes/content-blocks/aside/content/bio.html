@@ -1,5 +1,5 @@
 <section class="clearfix">
-  <h3 class="uk-h4 uk-text-center visuallyhidden">Meet The Author</h3>
+  <h3 class="uk-h4 visuallyhidden">Meet The Author</h3>
   {% include content-blocks/lead/author-photo.html %}
 <p class="bio{% if include.large == true %}large-bio-text{% endif %}">{{ site.author.bio | markdownify | remove: '<p>' | remove: '</p>' }}</p>
 </section>

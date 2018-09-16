@@ -4,9 +4,11 @@ permalink: /meet-virginia/
 right-aside-top: false
 ---
 
-{% include content-blocks/main/image.html image="virginia-hammon.jpg" alt="Virginia Hammon" pin="false" %}
+<div class="uk-text-center">
+{% include content-blocks/main/image.html image="virginia-hammon.jpg" alt="Virginia Hammon" pin="false" class="portrait" %}
+</div>
 
-Virginia Hammon, MS
+## Virginia Hammon, MS
 
 A lifetime optimist, Virginia believes that when we have the right information, understanding, and decision-making skills, we will make good decisions together. Dedicated to researching and understanding the foundations of our current political dysfunction, she found a practical path to a better future. This book explains that path.
 

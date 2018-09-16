@@ -5,7 +5,7 @@ display-title: false
 right-aside-top: false
 right-aside-bottom: false
 ---
-<h1 class="uk-h3 uk-text-center">{{ page.title }}</h1>
+<h1 class="uk-h3">{{ page.title }}</h1>
 <ul uk-accordion>
 {% for i in (0..8) %}
 <li>

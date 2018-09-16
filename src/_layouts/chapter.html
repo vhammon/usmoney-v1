@@ -11,7 +11,7 @@ layout: default
 {% include content-blocks/main/image.html image=image %}
     {% endif %}
 
-    <h1 class="uk-h1 {% if page.image %} uk-margin-medium-top {% endif %} uk-margin-remove-bottom" itemprop="name headline">
+    <h1 class="uk-h1 {% if page.image %} uk-margin-medium-top {% endif %}" itemprop="name headline">
       {{ page.title | markdownify | markdownify | replace: '<p>', '' | replace: '</p>', '' | widont }}
   </h1>
   {% if page.subtitle %}
