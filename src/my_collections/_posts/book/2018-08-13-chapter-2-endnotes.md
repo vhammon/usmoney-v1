@@ -7,7 +7,7 @@ chapter-number: 2
 previous-section: 12
 next-section: 13
 chapter-end: false
-share: true
+share: false
 comments: false
 comments-locked: false
 left-aside: true

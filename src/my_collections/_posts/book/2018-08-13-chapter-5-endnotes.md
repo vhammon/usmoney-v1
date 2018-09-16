@@ -7,7 +7,7 @@ chapter-number: 5
 previous-section: 55
 next-section: 56
 chapter-end: false
-share: true
+share: false
 comments: false
 comments-locked: false
 left-aside: true

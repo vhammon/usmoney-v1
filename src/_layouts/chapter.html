@@ -22,6 +22,7 @@ layout: default
   <h3>{{ page.subtitle-2 }}</h3>
   {% endif %}
 
+{% unless page.title contains "Endnotes" %}
     <p class="post-meta uk-margin-top uk-margin-remove-bottom">
       by
       <span itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -38,6 +39,8 @@ layout: default
       {% assign words = page.content | number_of_words %}
       <span class="visuallyhidden" itemprop="wordCount">{{ words }}</span> {% if words
       < 360 %} 1 minute {% else %} {{ words | divided_by:180 }} minute {% endif %} read </p>
+
+      {% endunless %}
       <hr class="uk-divider-small uk-text-center" />
       {% if page.download %}
       {% include file-downloads.html %}

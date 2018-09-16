@@ -7,7 +7,7 @@ chapter-number: 4
 previous-section: 39
 next-section: 40
 chapter-end: false
-share: true
+share: false
 comments: false
 comments-locked: false
 left-aside: true
