@@ -6,6 +6,7 @@ subtitle: 'Different field, different rules, different values lead to different 
 section-number: 5
 chapter-number: 2
 next-section: 6
+chapter-start: true
 share: true
 comments: false
 comments-locked: false

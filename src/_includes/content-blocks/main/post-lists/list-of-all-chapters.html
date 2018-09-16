@@ -1,7 +1,7 @@
 {% if page.title == "US Money" %}
 <h1>US Money</h1>
 <div class="acknowledgments uk-margin">
-     <a href="/book/acknowledgements/">Acknowledgements&ensp;<span uk-icon="arrow-right"></span></a>
+     <a href="/book/acknowledgments/">Acknowledgments&ensp;</a>
 </div>
 {% endif %}
 
@@ -16,19 +16,22 @@
 {% endif %}
 
 {% assign sortedPosts = paginator.posts | sort:"section-number" %}
-<ul class="uk-margin-medium-bottom uk-padding-remove-left" uk-accordion>
+<ul class="uk-margin-medium-bottom uk-padding-remove-left chapter-accordian" uk-accordion>
   {% if page.title == "US Money" %}
-
   {% for i in (1..10) %}
   {% assign myPost = sortedPosts | where:"chapter-number", i %}
-  <li class="{% if i == open %}uk-open{% endif %}">
+  <li>
       <a class="uk-accordion-title" href="#">Chapter {{ i }} &ndash; {{ site.data.book.chapters[i].name }}</a>
       <div class="uk-accordion-content">
         {% for post in myPost %}
         <div>
-        <span class=" uk-text-uppercase">Section {{ post.section-number }} &ndash;
-          <a class="uk-margin-remove" href="{{ post.url | relative_url }}">{{ post.title }}
-          </span>&ensp;<span uk-icon="arrow-right"></span> </a>
+        <span class=" uk-text-uppercase">
+          <a class="uk-margin-remove" href="{{ post.url | relative_url }}">
+            {% unless post.title contains "Endnotes" %}
+            {{ i }}.{{ post.section-number }}&ensp;
+            {% endunless %}
+            {{ post.title }}{% if post.subtitle %}: {{ post.subtitle }}
+          {% endif %}</span></a>
         {% endfor %}
       </div>
   </li>
@@ -36,11 +39,16 @@
   {% else %}
   {% assign myPost = sortedPosts | where:"chapter-number", open %}
     <li class="uk-open">
-        <a class="uk-accordion-title" href="#">Chapter {{ open }} &ndash; {{ site.data.book.chapters[open].name }}</a>
+        <a class="uk-accordion-title" href="#">{{ site.data.book.chapters[open].name }}</a>
         <div class="uk-accordion-content">
           {% for post in myPost %}
           <div>
-          <a class="uk-margin-remove" href="{{ post.url | relative_url }}"><span class=" uk-text-uppercase">Section {{ post.section-number }} &ndash; {{ post.title }}</span>&ensp;<span uk-icon="arrow-right"></span></a>
+          <a class="uk-margin-remove" href="{{ post.url | relative_url }}"><span class=" uk-text-uppercase">
+            {% unless post.title contains "Endnotes" %}
+            {{ open }}.{{ post.section-number }}&ensp;
+            {% endunless %}
+            {{ post.title }}{% if post.subtitle %}: {{ post.subtitle }}
+          {% endif %}</span></a>
           {% endfor %}
         </div>
     </li>

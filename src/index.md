@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: US Money
 homepage: true
 display-title: false
 left-aside: false

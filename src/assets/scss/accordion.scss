@@ -1,0 +1,8 @@
+.chapter-accordian {
+  font-family: $condensed-sans-serif;
+  font-weight: 400;
+}
+
+.uk-accordion-title:focus, .uk-accordion-title:hover {
+  color: $primary-hover;
+}

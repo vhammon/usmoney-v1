@@ -51,17 +51,9 @@ layout: default
   meditations {% else %} default
 {% endif %}" itemprop="articleBody">
     {{ content }}
-    {% if page.start %}
-    {% assign chapter-number = 1 %}
-    {% elsif page.chapter-end %}
-    {% assign chapter-number = page.chapter-number | plus: 1 %}
-    {% else %}
-    {% assign chapter-number = page.chapter-number %}
-    {% endif %}
-    {% unless page.end %}
-    {% assign chapter-name = site.data.book.chapters[ chapter-number].name %} Next:
-  <a href="{{ site.url }}/book/chapter-{{ chapter-number }}/section-{{ page.next-section }}">{{ chapter-name }}&ensp;{{ chapter-number }}.{{ page.next-section }} <span uk-icon="arrow-right"></span></a>
-    {% endunless %}
+
+    {% include content-blocks/main/post-lists/chapter-pagination-links.html %}
+
       <hr class="uk-divider-small uk-text-center" />
     {% if page.share %}
     {% include content-blocks/main/social/social-share.html %}

@@ -4,7 +4,7 @@
     <li><span uk-icon="icon: menu" class="bar-menu uk-margin-bottom button-in-text uk-button uk-button-default uk-button-small" uk-toggle="target: #offcanvas-nav-primary"></span></li>
 
     <li><a href="#bottom" uk-scroll class="to-bottom button-in-text uk-button uk-button-default uk-button-small" uk-icon="icon: arrow-down"></a></li>
-</ul>
+  </ul>
 
   <div id="offcanvas-nav-primary" uk-offcanvas>
     <div class="uk-offcanvas-bar uk-flex uk-flex-column">
@@ -12,24 +12,16 @@
       <button class="uk-offcanvas-close" type="button" uk-close></button>
 
       <ul class="uk-nav uk-margin-medium-top">
-        {% for nav in site.data.nav %}
-{% if nav.subcategories != null %}
-<!-- <li class="uk-navbar-item">
-<a href="{{ nav.href }}">{{ nav.title }}</a>
-</li>
-<hr class="uk-divider-small uk-text-center" /> -->
-{% for subcategory in nav.subcategories %}
-<li class="uk-navbar-item small"><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
-{% endfor %}
-{% else %}
-<li class="uk-navbar-item">
-<a href="{{ nav.href }}">{{ nav.title }}</a>
-</li>
-{% endif %}
-{% endfor %}
-<li class="uk-navbar-item">
-  <a href="/search/"><i class="fas fa-search fa-xs"></i>&ensp;Search</a>
-</li>
+        {% for nav in site.data.nav %} {% if nav.subcategories != null %} {% for subcategory in nav.subcategories %}
+        <li class="uk-navbar-item small"><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+        {% endfor %} {% else %}
+        <li class="uk-navbar-item">
+          <a href="{{ nav.href }}">{{ nav.title }}</a>
+        </li>
+        {% endif %} {% endfor %}
+        <li class="uk-navbar-item">
+          <a href="/search/"><i class="fas fa-search fa-xs"></i>&ensp;Search</a>
+        </li>
       </ul>
       </ul>
     </div>

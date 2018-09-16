@@ -1,13 +1,13 @@
 {% if page.auto-page %}
-
 <p class="uk-h2 uk-text-center uk-margin-remove small">Filed Under</p>
 <p class="uk-h1 uk-text-center">{{ page.autopages.display_name }}</p>
 <hr class="uk-margin-bottom"/>
 {% endif %}
+
 <ul class="uk-list all-posts">
   {% if page.pagination.category %}
   <h2 class="uk-h2 uk-text-center">
-{{ page.title }}
+    {{ page.title }}
   </h2>
   {% endif %}
   {% if page.title == "US Money" or page.pagination.category contains "chapter" %}
@@ -17,5 +17,4 @@
     {% include content-blocks/main/post-lists/list-of-all-posts.html %}
   {% endfor %}
     {% endif %}
-
 </ul>

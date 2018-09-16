@@ -1,11 +1,4 @@
 <h1 class="visuallyhidden">
-  {% if page.categories contains "calendars" %}
-  Free
-  {% endif %}
   {{ page.title }}
-  {% if page.categories contains "calendars" %}
-  - Week Starts On {{ page.start | capitalize }}
-  {% endif %}
-   |
   {% if page.title != site.title %}
   {{ site.title }}{% endif %} </h1>

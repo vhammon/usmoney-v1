@@ -5,20 +5,16 @@
     <h1 class="visuallyhidden">Top Aside</h1>
     <div>
         {% if page.is-book %}
-          {% include content-blocks/aside/book-navigation.html%}
+          {% include content-blocks/aside/content/book-navigation.html%}
           <hr class="uk-margin-remove-top uk-text-center" />
         {% endif %}
       {% if page.is-post %}
-      {% include content-blocks/aside/cat-and-tags/list-of-categories.html %}
+      {% include content-blocks/aside/content/cat-and-tags/list-of-categories.html %}
       <hr class="uk-margin-top uk-text-center" />
       {% endif %}
 
-
-      {% include content-blocks/aside/bio.html %}
-      <div class="uk-text-center uk-visible@s">
-        <hr class="uk-divider-small uk-text-center" />
-        <a href="#bottom" uk-scroll class="button-in-text uk-button uk-button-default uk-button-small" uk-icon="icon: arrow-down"></a>
-      </div>
+      {% include content-blocks/aside/content/bio.html %}
+      {% include content-blocks/aside/content/down-arrow.html %}
     </div>
   </div>
 </aside>

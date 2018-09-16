@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: Acknowledgments
-start: true
+book-start: true
 next-section: 0
 discuss: https://forum.usmoney.us/t/introduction-0-8-us-money-earlier
 date: 2018-08-02T07:00:00.000Z
@@ -9,7 +9,7 @@ comments: false
 share: false
 categories:
   - book
-  - acknowledgements
+  - acknowledgments
 tags:
   - null
 ---

@@ -6,8 +6,10 @@
   <!-- SEO -->
   {% seo %}
 
+{% if page.share-image %}
   <meta property="og:type" content="article">
   <meta property="og:image" content="https://res.cloudinary.com/{{ site.cloudinary-name }}/image/upload/c_limit,f_auto,q_auto:best,w_800/{{ page.share-image }}" />
+{% endif %}
 
   {% include content-blocks/head-header-footer/fonts.html %}
   <!-- UIkit CSS -->

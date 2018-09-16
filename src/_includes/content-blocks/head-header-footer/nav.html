@@ -13,35 +13,31 @@
           <h1 class="visuallyhidden">Main Navigation</h1>
           <div class="uk-navbar-left">
             <ul class="uk-navbar-nav uk-visible@m">
-              {% for nav in site.data.nav %}
-{% if nav.subcategories != null %}
-  <li class="uk-navbar-item">
-    <a href="{{ nav.href }}">{{ nav.title }}&ensp;<i class="fas fa-angle-down"></i></a>
-    <div class="uk-navbar-dropdown">
-        <ul class="uk-nav uk-navbar-dropdown-nav">
-    {% for subcategory in nav.subcategories %}
-      <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
-    {% endfor %}
-    </ul>
-  </div>
-  </li>
-{% else %}
-  <li class="uk-navbar-item">
-    <a href="{{ nav.href }}">{{ nav.title }}</a>
-  </li>
-{% endif %}
-{% endfor %}
-<li class="uk-navbar-item">
-  <a href="/search/"><i class="fas fa-search fa-xs"></i></a>
-</li>
+              {% for nav in site.data.nav %} {% if nav.subcategories != null %}
+              <li class="uk-navbar-item">
+                <a href="{{ nav.href }}">{{ nav.title }}&ensp;<i class="fas fa-angle-down"></i></a>
+                <div class="uk-navbar-dropdown">
+                  <ul class="uk-nav uk-navbar-dropdown-nav">
+                    {% for subcategory in nav.subcategories %}
+                    <li><a href="{{ subcategory.subhref }}">{{ subcategory.subtitle }}</a></li>
+                    {% endfor %}
+                  </ul>
+                </div>
+              </li>
+              {% else %}
+              <li class="uk-navbar-item">
+                <a href="{{ nav.href }}">{{ nav.title }}</a>
+              </li>
+              {% endif %} {% endfor %}
+              <li class="uk-navbar-item">
+                <a href="/search/"><i class="fas fa-search fa-xs"></i></a>
+              </li>
             </ul>
             <a class="uk-hidden@m" href="{{ site.url }}">
-              <img class="nav-logo-mini" src="{{ site.company.logo }}" alt="CB Telemann logotext" />
+              <img class="nav-logo-mini" src="{{ site.company.logo }}" alt="{{ site.company.logo-alt-text }}" />
             </a>
           </div>
-          <!-- <div class="uk-navbar-right uk-visible@xl uk-navbar-right-short"> -->
-              {% include content-blocks/head-header-footer/mobile-nav.html %}
-          <!-- </div> -->
+          {% include content-blocks/head-header-footer/mobile-nav.html %}
         </nav>
       </div>
     </div>

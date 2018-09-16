@@ -4,14 +4,14 @@
 {% include head.html %}
 
 <body>
+          {% include content-blocks/main/page-title.html %}
   <div id="barba-wrapper">
     <div class="barba-container">
       <div class="wrap">
         <a id="top"></a>
         {% include content-blocks/head-header-footer/nav.html %}
         <div id="main" class="uk-container site">
-          {% include content-blocks/main/page-title.html %}
-          <div class="uk-child-width-expand@s uk-flex site-content uk-grid-collapse" uk-grid>
+            <div class="uk-child-width-expand@s uk-flex site-content uk-grid-collapse" uk-grid>
             <div>
               <div class="uk-grid-large" uk-grid>
                 {% include content-blocks/main/main.html %}

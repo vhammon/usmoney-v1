@@ -1,0 +1,55 @@
+{% if page.chapter-start %}
+  {% assign chapter-number = page.chapter-number %}
+  {% assign previous-chapter-number = page.chapter-number | minus: 1 %}
+{% elsif page.title contains "Endnotes" %}
+  {% assign chapter-number = page.chapter-number | plus: 1 %}
+  {% assign previous-chapter-number = page.chapter-number %}
+{% else %}
+  {% assign chapter-number = page.chapter-number %}
+  {% assign previous-chapter-number = page.chapter-number %}
+{% endif %}
+
+{% if page.previous-section %}
+{% assign previous-section = page.previous-section %}
+{% else %}
+{% assign previous-section = page.section-number | minus: 1 %}
+{% endif %}
+
+{% if page.next-section == 0 %}
+{% assign chapter-number = 1 %}
+{% endif %}
+
+
+{% assign chapter-name = site.data.book.chapters[ chapter-number].name %}
+
+
+{% if page.book-start %}
+
+<a href="{{ site.url }}/book/chapter-{{ chapter-number }}/section-{{ page.next-section }}">{{ chapter-name }}&ensp;{{ chapter-number }}.{{ page.next-section }} <span uk-icon="arrow-right"></span></a>
+
+{% elsif page.book-end %}
+
+  <a href="{{ site.url }}/book/chapter-{{ previous-chapter-number }}/section-{{ previous-section }}"><span uk-icon="arrow-left"></span>&ensp;Prev</a>
+
+{% elsif page.title contains "Endnotes" or page.previous-section %}
+<a href="{{ site.url }}/book/{% unless previous-section == "acknowledgments" %}chapter-{{ previous-chapter-number }}/section-{% endunless %}{{ previous-section }}"><span uk-icon="arrow-left"></span>&ensp;Prev</a>
+&emsp;<a href="{{ site.url }}/book/chapter-{{ chapter-number }}/section-{{ page.next-section }}">{{ chapter-name }}&ensp;{{ chapter-number }}.{{ page.next-section }} <span uk-icon="arrow-right"></span></a>
+
+{% elsif page.chapter-end %}
+
+<a href="{{ site.url }}/book/chapter-{{ previous-chapter-number }}/section-{{ previous-section }}"><span uk-icon="arrow-left"></span>&ensp;Prev</a>
+&emsp;
+<a href="{{ site.url }}/book/chapter-{{ chapter-number }}/endnotes/">{{ chapter-name }} Endnotes <span uk-icon="arrow-right"></span></a>
+
+{% elsif page.chapter-start %}
+
+<a href="{{ site.url }}/book/chapter-{{ previous-chapter-number }}/endnotes/"><span uk-icon="arrow-left"></span>&ensp;Prev</a>
+&emsp;
+<a href="{{ site.url }}/book/chapter-{{ chapter-number }}/section-{{ page.next-section }}">{{ chapter-name }}&ensp;{{ chapter-number }}.{{ page.next-section }} <span uk-icon="arrow-right"></span></a>
+
+{% else %}
+
+<a href="{{ site.url }}/book/chapter-{{ previous-chapter-number }}/section-{{ previous-section }}"><span uk-icon="arrow-left"></span>&ensp;Prev</a>
+&emsp;<a href="{{ site.url }}/book/chapter-{{ chapter-number }}/section-{{ page.next-section }}">{{ chapter-name }}&ensp;{{ chapter-number }}.{{ page.next-section }} <span uk-icon="arrow-right"></span></a>
+
+{% endif %}
