@@ -23,17 +23,18 @@ categories:
 tags:
   - money
 ---
-_There is something curious in the movements of this modern complicated
-machine, the funding system; and it is only now that it is beginning to unfold
-the full extent of its movements. In the first part of its movements it gives
-great powers into the hands of government, and in the last part it takes them
-completely away._\
-— Thomas Paine, 1796^1
+> _There is something curious in the movements of this modern complicated
+> machine, the funding system; and it is only now that it is beginning to unfold
+> the full extent of its movements. In the first part of its movements it gives
+> great powers into the hands of government, and in the last part it takes them
+> completely away._
+
+— Thomas Paine, 1796<sup>1</sup>
 
 In America, money creation has been an issue of contention since
 Europeans settled on the North American continent. It was one of
 the major issues that caused the Revolution and the establishment of
-the United States. It was one of the primary causes of the Civil War.^2
+the United States. It was one of the primary causes of the Civil War.<sup>2</sup>
 Underlying the controversy are beliefs about two fundamentals: who
 should govern and what is money.
 
@@ -55,7 +56,7 @@ human society.
 
 These opposing views have been in a tug-of-war perhaps since time
 began. As Riane Eisler so deftly posits in _The Chalice and the Blade:
-Our History Our Future_ (1988),^3 we have been moving back and forth between partnership and dominator models of society for millennia.
+Our History Our Future_ (1988),<sup>3</sup>we have been moving back and forth between partnership and dominator models of society for millennia.
 Since the power of money creation bestows the power to rule, one’s
 belief in who should rule will determine who should get to create
 money for a society.
@@ -148,7 +149,7 @@ the authority of capital – the authority of those who have the most
 money. We have been comfortable putting blind faith and trust
 in the integrity and authority of the bankers, financiers and the
 marketplace. I recommend the book, _The Divine Right of Capital_ by
-Marjorie Kelly (2001) for an exposition of this state of affairs.^5
+Marjorie Kelly (2001) for an exposition of this state of affairs.<sup>5</sup>
 
 Individually and collectively, we are still evolving. We are learning
 to recognize our interdependence and to step into the responsibility
@@ -189,7 +190,7 @@ common wealth money spent into circulation (Massachusetts, 1690–
 1723–1726). For a comprehensive review of the history of money,
 read The Lost Science of Money by Stephen Zarlenga (2002). It is rich
 in stories for the history buff and provides an in-depth look at the
-historical basis for our concepts of money.^6
+historical basis for our concepts of money.<sup>6</sup>
 
 The wealthy banking interests consistently promoted the idea that
 _true_ money was gold or silver because it was a commodity and real,
@@ -234,7 +235,7 @@ into town, cranking out untold numbers of counterfeit notes. The
 British ran ads in the paper asking for people willing to carry the false
 currency into areas held by the rebellion. They succeeded in crashing
 the value of the Continental, but it took them all six years of the
-Revolutionary War to do it.^7
+Revolutionary War to do it.<sup>7</sup>
 
 The Continentals got us through our war of Independence, but the
 counterfeiting and follow-up propaganda of the money powers
@@ -257,7 +258,7 @@ For example, Alexander Hamilton became the Secretary of the
 Treasury in 1790 and played a significant role in shifting the power
 to create money from the government to the private bankers by
 promoting the _United States Bank Act of 1791._ He then became a
-founding member-owner of the bank.^8
+founding member-owner of the bank.<sup>8</sup>
 
 Some argued about whether money should be created at the
 state or federal level by private interests or by government. Some
