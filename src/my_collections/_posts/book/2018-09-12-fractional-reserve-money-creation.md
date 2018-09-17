@@ -277,7 +277,7 @@ operations with far-flung branches and a central office, or cartels of
 individual bankers with agreements to come to each other’s rescue
 as needed. I love the stories about the free banking era in the US
 (mid-1800s), when bankers in cahoots would haul a reserve of gold
-from bank to bank just ahead of the government examiners.^7
+from bank to bank just ahead of the government examiners.<sup>7</sup>
 
 But, when banks keep tiny reserves, what happens when there is an
 economy-wide quake and every single bank needs to call on all its
@@ -302,7 +302,7 @@ biggest ones, miscalculate, and there are no more reserves to borrow
 from other banks, the central bank can step in and create new money
 for their use. This is what happened from 2007 to 2010 when the
 central bank of the United States, the Federal Reserve, created over
-$16.1 trillion to keep our insolvent banks from collapsing.^8 That is
+$16.1 trillion to keep our insolvent banks from collapsing.<sup>8</sup> That is
 trillion with a ‘T,’ and equivalent to more than all the money that
 changed hands in our economy in each of those years – an indication
 of just how badly the banks miscalculated.
@@ -391,7 +391,7 @@ their banks and the public was sadly misplaced.
 
 _Those of us who have looked to the self-interest of lending institutions to protect shareholder’s equity – myself especially – are in a state of shocked disbelief._
 
-— Congressional Hearing, October 23, 2008^9
+— Congressional Hearing, October 23, 2008<sup>9</sup>
 
 This man, an Ayn Rand acolyte, with the lifelong belief that if
 everyone acted on their personal self-interests, the outcome would
@@ -437,7 +437,7 @@ The bankers who create the new money rule.
 NOTE: In recognition of the highly unstable nature of a fractional
 reserve banking system, some economists have promoted a 100% _reserve money_ system, sometimes using the name interchangeably with
 _100% money_. Economist Irving Fisher may have been the first to use
-this phrase in 1936 in his pamphlet, _100% Money and the Public Debt._^10
+this phrase in 1936 in his pamphlet, _100% Money and the Public Debt._<sup>10</sup>
 But, once the reserve is 100% and banks are only loaning out money
 that they have on hand in savings, it is no longer a reserve system; it
 is an entirely different system [(Chapter 4.37).](https://usmoney.us/book/chapter-4/section-37) So using the term _100%
