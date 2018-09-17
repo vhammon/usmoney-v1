@@ -78,7 +78,7 @@ We can look at these sections of the Constitution from the
 perspective of the people who wrote them in 1787, and from our
 understanding of the world today. What did “To coin” mean to the
 framers of the Constitution? Samuel Johnson’s popular dictionary
-of 1755,^9 gives these definitions for the noun coin: (I’ve added the
+of 1755,<sup>9</sup> gives these definitions for the noun coin: (I’ve added the
 bold type.)
 
 COIN, noun. 1. Money stamped with a legal impression.; 2. Payment of
@@ -92,7 +92,7 @@ Curiously, although this dictionary uses the word money in 69
 entries, it does not define money itself.
 
 Reflecting the prevalent understanding of the era, here’s what Daniel
-Webster’s Dictionary of 1828^10 said fifty years later:
+Webster’s Dictionary of 1828<sup>10</sup> said fifty years later:
 
 COIN, noun Primarily, the die employed for stamping money. Hence, 1. Money
 stamped; a piece of metal, as gold, silver, copper, or other metal, converted
@@ -114,7 +114,7 @@ and exchangeable for coin or redeemable, are also called money;
 as such notes in modern times represent coin, and are used as a
 substitute for it. If a man pays in hand for goods in bank notes which are
 current, he is said to pay in ready money.
-DOLLAR, noun [G.] A silver coin of Spain and of the United States, of the value
+DOLLAR, noun \[G.] A silver coin of Spain and of the United States, of the value
 of one hundred cents, or four shillings and sixpence sterling. The dollar seems
 to have been originally a German coin, and in different parts of Germany, the
 name is given to coins of different values.
@@ -122,15 +122,15 @@ name is given to coins of different values.
 From Webster’s definitions, two things are apparent:
 
 1. Webster didn’t fully understand money, and so, it’s likely
-    neither did most people. Apparently he thought the money
-       system was a 100% commodity + receipt for commodity
-       system – and bills of credit were exchangeable for coin. We
-    know nearly all Western money systems for the past 800 years
-    have been fractional reserve systems, so Webster’s prevalent
-    view was a misleading misunderstanding, not the reality.
+   neither did most people. Apparently he thought the money
+      system was a 100% commodity + receipt for commodity
+      system – and bills of credit were exchangeable for coin. We
+   know nearly all Western money systems for the past 800 years
+   have been fractional reserve systems, so Webster’s prevalent
+   view was a misleading misunderstanding, not the reality.
 2. The noun and the verb forms of coin were used for _“that
-which serves for payment”_ – in other words for money by
-broad definition.
+   which serves for payment”_ – in other words for money by
+   broad definition.
 
 So what does the Constitution authorize in regards to money?
 
