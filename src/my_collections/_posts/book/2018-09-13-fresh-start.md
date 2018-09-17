@@ -62,13 +62,11 @@ money system, it would be distracting and only tangentially relevant.)
 
 What does it mean for **Liberty** to be a right? Are liberty and freedom
 the same thing? How are they different? Can we be free and still have
-laws we must follow? Do we agree we all deserve to participate in deci-
-sions that affect our lives and livelihood? What’s the best way to resolve
+laws we must follow? Do we agree we all deserve to participate in decisions that affect our lives and livelihood? What’s the best way to resolve
 conflicts between individual freedoms and responsibility to others and
 the environment? How do we balance responsibility to others and to
 the commons with personal freedom to make our own choices for our
-lives? What is the role of government in setting standards and establish-
-ing protections? Because we are only as free as we are informed, how
+lives? What is the role of government in setting standards and establishing protections? Because we are only as free as we are informed, how
 can we have robust, unbiased institutions for informing citizens about
 public issues?
 
@@ -123,21 +121,17 @@ wealth of a few individuals?
 ### Promote the general welfare
 
 Our founders recognized that if we want to establish a more perfect
-Union, then we must promote the general welfare – a strong founda-
-tion for all of our citizens. _“Promoting the general welfare”_ is mentioned
+Union, then we must promote the general welfare – a strong foundation for all of our citizens. _“Promoting the general welfare”_ is mentioned
 in our Declaration of Independence and in our Constitution as one of
 its main purposes. Do we still believe promoting the general welfare is
-one of our most important national goals? How can we tell the differ-
-ence between that which promotes the welfare of a few individuals or
+one of our most important national goals? How can we tell the difference between that which promotes the welfare of a few individuals or
 businesses and that which promotes the general welfare? How do we
-determine a just balance between the two? What is the role of govern-
-ment policy in promoting each?
+determine a just balance between the two? What is the role of government policy in promoting each?
 
 ### Secure the blessings of Liberty to ourselves and our Posterity
 
 What are the blessings of Liberty? What role do we want money to play?
-What role does participation in public decision-making play? What crite-
-ria, standards and protections do we need to maximize the security of
+What role does participation in public decision-making play? What criteria, standards and protections do we need to maximize the security of
 our blessings of Liberty?
 
 ## Our national values?
@@ -154,10 +148,8 @@ matches our values?
 ### Honesty
 
 Do we believe that honesty is the bedrock of good relations and good
-decisions? How does honesty relate to other values like integrity, fair-
-ness, respect and caring? If we want to have honest money, how can we
-structure its creation so the process is open to deliberation by our repre-
-sentatives? How can we assure our new money system provides honest
+decisions? How does honesty relate to other values like integrity, fairness, respect and caring? If we want to have honest money, how can we
+structure its creation so the process is open to deliberation by our representatives? How can we assure our new money system provides honest
 information for making decisions about creation and destruction?
 
 Do WE, collectively need to set standards for truth-telling by our major
@@ -194,8 +186,7 @@ to connect – to be ourselves and be acknowledged, to do and receive a
 fair living. We want to give and receive and participate in community.
 
 How can we make time to care for each other, our communities and
-our planet AND have a prosperous economy? How can we have pros-
-perity without exploiting others? How can we have a money system that
+our planet AND have a prosperous economy? How can we have prosperity without exploiting others? How can we have a money system that
 supports a caring and mutually respectful nation?
 
 **All of the above are possible.**
