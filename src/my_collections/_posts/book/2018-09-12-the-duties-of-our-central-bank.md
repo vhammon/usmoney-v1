@@ -66,7 +66,7 @@ on the record that they did not create money, commonwealth
 money advocates pushed their parliaments to order their central
 banks to research and produce a report on money creation. The
 central bankers in their reports, said, Oh, my, we DO create money.
-Who knew?^20
+Who knew?<sup>20</sup>
 
 The central Fed creates new money when it issues a loan to a member
 bank or to the US government, just like your bank creates money
@@ -225,7 +225,7 @@ in one place.
 This bureau takes action against predatory financial companies
 and practices that violate the law. By the end of the Obama
 administration, it had returned $12 billion dollars to consumer
-victims of fraud.^21
+victims of fraud.<sup>21</sup>
 
 But, as if the financial sector is incapable of being held to a standard
 of integrity and honesty, the money power and its minions in
@@ -237,7 +237,7 @@ economic growth.” _22 Where does this idea come from that American
 business can’t grow and make profits when it is required to meet
 ethical behavior standards and be held accountable when it cheats
 consumers? Doing away with the meager protections this bureau
-provides is part of the 2016 _Republican National Platform._^23 With the
+provides is part of the 2016 _Republican National Platform_<sup>23</sup> With the
 three branches of government under Republican control beginning
 in January 2017, if you disagree, and want an agency protecting
 consumer interests, speak up. Where does your Congressman stand?
