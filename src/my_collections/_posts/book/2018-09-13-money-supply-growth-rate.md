@@ -29,7 +29,7 @@ According to data provided by the Fed, our money supply increased
 steadily for the past 100 years. It is created at rates as high as
 11 percent in the run up to bubbles and then drops to rates of
 negative one to negative 3 percent during the downsides of the money
-cycle, averaging 8 percent.^48 This swing of 12 percentage points creates
+cycle, averaging 8 percent.<sup>48</sup> This swing of 12 percentage points creates
 an unnecessarily unstable marketplace.
 
 ## Necessary growth
@@ -42,10 +42,10 @@ disasters ([Chapter 3.23).](https://usmoney.us/book/chapter-3/section-23)
 ### Population
 
 The money supply must accommodate increases in population, which
-in the US has been growing at an average 1.2 percent since 1910.^49
+in the US has been growing at an average 1.2 percent since 1910.<sup>49</sup>
 This growth rate has been declining and since the 1960s the rate has
 been below 1.5 percent, and in 2016, the population growth rate
-was 0.7 percent.^50 Let’s say our money supply grows one percent to
+was 0.7 percent.<sup>50</sup> Let’s say our money supply grows one percent to
 accommodate population growth.
 
 ### Productivity
@@ -53,10 +53,10 @@ accommodate population growth.
 The money supply must accommodate increases in productivity. The
 US Bureau of Labor Statistics (BLS) measures productivity as the
 _“output per hour of all persons.”_ It is the _“ratio of the output of goods and
-services to the labor hours devoted to the production of that output.”_^51
+services to the labor hours devoted to the production of that output.”_<sup>51</sup>
 According to the BLS, productivity has increased at an average rate of
 2.1 percent since 1947–70 years, 1.8 percent since 1994–20 years, and
-1.2 percent in the 10 years from 2007 to 2017.^52 It is taking less and
+1.2 percent in the 10 years from 2007 to 2017.<sup>52</sup> It is taking less and
 less labor to produce goods and services. Let’s say our money supply
 grows another one percent to accommodate productivity increases.
 
@@ -84,9 +84,9 @@ This declining value is defined as _stable._ According to the average
 devaluation over time the Board has failed to keep inflation at a
 steady 2 percent. The Bureau of Labor Statistics’ (BLS) calculates our
 money has deteriorated in value by an average of 3 percent over the
-past 100 years.^53 John Williams at ShadowStats.com retains consistent
+past 100 years.<sup>53</sup> John Williams at ShadowStats.com retains consistent
 standard measures over this period of time and finds the deterioration
-closer to an annual average of 5 percent.^54
+closer to an annual average of 5 percent.<sup>54</sup>
 
 To buy the value of $1 in 1913, you need $24.78 in 2017 according to
 the BLS – an annual average depreciation of about 3 percent. This
