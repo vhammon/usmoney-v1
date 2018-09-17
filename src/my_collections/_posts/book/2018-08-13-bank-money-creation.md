@@ -26,7 +26,7 @@ tags:
 _Yet few people not versed in banking ever dream that their money ‘in the bank’
 is not in the bank; and few people versed in banking ever dream that the
 money which is not there ought to be there, or that it is practical to have it there._\
-— Irving Fisher, Economist, 1936^12
+— Irving Fisher, Economist, 1936<sup>12</sup>
 
 An anchor provides stability or confidence in an otherwise uncertain
 situation. Money created by fractional reserve is inherently uncertain
@@ -96,4 +96,4 @@ For all intents and purpose, a true reserve money creation system is
 a story of the past. The money multiplier affects less than 10 percent
 of the money supply (in the US), and, _“the tight link suggested by the
 multiplier between reserves and money and bank lending does not exist.”_
-Federal Reserve, 2010^13
+Federal Reserve, 2010<sup>13</sup>
