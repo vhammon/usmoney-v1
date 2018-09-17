@@ -31,8 +31,9 @@ tags:
 
 — Winston Churchill, 1947(\*\*)
 
-_You never change things by fighting the existing reality. To change something,
-build a new model that makes the existing model obsolete._\
+> _You never change things by fighting the existing reality. To change something,
+> build a new model that makes the existing model obsolete._
+
 — R. Buckminster Fuller
 
 When I talk to people about changing to a commonwealth money
@@ -48,11 +49,11 @@ People were placed in one of two rooms to solve some complex puzzles
 and to do a proofreading chore. “In the background was a loud, randomly
 occurring distracting noise...producing a composite, non-distinguishable
 roar.’” Both groups were told to work at the task. But, in one room, they
-were provided with a button to push to turn off the noise. “The group
+were provided with a button to push to turn off the noise. _“The group
 with the off switch solved five times the number of puzzles as their cohorts
 and made but a tiny fraction of the number of proofreading errors. Now
 for the kicker: ‘...none of the subjects in the off switch group ever used the
-switch. The mere knowledge that one can exert control made the difference.’” 6
+switch. The mere knowledge that one can exert control made the difference.’” <sup>6</sup>_
 
 Think about how this principle applies in a family, a classroom, a workplace or a nation. We do better when we know we have some control
 over our lives and our circumstances. We want control over our own
