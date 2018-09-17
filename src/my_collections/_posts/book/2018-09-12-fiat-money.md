@@ -36,7 +36,7 @@ However, the term creates confusion because it is now commonly
 used to mean one of two completely different money systems, giving
 the name to each in reference to a single, but different, aspect.
 According to the common understanding, such as information on
-Wikipedia,^6 fiat money has two different meanings:
+Wikipedia,<sup>6</sup> fiat money has two different meanings:
 
 ## Fiat money means No marketplace or commodity value
 
