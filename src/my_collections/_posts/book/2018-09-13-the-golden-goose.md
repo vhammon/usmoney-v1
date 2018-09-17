@@ -33,8 +33,7 @@ government to spend. They earn interest on this debt.
 
 The Fed banks make money when they trade government securities.
 
-Government debt anchors the banking and financial sector’s money-
-making enterprises to some semblance of prudence, allowing them to
+Government debt anchors the banking and financial sector’s money-making enterprises to some semblance of prudence, allowing them to
 take higher and more profitable risks.
 
 US Government debt is a gift that keeps on giving to the wealthy
