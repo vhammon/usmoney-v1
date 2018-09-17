@@ -55,7 +55,7 @@ the money. Government only provides the authority that makes this
 money national legal tender, and government provides the guarantee.
 MMT is using sovereign to mean _national._ If you’re a reader of MMT
 texts, please note: while the texts acknowledge private banks create
-money, they refer to the money as issued by government.^18 This
+money, they refer to the money as issued by government.<sup>18</sup> This
 conflates authority with creation, and confuses money creation and
 governance.
 
@@ -91,7 +91,7 @@ was debt-credit money created and authorized by government as
 legal tender. It was backed by the full faith and credit of the colony
 and whatever the borrowers put up as collateral. This money was so
 successful, an admiring Benjamin Franklin wrote a pamphlet titled, _A
-Modest Inquiry into the Nature and Necessity of Paper Currency_ (1729).^19
+Modest Inquiry into the Nature and Necessity of Paper Currency_ (1729).<sup>19</sup>
 
 By the 21st century there were only a few nations retaining a sovereign
 right to create their own money supply. One was Libya under dictator
@@ -103,7 +103,7 @@ money circulates, used to facilitate many exchanges in an economy.
 A money supply equal to roughly 10 percent of all economic activity
 was close to a 100% IOU-commodity-backed money system. Gaddafi
 planned to use this gold as a reserve for a fractional gold-reserve
-money for Africa – a Pan-African currency.^20 This threatened the
+money for Africa – a Pan-African currency.<sup>20</sup> This threatened the
 global private money-creator powers.
 
 Western powers began an _intervention_ to depose Gaddafi in March 2011. Steady bombing through May shifted power to the rebels, who
@@ -121,7 +121,7 @@ money for good (as well as for self-enrichment). He spent billions
 into circulation to create one of the world’s largest water systems
 that brought water from the mountains to the population centers –
 a water system which NATO deliberately disrupted with bombing, a
-war crime.^22 He spent money into circulation to keep the price of
+war crime.<sup>22</sup> He spent money into circulation to keep the price of
 staples low, and to absorb the cost of education and health care for all
 citizens. He created and put money into circulation by giving every
 newly married couple about $50,000 to set up house, introducing
@@ -221,17 +221,14 @@ government – good banker propaganda that persists to this day.
 
 Today, to my knowledge, there are no 100% sovereign equity money
 systems in use, though there are growing advocacy movements
-worldwide. Switzerland held a national referendum in June
-
-2018. Iceland and Great Britain discussed the possibility in their
-      Parliaments. Great Britain has a very active and talent-rich advocacy
-          group, PositiveMoney.org. South Africa has a sovereign money
-          movement. The American Monetary Institute (AMI) has been
-          gathering people and providing an education about a sovereign
-          money system since 1996. Collaborating with the American Monetary
-      Institute, Ohio Representative Dennis Kucinich (in Congress 1997–
-2019. introduced the NEED Act in 2011, which would establish a 100%
-      sovereign equity money system in the US.^25
+worldwide. Switzerland held a national referendum in June 2018 Iceland and Great Britain discussed the possibility in their
+Parliaments. Great Britain has a very active and talent-rich advocacy
+    group, PositiveMoney.org. South Africa has a sovereign money
+    movement. The American Monetary Institute (AMI) has been
+    gathering people and providing an education about a sovereign
+    money system since 1996. Collaborating with the American Monetary
+Institute, Ohio Representative Dennis Kucinich (in Congress 1997–2019 introduced the NEED Act in 2011, which would establish a 100%
+sovereign equity money system in the US.<sup>25</sup>
 
 In May 2018, the International Movement for Monetary Reform
 (IMMR) gathered representatives of sixteen national monetary reform
