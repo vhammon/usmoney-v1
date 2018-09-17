@@ -28,8 +28,7 @@ of governance: our democratically elected Congress – preferably with
 input from government at local and state levels. Perhaps a pre-determined allotment would be decided at individual, state, and federal levels.
 For example, the law changing our system to commonwealth money can
 stipulate that 30 percent of new money go to individuals, 40 percent to
-states, and 30 percent to the federal operating budget. Or, what propor-
-tion do you think would serve us best, and why?
+states, and 30 percent to the federal operating budget. Or, what proportion do you think would serve us best, and why?
 
 In the old system, banks were deciding who should get new and existing
 money, because it had to be recreated constantly as loans were repaid
@@ -50,8 +49,7 @@ to government spending as its means of entering money into the economy. (Just re
 an important part of a healthy circulation cycle.** For example, let’s say
 we have a money supply of 100 units and WE the people decide how to
 spend those 100 units every year. Government spending pays for those
-things that matter to all of us – the foundation of a healthy and prosper-
-ous economy. It can pay us all a basic income, pay for basic healthcare,
+things that matter to all of us – the foundation of a healthy and prosperous economy. It can pay us all a basic income, pay for basic healthcare,
 pay for education, pay for a well-staffed justice system...
 
 Whatever government spending buys, money goes to someone. It pays
@@ -78,8 +76,7 @@ are used for 1,000 units of activity, and if collectively, we pay 10 percent
 of our economic activity in taxes, the government will have the same
 100 units to spend back into circulation the next year. And, when we
 change systems, from one that steadily deteriorates the value of money
-to a stable value money system, government spending will remain rela-
-tively stable. Government spending is not taking _other people’s money_
+to a stable value money system, government spending will remain relatively stable. Government spending is not taking _other people’s money_
 and we won’t _run out of it._ It circulates. Government spending is a critical component of the circulation in a healthy economy.
 
 If we taxed every bit of income over a basic living amount, our tax could
@@ -105,8 +102,7 @@ so. It does not mean people with money cannot individually decide
 how they want to invest; it just means people of great wealth do not get
 to decide how our nation’s common wealth is invested for the future.
 
-Banks have issued these money-creating loans at return schedules rang-
-ing from micro-seconds to 30-year mortgages. It would be interesting to
+Banks have issued these money-creating loans at return schedules ranging from micro-seconds to 30-year mortgages. It would be interesting to
 know what percentage of our money supply turns over each year, but I
 haven’t found the data. My guess would be at least 1/3. Given that most
 of the loans have been going for short-term gaming and speculation, it
@@ -208,8 +204,7 @@ people are not dying early. Save our potable water and assure that every
 citizen has safe water to drink. Replenish our farmable soil. Find a way
 to support farmers as they quickly eliminate bee-killing pesticides and
 switch to farming that preserves our food supply. These are all critical
-priorities. The unregulated free market will not take care of these prob-
-lems in time. The government must take action.
+priorities. The unregulated free market will not take care of these problems in time. The government must take action.
 
 We can spend to rebuild our infrastructure. Our national transportation and communication networks are sorely in need of maintenance
 and improvement. We need to fill our potholes, repair our bridges and
@@ -267,8 +262,7 @@ a hospitality service for the beginning of life!
 Some European countries provide welcome boxes for their new citizen-babies, and a few cities in the US are experimenting with this
 wonderful way to say we care about all our citizens.<sup>7</sup> In Europe, new
 moms and dads can take up to two months paid leave to bond with
-their babies and establish a strong family.<sup>8</sup> Then they can have some-
-one come in and give them respite, or help with shopping, or laundry
+their babies and establish a strong family.<sup>8</sup> Then they can have someone come in and give them respite, or help with shopping, or laundry
 or cleaning.<sup>9</sup> We can do this. This would make America great!
 
 New moms and dads could choose to have an early childhood expert
@@ -318,8 +312,7 @@ it will reappear on a ballot after further discussion polishes the plan.<sup>11<
 What would you choose to do if you had a basic income?
 
 A guaranteed basic income is not a new idea. There have been proposals
-over the past century, calling it by a variety of names, including _nega-
-tive income tax,_ or a _basic income guarantee,_ or _universal basic income._
+over the past century, calling it by a variety of names, including _negative income tax,_ or a _basic income guarantee,_ or _universal basic income._
 The group _usbig.net_ has resources for exploring this option. By some of
 their estimates we could break even by eliminating over 100 different
 government programs that help the poor.
@@ -354,8 +347,7 @@ this would be good for our nation, right?
 
 Inadequacy, despair and dependency are a part of our culture today.
 According to the Census Bureau, in 2012, approximately 52.2 million
-(21.3 percent) Americans drew income from major means-tested govern-
-ment assistance programs each month.<sup>12</sup>
+(21.3 percent) Americans drew income from major means-tested government assistance programs each month.<sup>12</sup>
 
 In 2012, roughly 50 percent of our population received benefits from one
 or more general government benefit programs such as Social Security,
@@ -516,8 +508,7 @@ Let’s book the value of an educated and productive citizenry and book the
 liability of kids who do not complete high school. Let’s book the number of
 people waiting for justice, mentally ill, homeless, and in prison as liabilities.
 Let’s book the value of a happy population and domestic tranquility.
-And, let’s book as a debit the extraordinary number of people on anti-
-depressant drugs. Let’s have as broad and detailed an index as possible
+And, let’s book as a debit the extraordinary number of people on anti-depressant drugs. Let’s have as broad and detailed an index as possible
 measuring how we are achieving the goals for our nation set forward in
 our founding documents.
 
@@ -530,8 +521,7 @@ It’s worth putting some resources towards cataloging our very real assets
 and the liabilities against them. It’s a big project, but worthwhile. When
 we know what we have and what is dragging its value down, maybe we
 will be better stewards. We will have useful information for determining
-how to build up our common wealth, the foundation of our prosper-
-ity. Our priorities would be clear.
+how to build up our common wealth, the foundation of our prosperity. Our priorities would be clear.
 
 And, in a common wealth money system, we have the money to repair,
 improve and make Main Street healthy.
