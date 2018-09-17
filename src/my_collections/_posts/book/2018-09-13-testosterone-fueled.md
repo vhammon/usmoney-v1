@@ -25,7 +25,7 @@ tags:
 Our financial sector is primarily a male bastion. When I started
 working on this book, no more than 5 percent of the people taking
 risks in our financial markets were women. In 2018 Reuters reports
-that women account for 12 to 15 percent of trading roles.^104 That’s
+that women account for 12 to 15 percent of trading roles.<sup>104</sup> That’s
 good news, but a long way to go to achieve balance. This imbalance
 has an impact on the characteristics of our marketplace and our
 culture; it amplifies the boom-bust cycle and its outcomes.
@@ -36,11 +36,11 @@ house – drinking, drugs, ostentatious spending on glitz and women,
 high levels of self-aggrandizing, and risk, enormous egos vying to
 be the biggest and baddest. Investment houses routinely seek out
 immature young men to run their trading desks. Leaders who burst
-into angry tirades are admired. Cautionary voices are dismissed.^105
+into angry tirades are admired. Cautionary voices are dismissed.<sup>105</sup>
 This culture is prevalent in the halls of finance and has an impact
 on our economy. As the failures of either Lehman Brothers or Bear
 Stearns & Co. in 2008 demonstrate, even smaller players can take the
-whole system down.^106 107
+whole system down.<sup>106</sup> <sup>107</sup>
 
 ## Testosterone Cycle
 
