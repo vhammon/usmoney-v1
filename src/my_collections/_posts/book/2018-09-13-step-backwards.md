@@ -23,9 +23,10 @@ categories:
 tags:
   - money
 ---
-_...gold and economic freedom are inseparable, that the gold standard is
-an instrument of laissez-faire and that each implies and requires the other._\
-— Alan Greenspan in _Gold and Economic Freedom_ (1966), Chair of the Federal Reserve System, 1987–2006^3
+> _...gold and economic freedom are inseparable, that the gold standard is
+> an instrument of laissez-faire and that each implies and requires the other._
+
+— Alan Greenspan in _Gold and Economic Freedom_ (1966), Chair of the Federal Reserve System, 1987–2006<sup>3</sup>
 
 Returning to a gold standard is another option that steps backwards.
 Proponents of gold money are of different minds: some mean a
@@ -61,7 +62,7 @@ The fact that a foot has 12 inches doesn’t restrict the number of square feet 
 can have in a house. The fact that a pound has 16 ounces doesn’t restrict your
 weight, alas – it’s simply a measurement. The virtue of a properly constructed
 gold standard is that it’s both stable and flexible – stable in value and flexible
-in meeting the marketplace’s natural need for money. (May 27, 2013)^4_
+in meeting the marketplace’s natural need for money. (May 27, 2013)_<sup>_4_</sup>
 
 Let’s unpack this argument.
 
@@ -147,7 +148,7 @@ _Texas’ new depository could help supercharge the growing movement for an
 honest and sensible monetary system founded on real money rather than debt-
 based paper notes conjured into existence by a private banking cartel. Indeed,
 one of the chief aims of gold-and-silver-as-currency proponents is to restore
-sound money – and the Texas law could help pave the way.^5_
+sound money – and the Texas law could help pave the way._<sup>_5_</sup>
 
 However, as explained in [Chapter 4.28,](https://usmoney.us/book/chapter-4/section-28) commodity money is neither
 _sound,_ nor _honest,_ nor _real_ money. As with any commodity money,
@@ -155,7 +156,7 @@ it is vulnerable to the market machinations of the wealthy. Texas
 has a long history of advocates who firmly believe the more money
 one has, the worthier one is, and the greater power one should have
 over public decisions. For an exposition of this belief read the 1960
-utopian fantasy, _Alpaca,_ by Texas oil tycoon H.L. Hunt.^6 Research
+utopian fantasy, _Alpaca,_ by Texas oil tycoon H.L. Hunt.<sup>6</sup> Research
 and history tell us people of great wealth tend to do all they can to
 keep it and to get more. There are hundreds of years of reasons to
 be wary that the wealthy will manipulate this gold money to their
@@ -177,7 +178,7 @@ The lack of silver in the marketplace and the consequently high prices
 made it difficult for anyone else to buy silver. The New York jeweler,
 Tiffany, took out a full page ad in the New York Times condemning
 the Hunts’ silver hoarding which was intended to run up the value of
-their stash.^7
+their stash.<sup>7</sup>
 
 There are those who long for the days when gold was a primary
 money. Ironically, gold money tends to appeal most to those who
