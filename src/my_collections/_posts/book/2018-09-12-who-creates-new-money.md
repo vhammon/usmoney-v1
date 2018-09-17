@@ -55,7 +55,7 @@ to enter it into the economy.
 In 1915 there were 25,825 banks, one bank for every 3,893 people. By
 1983 there were 14,400 banks creating our money supply, one bank
 for every 16,250 people. By 2017 there were 4,852 banks, one bank for
-every 67,300 people.^24 25
+every 67,300 people.<sup>24</sup> <sup>25</sup>
 
 But the number of banks is only part of the story; size matters.
 
@@ -63,7 +63,7 @@ But the number of banks is only part of the story; size matters.
 
 According to the St. Louis Fed, in 2015, the five largest US financial
 institutions held 47 percent of the national bank and thrift industry’s
-total assets. The top ten banks held 53 percent.^26 Remember these
+total assets. The top ten banks held 53 percent.<sup>26</sup> Remember these
 assets are what balance the creation of the money supply.
 
 The top 10 largest banks create 53 percent of our reported money
