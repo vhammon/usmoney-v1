@@ -120,7 +120,7 @@ sum will be greater than the parts. As James Surowiecki explains
 so well in his highly recommended book, _The Wisdom of Crowds,_
 research says we get the best solutions to problems, not from experts
 or an elite of any kind, but from gathering the ideas of well informed,
-independent people with diverse points of view.^5
+independent people with diverse points of view.<sup>5</sup>
 
 When it comes to public decisions, being well informed means
 understanding how our money system works, not just how to make
