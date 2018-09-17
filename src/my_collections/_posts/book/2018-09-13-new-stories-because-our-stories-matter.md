@@ -22,8 +22,8 @@ categories:
 tags:
   - money
 ---
-_When I am working on a problem, I never think about beauty... but when I
-have finished, if the solution is not beautiful, I know it is wrong.  _
+> _When I am working on a problem, I never think about beauty... but when I
+> have finished, if the solution is not beautiful, I know it is wrong.  _
 
 – Buckminster Fuller (1895–1983)
 
@@ -272,8 +272,9 @@ get. This reduces the number of people who face preventable suffering.
 
 ### From there’s not enough to go around so some must suffer TO we have enough for everyone.
 
-_There is enough for everyone. People think that there isn’t enough, so they
-get as much as they can. Then many people don’t have enough._\
+> _There is enough for everyone. People think that there isn’t enough, so they
+> get as much as they can. Then many people don’t have enough._
+
 — R. Buckminster Fuller
 
 We have enough for everyone on earth to prosper. It is simply a matter
