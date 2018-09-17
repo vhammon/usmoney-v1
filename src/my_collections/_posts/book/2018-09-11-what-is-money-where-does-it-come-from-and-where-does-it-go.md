@@ -28,7 +28,7 @@ tags:
 
 —Attributed to Henry Ford, Sr. (1863–1947)
 by Representative Charles G. Binderup of
-Nebraska, Congressional Record, 1937^6
+Nebraska, Congressional Record, 1937<sup>6</sup>
 
 We work hard for money. We save it. We spend it. How come
 sometimes there is too much money in the economy, and some
