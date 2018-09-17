@@ -112,7 +112,7 @@ emperor, Kublai Khan (1260–1294) is credited with making paper
 government notes the only legal currency under his reign. Marco
 Polo reported on this use of money in his book, _The Travels of Marco
 Polo_ , published in 1300. His report pollinated emerging western ideas
-about money.^5
+about money.<sup>5</sup>
 
 Whether the token is made of clay, metal or paper, the concept is the
 same: the token represents the credit side of an IOU for future value
