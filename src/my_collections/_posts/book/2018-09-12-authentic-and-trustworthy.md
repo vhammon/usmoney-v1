@@ -51,7 +51,7 @@ marketplace will become an all-knowing, magical and invisible hand
 that establishes the true value and measure of all and everyone – in
 monetary terms, of course. Efficiency and the ability of money to
 make money are the highest values in this mythical place, dubbed
-_laissez-fairyland_ by LA Times journalist Joel Havemann back in 1991.^6
+_laissez-fairyland_ by LA Times journalist Joel Havemann back in 1991.<sup>6</sup>
 
 The myth of the magical marketplace birthed the field of economics
 as a subject that could be studied scientifically. According to the misconception that everyone is rational, if one figures out the correct
@@ -68,7 +68,7 @@ _...an unambiguously positive breakthrough, a piece of financial technology that
 allowed hugely complex risks to be modeled with more ease and accuracy than
 ever before. With his brilliant spark of mathematical legerdemain, Li made it
 possible for traders to sell vast quantities of new securities, expanding financial
-markets to unimaginable levels.^7_
+markets to unimaginable levels._<sup>_7_</sup>
 
 Risk was supposed to be readily managed and reduced almost entirely.
 It wasn’t. And, this blind faith in mathematical predictability and
