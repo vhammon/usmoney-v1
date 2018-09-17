@@ -22,8 +22,9 @@ categories:
 tags:
   - money
 ---
-_So many of our dreams at first seem impossible, then they seem improbable,
-and then, when we summon the will, they soon become inevitable._\
+> _So many of our dreams at first seem impossible, then they seem improbable,
+> and then, when we summon the will, they soon become inevitable._
+
 — Christopher Reeve (1952–2004)
 
 Pretend for a moment the money fairy waved her wand and money
@@ -178,7 +179,7 @@ Riane Eisler in her book, _The Real Wealth of Nations: Creating a Caring
 Economics_ (2007), said, _“In our time, when high technology guided by
 values such as conquest, exploitation, and domination threaten our very
 survival, we need economic inventions driven by an ethos of caring. We need
-a caring revolution.”_ 1 I agree.
+a caring revolution.” <sup>1</sup>_ I agree.
 
 One of life’s greatest rewards is to care for others and to have people care
 for us. Treating people with respect is the foundation of caring. We want
