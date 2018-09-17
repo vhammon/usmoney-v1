@@ -69,12 +69,9 @@ their priorities and desired risk.
     customer’s account is kept as a separate fund account, in the
        same way an attorney or title company would hold an escrow
        account. The _sum total_ of a bank’s customer deposits is held as
-       a single accounting record **at the central bank,** making trans-
-    fers between banks faster and easier, much as it is today. The
-    central bank does not have any specific information about depos-
-    itor accounts, just the sum total. Your bank keeps track of your
-    money for you and transfers it to others only with your permis-
-       sion and instructions. Just as today, at the central bank, the banks
+       a single accounting record **at the central bank,** making transfers between banks faster and easier, much as it is today. The
+    central bank does not have any specific information about depositor accounts, just the sum total. Your bank keeps track of your
+    money for you and transfers it to others only with your permission and instructions. Just as today, at the central bank, the banks
        only transfer the net required, but now it is being transferred
     between the consolidated depositor trust accounts, managed by
     the private banks, and held at the central bank.
@@ -96,8 +93,7 @@ based on risk, supply and demand and other market forces.
 I hope by now you know that paying a direct annual fee for deposit
 account services will be a steal compared to the amount of money
 currently going out of your pocket to the banking and financial sector.
-These fees will be a deliberate choice on your part instead of an invis-
-ible drain.
+These fees will be a deliberate choice on your part instead of an invisible drain.
 
 There will no longer be what we now call _savings accounts._ If you want
 your money to be 100% safe, leave it in your transaction account. If you
@@ -134,8 +130,7 @@ newly created money will be entered as new income and be a cash asset
 on our government’s books.
 
 A transition can be made to the new system without disrupting commerce
-in any way. The change can take place with a few changes in account-
-ing rules, a few accounting entries and some startup entries for the new
+in any way. The change can take place with a few changes in accounting rules, a few accounting entries and some startup entries for the new
 Bank of the United States. For a detailed explanation of the accounting
 changes read, _Modernizing Money; Why our monetary system is broken
 and how it can be fixed_ by Andrew Jackson and Ben Dyson (2012), the
@@ -146,14 +141,12 @@ explanations will be valuable.
 ### The accounting transition
 
 The private banks’ balance sheets will not change in terms of their net.
-The money that the banks created – currently represented in their liabil-
-ity column as IOUs from the bank system to their customers (Federal
+The money that the banks created – currently represented in their liability column as IOUs from the bank system to their customers (Federal
 Reserve Notes) – becomes IOUs from the individual bank to the US
 government. It will be as if they borrowed the money they are lending
 out from the US government, instead of creating it.
 
-All deposit liabilities of the private banks will be transferred to an aggre-
-gated depositor _trust_ account held at the central bank for the individual
+All deposit liabilities of the private banks will be transferred to an aggregated depositor _trust_ account held at the central bank for the individual
 private bank. These accounting entries will be made on the day of
 implementation:
 
@@ -167,8 +160,7 @@ IOUs to the US government.
 On the books of the Bank of the United States, a sum equal to that of the
 deposit liabilities will be entered as an asset IOU from the private bankers.
 
-The amount of money in the supply will not change with this transi-
-tion. Under our current system, if everyone paid the banks back the
+The amount of money in the supply will not change with this transition. Under our current system, if everyone paid the banks back the
 money they have borrowed tomorrow, it would wipe out our money
 supply. But, in our new system, when money-creation loans are paid
 back to the banks, the banks will cancel the loan asset, pay the amount
@@ -203,10 +195,8 @@ US Government accounts. The majority of this transfer will happen
 within a few years. Today to keep the money supply in circulation,
 most big bank loans are made to property speculators and Wall Street
 gamblers who make very short-term loans. Small community banks
-have been carrying the burden of making loans to Main Street busi-
-nesses, and can continue to do so as more people have more savings to
-invest. There will be a small percentage of 30-year mortgage and busi-
-ness capital investment loans held for the full-time, but the amount is
+have been carrying the burden of making loans to Main Street businesses, and can continue to do so as more people have more savings to
+invest. There will be a small percentage of 30-year mortgage and business capital investment loans held for the full-time, but the amount is
 likely to be small and relatively inconsequential.
 
 ## ADJUSTMENT
@@ -217,10 +207,8 @@ It will radically change the role of banks.
 Banks will have to make some significant changes to their business
 model, and we can give them a transition time. We could allow them
 to borrow back from the government a diminishing percentage of their
-previous portfolio, at minimal, but increasing interest rates. For exam-
-ple, for the first year after the change, the banks could borrow back from
-the government 80 percent of loan repayments at say, 0.5 percent inter-
-est for the first year. They could then use this money to reissue loans
+previous portfolio, at minimal, but increasing interest rates. For example, for the first year after the change, the banks could borrow back from
+the government 80 percent of loan repayments at say, 0.5 percent interest for the first year. They could then use this money to reissue loans
 with a maximum 5-year run time. The second year, they could retain
 a maximum of 60 percent and pay a fee of one percent interest to the
 government. The 3rd year, 40 percent retained at 1.5 percent interest.
