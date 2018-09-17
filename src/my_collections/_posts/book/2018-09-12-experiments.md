@@ -56,10 +56,9 @@ the block (crowd-funded 2014) _Ethereum Wallet,_ is expanding the
 possibilities of crypto-currency. It’s website says, _“It is a gateway to
 decentralized applications that allow you to hold and secure Ether and
 other crypto-assets built on Ethereum, as well as write, deploy and use
-smart contracts.”_ 32
+smart contracts.” <sup>32</sup>_
 
-Venture capitalists began investing in blockchain and blockchain-
-adjacent startups in 2012 with a few tens of millions. In 2017, nearly
+Venture capitalists began investing in blockchain and blockchain-adjacent startups in 2012 with a few tens of millions. In 2017, nearly
 $1 billion was raised in venture capital worldwide to fund new ideas
 about how to use this technology.<sup>33</sup> It is a technology that can be used
 by governments, banks and private individuals to reduce fraud and
@@ -298,8 +297,7 @@ minimal transfer fees.
 
 Can Bitcoin be used as a measure of value? Yes, but it’s a volatile
 one. It is not a stable, fixed measure currency. It is designed to
-have a steadily increasing value, making it subject to market-
-gaming manipulations. The total potential number of coins is fixed
+have a steadily increasing value, making it subject to market-gaming manipulations. The total potential number of coins is fixed
 at 21 million in the programming. So, as more people use it, each
 individual coin will be worth more. The system is designed so that a
 coin can be broken down into as many slices as needed to be useful
