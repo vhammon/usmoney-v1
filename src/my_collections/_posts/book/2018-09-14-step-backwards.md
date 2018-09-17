@@ -26,12 +26,12 @@ tags:
 ---
 _In a world governed by the pressure of organised interests, the important truth
 to keep in mind is that we cannot count on intelligence or understanding but
-only on sheer self-interest to give us the institutions we need._  
-— _The Denationalisation of Money: The Argument Refined_ by F.A. Hayek (1990)^1
+only on sheer self-interest to give us the institutions we need._\
+— _The Denationalisation of Money: The Argument Refined_ by F.A. Hayek (1990)<sup>1</sup>
 
-_The source and root of all monetary evil [is] the government monopoly on
-the issue and control of money._  
-— F. A. Hayek, Economist (1899–1992)^2
+_The source and root of all monetary evil \[is] the government monopoly on
+the issue and control of money._\
+— F. A. Hayek, Economist (1899–1992)<sup>2</sup>
 
 While we think about what kind of money system would serve
 us best, let’s consider some short-term measures that we could
@@ -51,7 +51,6 @@ decisions. Again, there’s no evidence for this axiom. The opposite
 seems to be true as explained in Chapter 6. Hayek’s quote number
 two shows that he misunderstood who creates money, or is referring
 to a time so far in the distant past as to be irrelevant.
-
 
 But, if you believe sheer self-interest leads to best outcomes, it makes
 sense for money to be created, not by the will of the people through
