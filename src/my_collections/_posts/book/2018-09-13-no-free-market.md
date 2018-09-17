@@ -55,7 +55,7 @@ standards, rules, regulations, and enforcement.
 We are also relatively easy to manipulate. Douglas Rushkoff, in
 his book, _Coercion; Why we listen to what ‘they’ say_ (1999), details
 a fascinating litany of how we are readily manipulated in the
-marketplace.^263 Retailers invest billions to find ways to get you to
+marketplace.<sup>263</sup> Retailers invest billions to find ways to get you to
 spend, carefully designing stores and displays to generate impulse
 sales and increase profits. Laws can counterbalance manipulation by
 requiring full product information and disclosure of risks.
@@ -74,7 +74,7 @@ In the marketplace, the consumer must be informed. We’ve made
 progress in getting information onto packaging about what’s in our
 food and home products. We’ve passed laws to improve labeling on
 menus, improve nutrition information on foods and, in 2016, to
-require GMO labeling.^264
+require GMO labeling.<sup>264</sup>
 
 It’s an uphill battle against the money power, who know that an
 informed public may not choose cheap-to-make, money-making
@@ -86,7 +86,7 @@ eating a sweet with 36 ingredients (mostly chemical constructs),
 others will avoid these products when they are informed about the
 impact of those chemicals on our bodies. And, while that cuts into
 the profits of an existing company, it gives someone the opportunity
-to make a better and more desirable product.^265 266 Unfortunately, the
+to make a better and more desirable product.<sup>265</sup> <sup>266</sup> Unfortunately, the
 existing companies are the ones with the political power to block laws
 that would inform customers.
 
@@ -120,11 +120,11 @@ that gives the foundation a say in the curriculum and hiring decisions
 of the University. The Koch funding established a Program for
 Excellence in Economic Education within the Stavros Center for the
 Advancement of Free Enterprise and Economic Education, part of
-the economics department.^267
+the economics department.<sup>267</sup>
 
 The Stavros Center promotes _Common Sense Economics: What
 Everyone Should Know About Wealth and Prosperity_ (2005), by James D.
-Gwartney, Richard L. Stroup and Dwight R. Lee.^268 The university
+Gwartney, Richard L. Stroup and Dwight R. Lee.<sup>268</sup> The university
 has an entire economics program by this name. And this free-market-
 focused text book is accompanied by course materials for economics
 teachers all the way down to the kindergarten level. Endowment
@@ -156,7 +156,7 @@ it follows directly from a reality we cannot wish away._
 
 _The reality is scarcity. There are limits to the desirable things that can be produced.
 If we want more of one thing, we have to do with less of other things.” **(Bold
-added for emphasis.)**^269_
+added for emphasis.)**<sup>269</sup>_
 
 So, a child who dies in a poorly designed car helps the market
 economy function. Lee makes the argument that if, for instance,
@@ -170,7 +170,7 @@ their options.
 Faux-free marketers argue that adults should be able to choose their
 own levels of risk-taking. But, then they argue against testing for
 levels of risk, and against informing the public of those risks. The
-public cannot make an informed choice.^270
+public cannot make an informed choice.<sup>270</sup>
 
 The argument is that if pesky government just stays out of setting
 safety standards, you would be free to choose a cheaper unsafe car - your choice determined by the effectiveness of advertising, which is not required to tell you whether the car is safe. The manufacturer
@@ -180,7 +180,7 @@ It’s win-win. It’s just part of the market economy. Easy profits are
 more important than the deaths of those who die unnecessarily
 without seat belts. According to the CDC, 13,000 people were saved
 by a seatbelt, and another 4,000 would have lived if they’d worn
-theirs in 2009 alone.^271 Author Dwight Lee thinks their deaths are a
+theirs in 2009 alone.<sup>271</sup> Author Dwight Lee thinks their deaths are a
 worthy sacrifice on the altar of lazy profits and _a proper functioning
 market economy._
 
@@ -228,7 +228,7 @@ making bank and big business profits our nation’s highest imperative - and to 
 Today there are over 100,000 private family foundations with assets
 of over $800 billion, using their power of the dole to manipulate
 elections, government policy, educational curriculums and grassroots
-policy campaigns.^272 If you don’t promote or teach or what they want,
+policy campaigns.<sup>272</sup> If you don’t promote or teach or what they want,
 you won’t have enough funding to survive. This is blackmail, too –
 and far from a free marketplace of ideas.
 
