@@ -24,8 +24,7 @@ tags:
   - money
 ---
 What happens if we make this change and the rest of the world does
-not? Since the world’s markets are all interconnected and interdepen-
-dent, a global change to a sustainable system is the best outcome. And,
+not? Since the world’s markets are all interconnected and interdependent, a global change to a sustainable system is the best outcome. And,
 encouragingly, there is a global movement in dozens of nations to work
 toward their own common wealth money. However, it will take time,
 perhaps lifetimes. In the meantime, it will be a challenge to limit the
@@ -48,19 +47,16 @@ about 2 percent of global currency in use, but changing money
 systems will have an impact on its use. According to the Fed more
 than two-thirds of $100 bills circulate outside the US. This is a rela-
 tively recent phenomenon, rising from about 45 percent in 1990 to over
-70 percent in 2011.^15 The Fed reports 11.5 billion $100 bills are in circu-
-lation (2016), with a value of $1.15 trillion.^16 So roughly 70 percent of
+70 percent in 2011.<sup>15</sup> The Fed reports 11.5 billion $100 bills are in circulation (2016), with a value of $1.15 trillion.<sup>16</sup> So roughly 70 percent of
 that $1.15 trillion is $805 billion in $100 in circulation around the world.
 The Fed took the seigniorage when these bills were first introduced. The
-creation of cash designated for use abroad can continue, but the seignior-
-age will go to the Bank of the US (our new government central bank),
+creation of cash designated for use abroad can continue, but the seigniorage will go to the Bank of the US (our new government central bank),
 instead of the Fed. Recipients of the dollars will experience no difference.
 
 Global use of dollar currency often reflects instability and insecurities
 in other countries, and the high regard of the world for the stability of
 US currency, backed by our commonwealth. However, the Global GDP
-is nearly $80 trillion, so $805 billion in US cash dollars in global circu-
-lation is one percent of global money – relatively insignificant as far as
+is nearly $80 trillion, so $805 billion in US cash dollars in global circulation is one percent of global money – relatively insignificant as far as
 the rest of the world is concerned.
 
 However, if for some reason this $805 billion came home to the US, that
@@ -71,8 +67,7 @@ the number of total dollars in circulation in the US by over 6 percent.
 That would cause inflation.
 
 Cash dollars coming home to the US may happen with or without a
-system change. If the world loses respect for the US and our leader-
-ship, these dollars may come home and have a significant impact on
+system change. If the world loses respect for the US and our leadership, these dollars may come home and have a significant impact on
 our economy. Our dollars may also come home if the rest of the world
 feels more secure using their own currencies, which would be a good
 thing for the world. We can hope that in either event, the global dollars
@@ -90,10 +85,9 @@ can then be exchanged into dollars.
 
 ### Money creation
 
-Global banks create money for people all over the world in many curren-
-cies. In the pre-crash years of 2004 to 2008 the _global_ bankers increased
+Global banks create money for people all over the world in many currencies. In the pre-crash years of 2004 to 2008 the _global_ bankers increased
 the supply of dollars _held in foreign hands_ at annual growth rates of
-12–24 percent.^17 They increased the supply of dollars by making dollar
+12–24 percent.<sup>17</sup> They increased the supply of dollars by making dollar
 denominated loans to each other, to countries – guaranteed by natural
 resources and future tax income streams, to global corporations and to
 international financial gamers. They blew up a global asset bubble that
@@ -104,8 +98,8 @@ that they could extract loan repayments and interest.
 
 Since the financial crisis, while banks slowed money creation lending in
 the US, global banks continued to create dollars for the rest of the world
-at annual rates of 8–16 percent.^18 Since 2008, the global central banks
-have created more than $9 trillion.^19 This is one reason the global banks
+at annual rates of 8–16 percent.<sup>18</sup> Since 2008, the global central banks
+have created more than $9 trillion.<sup>19</sup> This is one reason the global banks
 have continued to prosper despite downturns in the US economy. The
 privilege of the global bankers to create this money gives them power
 and control over the global economy. Think through the consequences
@@ -158,17 +152,14 @@ system. Catastrophe can strike in one, or likely both of two ways.
 ### One way
 
 As with a return of dollar cash, the dollars used as reserves could come
-home to roost. When the world for good reasons (healthy global econ-
-omies) or bad reasons (the world thinks poorly of our leadership and
+home to roost. When the world for good reasons (healthy global economies) or bad reasons (the world thinks poorly of our leadership and
 common wealth) decides to reduce their use of the dollar – as a reserve
 or as a trading currency – significant amounts of the $8 trillion out in
 the world may come home to our domestic economy, flooding our
 money supply and causing calamitous inflation.
 
-At the behest of bankers, many politicians will push to use our mili-
-tary might to force nations to retain their US dollar reserves, but that
-is a grim and devastating prospect. We’ve done it before and experi-
-ence shows that it does more harm than good (Iraq, Libya, Iran). Iraqi
+At the behest of bankers, many politicians will push to use our military might to force nations to retain their US dollar reserves, but that
+is a grim and devastating prospect. We’ve done it before and experience shows that it does more harm than good (Iraq, Libya, Iran). Iraqi
 President Saddam Hussein was promoting the idea of _petro-dollars_ as
 reserves and/or dumping Iraq’s dollar reserves and switching them to the
 
@@ -194,8 +185,7 @@ nate the world – however short-sighted and ineffective. It is a bad idea.
 ### Another
 
 The world is headed for the same catastrophic gigantic meltdown that
-we face domestically. Global bankers have been expanding most curren-
-cies at exponential and increasing rates – especially the dollar. Think of
+we face domestically. Global bankers have been expanding most currencies at exponential and increasing rates – especially the dollar. Think of
 the exponential curve. Double digit increases in global dollars puts us
 on a straight up off the chart trajectory.
 
@@ -203,11 +193,10 @@ In our current system, when the next and inevitable meltdown occurs,
 we have almost no recourse to avoid a horrendous impact on our nation’s
 economy; we are at the mercy of the global banks who will continue
 to create money for themselves, extract our natural resources and exact
-austerity measures that cripple our common wealth. They’ve demon-
-strated this is exactly how they will handle a meltdown. The list of
+austerity measures that cripple our common wealth. They’ve demonstrated this is exactly how they will handle a meltdown. The list of
 countries raped by the global bankers is long. Read Naomi Klien’s book,
 _The Shock Doctrine; the rise of disaster capitalism_ (2007) for an appall-
-ing account.^20
+ing account.<sup>20</sup>
 
 ## A practical path
 
