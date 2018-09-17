@@ -88,8 +88,7 @@ our recycling, so the amount landfilled is increasing.<sup>52</sup>
 
 All the effort, materials, and energy that goes into making, discarding,
 trashing-reusing-recycling is largely an unnecessary frenzy and waste.
-Less would be more. But, if everyone purchased high quality, long-
-lasting, minimally packaged goods that met their needs without waste
+Less would be more. But, if everyone purchased high quality, long-lasting, minimally packaged goods that met their needs without waste
 and excess, our economy would stall. We have become a nation of
 bloated wasters under pressure to absorb extra money created every
 year, and to achieve the growth imperative our system demands. This
