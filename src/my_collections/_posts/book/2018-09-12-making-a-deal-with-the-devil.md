@@ -95,8 +95,7 @@ Some convincing has happened because wealthy merchant-bankers
 in the private sector did a better job of establishing confidence in the trustworthiness of the IOU-future-value money they created. These
 bankers could buy the confidence and accommodation of people in
 power. This made it possible to shift some of their expenses, such as
-the safety of their trade routes, or the integrity of their IOUs (anti-
-counterfeiting measures) onto the government, the manufacturer
+the safety of their trade routes, or the integrity of their IOUs (anti-counterfeiting measures) onto the government, the manufacturer
 and the guarantor. With these costs ultimately shifted to taxpayers,
 bankers had an easier job maintaining trustworthy IOUs.
 
