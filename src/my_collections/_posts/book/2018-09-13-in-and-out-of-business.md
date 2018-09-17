@@ -31,8 +31,7 @@ because it is dirty, dangerous, and now more expensive than renewable
 forms of energy. Businesses adapt, some disappear and new ones pros-
 per. There is continuous churn.
 
-Changing our money system is a profound change. There will be adjust-
-ments as we transition. Our financial sector will transform. Today
+Changing our money system is a profound change. There will be adjustments as we transition. Our financial sector will transform. Today
 8 percent of all employees work in the financial sector and owners take
 home over 30 percent of corporate profits. Some of these businesses will
 shrink and people will lose their jobs.
