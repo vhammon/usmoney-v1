@@ -122,7 +122,7 @@ eat more if the people around us are eating more. And we eat more
 when our food is served on a larger plate. When we recognize what
 is shaping our behavior, we can sometimes change it. For example,
 switching from a dinner plate to a smaller luncheon plate can help us
-eat less.1 2 3
+eat less.<sup>1</sup> <sup>2</sup> <sup>3</sup>
 
 ### Follow the leader
 
@@ -131,7 +131,7 @@ are children and the mind frame stays with us in some measure for
 life. At the extreme, think of Hitler’s Germany and the experiments
 of Stanley Milgram in the 1960s. He found that many people are
 willing to obey an authority figure and torture, even kill a fellow
-human when told to do so by an authority.^4 These experiments have
+human when told to do so by an authority.<sup>4</sup> These experiments have
 been repeated in many cultures, times, and places. A remarkably
 consistent 60–65 percent of people will inflict fatal harm when
  instructed by an authority to do so. So it should be no surprise that it
@@ -141,7 +141,7 @@ worthy system.
 
 Our tendency to be influenced by authority can have life-threatening
 impacts. For example, medical mistakes are the third leading cause
-of death in the US after heart disease and cancer.^5 Some of these
+of death in the US after heart disease and cancer.<sup>5</sup> Some of these
 mistakes go unchallenged even when observed, because staff are
 unwilling to challenge the authority making the mistake. To reduce
 these numbers, hospitals are putting in place systems to train staff
@@ -196,7 +196,7 @@ confederates of the experimenter who are instructed to give wrong
 answers – give the clearly wrong answer, the subject struggles but
 more often than not agrees with the people who had gone before,
 even though their answer is obviously wrong. About 65 percent of the
-subjects agreed with the others rather than stand alone in dissent.^6
+subjects agreed with the others rather than stand alone in dissent.<sup>6</sup>
 
 However, when only one other person gave the correct answer,
 many more subjects also stated the correct answer. This is why
@@ -245,7 +245,7 @@ experts focused on accomplishing a task, they often fail to see things
 right in front of them. In one study, pilots practicing landings on
 simulators fail to see a big plane sitting on the runway. In another
 study, ordinary people fail to see a gorilla in a video because they have
-been given a task that requires focused attention.^7 This may explain
+been given a task that requires focused attention.<sup>7</sup> This may explain
 how economists can focus on specific sets of numbers they have been
  taught to value and fail to see the underlying system and the impact
 of the numbers on society as a whole.
@@ -265,7 +265,7 @@ Our blindness to facts that do not fit is called cognitive dissonance.
 An excellent book, _Mistakes Were Made (But Not by Me): Why We
 Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts_ by Carol Tavris
 and Elliot Aronson, is full of examples of how, once formed, our
-ideas are difficult to shift.^8 Prosecutors who have found a man guilty
+ideas are difficult to shift.<sup>8</sup> Prosecutors who have found a man guilty
 are often reluctant to change their opinion even when confronted
 with irrefutable evidence they were wrong. Dietitians continue
 recommending certain unhealthful foods despite decades of research
