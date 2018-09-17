@@ -111,8 +111,8 @@ Western powers began an _intervention_ to depose Gaddafi in March 2011. Steady b
 Western global bankers. This bank was established five months before
     Gaddafi was killed and his regime fell in October 2011. The power
     to create new money was turned over to the global private banking
-       sector. This was called, _“bringing Libya in line with international_
-    _banking standards.”_ 21
+       sector. This was called, _“bringing Libya in line with international
+    banking standards.” <sup>21</sup>_
 
 Yes, Gaddafi was a crazy guy who did some terrible things. While
 Gaddafi’s failings might fill a book, he also did some wonderful
@@ -140,11 +140,11 @@ money creation privileges.
 Today China is using its money creation power for a global
 transportation infrastructure initiative, promising over $1 trillion in
 infrastructure and spanning more than 60 countries. Called, One
-belt, One Road, The New York Times reports, “China is literally
+belt, One Road, The New York Times reports, _“China is literally
 and figuratively forging ties, creating new markets for the country’s
 construction companies and exporting its model of state-led development
 in a quest to create deep economic connections and strong diplomatic
-relationships.” 23
+relationships.” <sup>23</sup>_
 
 ## Sovereign means 100% sovereign equity money
 
