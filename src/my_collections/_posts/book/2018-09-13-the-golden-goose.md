@@ -45,7 +45,7 @@ owners of banks.
 But government debt is a heavy burden on taxpayers and on the
 nation. In 2017, the US Government collected $2,100 billion for its
 Operating Fund. Out of that it paid $372.6 billion for interest on
-Operating Fund debt.^55 For every dollar you paid in income taxes, 18
+Operating Fund debt.<sup>55</sup> For every dollar you paid in income taxes, 18
 cents went to pay interest on debt (13 cents to Wall Street, and 5 cents
 to government trust funds). When roughly one in six tax dollars are
 going to interest, we have to either cut services or increase taxes. No
@@ -54,7 +54,7 @@ our money!
 
 While even middle class people hold some Government bonds,
 the wealthiest 10 percent of Americans own 77 percent of all our
-wealth.^56 Odds are you are not in the top 10 percent, and more likely
+wealth.<sup>56</sup> Odds are you are not in the top 10 percent, and more likely
 suffer rather than benefit from the US Government’s need to go
 into debt and pay interest. And, all of us suffer when we haven’t got enough in the Federal kitty to cover our basic infrastructure needs. A
 deteriorating nation is a burden on every business and individual.
