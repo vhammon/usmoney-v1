@@ -60,7 +60,7 @@ loans; they are in the best position to score. When they score, they
 take greater risks. The price of some assets gets higher and higher –
 houses, stocks, bonds, Bitcoins!, and in 17th century Holland, tulips!
 At the peak of a tulip mania, in March 1637, some single tulip bulbs
-sold for more than 10 times the annual income of a skilled craftsman - one of the earliest market bubbles.^97
+sold for more than 10 times the annual income of a skilled craftsman - one of the earliest market bubbles.<sup>97</sup>
 
 Confidence fuels increasing levels of debt for investments. Speculators
 jump in and borrow to buy. Banks are willing to make loans and
@@ -77,14 +77,14 @@ The years from 2000 to 2007 are a perfect example: from 2000 to
 2007, household debt doubled from $7 trillion to $14 trillion (roughly
 equivalent to the GDP). Debt related to housing was responsible for
 80 percent of the increase. By 2008, the household debt to GDP ratio
-reached its highest level since 1929–99 percent.^98
+reached its highest level since 1929–99 percent.<sup>98</sup>
 
 Households borrowed against the continuously inflating value of
 their homes. The money created by this borrowing increased buying
 and selling. From the year 2000 to the housing market crash in 2007,
 our financial wizards were using a formula to calculate the risks of
 home mortgages and bundles of mortgages that _did not include the
-possibility home prices could ever drop._^99
+possibility home prices could ever drop._<sup>99</sup>
 
 Countless reports admired our healthy and booming economy, and
 attributed it to innovation, or a new world of never-diminishing
@@ -96,9 +96,9 @@ fueled by increasing debt._
 A version of this movie is replaying from 2009–2018 with the bubble
 in the stock market and in the bond and non-investment grade debt
 markets. The stock market quadrupled in this decade, and these latter
-debt markets doubled to $2.4 trillion.^100 In addition to these debts,
+debt markets doubled to $2.4 trillion.<sup>100</sup> In addition to these debts,
 after the Republican tax cut, the US Treasury is set to issue nearly $1
-trillion in debt in 2018 due to the 2017 Republican tax cut.^101 Again,
+trillion in debt in 2018 due to the 2017 Republican tax cut.<sup>101</sup> Again,
 this bubble is being praised as a healthy economy.
 During the boom bankers are giddy issuing loans and asset bubbles
 are inflating. Everyone seems to have a fair chance at benefitting.
@@ -118,10 +118,10 @@ In 2009 – just one year – Americans lost $3.3 trillion in housing
 equity and $6.9 trillion in stock market valuation. This was an
 historic one-year loss of $10.2 trillion from a bubble high valuation.
 According to the Fed, over three years from 2007’s high to 2010, the
-average American family lost nearly 40 percent of its wealth.^102 The
+average American family lost nearly 40 percent of its wealth.<sup>102</sup> The
 value of shares on the stock market dropped by half. Real Estate
 website Zillow reported about $6.1 trillion in property value was lost
-by 2009.^103 This value disappears out of the average person’s pocket
+by 2009.<sup>103</sup> This value disappears out of the average person’s pocket
 and from the value of their assets. The wealth is lost, but the debt
 that purchased the assets is mostly still on the books of the privileged
 money creators who will eventually collect their pound of flesh. The
