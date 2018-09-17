@@ -38,10 +38,10 @@ However, the central Fed’s economic goals are impossible tasks. The
 best decisions require an independent and diverse group of people, so
 giving a small group of like-minded elites the power to make economic
 decisions for a $20 trillion (2017) economy is a recipe for poor long-
-term results.^57
+term results.<sup>57</sup>
 
 The Fed knows this on some level; as I read through the Fed publication,
-_The Purposes and Functions of the Federal Reserve Bank,_ 2005.^58 I was
+_The Purposes and Functions of the Federal Reserve Bank,_ 2005.<sup>58</sup> I was
 struck by the power they hoped to be able to exercise over our economy - not so much the money supply, but over the entire economy. But
     they repeatedly use words like, _difficult, hard, unpredictable._ They
     readily acknowledge their mission, _“to provide the nation with a safer,_
