@@ -115,7 +115,7 @@ on a whole economy balance sheet. They give this as a reason why
 austerity measures that cut government spending do not work; on
 their two-dimensional money theory map, government must go into
 debt so private businesses can prosper. (Foreign sales and purchases
-muddy the equation, but for our purposes, we can ignore them.)^5
+muddy the equation, but for our purposes, we can ignore them.)<sup>5</sup>
 
 This premise of a two-dimensional money system that fits on a
 balance sheet – with government and the public in a two-way, zero-
