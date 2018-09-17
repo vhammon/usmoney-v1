@@ -38,7 +38,7 @@ These innovative crypto-currencies use _blockchain_ technology – a new
 open source software that will radically alter how we make exchanges
 and contracts. In 2016, Don and Alex Tapscott published, _Blockchain
 Revolution; How the technology behind bitcoin is changing money,
-business, and the world._^30 They quote Marc Andreeson, cofounder
+business, and the world._<sup>30</sup> They quote Marc Andreeson, cofounder
 of Netscape, who hails blockchain technology as _“...one of the most
 fundamental inventions in the history of computer science.”_
 
@@ -49,9 +49,9 @@ nearly impossible to replicate by hackers.
 This technology is developing rapidly. At a 1996 conference organized
 by RSA, an American computer and network security company, Ron
 Rivest, a company co-founder, put the source code and methods for
-crypto-currency into the public domain.^31 Since then we’ve gone
+crypto-currency into the public domain.<sup>31</sup> Since then we’ve gone
 through several generations of experiments, including grandfathers,
-_PayWord_ and _MicroMint_ , and growing-a-beard- _Bitcoin._ New kid on
+_PayWord_ and _MicroMint_ , and growing-a-beard-_Bitcoin._ New kid on
 the block (crowd-funded 2014) _Ethereum Wallet,_ is expanding the
 possibilities of crypto-currency. It’s website says, _“It is a gateway to
 decentralized applications that allow you to hold and secure Ether and
@@ -61,7 +61,7 @@ smart contracts.”_ 32
 Venture capitalists began investing in blockchain and blockchain-
 adjacent startups in 2012 with a few tens of millions. In 2017, nearly
 $1 billion was raised in venture capital worldwide to fund new ideas
-about how to use this technology.^33 It is a technology that can be used
+about how to use this technology.<sup>33</sup> It is a technology that can be used
 by governments, banks and private individuals to reduce fraud and
 transfer costs. It is being researched and rapidly adopted by banks
 globally for transferring money securely.
@@ -135,7 +135,7 @@ Bitcoin describes itself:
 _Bitcoin is an innovative payment network and a new kind of money. Bitcoin
 uses peer-to-peer technology to operate with no central authority or banks; managing transactions and the issuing of bitcoins is carried out collectively by
 the network. Bitcoin is open-source; its design is public, nobody owns or controls
-Bitcoin and everyone can take part. Bitcoin.org^34_
+Bitcoin and everyone can take part. Bitcoin.org_<sup>_34_</sup>
 
 And, Wikipedia:
 
@@ -145,7 +145,7 @@ It is a cryptocurrency, so-called because it uses cryptography to control the
 creation and transfer of money. Users send payments by broadcasting digitally
 signed messages to the network. Participants known as miners verify, timestamp,
 and record transactions into a shared public database called the block chain,
-for which they are rewarded with transaction fees and newly minted bitcoins.^35_
+for which they are rewarded with transaction fees and newly minted bitcoins._<sup>_35_</sup>
 
 Bitcoin achieved success meeting the need to transfer value at a
 minimal cost. It succeeded for some, but not for other speculators as
@@ -190,7 +190,7 @@ Yes, though the community using it to buy and sell goods and
 services is dwarfed by speculators, counting on its value rising. This
 is similar to the existing foreign currency exchanges, where about
 95 percent of ALL exchanges are made by speculators and have
-nothing to do with making a purchase using a different currency.^36
+nothing to do with making a purchase using a different currency.<sup>36</sup>
 This ratio of speculators to users is a common aspect of money
 systems designed to have the value of money increase or decrease,
 because gaming with money and/or manipulating its value, while
@@ -283,12 +283,11 @@ admitting it lost over $480 million of its clients’ Bitcoin money
 computer shutdown and we have no record of your money. It is gone.”_ By
 law the value for depositors was frozen at the time of the bankruptcy
 at $400USD. However, Mark Karpeles, former CEO of Mt.Gox, rediscovered several hundred thousand Bitcoins after the bankruptcy. In November 2017 these were valued at $7,500/coin. He will do very
-well from the bankruptcy, but his customers suffered.^37 38
-
+well from the bankruptcy, but his customers suffered.<sup>37</sup> <sup>38</sup>
 
 In August 2016, Hong Kong-based Bitcoin exchange Bitfinex lost
 $68 million in customer money and suggested it would spread the
-loss over all its customer accounts.^39 Virtual money requires some
+loss over all its customer accounts.<sup>39</sup> Virtual money requires some
 form of exchange and there is nothing stopping any group of web
 entrepreneurs, both reputable and criminal, from establishing
 one. Virtual currencies must deal with the issue of oversight and
@@ -339,7 +338,7 @@ are commodities because they fit the CFTC’s definition of _“all services,
 rights, and interests in which contracts for future delivery are presently or in the future dealt in.”_ Then by 2018, they’d ruled that Bitcoin
 and virtual currencies were _“virtual currencies serving as a medium of
 exchange, a unit of account, and/or a store of value.”_ In other words,
-they changed their mind and accept that it is a form of money.^40
+they changed their mind and accept that it is a form of money.<sup>40</sup>
 
 ## Ultimately, who rules?
 
