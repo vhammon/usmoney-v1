@@ -30,8 +30,7 @@ money system.
 A stable, sovereign, 100% equity money system removes the necessity for
 exponential growth in our economy. This is a critical change we must
 make to remain a healthy species on the planet. Without the constant
-monetary pressure to grow bigger, use more and consume more, artifi-
-cial scarcity will gradually cease to exist. Real scarcity will remain. We
+monetary pressure to grow bigger, use more and consume more, artificial scarcity will gradually cease to exist. Real scarcity will remain. We
 have already diminished many of our natural resources to the point of
 scarcity. But, we will have the money to repair our natural resources and
 rebuild our common wealth. This will reduce real scarcity, too.
@@ -49,21 +48,18 @@ other will no longer be necessary. We can genuinely establish domestic
 tranquility and move along in our pursuit of happiness. Enough can
 be enough; we may cease to try to fill emptiness with purchased stuff.
 
-We can savor craftsmanship, creativity, spirituality, quality goods, neigh-
-borliness, and plentiful family time. When each of us can strive to
+We can savor craftsmanship, creativity, spirituality, quality goods, neighborliness, and plentiful family time. When each of us can strive to
 achieve our fullest potential without artificial hindrance, we may not
 need war to give meaning to an otherwise dreary drudge of a life.<sup>1</sup>
 
 ## A renewable economy
 
 Without the demand for exponential growth we can establish a stable
-and renewable economy. We can spend some of our money on clean-
-ing up the mess we’ve made with resource extraction, fossil fuels and
+and renewable economy. We can spend some of our money on cleaning up the mess we’ve made with resource extraction, fossil fuels and
 toxic waste disposal. We can save our bees. We can do the right thing,
 instead of what will make money for a few people, because everything
 we do will not need to be a moneymaker. We can become good stewards
-of our place on our planet, leaving it in better shape for the genera-
-tions to come.
+of our place on our planet, leaving it in better shape for the generations to come.
 
 ## Fewer black holes
 
@@ -73,8 +69,7 @@ money-system demands for short-term profits, we can make long-term
 investments in prevention. We can invest in the technologies of peace,
 instead of constantly feeding the war machine. We can still maintain a
 military for the common defense, but we will not need to be constantly
-putting it to use to promote and defend the interests of the private bank-
-ers and other special interests.
+putting it to use to promote and defend the interests of the private bankers and other special interests.
 
 ## Innovation
 
@@ -90,13 +85,11 @@ an unprecedented scale.
 
 Economy-wide cycles of boom and bust will stop. Banks will still fail,
 but their failure will not cost people their deposits, nor will it take down
-the entire economy. Our currency will be stable with very minor fluctu-
-ations of value. Businesses will still go through the same cycles of arising,
+the entire economy. Our currency will be stable with very minor fluctuations of value. Businesses will still go through the same cycles of arising,
 thriving, declining and vanishing. Individuals will still make fortunes
 and keep them or blow them away. But, the entire economy will reach
-a sustainable and healthy equilibrium. We can be happier and health-
-ier and have:
+a sustainable and healthy equilibrium. We can be happier and healthier and have:
 
-**Health and prosperity;**\
-**A free and fair market; and**\
+**Health and prosperity;**
+**A free and fair market; and**
 **The best decision-making**
