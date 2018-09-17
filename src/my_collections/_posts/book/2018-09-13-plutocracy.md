@@ -51,8 +51,7 @@ the best tables in a restaurant for dinner. The wealthy are paid more
 than someone who comes from a poor background for doing the
 same work. Research by the Institute for Fiscal Studies with Harvard
 University and the University of Cambridge found that even with
-the same education from a prestige university the 10 percent highest-
-earning male graduates from richer backgrounds earned about
+the same education from a prestige university the 10 percent highest-earning male graduates from richer backgrounds earned about
 20 percent more than the 10 percent highest earners from relatively
 poorer backgrounds.<sup>188</sup>
 
@@ -73,8 +72,7 @@ own financial gaming and keep it for generations.
 Money-creators decide where the money they create goes first. And,
 once they’re extraordinarily wealthy, they have power to determine
 where our public spending goes too, by controlling the media, the
-propaganda, and the lawmakers with their contributions. Money-
-creators determine whether we invest in a global war machine;
+propaganda, and the lawmakers with their contributions. Money-creators determine whether we invest in a global war machine;
 or sustainable energy; or use our wealth to assure everyone has
 food, shelter, healthcare and education; or whether we have a few
 with closets bigger than houses and thousands of thousand-dollar
@@ -262,8 +260,7 @@ And, when these few super-rich people die they can now preserve
 most of their estates for their children. Eliminating estate taxes
 benefits less than 0.2 percent of Americans (remember the top
 0.1 percent owns 22 percent of all wealth in America).<sup>200</sup> Estate taxes
-hit the top tiniest percent of people almost entirely. But, the super-
-rich have successful sold the idea that taxing big estates is a _death
+hit the top tiniest percent of people almost entirely. But, the super-rich have successful sold the idea that taxing big estates is a _death
 tax_ and _double taxation._ One study found the financial support for
 eliminating inheritance taxes came from 18 super-rich families. These
 people provide the anti-government activists with most of the money
