@@ -96,7 +96,6 @@ Trump chose billionaire Stephen A. Schwarzman, Chairman,
 CEO and co-founder of Blackstone Group to chair his Strategic
 and Policy Forum. Schwarzman picked the financial leaders who would determine the Trump administration’s economic policy.
 
-
 Not surprisingly, he chose a stable of billionaire Big Bank and Big
 Business corporate interests. Former Goldman Sachs executive, Gary
 Cohn became the Director of the National Economic Council. No
@@ -215,7 +214,7 @@ does well under these requirements that respect labor.<sup>153</sup>
 
 In 2011, the Consumer Financial Protection Bureau was established as
 _“the nation’s first federal agency with the sole mission to protect American
-consumers in the financial marketplace.”_ 154
+consumers in the financial marketplace.” _<sup>_154_</sup>
 
 Fulfilling the mission was an uphill battle when the Republicans
 in Congress were blocking adequate funding for the Consumer
@@ -373,7 +372,7 @@ my footnotes in June 2018, it’s now only EIGHT people. It makes me
 cry; I feel deep sorrow in my chest.<sup>169</sup> Think about the power and the
 bad decision-making that follows:
 
-8 people own as much wealth as  
+8 people own as much wealth as\
 3,800,000,000 1/2 the world’s population.
 
 There is an end to this game. All ownership of all the assets and
