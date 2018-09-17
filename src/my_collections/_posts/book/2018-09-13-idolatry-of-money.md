@@ -22,13 +22,14 @@ categories:
 tags:
   - money
 ---
-_This disposition to admire, and almost to worship, the rich and the powerful,
-and to despise, or, at least, to neglect, persons of poor and mean condition,
-though necessary both to establish and to maintain the distinction of ranks
-and the order of society, is, at the same time, the great and most universal
-cause of the corruption of our moral sentiments._\
+> _This disposition to admire, and almost to worship, the rich and the powerful,
+> and to despise, or, at least, to neglect, persons of poor and mean condition,
+> though necessary both to establish and to maintain the distinction of ranks
+> and the order of society, is, at the same time, the great and most universal
+> cause of the corruption of our moral sentiments._
+
 — Adam Smith, Scottish political economist in his
-    1759 _The Theory of Moral Sentiments_^273
+    1759 _The Theory of Moral Sentiments_<sup>273</sup>
 
 When the rich rule, that which makes them special is deified and
 glorified. As a society, we have come to worship money. We embrace
@@ -51,8 +52,8 @@ of success.
 
 \## Sacrifice on the altar
 
-Today one in five children goes hungry during the year.^274 One in
-seven have developmental issues requiring special help.^275 If any
+Today one in five children goes hungry during the year.<sup>274</sup> One in
+seven have developmental issues requiring special help.<sup>275</sup> If any
 other nation harmed so many of our children, we would go to war
 with them. Instead, politicians claim the regulations and standards
 that would keep our children safer would hamper the profit-making
@@ -60,15 +61,14 @@ efforts of corporate America. So far, we accept this.
 
 In the US, people work hard and long – 1,770 hrs/year on average in 2014. In France people work about 1,473 and in Germany 1,366 hours.
 The Netherlands with the second shortest hours at 1,422 is more
-    productive than average.^276 In Switzerland, people work an average
-35-hour workweek – and they make more than Americans. European
-    countries value rest, recreation and family time.^277
+    productive than average.<sup>276</sup> In Switzerland, people work an average 35-hour workweek – and they make more than Americans. European
+    countries value rest, recreation and family time.<sup>277</sup>
 
 The US is the only developed country in the world with no legally
 mandated vacation time. Every country in Europe has a minimum
-mandate of from 25 to 40 days!^278 The research says they are right:
+mandate of from 25 to 40 days!<sup>278</sup> The research says they are right:
 people who are rested and happy are more productive. Vacation days
-are important.^279
+are important.<sup>279</sup>
 
 We diminish the value of those who dedicate their lives to others
 off the money-making grid. We give little value to the non-money
@@ -79,7 +79,7 @@ US is one the only developing country that does not mandate any
 paid maternity leave so parents can bond with their children. New
 baby leave is seen as valuing families and an investment in the future
 citizens. Thirty-eight countries provide from 5 to 60 days of _paid_
-leave for new mothers.^280 In the US, we’ve been convinced businesses
+leave for new mothers.<sup>280</sup> In the US, we’ve been convinced businesses
 can’t make enough profit if this cost is built into prices. This is a
 blind worship of profit-making.
 
