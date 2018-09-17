@@ -28,8 +28,7 @@ not? Since the world’s markets are all interconnected and interdependent, a gl
 encouragingly, there is a global movement in dozens of nations to work
 toward their own common wealth money. However, it will take time,
 perhaps lifetimes. In the meantime, it will be a challenge to limit the
-creation of US Money to the US government. Global banks are power-
-ful, crafty and have invested billions in creating arcane, bewildering
+creation of US Money to the US government. Global banks are powerful, crafty and have invested billions in creating arcane, bewildering
 strategies for gaming the global financial marketplace and maintaining
 control. Taking back our sovereign power to create our national money
 and maintaining that power, will require the wisdom of many to plug
@@ -45,8 +44,7 @@ international bank money creation, reserves, and currency use.
 The US dollar is widely used abroad as a cash currency. Cash is only
 about 2 percent of global currency in use, but changing money
 systems will have an impact on its use. According to the Fed more
-than two-thirds of $100 bills circulate outside the US. This is a rela-
-tively recent phenomenon, rising from about 45 percent in 1990 to over
+than two-thirds of $100 bills circulate outside the US. This is a relatively recent phenomenon, rising from about 45 percent in 1990 to over
 70 percent in 2011.<sup>15</sup> The Fed reports 11.5 billion $100 bills are in circulation (2016), with a value of $1.15 trillion.<sup>16</sup> So roughly 70 percent of
 that $1.15 trillion is $805 billion in $100 in circulation around the world.
 The Fed took the seigniorage when these bills were first introduced. The
@@ -111,8 +109,7 @@ about $6 trillion in 2008 to $8 trillion in 2014 – and, it’s not well report
 so it may be considerably more. This additional $8 trillion in US dollar
 credit-money represents 13 percent of non-US global economic activity
 in 2014. We know $5 trillion ends up in the hands of bankers as reserves.
-The remaining **$3 trillion** moves around in the global economy extract-
-ing wealth from 99 percent of the world’s population and moving it
+The remaining **$3 trillion** moves around in the global economy extracting wealth from 99 percent of the world’s population and moving it
 into the hands of a very tiny few.
 
 In 2014, a total _reported_ money supply of $12 trillion was in use in the
@@ -179,8 +176,7 @@ not, we have inflamed tensions and created ongoing wars, refugees and
 poverty, while lining the pockets of a tiny few. So, repeating this mistake
 is not an advantageous solution. While it could, maybe, hold off the
 predictable, eventual reduction in the use of the dollar around the world,
-and our leadership seems intent on following a military strategy to domi-
-nate the world – however short-sighted and ineffective. It is a bad idea.
+and our leadership seems intent on following a military strategy to dominate the world – however short-sighted and ineffective. It is a bad idea.
 
 ### Another
 
@@ -195,8 +191,7 @@ economy; we are at the mercy of the global banks who will continue
 to create money for themselves, extract our natural resources and exact
 austerity measures that cripple our common wealth. They’ve demonstrated this is exactly how they will handle a meltdown. The list of
 countries raped by the global bankers is long. Read Naomi Klien’s book,
-_The Shock Doctrine; the rise of disaster capitalism_ (2007) for an appall-
-ing account.<sup>20</sup>
+_The Shock Doctrine; the rise of disaster capitalism_ (2007) for an appalling account.<sup>20</sup>
 
 ## A practical path
 
@@ -207,14 +202,12 @@ not possible with our current system.
 
 And, rather than using our military might to force the world to support
 wealth transfer to global bankers and big corporations, we could create
-global dollars to increase the world’s prosperity. Instead of bankers creat-
-ing dollars for global financial gaming, we could choose to create US
+global dollars to increase the world’s prosperity. Instead of bankers creating dollars for global financial gaming, we could choose to create US
 dollars for global common wealth improvement. And, doing good in
 the world will regain the world’s respect. China’s government is ahead
 of us with such a plan, but, we can catch up.
 
 At the international level, there will be the same need for a balance of
-individual nation’s sovereign powers (the I, Me, Mine), and the collab-
-orative decision-making power of the global interdependent WE. We
+individual nation’s sovereign powers (the I, Me, Mine), and the collaborative decision-making power of the global interdependent WE. We
 all share the same planet, so we will need to establish values and the
 parameters of control at each level.
