@@ -51,8 +51,7 @@ common wealth equity: US Money.
 
 * WE the people, using the Constitutional powers of our democratic
     republic, create our money and WE are in control.
-* Decisions are made by a democratic, accountable, and transpar-
-    ent process.
+* Decisions are made by a democratic, accountable, and transparent process.
 * Money is created as a token representing common wealth equity,
     and guaranteed by the full faith and credit of our nation.
 * No one has special privilege; the playing field is level.
@@ -94,8 +93,7 @@ and our citizens, to provide for the general welfare.
 
 Money can only be added to the supply by the deliberate action of our
 government. **Money cannot be leveraged by anyone else to create new
-money** as happens in a fractional reserve system. This is critically import-
-ant, and the financial industry will work very hard to create loopholes,
+money** as happens in a fractional reserve system. This is critically important, and the financial industry will work very hard to create loopholes,
 so it must be very simply and clearly stated in the law. No exceptions.
 
 #### PRIVATE BANKS
@@ -133,12 +131,13 @@ work areas.
     commercial banking sector, it will continue to be in a position
     to catch fraud and malfeasance. So, it will maintain its role of
        supervision and regulation over the private banks.
+
 **3. Consumer protection and fair lending.** Consumer financial
     protection and fair lending falls appropriately with the teams
     that supervise, regulate and monitor the financial sector.
+
 **4. Research, statistics and reporting on the money supply and
-economy**. Our current central bank’s research capacity is a valu-
-able asset. It can continue to be responsible for gathering data
+economy**. Our current central bank’s research capacity is a valuable asset. It can continue to be responsible for gathering data
 and reporting on banking, the financial sector and economic
     conditions. It can produce data on the impact of the various
        strategies that the government uses to enter new money into
@@ -169,8 +168,7 @@ economy at risk. Our domestic tranquility will consequently increase.
     should be in the economy. Currently, this decision is made
     haphazardly by the distributed and collective decisions of the
     individual private bankers. The Board of the Fed has three tools
-    that influence, or more accurately accommodate, their deci-
-    sions: open market operations (buying and selling US debt);
+    that influence, or more accurately accommodate, their decisions: open market operations (buying and selling US debt);
     the discount rate (what the central bank charges to create
     money/make loans to its member banks); and setting reserve
     requirements. None of these controls will be necessary in our
@@ -193,8 +191,7 @@ important questions:
 These questions are so important they each have their own sections
 coming up.
 
-**7. Economic policy.** Our central bank will no longer be _“influ-_
-    _encing the money and credit conditions in the economy.”_ They will
+**7. Economic policy.** Our central bank will no longer be _“influencing the money and credit conditions in the economy.”_ They will
     have no power or authority to influence interest rates or unem-
     ployment. These will be established in the marketplace based on
     supply and demand, or influenced as they are today by policy
@@ -227,8 +224,7 @@ Some proposals for commonwealth money accept the old premise that
 when the value of money shrinks, people will spend it more quickly and
 the economy will prosper. Therefore, money should slowly be devalued
 by exponentially increasing the supply in proportion to the demand.
-However, as noted in [Chapter 2.7](https://usmoney.us/book/chapter-2/section-7) and [Chapter 6.54–6.58,](https://usmoney.us/book/chapter-6) an exponen-
-tially growing financial system is no longer a sustainable option. We
+However, as noted in [Chapter 2.7](https://usmoney.us/book/chapter-2/section-7) and [Chapter 6.54–6.58,](https://usmoney.us/book/chapter-6) an exponentially growing financial system is no longer a sustainable option. We
 must figure out how to have a prosperous economy that does not grow
 in size. We will grow in ingenuity and productivity. And, it is in our
 continuously questing nature to do so. But, we have to stop metasta-
@@ -260,8 +256,7 @@ While these limitations will reduce activity on Wall Street, they will
 reduce it to a useful level and eliminate the transfer of wealth to a tiny,
 privileged elite. The financial markets currently constitute an oversized
 proportion of activity in the marketplace and take an inordinate amount
-of profits. The reduction in the financial marketplace will be like remov-
-ing a metastasizing tumor from a useful organ – good for the nation.
+of profits. The reduction in the financial marketplace will be like removing a metastasizing tumor from a useful organ – good for the nation.
 
 New money is created by government giving, spending, lending or
 investing it into the economy. Once created, money circulates, serv-
@@ -276,8 +271,7 @@ circulation and _enhances_ broad prosperity.
 #### DESTRUCTION
 
 Because some portion of the money circulates through government
-accounts, we can reduce the money supply by not giving, not spend-
-ing or not lending until the value is stable.
+accounts, we can reduce the money supply by not giving, not spending or not lending until the value is stable.
 
 ## Who rules?
 
