@@ -45,7 +45,7 @@ one less ethical, less compassionate and concerned for the welfare
 of others, and more likely to lie. Lies, cheating, and fraud destroy
 trust. Unkindness follows. So, increasing income disparity and the
 concentration of power in the wealthy does not bode well for the
-general welfare and domestic tranquility of our democratic republic.^220
+general welfare and domestic tranquility of our democratic republic.<sup>220</sup>
 
 ## Corrupt politics
 
@@ -76,7 +76,7 @@ were getting threadbare as wealthy individuals worked under the
 radar creating grassroots organizations, think tanks, non-profits, and
 engaged churches in political campaigning. Then, the floodgates were
 opened after the US Court of Appeals decision in _Speechnow v. FEC_
-in 2010.^222 When money equals speech, those who have more money
+in 2010.<sup>222</sup> When money equals speech, those who have more money
 get to have a bigger say in our elections. And, they do.
 
 We now have Super Political Action Committees (PACS) that spend
@@ -85,18 +85,18 @@ sending mail or communicating messages specifically advocating for
 or against the election of a specific candidate – and there are no limits
 or restrictions on the sources of funds used. In 2016, according to
 Bloomberg, nearly half of all money spent on campaigns was spent by
-PACS – and that half was over $4 billion!^223
+PACS – and that half was over $4 billion!<sup>223</sup>
 
 The amount of spending on elections has increased 600 percent
 since 1980, and, like our exponential curve, began a steep climb off
 the chart in 2004. Up through 2000, from $100–300 million was
 spent on presidential elections. The 2000 election broke $1 billion,
 and by 2012 spending was up to $3 billion for the presidential
-election alone.^224
+election alone.<sup>224</sup>
 
 In 1980, the top 25 percent of campaign donors contributed roughly 58 percent of all individual funds. By 2010 they gave 85 percent. By
 2016 they gave 93 percent. By 2016, the top 5 percent of donors gave
-approximately 73 percent of all funds.^225 No wonder there is a close
+approximately 73 percent of all funds.<sup>225</sup> No wonder there is a close
 correlation between the interests of the very rich and the policies
 Congress makes law. Politicians argue they are not swayed by their
 donors. But, when they are living and breathing the worldview of
@@ -126,11 +126,11 @@ disband). There was almost no coverage of trade, energy, healthcare,
 climate change, ongoing wars, drugs, poverty, guns, infrastructure, or
 deficits. Democratic candidate Bernie Sanders, who stuck to talking
 about issues and policy, got 10 minutes of coverage. Eight years ago,
-the network newscasts devoted 220 minutes to issues coverage.^226 In
+the network newscasts devoted 220 minutes to issues coverage.<sup>226</sup> In
 2016, CBS CEO Les Moonves said about their over-the-top coverage
 of Trump’s antics, “It may not be good for America, but it’s damn
 good for CBS.” Trump was entertaining and good for ratings, and
-consequently ad purchases and profits.^227
+consequently ad purchases and profits.<sup>227</sup>
 
 We made a consequential choice for a world leader on very little
 information and based on entertainment value. We will pay a steep
@@ -151,7 +151,7 @@ rich, has an inordinate amount of power in crafting legislation. It
 pays legislators all over the country to come to forums to craft bills
 according to free market fundamentalism and limited government.
 Some bills passed are word-for-word bills this organization crafted to
-promote the interests of the money power.^228
+promote the interests of the money power.<sup>228</sup>
 
 The bills ALEC promotes show by limited government it means: those
 with money should be free to make as much money as they possibly
@@ -168,7 +168,7 @@ In 2010, the Supreme Court ruled in the Citizens United decision
 _“ingratiation and access”_ were _“not corruption.”_ So, if you can afford
 to make your Congressmen so grateful he gives you access any time
 you want, this is no longer considered corrupting the democratic
-process.^229 Think back to Jane Mayer’s book, _Dark Money,_ about that
+process.<sup>229</sup> Think back to Jane Mayer’s book, _Dark Money,_ about that
 40 percent of sitting judges, including several on the Supreme Court, who have attended re-education camp at a luxury resort paid for by
 very wealthy ideologues who want to make their ideology the law of
 the land.
@@ -177,7 +177,7 @@ the land.
 
 We are rightfully discouraged. In the 2016 election 63 percent of the
 voting age population went to the polls, and 58 percent voted for
-president.^230 231 Almost 40 percent of eligible voters stayed home.
+president.<sup>230</sup> <sup>231</sup> Almost 40 percent of eligible voters stayed home.
 In midterm elections, less than 40 percent tend to vote. There is
 a widespread sense our votes do not matter, so why bother. It’s
 discouraging to know lobbyists and wealthy donors will override
@@ -188,7 +188,7 @@ found that the US lags behind most of our peers when it comes
 to voter turnout. We rank 31st among the 35 countries in the
 Organization for Economic Cooperation and Development. While
 Belgium leads with 89 percent turnout, the US has a long way to go
-at 63 percent. We clearly have something to learn from others.^232
+at 63 percent. We clearly have something to learn from others.<sup>232</sup>
 
 ## Corrupt education
 
@@ -210,7 +210,7 @@ education right down into kindergarten.
 
 For example, the Bill and Melinda Gates Foundation spent more than
 $3 billion since 1999 on educational reforms, including the national
-roll-out of No Child Left Behind in 2002 and Common Core in 2009.^233 This gave the Gates an unhealthy amount of power in setting
+roll-out of No Child Left Behind in 2002 and Common Core in 2009.<sup>233</sup> This gave the Gates an unhealthy amount of power in setting
     US education policy. The Gates Foundation likes standardization,
        data and metrics. Transferring interoperability ideas from web
        development, Gates promoted the _Common Core_ curriculum and
@@ -237,7 +237,7 @@ students will get high test scores crushes the joy out of teaching and
 learning. It breaks my heart when my grandchildren say they hate
 school because it’s boring. And it is breaking our democracy when
 less than 40 percent of our teachers are satisfied with their jobs.
-Between 40 and 50 percent of them quit within five years.^235 As a
+Between 40 and 50 percent of them quit within five years.<sup>235</sup> As a
 lifetime educator I know this does not need to be the case.
 
 And, returning to the monetizing of education mentioned in [Chapter
@@ -248,7 +248,7 @@ working environment that someone says, ‘Johnson, I need a market_ analysis by 
 childhood.” He’s explaining why Common Core de-emphasizes
 literature and relies on more informational texts – speeches, magazine
 articles, government reports. This thinking completely misses the role
-of great literature in developing our minds and hearts.^236
+of great literature in developing our minds and hearts.<sup>236</sup>
 
 
 I read through J.K. Rowling’s _Harry Potter_ books every couple of
@@ -280,13 +280,13 @@ dominance in education policy has subtly muffled dissent. _“Really
 rich guys can come up with ideas that they think are great, but there is
 a danger that everyone will tell them they’re great, even if they’re not,”_
 Greene said. This is profound. It is the reason why we do not want
-any part of our nation ruled by an elite few.^237
+any part of our nation ruled by an elite few.<sup>237</sup>
 
 ## Corrupt media
 
 The wealthiest Americans own the media, so they prescreen
 your choices and manufacture your consent based on their own
-worldviews.^238 Our collective state of misinformation is destroying us.
+worldviews.<sup>238</sup> Our collective state of misinformation is destroying us.
 
 Today, there is so much information out there it should be easy to
 have diverse, independent and quality information from journalists.
@@ -297,7 +297,7 @@ they chase after a few titillating stories that bring in ad revenue. In
 addition we have a sludge of misinformed, poorly edited, fact-check-
 failing, illogical internet chatter, often generated by fake grassroots
 organizations funded by and presenting propaganda from the money
-power – or as we’re learning, from the Russians.^239
+power – or as we’re learning, from the Russians.<sup>239</sup>
 
 The airwaves and communication networks are common wealth. They
 belong to all of us. Journalists and the media play such an important
@@ -315,7 +315,7 @@ as make profits. When the Federal Communications Commission
 (FCC) was founded in 1934, it viewed the stations to which it granted
 licenses as public trustees – and required they make every reasonable
 attempt to cover contrasting points of views. In 1949, this was
-established as a policy called the _Fairness Doctrine._^240
+established as a policy called the _Fairness Doctrine._<sup>240</sup>
 
 As public service, the Commission required stations report on crucial
 issues in their communities. For example, national media had to give equal time to all presidential candidates. Local stations had to
@@ -329,7 +329,7 @@ content of our broadcast media as well as ownership limits at the
 behest of wealthy media owners. The Fairness Doctrine was removed.
 The removal was justified on the basis of a growing number of media
 outlets, including privately owned cable networks; the challenge of
-identifying fairness; and, the right of broadcasters to free speech.^241
+identifying fairness; and, the right of broadcasters to free speech.<sup>241</sup>
 They ignored the increasing monopolizing of ownership. In the name
 of free speech for those with power and money, Reagan removed
 citizens’ right to be adequately informed. Owners and advertisers
@@ -339,7 +339,7 @@ irresponsibly by those who made making money their highest value.
 ### Monopoly, monoculture & manipulation
 
 In the interest of serving our nation, we once limited the ownership
-of our media; no owner could monopolize a market.^242 In the 1970s
+of our media; no owner could monopolize a market.<sup>242</sup> In the 1970s
 no one could own a newspaper and a TV station in the same market,
 nor a radio station and a TV station. This gave us an independence
 and diversity of reporting and ideas that supported a more effective
@@ -370,12 +370,12 @@ is putting on a set of tapes and running them. This is good for
 efficiency and profits. But it is bad for the local communities, and
 bad for decision-making at all levels of government. Ten years ago,
 Clear Channel became fodder for predatory hedge fund capitalists,
-but the consolidation remains.^243
+but the consolidation remains.<sup>243</sup>
 
 By 2011, 90 percent of our media was controlled by just six
 companies. Today, just five Big Corporations control 90 percent
 of our media. Just 15 billionaires own America’s news media
-companies.^244 According to the New York Times, testimony before
+companies.<sup>244</sup> According to the New York Times, testimony before
 the House Judiciary Committee reports that _“In 1983, 50 companies
 owned 90 percent of the media consumed by Americans. By 2012, just six
 companies ...controlled that 90 percent.”_ 245
@@ -388,7 +388,7 @@ federal operating budget – this in a democratic republic, in which
 informed citizens with diverse points of view are required for effective
 government. Even that puny sum is under threat. President Trump
 has removed their funding from his budget each year, but Congress
-has kept it in at the same level.^246
+has kept it in at the same level.<sup>246</sup>
 
 Investment in a dispersed, nationwide network of public news-
 gathering and journalism that meets a high standard of accuracy
@@ -396,7 +396,7 @@ would build our common wealth, instead of diminishing it. Facebook
 and blogs cannot be the foundation for an informed electorate.
 
 Research says we are falling into silos of information that confirm
-our existing ideas and biases.^247 This will not lead to wisdom or
+our existing ideas and biases.<sup>247</sup> This will not lead to wisdom or
 good choices.
 
 #### MANIPULATION BY GASLIGHTING
@@ -421,7 +421,7 @@ Wired magazine reports the Trump campaign ran up to 175,000
 variants of ads and social media stories _per day_ to find which were
 most likely to hook viewers. They accessed vast data bases of behavior
 and buying information to target their most likely supporters with
-proven-manipulative stories and ads.^248 There was zero effort to
+proven-manipulative stories and ads.<sup>248</sup> There was zero effort to
 engage the electorate in thoughtful issue-based democratic decision-
 making. And, it worked. He won.
 
@@ -433,7 +433,7 @@ manipulated citizenry.
 
 The Reagan administration removed any requirements for news
 programming. Back mid-century some of our main broadcast
-networks refused advertising during their hour of news because they did not want the news tainted – an era with a very different ethic!^249
+networks refused advertising during their hour of news because they did not want the news tainted – an era with a very different ethic!<sup>249</sup>
 Today, the majority of our news programs cover an editorially limited
 selection of topics and often include editorial commentary.
 
@@ -453,7 +453,7 @@ cities. Buy a gun. Spend taxpayer money on a bigger military and lots of
 bombs. Build a wall!_ High emotion and fear serves the money power
 because it makes people easy to manipulate. The owners know this,
 because the networks charge higher prices for ads that are broadcast
-during moments of high emotion such as a football touchdown.^250
+during moments of high emotion such as a football touchdown.<sup>250</sup>
 
 #### MANIPULATION – PRESCRIPTION DRUGS
 
@@ -463,14 +463,12 @@ people on expensive drugs! Before 1985 we banned direct-to-
 consumer drug advertising. In the 1960s, more than 90 percent of the
 pharmaceutical companies’ advertising was aimed at doctors. By 1993
 direct-to-consumer advertising of prescription drugs was $166 million,
-but growing exponentially.^251 In 2016 drug companies spent over $5.6
-billion so we would see drugs as the answer to many ailments.^252 And
+but growing exponentially.<sup>251</sup> In 2016 drug companies spent over $5.6
+billion so we would see drugs as the answer to many ailments.<sup>252</sup> And
 it works.
 
 Spending on prescription medicines grows exponentially at a rate of
-4 to 7 percent each year. It is expected to be a $600 billion market by
-
-2021.^253 There is no positive correlation between increases in spending
+4 to 7 percent each year. It is expected to be a $600 billion market by 2021.<sup>253<sup> There is no positive correlation between increases in spending
     on prescription drugs and good health.
 
 The biopharmaceutical sector accounts for about 5 percent of
@@ -480,13 +478,13 @@ institutionalized people, in the past 30 days, 47 percent of us took at
 least one prescription drug. Twenty-two percent took at least three
 or more prescription drugs, and 11 percent took five or more. That’s
 almost half of our population popping some kind of prescription pills
-this past month!^254
+this past month!<sup>254</sup>
 
 Our CDC found that between 1999 and 2014 antidepressant use rose
 by 65 percent – almost double in five years! By 2014, one in eight of
 us over 12 were taking antidepressants – 16.5 percent of women and
-9 percent of men.^255 Recent research finds these drugs may do more
-harm than good.^256 Pharmaceuticals are important, but is this the
+9 percent of men.<sup>255</sup> Recent research finds these drugs may do more
+harm than good.<sup>256</sup> Pharmaceuticals are important, but is this the
 right proportion of our energy and wealth going toward prescription
 drugs? **We should be paying attention to why one in eight of us
 are clinically depressed, instead of making it a profit center.**
@@ -500,9 +498,9 @@ advertising in children’s television. In the name of free speech for
 advertisers looking for lifetime brand attachments, Reagan removed
 the freedom of our children to watch TV without being manipulated
 by the money power. When Congress passed a bill to reinstate some
-limits in 1988, Reagan vetoed it.^257
+limits in 1988, Reagan vetoed it.<sup>257</sup>
 
-In 2014, the average child saw about 25,600 commercials every year.^258
+In 2014, the average child saw about 25,600 commercials every year.<sup>258</sup>
 This is down from the 40,000 reported a few years earlier, as kids are
 spending more time on streaming services that do not include ads.
 Fast food, candy and cereal account for about half of all food ads seen
@@ -510,7 +508,7 @@ by kids. In the 1970s, before we inundated children’s TV with junk
 advertising, 5 percent of US children were obese. Today, children are
 programmed by advertising to want junk food, leading to the one of
 the highest obesity rates in the world. By 2008, in just over 30 years,
-we have tripled the number of obese children to nearly 20 percent.^259
+we have tripled the number of obese children to nearly 20 percent.<sup>259</sup>
 
 We are conditioning and programming our children to be mindless
 consumers instead of healthy, informed citizens.
@@ -519,12 +517,12 @@ consumers instead of healthy, informed citizens.
 
 We are in a post-truth era, struggling with how to recreate the
 foundation of common facts that are essential to any real problem-
-solving.^260 I would argue it is a product of a money system that
+solving.<sup>260</sup> I would argue it is a product of a money system that
 requires a con at the foundation of society, creates a transfer of wealth
 to a tiny few, and idolizes money and those who have it.
 
 A PositiveMoney.org survey found that only 3 percent of respondents
-knew how our money is created.^261 Most people do not understand
+knew how our money is created.<sup>261</sup> Most people do not understand
 that when they deposit money in the bank, they hand over ownership
 of their money, and get an IOU. Most people do not understand
 that the value and stability of our money depends on the confidence
@@ -551,7 +549,7 @@ unprecedented heights. People are keeping online logs of the
 thousands of lies Trump tells, from silly ones about crowd size and
 his parents birthplaces, to serious ones about foreign policy and
 the economy. It’s daily. Watch the news today, and fact check his
-statements. Historical evidence says there will be at least several lies.^262
+statements. Historical evidence says there will be at least several lies.<sup>262</sup>
 
 We cannot have anything resembling rule by the people when the
 people are kept in the dark about what is going on, and manipulated
