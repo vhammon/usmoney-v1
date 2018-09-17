@@ -40,8 +40,7 @@ maintains the storage is an important person in this system; their
 power to protect what is stored and their integrity matter greatly.
 
 Referencing the generally accepted method of sorting money systems,
-this is also called, _commodity backed money._ In 100% commodity-
-backed money, the money in use is a receipt for a commodity that
+this is also called, _commodity backed money._ In 100% commodity-backed money, the money in use is a receipt for a commodity that
 exists in the present and that is in storage somewhere.
 
 Today, there are no 100% commodity receipt money systems in
