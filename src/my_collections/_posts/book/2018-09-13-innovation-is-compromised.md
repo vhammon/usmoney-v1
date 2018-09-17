@@ -66,7 +66,7 @@ _Since 1995, small businesses have been responsible for creating two out of ever
 three – or 64 percent of net new jobs...(and) Small businesses also lead the way
 in terms of tech and new product innovation....the Small business Administration
 found that small businesses produced 16 times more patents per employee
-compared to larger patenting firms.^187_
+compared to larger patenting firms.<sup>187</sup>_
 
 Most start-up small businesses get first funding from family and
 friends, who are generally not in the top one percent. Our wealth
