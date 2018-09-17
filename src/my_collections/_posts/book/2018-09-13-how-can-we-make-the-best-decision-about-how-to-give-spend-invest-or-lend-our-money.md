@@ -24,10 +24,11 @@ categories:
 tags:
   - money
 ---
-_Many forms of Government have been tried, and will be tried in this world of
-sin and woe. No one pretends that democracy is perfect or all-wise. Indeed
-it has been said that democracy is the worst form of Government except for
-all those other forms that have been tried from time to time...._\
+> _Many forms of Government have been tried, and will be tried in this world of
+> sin and woe. No one pretends that democracy is perfect or all-wise. Indeed
+> it has been said that democracy is the worst form of Government except for
+> all those other forms that have been tried from time to time...._
+
 — Winston Churchill, 1947(\*\*)
 
 _You never change things by fighting the existing reality. To change something,
@@ -36,10 +37,8 @@ build a new model that makes the existing model obsolete._\
 
 When I talk to people about changing to a commonwealth money
 system, I often hear, _“How can we trust government to decide how and
-when to create our money?”_ We ask this question because today we legit-
-imately do not trust our government to make the best decisions. We
-know it often makes downright bad decisions, and the process of correc-
-tion takes decades. So, how do we get to our best possible democratic
+when to create our money?”_ We ask this question because today we legitimately do not trust our government to make the best decisions. We
+know it often makes downright bad decisions, and the process of correction takes decades. So, how do we get to our best possible democratic
 republic in practice?
 
 Back in 1981, Thomas J. Peters and Robert H. Waterman, Jr., in their
@@ -55,8 +54,7 @@ and made but a tiny fraction of the number of proofreading errors. Now
 for the kicker: ‘...none of the subjects in the off switch group ever used the
 switch. The mere knowledge that one can exert control made the difference.’” 6
 
-Think about how this principle applies in a family, a classroom, a work-
-place or a nation. We do better when we know we have some control
+Think about how this principle applies in a family, a classroom, a workplace or a nation. We do better when we know we have some control
 over our lives and our circumstances. We want control over our own
 lives. We want to choose our personal paths, to own a share of the
 nation’s prosperity, to open businesses and shop where we want. We
@@ -66,15 +64,12 @@ appease special interests or donors.
 
 In July 2018, Gallup reports almost 80 percent of us disapprove of
 Congress. It’s no wonder people are skeptical of Congress’s ability to
-make any kind of decision without corruption and cronyism – espe-
-cially about taxing and spending!
+make any kind of decision without corruption and cronyism – especially about taxing and spending!
 
-So, given that our government is corrupt, how do we get our govern-
-ment to pass laws that eliminate the corruption? It’s a difficult dilemma.
+So, given that our government is corrupt, how do we get our government to pass laws that eliminate the corruption? It’s a difficult dilemma.
 But, there is a practical path to making this change.
 
-In 2016 candidate Bernie Sanders demonstrated that there is a ground-
-swell of people who will contribute in small dollar amounts to counter
+In 2016 candidate Bernie Sanders demonstrated that there is a groundswell of people who will contribute in small dollar amounts to counter
 the power of great wealth. Whether or not you agree with his policies,
 we now know we can take our election process back when we put our
 mind, money and energy into it! We can all participate in a meaning-
@@ -95,8 +90,7 @@ Council in Congress and was reviewed to see what impact it would have on previou
 
 Let’s work hard to get our representatives and senators to join us, so
 that we know what they understand and where they stand on the issue.
-If you have a Congress person who refuses to demonstrate their under-
-standing of our financial system and/or refuses to let you know where
+If you have a Congress person who refuses to demonstrate their understanding of our financial system and/or refuses to let you know where
 they stand on monetary reform, and most importantly, why they stand
 where they do, then work to put someone else into office who is on board
 with change. **This is one of the most important things you can do.**
