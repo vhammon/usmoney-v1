@@ -59,7 +59,7 @@ in Switzerland, signed on to what is called the _Basel III Accord_. This
 accord established a voluntary set of standards requiring 8 percent in equity capital as a percentage of all of a bank’s assets. The
 requirements were to be implemented beginning in 2013. But, under
 pressure from the banks, full implementation has been postponed
-until 2019.^14 The Basel III Accord is a recommendation, and it is
+until 2019.<sup>14</sup> The Basel III Accord is a recommendation, and it is
 being made law using different accounting standards in different
 countries.
 
@@ -109,7 +109,7 @@ In the US, and to a lesser and lessening extent abroad, US
 Government debt is considered the best bet of all and is expected to
 anchor a bank’s other bets with a degree of certain return. According
 to the International Monetary Fund, US dollars make up 63 percent
-of the foreign exchange reserves held by global banks.^15 In the United
+of the foreign exchange reserves held by global banks.<sup>15</sup> In the United
 States, banks count US government debt as sound as cash or gold.
 So, under our current system, government debt has a key role in
 the purported stability of the system. Because US government debt
