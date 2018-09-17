@@ -23,9 +23,10 @@ categories:
 tags:
   - money
 ---
-_All of the intellectual models of the new economy are about cooperation, sharing
-and abundance._\
-— Hazel Henderson, Economist (1933– )^1
+> _All of the intellectual models of the new economy are about cooperation, sharing
+> and abundance._
+
+— Hazel Henderson, Economist (1933– )<sup>1</sup>
 
 Reforming our money system has a simple solution: on behalf of WE
 the people, the Federal government takes back the power to create new
