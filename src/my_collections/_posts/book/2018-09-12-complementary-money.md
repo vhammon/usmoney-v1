@@ -52,7 +52,7 @@ left town and the global use of digital transactions pushed out most
 cash, the currency floundered. By 2011, there were very few businesses
 still accepting the currency. In 2015 another Ithaca group launched a
 digital local currency, which is still in startup. The rest of these local
-currencies show a wide range of failure and success.^26
+currencies show a wide range of failure and success.<sup>26</sup>
 
 As first described in [Chapter 3.21,](https://usmoney.us/book/chapter-3/section-21) the Swiss have a complementary
 currency called the WIR. It is credited with stabilizing their economy
@@ -72,7 +72,7 @@ resilience against the drifting global monetary dis-ease. The WIR
 functions as a dual currency that protects the Swiss from global
 economic downturns, and accounts for their strong GDP and
 resilience. Resilience is a product of backup and supplementary or
-complementary systems.^27
+complementary systems.<sup>27</sup>
 
 ## Time or service bank
 
@@ -97,8 +97,7 @@ to pay for the necessary elder care. The Japanese have an eldercare
 program, called caring relationship tickets, or _fureai kippu_ , in which anyone can care for the elderly in their neighborhood and bank their
 hours of service. One can transfer these credits to someone else, or
 bank them for one’s personal use when one gets old. Established in
-1995, this successful program is serving as a model.^28
-
+1995, this successful program is serving as a model.<sup>28</sup>
 
 Schools have experimented with banks for tutoring services provided
 by students. Tutoring units can either be used to purchase tutoring
@@ -124,7 +123,7 @@ ways to match unmet needs with unused production or service.
 For a fascinating look at the extraordinarily creative mutual-credit/
 debt money systems, including those above, read Bernard Lietaer
 and Jacqui Dunne’s excellent book, _Rethinking Money; How New
-Currencies Turn Scarcity into Prosperity_ (2013).^29 Creating a resilient
+Currencies Turn Scarcity into Prosperity_ (2013).<sup>29</sup> Creating a resilient
 economy is important, and complementary and supplementary
 currency systems are a critical component of the diversity needed for
 resilience.
