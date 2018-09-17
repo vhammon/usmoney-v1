@@ -25,8 +25,7 @@ tags:
 ## Happier and healthier
 
 Without the pressure to make money at any cost, we will live healthier,
-fuller and more balanced lives – for less money! Not only will the play-
-ing field of our economy be level, it will be in excellent condition and
+fuller and more balanced lives – for less money! Not only will the playing field of our economy be level, it will be in excellent condition and
 support innovation and prosperity. Everything will cost less, debt will
 diminish, and taxes can be lower. This is a profound change.
 
@@ -54,10 +53,8 @@ investing in the future, instead of a lifetime treadmill.
 Some people fear there will not be enough credit available when we
 change to a common wealth money system. However, in a stable and
 sustainable economy, there will always be savers who want to invest,
-providing credit for others. Coupled with individual savings, the recy-
-cling of loan repayments in a commonwealth money system will be
-sufficient to fund business lending and a non-inflationary level of mort-
-gage and consumer lending.
+providing credit for others. Coupled with individual savings, the recycling of loan repayments in a commonwealth money system will be
+sufficient to fund business lending and a non-inflationary level of mortgage and consumer lending.
 
 As the government ceases to be the biggest borrower in the nation, this
 too frees enormous sums for others on Main Street to borrow.
@@ -75,8 +72,7 @@ published a short and convincing paper, _Would There be Enough Credit
 in a Sovereign Money System,_ by Frank VanLerven, Graham Hodgson,
 and Ben Dyson. (They are using the name _sovereign_ to mean what I
 have called commonwealth money). They make a convincing case that
-a commonwealth money system will provide an adequate (but not infla-
-tionary) level of credit.^3
+a commonwealth money system will provide an adequate (but not inflationary) level of credit.<sup>3</sup>
 
 ## Lower taxes
 
@@ -93,8 +89,7 @@ the money powers.
 The seigniorage on our money will go to our government instead of to
 the private banks. We can invest in our people and in our infrastructure.
 We can have a healthier population, safe and inspiring schools, a swift
-and equitable justice system, 21st century transportation and commu-
-nication networks, renewable energy, clean air and waters, a healthy
+and equitable justice system, 21st century transportation and communication networks, renewable energy, clean air and waters, a healthy
 pollinator population and a toxin-free food supply. ...
 
 **We can live long and prosper. Let’s do it!**
