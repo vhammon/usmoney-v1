@@ -54,13 +54,13 @@ staying at home providing children with full time non-monetized
 homemaking – cooking, cleaning, child-care, gardening, chauffeuring,
 playtime supervision, home maintenance, homework support,
 spiritual welfare, community connection, entertainment, and
-recreation coordination.^23
+recreation coordination.<sup>23</sup>
 
 Those days are disappearing. By 2017 only 29 percent of children had a stay-at-home parent, slightly up from a dip to 23 percent in 1999.
 This is partly by choice; both parents often want to keep a career on
 track, or just enjoy their work outside the home more than home-
 making and FT parenting. But, it’s usually not a matter of choice,
-two working parents are an economic necessity.^24
+two working parents are an economic necessity.<sup>24</sup>
 
 
 An economy in which one partner works without intersecting
@@ -83,7 +83,7 @@ of doing business, built upon hundreds of generations of creative
 thinking, can be owned and patented. Until the Supreme Court ruled
 against it, companies were even patenting existing genome sequences
 in humans and plants. Some companies have so many patents,
-managing them is a whole new business for attorneys.^25
+managing them is a whole new business for attorneys.<sup>25</sup>
 
 ### More monetizing of copyright & trademarks
 
@@ -97,7 +97,7 @@ and 1998 broadened the definition of what could be copyrighted,
 and extended the length of copyright protection to 28 years, then
 to the life of the author plus 70 years for individuals, and for works of corporate authorship to 120 years after creation or 95 years after
 publication. Today, even a single word or a color can be trademarked
-by a business.^26
+by a business.<sup>26</sup>
 
 These extensions of copyright restrict public expression and keep
 music, poetry and literature from re-entering the non-monetized
@@ -132,13 +132,13 @@ enjoy them, enhances creativity and prosperity.
 A narrow good employee focus is shortsighted. Dozens of studies find
 the arts and physical movement enhance learning math, language,
 and science; adults and children work better when they move, sing,
-relax, read books, and create freely.^27 28 Schools are beginning to pay
+relax, read books, and create freely.<sup>27</sup> <sup>28</sup> Schools are beginning to pay
 attention to these studies; movement and the arts are returning to
 some schools.
 
 #### PRIVATIZATION & PRIVATE SPENDING
 
-The US spends more than $620 billion on K-12 education each year.^29
+The US spends more than $620 billion on K-12 education each year.<sup>29</sup>
 Wall Street appears to want as much of that money as it can get, and
 spending on education has been moving from the public sphere to
 the private marketplace. There appears to be a plan.
@@ -146,30 +146,30 @@ the private marketplace. There appears to be a plan.
 First cut public funding. This has been done. Cuts in funding public
 education over the past 50 years – from 13 percent to 70 percent
 depending on how you calculate – mean public education has
-deteriorated.^30
+deteriorated.<sup>30</sup>
 
 Then take control of education by demanding standardized tests
 created by private enterprise and then sell curriculums to teach
 to the tests. Done. The Council of the Great City Schools, which
 represents large urban districts, found students take an average of 113
-standardized tests between pre-K and 12th grade.^31 Every one of those
+standardized tests between pre-K and 12th grade.<sup>31</sup> Every one of those
 tests costs money to administer and is a way to increase spending and
 shift public education money into the private sector – while reducing
 the funding for the teaching the tests measure. Testing is a $4 billion
-market.^32 Finland has the second most highly rated education
+market.<sup>32</sup> Finland has the second most highly rated education
 outcomes in the world and it only gives one external standardized test
 to children when they are 15, a national Matriculation Examination.
-(The US is #14.)^33
+(The US is #14.)<sup>33</sup>
 
 With the importance of tests, the increased competition for higher
 education, and declining school performances, parents who can
 afford it spend on tutoring, which is now a $7 billion industry, or pay
 for private schools, which often do not have to deal with the issues
-of children raised in poverty.^34 In 2015–16, 10 percent of US students
+of children raised in poverty.<sup>34</sup> In 2015–16, 10 percent of US students
 went to a private school, and 25 percent of US schools were private.
 In 2012, non-sectarian private schools cost $22,440 per student on
 average, roughly double the average of $11,762 that we spend on
-public schools.^35
+public schools.<sup>35</sup>
 
 More spending on tests, more spending on curriculums, more
 spending on administration staff to capture the federal funding that
@@ -188,7 +188,7 @@ meals – and that kept us healthy. Children might get a snack when
 they came home from school, but snacking during school rarely
 happened. Today the snack food industry is a $148 billion industry
 in the US, and sugary snacks – addicting and fattening – make up a
-third.^36 Eating more means buying more. And eating more increases
+third.<sup>36</sup> Eating more means buying more. And eating more increases
 disease and the cost of healthcare. More cost soaks up more money,
 means more borrowing and is a boon to bankers.
 
@@ -198,9 +198,9 @@ years back and now consider it a necessity.
 
 However, we celebrate all increases in sales indiscriminately when we
 make growing the GDP our primary goal: we spend over $9.1 billion
-on Halloween – $2.7 billion on candy alone.^37 This is more than we
+on Halloween – $2.7 billion on candy alone.<sup>37</sup> This is more than we
 spend on the Environmental Protection Agency ($8.4 billion net in
-2017).^38 We play games about fear and monsters while minimizing
+2017).<sup>38</sup> We play games about fear and monsters while minimizing
 protections against the real monsters destroying our lives. When
 we celebrate a growing GDP, we celebrate the sales that put toxic
 chemicals in our air, food, water and bodies. Then we celebrate that
@@ -215,27 +215,25 @@ trend obvious. You can date houses by their size. In 1950 the average
 home size was 983 square feet, an average floor area per person of 292
 square feet. In 2014 it is triple that size at 2,657 square feet, an average
 floor area of 1,046 square feet per person – not to mention the
-increasing enclaves of homes in the 5,000–10,000 square foot range.^39
+increasing enclaves of homes in the 5,000–10,000 square foot range.<sup>39</sup>
 The bigger the house, the more materials it uses, the more energy it
 requires, the more it costs to furnish and maintain. Spending more
 on our homes absorbs money. And, it is a vicious circle – having
 more costly homes means working more and borrowing more.
 
 The average size of the US dinner plate grew from 9" to 12"
-(sometimes larger in restaurants) – a 76 percent increase in size since
-
-1960.^40 We eat more on a bigger plate, and today the average daily
-    calorie intake is 3,649.^41 We have steadily been increasing our calorie
+(sometimes larger in restaurants) – a 76 percent increase in size since 1960.<sup>40</sup> We eat more on a bigger plate, and today the average daily
+    calorie intake is 3,649.<sup>41</sup> We have steadily been increasing our calorie
     intake. The average women needs 2000 and the average man 2500.
     Since 1980 the prevalence of obesity has almost doubled. The US has
     the highest level of age-standardized childhood obesity in the world
-    at 13 percent.^42 Obesity increases health care costs.
+    at 13 percent.<sup>42</sup> Obesity increases health care costs.
 
 Our cars reached an average peak weight of 4,079 in 1976. After the
 oil shocks of the 1970’s, the average weight dropped to 3,202 pounds
 five years later. Then began a steady rise again. By 2005, the weight
 was back over 4,000 pounds. It has remained steady and the average
-car in 2016 weighed 4,035 pounds.^43 While we’ve improved engine
+car in 2016 weighed 4,035 pounds.<sup>43</sup> While we’ve improved engine
 efficiency and reduced fuel consumption per pound of weight, it’s
 a little crazy to consume enough nonrenewable fuel to move 4,000
 pounds of car to carry a 200 pound person to the grocery store. More
@@ -246,14 +244,14 @@ that’s been on the road for 48 years travelling 3 million miles. So, we
 know well-built and well-cared for cars can go a long way. However,
 in 2014 the average age of vehicles on the road was 11.4 years. The
 good news is that we’re making cars last longer – that’s up from 8.9
-years in 2000.^44 We can have a total renewable energy vehicle that
+years in 2000.<sup>44</sup> We can have a total renewable energy vehicle that
 lasts 20 to 30 years when we put our mind to it.
 
 ## Planned obsolescence
 
 Fire Station #6 in Livermore, California has a lightbulb made and
 first installed in 1901. It’s been burning for 117 years as of January
-2018, and reached its million hours milestone in 2015.^45 In the 1920s
+2018, and reached its million hours milestone in 2015.<sup>45</sup> In the 1920s
 a global cartel of light manufacturers realized if they built lightbulbs
 that would last indefinitely, sales would be slow. In the name of
 _standardizing,_ the cartel agreed to a limit of 1000 hours on the life of
