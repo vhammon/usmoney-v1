@@ -23,7 +23,7 @@ tags:
   - money
 ---
 > _The Federal Reserve, the central bank of the United States, provides the nation
-> with a safe, flexible, and stable monetary and financial system.  _
+> with a safe, flexible, and stable monetary and financial system._
 
 – <http://www.federalreserve.gov>
 
