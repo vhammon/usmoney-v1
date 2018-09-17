@@ -34,11 +34,11 @@ Does this sound like our economy today?
 Hedge fund managers who wheel and deal make some of the highest
 incomes ever. But, they contribute little of value. In 2016, the top
 two hedge fund managers each took home $1.5 billion – up from
-$1.1 billion and $1.2 billion in 2014.^120 That’s a 50 percent increase
+$1.1 billion and $1.2 billion in 2014.<sup>120</sup> That’s a 50 percent increase
 in income in two years and it should tell you where we are on the
 exponential curve of money creation. Together the two of them could
 pay for the entire budget of San Jose, or San Diego, or Austin, or
-Dallas, or Detroit, or Boston or Charlotte.^121
+Dallas, or Detroit, or Boston or Charlotte.<sup>121</sup>
 
 ## A value taken to extreme
 
@@ -62,13 +62,13 @@ than they would have paid had they been competing with only other
 genuine buyers. For example, the gallon of gas you buy, has been
 bought and sold hundreds and thousands of times by speculators
 ratcheting up the price a micro-penny at a time as they take a profit.
-In the 1960s a stock was held for eight years on average.^122 By 2014,
+In the 1960s a stock was held for eight years on average.<sup>122</sup> By 2014,
 the average length of time was in the seconds for at least 85 percent
 of the trades. Some trades hinged on microseconds between buy
-and sell.^123
+and sell.<sup>123</sup>
 When a real buyer, who wants to take possession of some crude oil
 steps up to the plate, estimates say from 30–60 percent of the price
-they pay went to gamers in the financial sector.^124
+they pay went to gamers in the financial sector.<sup>124</sup>
 
 This is true for all the commodities that trade in a public marketplace
 where gamers are allowed and unfettered. Consequently, you
@@ -77,7 +77,7 @@ world. As recently as 1975 roughly 80 percent of foreign exchange
 transactions involved the real trading of a product or service. By 2011
 the Global Policy Forum could only trace 0.6 percent to genuine
 international trade in goods and services. On world market exchanges - commodities, stocks, currencies – well over 90 percent of the trades
-    are now made by speculators.^125
+    are now made by speculators.<sup>125</sup>
 
 On our stock markets, at least 85 percent of the trades are made
 by high-speed speculators who hold the stocks for micro seconds,
@@ -94,7 +94,7 @@ value of a company, and it is vulnerable to the next bust.
 
 Michael Lewis’s book, _Flash Boys_ (2014), offers a jaw-dropping
 glimpse into this world. These traders are skimming cream off the top
-of the entire economy, making everything we buy cost more.^126
+of the entire economy, making everything we buy cost more.<sup>126</sup>
 
 Our current financial system allows the wealthiest people in the
 financial sector to buy and sell without putting up much money
@@ -126,11 +126,11 @@ was available for services. State governments sought other funding
 sources, and lotteries seemed an easy, no-additional-taxes choice.
 Now we accept lotteries are necessary to adequately fund our schools
 and other basic services. In 2016, 44 states and territories offered
-government operated lotteries.^127
+government operated lotteries.<sup>127</sup>
 
 In 2017, Americans spent $74 billion on lottery tickets. This is more
 than the total spending on music, books, sports teams, movies and
-video games combined, according to CNN Money.^128 That’s a lot of
+video games combined, according to CNN Money.<sup>128</sup> That’s a lot of
 money not being saved for retirement or used to pay off credit card
 debt or used to buy better food, safer housing or education.
 
@@ -141,6 +141,6 @@ states in which lottery revenues exceeded revenues from corporate
 taxes. And most lottery gamblers are poor. My home state of Oregon
 is one of three states that draws more than 5 percent of its revenue
 from gambling. Collecting revenue for commonwealth services by
-suckering mostly the poor into gambling is deeply troubling.^129
+suckering mostly the poor into gambling is deeply troubling.<sup>129</sup>
 
 **We can do better.**
