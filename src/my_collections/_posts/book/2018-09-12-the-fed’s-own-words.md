@@ -45,7 +45,7 @@ Here is what the Fed says about itself:
 > stock in a private company. The Reserve Banks are not operated for profit, and
 > ownership of a certain amount of stock is, by law, a condition of membership
 > in the System. The stock may not be sold, traded, or pledged as security for a
-> loan; dividends are, by law, 6 percent per year.^16_
+> loan; dividends are, by law, 6 percent per year._<sup>_16_</sup>
 
 Let’s unpack that.
 
@@ -78,7 +78,7 @@ Governors’ tail.
 Until very recently, it was considered perfectly appropriate for the
 central bank to do its business in secret. There is a long tradition of
 this secrecy; no records at all exist for the first Bank of the US (1791–
-1881).^17 Secrecy is important because our current system depends
+1881).<sup>17</sup> Secrecy is important because our current system depends
 on everyone maintaining confidence; keeping any potential pitfalls
 private is a system requirement. Today the Fed produces public
 reports on what is happening in the economy and financial reports
