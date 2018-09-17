@@ -24,8 +24,7 @@ tags:
 ---
 A century ago, between 1913 when _The Federal Reserve Act_ was passed
 and 1929 when the economy came crashing down, banks with the
-power to create new money could also invest it. This ability to self-
-deal created a _booming_ economy as a few wealthy people created
+power to create new money could also invest it. This ability to self-deal created a _booming_ economy as a few wealthy people created
 money for themselves to buy real estate, invest in new technologies,
 monopolize old technologies and live a Gilded Age lifestyle. An asset
 bubble was created that burst on October 29, 1929. Within a year
