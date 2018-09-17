@@ -33,7 +33,7 @@ tags:
 > can weigh in on that process of deciding what kind of promises we make
 > and what kind of promises we readjust when we have to do that._
 
-— David Graeber, in Debt: the first 5000 years (2011)<sup>4</sup>
+— David Graeber, in _Debt: the first 5000 years_ (2011)<sup>4</sup>
 
 There are decisions made every day that change our lives – some we
 make individually, some we make as a society through our government.
