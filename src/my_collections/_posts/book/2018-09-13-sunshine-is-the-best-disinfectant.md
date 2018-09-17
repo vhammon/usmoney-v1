@@ -30,8 +30,7 @@ Here’s a little sunshine on the Federal Reserve balance sheets.
 
 ### Notes for United States Federal Reserve
 
-Statement of Condition of All Federal Reserve Banks Combined
-(p.257–258):
+Statement of Condition of All Federal Reserve Banks Combined:
 
 _1. Special drawing rights certificates are a kind of international
    exchange money_
@@ -97,24 +96,24 @@ the many to the few. We see the impact in the dramatically increasing
 inequality – the rich are getting radically richer and the number of
 poor is exploding.
 
-\[graph]
+<img src="https://fred.stlouisfed.org/graph/fredgraph.png?g=lfqu" />
 
 ## US Government Debt 1913–2017<sup>64</sup>
 
 FRED. Economic Research. Federal Reserve Bank of St. Louis.
 Categories>National Accounts>Federal Government Debt
-https://fred.stlouisFed.org/series/GFDEBTN
+<https://fred.stlouisFed.org/series/GFDEBTN>
 
-<img src="https://fred.stlouisfed.org/graph/fredgraph.png?g=lfqu" />
+
+
+<img src="https://fred.stlouisfed.org/graph/fredgraph.png?g=lfqz" />
 
 ## The M3 money supply growth 1913–2017<sup>65</sup>
 
 FRED. Economic Research. Federal Reserve Bank of St. Louis.
 Categories>International Data>Countries>United States> “M3 for the
 United States (MABMM301 USA 1895). Updated May 1, 2018.
-https://fred.stlouisFed.org/series/MABMM301USA189S
-
-<img src="https://fred.stlouisfed.org/graph/fredgraph.png?g=lfqz" />
+<https://fred.stlouisFed.org/series/MABMM301USA189S>
 
 ## Unsustainable
 
