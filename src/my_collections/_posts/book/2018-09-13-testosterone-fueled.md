@@ -47,7 +47,7 @@ whole system down.<sup>106</sup> <sup>107</sup>
 Researchers have been studying irrational exuberance, risk-taking,
 irrational pessimism, and risk-aversion. Researchers at the University
 of Cambridge in England (and others) found testosterone levels are
-tied to how much risk a man will take.^108
+tied to how much risk a man will take.<sup>108</sup>
 
 The hormone testosterone is associated with higher levels of
 competitiveness, a higher willingness to circumvent rules and
@@ -83,7 +83,7 @@ taking risks.
 In California and Nevada in 2006 and 2007, nearly 40 percent of
 new loans were called liar loans or NINJA (No Income, No Job, no
 Assets), issued at an adjustable rate with low payments for a couple
-years and then a radical jump in payments.^109 These loans, also called
+years and then a radical jump in payments.<sup>109</sup> These loans, also called
 _liar loans,_ were bundled into securities, stamped with high ratings
 by our ratings agencies and then sold to unsuspecting investors by
 Wall Street financiers. It is nearly incomprehensible that mortgage
@@ -101,20 +101,20 @@ chronicled by Michael Lewis, Matt Taibbi, Suzanne McGee, Frank
 Partnoy, William D. Cohan and others. The frontal brain lobes
 do not fully develop until the mid 20s in males, and this is where
 altruism and contextual thinking develop (thinking of others and
-thinking of the big picture).^110
+thinking of the big picture).<sup>110</sup>
 
 It serves bank owners to have high-risk, testosterone driven,
 immature males at the trading and loan desks. They are more than
 willing to skirt the law to make profits, and with frontal brain lobes
 still undeveloped, they have no problem making suckers out of their
-own clients.^111 Altruism, moral or ethical considerations do not
+own clients.<sup>111</sup> Altruism, moral or ethical considerations do not
 intrude or impede. Immature, they have few scruples about hurting
 individuals or the economy. Living through this sensitive period for
 frontal lobe development in this money culture appears to block
 normal healthy development since the oldsters on Wall Street seem
 oblivious to their harmful impact on people and the world economy,
 too. Lloyd Blankfein, CEO of Goldman Sachs said after the crash in
-2009, he’s just a banker _“doing God’s work.”_ 112
+2009, he’s just a banker _“doing God’s work.”_ <sup>112</sup>
 
 When financiers are in a good mood and have confidence in the
 economy, they make lots of deals that generate fees and massive
@@ -125,10 +125,10 @@ money. To them, it was of no concern that hundreds of thousands of
 people would suffer when the deals predictably went sour. Goldman
 Sachs reportedly made hundreds of millions in profits on elaborate
 derivative deals that were a big contributor to the Greek debt crisis
-in 2009.^113 In 2016 Greeks struggled to buy medicine and food and
+in 2009.<sup>113</sup> In 2016 Greeks struggled to buy medicine and food and
 CEO Lloyd Blankfein took home over $22 million in salary and his
 company stock had jumped from $53/share to over $253. This is what
-he calls _“God’s work.”_ 114
+he calls _“God’s work.” _<sup>_114_</sup>
 
 Adolescence for both genders is a time when we crave excitement,
 adventure and novelty. As Robert M. Sapolsky notes in his book, _The
@@ -137,7 +137,7 @@ Trouble with Testosterone_ (1998), adolescence is willing to say,
 _to hell with logic and sensible behavior, to hell with tradition and respecting
 your elders, to hell with this drab little town, and to hell with that knot of fear
 in your stomach. Curiosity, excitement, adventure – the hunger for novelty is
-something fundamentally daft, rash, and enriching.115_
+something fundamentally daft, rash, and enriching.<sup>115</sup>_
 
 These are wonderful traits and deserve a substantial place in our
 culture. However, when we make these characteristics the overriding
@@ -157,20 +157,20 @@ hormones matter.
 
 Research finds collective intelligence rises with the number of women
 in a group, and at least three women will shift a group to better
-problem solving.^116 Even the military finds women in combat troops
+problem solving.<sup>116</sup> Even the military finds women in combat troops
 increase group problem-solving skills (though they also increase
-casualties).^117 Until we have a balance of genders at the highest level
+casualties).<sup>117</sup> Until we have a balance of genders at the highest level
 of power, we will continue doing what we’re doing and getting what
 we’re getting.
 
 Some countries are ahead of us in recognizing the importance
 of gender balance and require corporate boards and governing
-institutions be at least 40 percent each gender.^118 In the US, there
+institutions be at least 40 percent each gender.<sup>118</sup> In the US, there
 is a growing understanding that gender balance in companies is
 an indicator of a more profitable company. As authors, Jackie
 VanderBrug and Joseph Quinlan explain in _GenderLens Investing: Uncovering Opportunities for Growth, Returns and Impact_ (2016),
 paying attention to gender balance when investing in companies can
-make you more money.^119
+make you more money.<sup>119</sup>
 
 **There is a natural balance of men and women. Our money system
 and the financial strategies that support it will be healthier when
