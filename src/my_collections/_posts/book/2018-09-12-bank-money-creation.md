@@ -23,9 +23,10 @@ categories:
 tags:
   - money
 ---
-_The essence of the contemporary monetary system is creation of money, out
-of nothing, by private banks’ often foolish lending._\
-— Martin Wolf, Financial Times, November 9, 2010^16
+> _The essence of the contemporary monetary system is creation of money, out
+> of nothing, by private banks’ often foolish lending._
+
+— Martin Wolf, Financial Times, November 9, 2010<sup>16</sup>
 
 There is a natural immature human inclination to find a way around
 the rules if a tangible, immediate reward is at hand. History shows
@@ -56,7 +57,7 @@ are confident the economy is perking along and they think they are
 likely to be repaid, they create new money by freely handing out new loans. When considering just how freely, think of the NINJA
 loans of the early 2000s (No INcome, Job or Assets); banks were
 making $500,000 house loans without requiring proof of income,
-employment or assets.^17 When the inevitable bubble pops, the
+employment or assets.<sup>17</sup> When the inevitable bubble pops, the
 bankers are doom and gloomy and money is tight. People suffer.
 
 Bankers have convinced academics and Congress that this cycle of
