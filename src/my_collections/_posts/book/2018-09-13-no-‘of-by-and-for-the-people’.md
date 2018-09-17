@@ -57,7 +57,7 @@ _the preferences of rich people had a much bigger impact on subsequent policy
 decisions than the views of middle-income and poor Americans. Indeed, the
 opinions of lower-income groups, and the interest groups that represent them,
 appear to have little or no independent impact on policy. ...Our analyses suggest that majorities of the American public actually have little influence over the
-policies our government adopts.221_
+policies our government adopts. _<sup>_221_</sup>
 
 Their study found when fairly large majorities of citizens disagree
 with economic elites and/or with the powerful money interests, they
@@ -250,7 +250,6 @@ literature and relies on more informational texts – speeches, magazine
 articles, government reports. This thinking completely misses the role
 of great literature in developing our minds and hearts.<sup>236</sup>
 
-
 I read through J.K. Rowling’s _Harry Potter_ books every couple of
 years for the fun of it. They are a pleasant counterpoint to economic
 tomes. I enjoy the world she creates, the characters and the complex
@@ -378,7 +377,7 @@ of our media. Just 15 billionaires own America’s news media
 companies.<sup>244</sup> According to the New York Times, testimony before
 the House Judiciary Committee reports that _“In 1983, 50 companies
 owned 90 percent of the media consumed by Americans. By 2012, just six
-companies ...controlled that 90 percent.”_ 245
+companies ...controlled that 90 percent.”<sup>245</sup>_
 
 Even our public broadcasting of national news is strained through the
 perspective of a handful of people who are entrenched for decades in
@@ -468,8 +467,7 @@ billion so we would see drugs as the answer to many ailments.<sup>252</sup> And
 it works.
 
 Spending on prescription medicines grows exponentially at a rate of
-4 to 7 percent each year. It is expected to be a $600 billion market by 2021.<sup>253<sup> There is no positive correlation between increases in spending
-    on prescription drugs and good health.
+4 to 7 percent each year. It is expected to be a $600 billion market by 2021.<sup>253<sup> There is no positive correlation between increases in spending on prescription drugs and good health.
 
 The biopharmaceutical sector accounts for about 5 percent of
 our entire economy. The US may be the most drug dependent
