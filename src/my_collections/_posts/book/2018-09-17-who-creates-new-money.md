@@ -48,7 +48,7 @@ money; currently in the US, new money is created by the private
 banking sector [(Chapter 5).](https://usmoney.us/book/chapter-5) Be careful of the phrase, _to issue money._ Some economists, including the Modern Monetary Theorists use _issue_ in a way that confuses two distinct functions: guarantee-authenticity-
 trustworthiness and the actual creation of money. They speak of the
 US Government _issuing_ our currency, when it does not create it; it
-only authorizes it as legal tender and guarantees it.^8
+only authorizes it as legal tender and guarantees it.<sup>8</sup>
 
 When a democratic republic – a government of, by and for the people chooses a money system that gives the power to create new money
  to private bankers, they hand off the power of rule to the money
