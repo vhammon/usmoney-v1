@@ -174,8 +174,7 @@ This represents our money supply. As the banks pay off their loans to
 us, these assets change on the balance sheet from private bank IOUs to
 cash assets.
 
-While the banks will continue to manage and serve their deposit custom-
-ers, they will no longer be able to use deposits for their own purposes.
+While the banks will continue to manage and serve their deposit customers, they will no longer be able to use deposits for their own purposes.
 (This will make real what most people believe is already true.) They
 will manage your personal accounts, and transfer your funds on your
 demand. At the end of day when a net of transactions is transferred
