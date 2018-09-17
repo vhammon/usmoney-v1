@@ -155,7 +155,7 @@ is coming.
 ### Mortgage-backed Securities
 
 The housing market has soared past its 2007 median home value of
-$196K to $216K in June 2018.^60
+$196K to $216K in June 2018.<sup>60</sup>
 
 While the central Fed may have gotten the TARP purchases off its
 books, it still increased its IOUs from _others,_ which includes mortgage-
@@ -183,7 +183,7 @@ by the private sector, US Government debt to the public grew at an
 annual rate of 11 percent, more than doubling since 2008. In 2008
 US government debt to the public was $5,836 billion. In 2017 it was
 $14,724 – an increase of $8,888 billion – two and one half times what
-it was 10 years earlier.^61
+it was 10 years earlier.<sup>61</sup>
 
 In 2016, of $4,453 billion in assets on the central Fed’s balance sheet,
 $2,567 billion was in US Treasury securities – up from $784 billion in 2006. So of that increase of $8,888 billion in US Government debt,
@@ -208,7 +208,7 @@ The Pew Research Center’s polls of how people in the rest of the
 world view America has been a roller coaster for the past 16 years.
 During the G.W. Bush era, opposition to US foreign policy and
 rising anti-Americanism dropped favorability ratings into the teens
-(meaning less than 20 percent of people viewed the US favorably).^62
+(meaning less than 20 percent of people viewed the US favorably).<sup>62</sup>
 
 Under President Obama, ratings rose to a global median of
 64 percent expressing a favorable opinion of our country. Ratings
