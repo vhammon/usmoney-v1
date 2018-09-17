@@ -28,8 +28,7 @@ have finished, if the solution is not beautiful, I know it is wrong.  _
 – Buckminster Fuller (1895–1983)
 
 We face a daunting challenge. While the mechanics of switching to a
-commonwealth money system are relatively simple and easy to accom-
-plish, the fundamental shift from a greed and profit-based culture to a
+commonwealth money system are relatively simple and easy to accomplish, the fundamental shift from a greed and profit-based culture to a
 culture of caring and prosperity for all is profound. It will meet with
 powerful resistance.
 
@@ -39,8 +38,7 @@ our money system.
 
 We each have stories about how the world works. Our stories frame how
 we view problems and solutions. Is our story about man the conqueror - making the natural world serve our goals of economic growth and
-    profits? Or, is our story about man the steward who understands inter-
-    dependence and the importance of renewable resources and sustainable
+    profits? Or, is our story about man the steward who understands inter-dependence and the importance of renewable resources and sustainable
     industry?
 
 As we learn and mature our stories change. Recognizing our stories and
@@ -68,8 +66,7 @@ that support a new story about how money should work:
 
 vidual, AND we are all interconnected and interdependent.
 
-We are shifting from a story idolizing the independence and self-suffi-
-ciency of the pioneers, cowboys and the individual TO one recognizing
+We are shifting from a story idolizing the independence and self-sufficiency of the pioneers, cowboys and the individual TO one recognizing
 we’re on this continent – and planet – together. (The pioneers were
 actually very _inter_ dependent and we are giving that more recognition.)
 
@@ -80,11 +77,9 @@ intend to get together to be happy. We just haven’t quite figured out
 how to do it, yet.
 
 Today, we are aware there are many decisions we must make as a whole
-nation. Lax regulations in one state pollute another. Poor highway main-
-tenance in one state slows down traffic going to another. Stressed public
+nation. Lax regulations in one state pollute another. Poor highway maintenance in one state slows down traffic going to another. Stressed public
 education in one state means poorly educated and easily manipulated
-people picking our leaders. There are many decisions about the qual-
-ity of our lives we must make together if we are going to reach our
+people picking our leaders. There are many decisions about the quality of our lives we must make together if we are going to reach our
 goals of domestic tranquility and general welfare. The money system
 is one of them.
 
@@ -105,8 +100,7 @@ our story about who rules best has been changing – from a powerful,
 charismatic leader to a group of powerful and charismatic elites, to the
 distributed and aggregated wisdom of a whole community.
 
-Our story is shifting from valuing an authoritarian rule to valuing egal-
-itarian rule – aggregating the wisdom of an independent, informed,
+Our story is shifting from valuing an authoritarian rule to valuing egalitarian rule – aggregating the wisdom of an independent, informed,
 diverse public in issue-based problem-solving and conflict resolution.
 Our Constitution is a milestone on this path toward governing of, by
 and for a people. Our 2016 election may make this seem like a fantasy,
@@ -125,8 +119,7 @@ We have a way to go before we’re good at it, and we could accelerate
 our learning should we choose.
 
 The speed of this story change is accelerating as it spreads into many
-areas of life. These changes are happening slowly, gradually, and some-
-times it seems like we’re going in reverse, but looking back over a lifetime,
+areas of life. These changes are happening slowly, gradually, and sometimes it seems like we’re going in reverse, but looking back over a lifetime,
 they are happening surely.
 
 ### Parenting
@@ -152,23 +145,19 @@ for ourselves, more than those who tell us what to do.
 ### Education
 
 We’re shifting from a story valuing the teacher who stands at the front of
-rows of desks lecturing, who tests on regurgitating pre-selected informa-
-tion, TO a story about teachers who guide students to learn how to learn
-and be a critical thinker. Montessori education has been on the fore-
-front of this shift for more than 100 years, and has helped lead this shift.
+rows of desks lecturing, who tests on regurgitating pre-selected information, TO a story about teachers who guide students to learn how to learn
+and be a critical thinker. Montessori education has been on the forefront of this shift for more than 100 years, and has helped lead this shift.
 
 ### Conflict resolution
 
-We are shifting from intimidating power, my-way or highway, adver-
-sarial, winner-take-all, horse-trading, unprincipled favor exchanging,
+We are shifting from intimidating power, my-way or highway, adversarial, winner-take-all, horse-trading, unprincipled favor exchanging,
 decision-from-on-high methods, TO mutual respect, mediation and
 negotiation strategies that are issue-based and aim for win-win solutions.
 
 ### Agriculture
 
 We are shifting from industrial scale factory farming that depletes and
-poisons the land. These farmers dominate their fields with force feed-
-ing and pharmaceuticals to make plants and animals grow faster and
+poisons the land. These farmers dominate their fields with force feeding and pharmaceuticals to make plants and animals grow faster and
 bigger. We are shifting back TO organic farming which first builds the
 quality of its soil, acting in partnership with the natural world. Organic
 farmers produce safer food of higher nutritional value, _and_ improve the
@@ -218,21 +207,18 @@ says employees are more productive when they are respected, well paid
 and have some control over their tasks. Evidence says unemployed and
 homeless people are more likely to get back on their feet when they are
 given a roof over their heads and a stipend for basic living expenses –
-even if they are on drugs.^2 Evidence says lawbreakers are more likely
-to become good citizens when they are given an education, drug treat-
-ment and healthcare.^3
+even if they are on drugs.<sup>2</sup> Evidence says lawbreakers are more likely
+to become good citizens when they are given an education, drug treatment and healthcare.<sup>3</sup>
 
 But when it comes to our communities and our economy, there is an
-old belief that life should be hard for people in poverty or at the begin-
-ning of their careers. Poverty and the need to work exceptionally hard
+old belief that life should be hard for people in poverty or at the beginning of their careers. Poverty and the need to work exceptionally hard
 to survive will be an incentive to work enough to rise up the economic
 ladder. Poverty will make them stronger. For some, that may be.
 
 However, we are learning that a public foundation of support does not
 create dependency; it creates health, well-being and prosperity. Many
 other nations have proven when people have the security of knowing
-any health needs will be covered, they are healthier and more produc-
-tive. When people get the education they want, they learn more and
+any health needs will be covered, they are healthier and more productive. When people get the education they want, they learn more and
 are more productive in the economy. When people have time off to
 nurture family ties they come back to work refreshed and more produc-
 tive. When we make sure all our nation’s children have health care from
@@ -241,8 +227,7 @@ to all, there will be less disease, less crime, less mental illness. The nation
 will prosper and need to spend less on crisis and remediation. It takes
 a shift in thinking.
 
-Mostly, we recognize that a good foundation makes for greater produc-
-tivity and happiness. There is plenty of pain and suffering in life without
+Mostly, we recognize that a good foundation makes for greater productivity and happiness. There is plenty of pain and suffering in life without
 our deliberately adding to it. But we have been trained to accept the idea
 that poverty, pain and suffering are part of a natural order. This natural
 order justifies exploiting others and natural resources for personal gain.
@@ -269,10 +254,10 @@ teams of people, because teams of people support and nurture each other
 and give each other strength to compete.
 
 Adults produce their best work when they are well-rested and in good
-company. High stress reduces productivity.^4 Only a very few people
+company. High stress reduces productivity.<sup>4</sup> Only a very few people
 thrive under constant stress. Most of us do our best when we are
 nurtured. According to a Harvard study, over 600,000 people in the
-US go bankrupt from medical bills every year.^5 Think of the stress and
+US go bankrupt from medical bills every year.<sup>5</sup> Think of the stress and
 anxiety! In Britain, France, Japan, Germany, the Netherlands, Canada
 and Switzerland, NO ONE goes broke because of medical bills. Think
 about that freedom to heal and get on with life after a serious illness.
