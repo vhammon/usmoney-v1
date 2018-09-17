@@ -23,8 +23,6 @@ categories:
 tags:
   - money
 ---
-## Endnotes
-
 ### 1.0 Introduction
 
 1 _U.S. Constitution._ Preamble. [https://www.archives.gov/founding-docs/
