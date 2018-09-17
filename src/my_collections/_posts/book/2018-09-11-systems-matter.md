@@ -24,8 +24,7 @@ tags:
   - money
 ---
 Our money system is like a playing field; it determines what rules are
-needed and how the game is played. For example, you cannot play foot-
-ball on a tennis court. Or if you run at a nearby school, you will likely
+needed and how the game is played. For example, you cannot play football on a tennis court. Or if you run at a nearby school, you will likely
 run on the track that circles the center field. You could run back and
 forth across the middle of the field, but imagine how difficult it would
 be if a football game were in progress!
@@ -46,8 +45,7 @@ The game requires certain behavior and behavior shapes the physiques
 of the players.
 
 The same applies to us: we may think we shape our homes and our
-communities, but it is two-way shaping. We begin with our genetic heri-
-tage and then the individuals we become – our attitude, values, skills,
+communities, but it is two-way shaping. We begin with our genetic heritage and then the individuals we become – our attitude, values, skills,
 even our tastes – are shaped by the families and communities in which
 we live. The physical environment and the culture shape us. Since it is
 possible to develop an understanding of how we are shaped, we have
