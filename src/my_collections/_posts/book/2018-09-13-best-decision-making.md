@@ -22,17 +22,18 @@ categories:
 tags:
   - money
 ---
-_Money is just a promise. It’s a social construct, it’s something we make up. If
-banks can lend us money, it’s not because they have that money. It’s because
-we, the people, have given them the right to make up money. Well, if that
-is the situation, we have given them the right to make up money because
-we think it will help people have houses, it will help the economy grow. The
-economy isn’t growing, people don’t have houses, something went wrong.
-We can change that around because it really comes from us to begin with,
-so I think if democracy is to mean anything, it has to mean that everybody
-can weigh in on that process of deciding what kind of promises we make
-and what kind of promises we readjust when we have to do that._\
-— David Graeber, in Debt: the first 5000 years (2011)^4
+> _Money is just a promise. It’s a social construct, it’s something we make up. If
+> banks can lend us money, it’s not because they have that money. It’s because
+> we, the people, have given them the right to make up money. Well, if that
+> is the situation, we have given them the right to make up money because
+> we think it will help people have houses, it will help the economy grow. The
+> economy isn’t growing, people don’t have houses, something went wrong.
+> We can change that around because it really comes from us to begin with,
+> so I think if democracy is to mean anything, it has to mean that everybody
+> can weigh in on that process of deciding what kind of promises we make
+> and what kind of promises we readjust when we have to do that._
+
+— David Graeber, in Debt: the first 5000 years (2011)<sup>4</sup>
 
 There are decisions made every day that change our lives – some we
 make individually, some we make as a society through our government.
@@ -160,7 +161,7 @@ We have all the tools and skills to take our democratic public decision-mak-
 ing to a higher level. An early guide to issue-based decision-making,
 _Getting to Yes: Negotiating Agreement Without Giving In_ by Roger Fisher
 and William L. Ury, has been on best seller lists since it first came out
-in 1981 – almost forty years ago!^5 Millions of copies have sold and it’s
+in 1981 – almost forty years ago!<sup>5</sup> Millions of copies have sold and it’s
 been translated into 36 languages. There must be many people out there
 with good skills in win-win negotiation. And most of us understand that
 the way we currently make public decisions is not working well for us.
