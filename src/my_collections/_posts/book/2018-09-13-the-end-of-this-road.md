@@ -50,16 +50,16 @@ wealth – amplifying the size of the bust.
 After the election financiers were giddy in their expectations of a self-
 benefitting boom – as evidenced by the skyrocketing shares of the
 biggest banks. Within one month of the election of billionaire Trump,
-bank stocks gained 20 percent.^286 As finance is deregulated, the value
+bank stocks gained 20 percent.<sup>286</sup> As finance is deregulated, the value
 of the stock market reached an unhealthy and giddy size of 26,617 at
 closing in January 26, 2018. But by Summer 2018, the cracks, mini-
 gyrations, and initial scattered drops that characterize the closing to a
-crash had begun.^287
+crash had begun.<sup>287</sup>
 
 On election Trump baldly stated that for his cabinet secretaries: _“I
 want people that made a fortune!”_ Money-making is his measure. Trump’s first 17 picks for cabinet and cabinet level posts had a
 combined net worth of more than $9.5 billion – more than a third
-of American households combined.^288 Experience in the cabinet’s
+of American households combined.<sup>288</sup> Experience in the cabinet’s
 portfolio of responsibilities, experience managing staffs in the tens
 of thousands, experience working with Congress...in other words,
 competence, was ignored in his cabinet picks. Money-acquisition
@@ -106,7 +106,7 @@ After the US dollar was decoupled from any commitment to
 exchange it for gold in 1971, the use of the dollar as global reserves
 began to decline. It dropped to a low of 46 percent in 1991. By
 the mid 1990s it was back in the mid-60th percentiles, where it
-has held.^289
+has held.<sup>289</sup>
 
 The US dollar shares the role of reserve currency. In late 2016,
 65 percent of global reserves were in dollars. The remaining reserves
@@ -114,7 +114,7 @@ are in Euros, British pound sterling, Japanese yen, Swiss francs,
 Canadian dollars, and since September 2016, the Chinese renminbi.
 In 2016, total global foreign exchange reserves reported to the IMF
 were $10.8 trillion, of which US dollars accounted for roughly $5
-trillion.^290 So, we have a domestic money supply of $14–18 trillion
+trillion.<sup>290</sup> So, we have a domestic money supply of $14–18 trillion
 (depending on what you’re counting [(Chapter 5.49)](https://usmoney.us/book/chapter-5/section-49) and another $5
 trillion is abroad serving as reserves. Most of those reserve dollars
 were created by global bankers.
@@ -135,7 +135,7 @@ NO confidence in Trump’s ability to do the right thing regarding
 world affairs. Our allies – the UK, Germany, France, Japan had
 confidence levels ranging from 6–12%. Poor favorability ratings of our president translate into unfavorable views of the US, which dropped
 from 64 percent at the end of Obama’s term to 49 percent under
-Trump.^291 And, that was before his inauguration.
+Trump.<sup>291</sup> And, that was before his inauguration.
 
 In his first two months in office, President Trump insulted the
 leaders of Great Britain, Australia, Japan, Germany, Mexico, and
@@ -146,7 +146,7 @@ insulted all of our NATO allies, called the European Union, _America’s
 foe,_ Germany_ a captive to Russia,_ and lavished praise on the world’s
 dictators – particularly the Russian leader responsible for a cyber and
 information attack on our elections, and on the elections and utility
-grids of other NATO members.^292
+grids of other NATO members.<sup>292</sup>
 
 Then for a little more turmoil, he started a trade war with allies,
 neighbors and China. He’s planning to run up the deficit further
@@ -154,7 +154,7 @@ using at least $12 billion to replace the lost sales for farmers.
 
 By the third quarter of 2017 the US Dollar had lost 10 percent of its
 value against its peers and it’s use as a reserve currency dropped to
-63 percent of all reserves.^293 Keeping in mind the rate of increase in
+63 percent of all reserves.<sup>293</sup> Keeping in mind the rate of increase in
 the supply of dollars, that 2 percent drop is significant.
 
 While Trump supporters have been gleefully thumbing their nose at
@@ -164,12 +164,12 @@ is a warning sign of consequences to come. And, they are coming.
 
 Our friendly neighbor Canada is considering using their equivalent
 of the Magnitsky Act, to sanction our president’s personal businesses
-and wealth as retaliation in the trade war he started.^294 Germany
-is stepping into our leadership role in NATO.^295 China is stepping
+and wealth as retaliation in the trade war he started.<sup>294</sup> Germany
+is stepping into our leadership role in NATO.<sup>295</sup> China is stepping
 into the role of world leader, investing $1,663 billion in global
 infrastructure projects in the decade from 2009 to 2018. These
 investments will provide them with customers well into the next
-century.^296
+century.<sup>296</sup>
 
 The world may decide the US no longer deserves this privileged position of major reserve currency. Remember it’s about confidence
 in the future. Should the world decide to use more of a different
@@ -197,7 +197,7 @@ reaches nearly unfathomable inequality. Oxfam, an international
 confederation of 18 non-governmental organizations, says the top
 one percent of the world will own more than that owned by the
 other 99 percent together by 2020. This is in just two short years!
-From 2009–2014 the wealth of the wealthiest doubled.^297 This is the
+From 2009–2014 the wealth of the wealthiest doubled.<sup>297</sup> This is the
 speed at which wealth is being transferred into the hands of a few
 extraordinarily rich people. Think of the poverty, desperation and war
 this will bring!
