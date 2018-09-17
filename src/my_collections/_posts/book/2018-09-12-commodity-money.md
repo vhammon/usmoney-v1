@@ -22,10 +22,10 @@ categories:
 tags:
   - money
 ---
-_Observe well these rules: It is a very common mistake to say that money is
-a commodity...Bullion is valued by its weight...money is valued by its stamp._
+> _Observe well these rules: It is a very common mistake to say that money is
+> a commodity...Bullion is valued by its weight...money is valued by its stamp._
 
-– John Locke, An Essay on Money & Bullion, 1718^1
+– John Locke, An Essay on Money & Bullion, 1718<sup>1</sup>
 
 Commodity money is defined by the physical nature of the token.
 The physical token is only one aspect, sometimes minor, of a money
@@ -192,7 +192,7 @@ of Granby Connecticut, owned a copper mine and issued his own
 coins for spending in his community (1737–1739). Higley Coppers, as
 the coins are called, are rare today and a collector’s item. They varied
 considerably in mass, from 122 to 170 grains of copper, probably not
-an uncommon characteristic of privately struck coinage.^2
+an uncommon characteristic of privately struck coinage.<sup>2</sup>
 
 ### Measure of Value
 
@@ -218,7 +218,7 @@ dwindles in proportion to the demand. Current estimates are that
 from the beginning of history we have extracted about 170,000 tons
 of gold, and there are perhaps another 50,000 tons still to be mined.
 It is hard to really know, but we know there is a limit to the supply
-and we know demand is growing.^3
+and we know demand is growing.<sup>3</sup>
 
 This means a golden measuring stick will shrink – a smaller and
 smaller bit of gold will have greater and greater value. A gold money
@@ -300,7 +300,7 @@ Demonstrating the difficulty of a commodity based money, Colonial
 Virginia and Maryland made tobacco a legal tender in 1633. But in
 1639 there was a bumper crop and the colonial assemblies ordered
 half of the crop to be burned – a good example of how a money’s
-commodity basis can interfere with its function as money.^4
+commodity basis can interfere with its function as money.<sup>4</sup>
 
 ## Ultimately, who rules?
 
