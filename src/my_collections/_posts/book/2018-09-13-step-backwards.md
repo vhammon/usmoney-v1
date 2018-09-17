@@ -62,7 +62,7 @@ The fact that a foot has 12 inches doesn’t restrict the number of square feet 
 can have in a house. The fact that a pound has 16 ounces doesn’t restrict your
 weight, alas – it’s simply a measurement. The virtue of a properly constructed
 gold standard is that it’s both stable and flexible – stable in value and flexible
-in meeting the marketplace’s natural need for money. (May 27, 2013)_<sup>_4_</sup>
+in meeting the marketplace’s natural need for money. (May 27, 2013)<sup>4</sup>_
 
 Let’s unpack this argument.
 
@@ -148,7 +148,7 @@ _Texas’ new depository could help supercharge the growing movement for an
 honest and sensible monetary system founded on real money rather than debt-
 based paper notes conjured into existence by a private banking cartel. Indeed,
 one of the chief aims of gold-and-silver-as-currency proponents is to restore
-sound money – and the Texas law could help pave the way._<sup>_5_</sup>
+sound money – and the Texas law could help pave the way.<sup>5</sup>_
 
 However, as explained in [Chapter 4.28,](https://usmoney.us/book/chapter-4/section-28) commodity money is neither
 _sound,_ nor _honest,_ nor _real_ money. As with any commodity money,
@@ -203,7 +203,3 @@ the period of always tangible exchanges into a world of virtual
 exchanges at the speed of light. This pushed us to really look at the
 essence of money and see beyond the glitter that is gold, to money’s
 role as a neutral intermediary.
-
-```
-
-```
