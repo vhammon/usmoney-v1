@@ -50,7 +50,7 @@ United States elected in 2016 surrounded himself with gold – walls,
 floors, even his toilets – and, many admire that as an indicator
 of success.
 
-\## Sacrifice on the altar
+## Sacrifice on the altar
 
 Today one in five children goes hungry during the year.<sup>274</sup> One in
 seven have developmental issues requiring special help.<sup>275</sup> If any
