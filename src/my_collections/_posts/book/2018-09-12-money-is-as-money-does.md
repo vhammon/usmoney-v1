@@ -61,7 +61,7 @@ of the elements and then to that of light.
 
 _A meter, which is now accepted internationally as the standard measure of
 length, is “the path travelled by light in a vacuum in 1⁄299,792,458 of a second
-(17th CGPM).^3_
+(17th CGPM).<sup>3</sup>_
 
 Value when exchanging a good or service cannot so readily be
 matched to an exact physical standard. We value things for many
