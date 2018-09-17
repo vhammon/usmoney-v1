@@ -57,15 +57,15 @@ life – our most precious common wealth. Underground aquifers are
 being depleted at rates well beyond the earth’s capacity to refill them.
 The Ogallala aquifer, which stretches through eight states from South
 Dakota to Texas and supplies 30 percent of the nation’s irrigated
-groundwater, will be used up within 50 years _unless current water use is reduced._^130 If we don’t make radical changes, within a lifetime we
+groundwater, will be used up within 50 years _unless current water use is reduced._<sup>130</sup> If we don’t make radical changes, within a lifetime we
 will not have the minimum of water required for basic human needs.
 A wealthy elite are already training people to accept that water can
 and should be privatized. Big corporate interests are sucking up water,
 putting it into bottles and selling this natural resource. Soon, water,
-and thus living, will be only for those who can afford it.^131
+and thus living, will be only for those who can afford it.<sup>131</sup>
 
 In 1980, 21 percent of US land was arable (good for food growing).
-In 2015, it was down to 17 percent.^132 We have nearly 470 million
+In 2015, it was down to 17 percent.<sup>132</sup> We have nearly 470 million
 acres of arable land in cultivation today – about 1.6 acres per person.
 We are losing ONE MILLION acres _each year_ due to urbanization,
 multiplying transportation networks and industrial expansion. By
@@ -79,18 +79,18 @@ water changes the planet. There is good news. Organizations like
 American Farmland Trust have been working successfully with state
 governments to protect farmland. While they report we are still
 losing 175 acres of farmland _every hour,_ for the past few years, the loss
-has been slowing a tiny bit.^133
+has been slowing a tiny bit.<sup>133</sup>
 
 We are losing millions of trees to drought, bark beetle, and fire – all
 caused by hotter temperatures. More than 100 million trees have
-died in California in the past few years, 62 million in 2016 alone.^134
+died in California in the past few years, 62 million in 2016 alone.<sup>134</sup>
 And, that’s not counting the trees we harvest or chop down to
 accommodate development and other agricultural practices. Trees
 protect our watersheds and clean our air. When the trees go, so go
 our freshwater and fresh air systems.
 
 Melting ice has reached a point of no return as the rate of loss
-escalates faster than scientists expected.^135 These changes will have a
+escalates faster than scientists expected.<sup>135</sup> These changes will have a
 deadly impact on species acclimated to a specific region and climate.
 The impact will be exponential. Deaths of little species and habitats at
 one end of the food chain will pyramid into catastrophic loss.
@@ -103,7 +103,7 @@ New York’s American Museum of Natural History, nearly 70 percent
 believed that we are currently in the early stages of a human-caused
 mass extinction event, comparable to the End Cretaceous Extinction
 that took place 66 million years ago. It already has names – the
-Holocene, the Sixth, or the Anthropocene Extinction.^137
+Holocene, the Sixth, or the Anthropocene Extinction.<sup>137</sup>
 
 The earth is an astounding complex web of abundant life. Every
 single species, including humans, relies on a web of life we are only
@@ -122,7 +122,7 @@ inconsequential.
 In 2016, the Union of Concerned Scientists presented evidence that
 ExxonMobil was aware of the threat posed by man-made climate
 change as early as 1981. They spent millions to intentionally deceive
-the public to preserve their fossil fuel profits.^138 They used their power
+the public to preserve their fossil fuel profits.<sup>138</sup> They used their power
 of great wealth to compromise life as we know it.
 
 ## The exploitation and degradation of social and cultural resources
@@ -143,7 +143,7 @@ Billionaires Behind the Rise of the Radical Right_ (2016) tells us some
 of the ways this happened. She tells stories of the corruption of our
 public education, institutions of higher education, our judiciary
 and our institutions of law-making and oversight by weaponized
-philanthropy.^139 Here are a few.
+philanthropy.<sup>139</sup> Here are a few.
 
 After the Great Depression, most people were thoroughly disgusted
 with corporate America’s greed and irresponsibility. Americans
@@ -205,7 +205,7 @@ food labeling program to inform family food buyers with a check
 mark on product packaging. The board making the decisions about
 what is a smart choice is mostly food industry insiders. They gave
 good food choice _checks_ to foods heavily laden with sugars and salts,
-including _Froot Loops_ for kids’ breakfasts.^140 Labeling Froot Loops a
+including _Froot Loops_ for kids’ breakfasts.<sup>140</sup> Labeling Froot Loops a
 good breakfast choice renders the University’s activities suspect. One
 wonders if all its research findings are equally corrupt and directed by
 the interests of their donors.
@@ -240,7 +240,7 @@ Wealthy owners of big corporations deliberately and successfully
 worked to convince churches that the social gospel was communism;
 a good Christian should equate gospel with free enterprise, laissez-
 faire economics, deregulation, and the Republican Party. With many
-churches, they succeeded.^141
+churches, they succeeded.<sup>141</sup>
 
 Beginning back in the 1930s, wealthy family foundations and
 associations of big corporate owners gave cash rewards to ministers
