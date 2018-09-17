@@ -32,9 +32,9 @@ publicly owned wealth. Some believe that only private individuals
 take good care of property and therefore all property should be
 in private hands. This is an offshoot of 20th century novelist, Ayn
 Rand’s idolization of selfishness and the righteous pursuit of self-
-interest.^170 Rand had an enormous impact on the thinking of 20th
+interest.<sup>170</sup> Rand had an enormous impact on the thinking of 20th
 century Libertarians and the GOP. Many in the GOP require their
-staff to read her works.^171
+staff to read her works.<sup>171</sup>
 
 There is no evidence to support this idolization of selfish interests.
 Many individuals are wonderful stewards who take excellent, prudent
@@ -75,8 +75,8 @@ dedicated neutral facilitator-mediator, skill, and dedicated tax dollars.
 
 For example, grazing rights are sold at such low prices, we’re giving
 away these assets. The federal government charges $1.87 per animal
-per month for grazing rights on federal lands.^172 The market rate for
-state or privately owned land ranges from $8 to as high as $150.^173
+per month for grazing rights on federal lands.<sup>172</sup> The market rate for
+state or privately owned land ranges from $8 to as high as $150.<sup>173</sup>
 Out of the meager haul in grazing fees, the federal Bureau of Land
 Management is charged to,
 
@@ -86,7 +86,7 @@ public lands ranching... provide livestock-based economic opportunities in
 rural communities while contributing to... America’s social fabric and identity...
 maintain open spaces in the fast-growing West, provide habitat for wildlife, offer
 a myriad of recreational opportunities for public land users, and help preserve
-the character of the rural West.^174_
+the character of the rural West.<sup>174</sup>_
 
 Whew! This is a lot of work to do on a skimpy budget, and we end up
 being poor stewards. If the going rate for renting land for grazing is
@@ -99,14 +99,14 @@ for cultural and natural resources. It gave us our National Parks and
 Monuments. It required that land set aside as part of a monument
 be _“confined to the smallest area compatible with the proper care
 and management of the objects of historic or scientific interest to be
-protected.”_ 175
+protected.”_<sup>175</sup>
 
 Today, there is a clear difference in the political parties about the
 meaning of _“smallest area compatible”_ when it comes to protecting,
 preserving, and exploiting our treasured wild lands. On a party
 line vote in January 2016, Republicans eliminated a requirement to
 consider the income and costs of public lands when considering their
-sale.^176 This makes it easier to sell heritage assets to private interests –
+sale.<sup>176</sup> This makes it easier to sell heritage assets to private interests –
 one of the GOP’s stated platform goals.
 
 In 2017, with full control of Congress and the Executive, the GOP is
@@ -119,7 +119,7 @@ and burdens, to expedite the offering of lands for lease.”_ 177
 Eight months after taking office, Trump, by executive order, reduced
 two national monuments – by 85 percent and 45 percent. Bears Ears
 National Monument, was reduced by 1,150,860 acres. Nearby Grand
-Staircase-Escalante National Monument was nearly cut in half.^178
+Staircase-Escalante National Monument was nearly cut in half.<sup>178</sup>
 Trump says there will be more reductions to come.
 
 Now land in both former national monuments is on fast tract for sale
@@ -134,7 +134,7 @@ bones preservation and conservation with the following priorities:
 transferring ownership to states and individuals, and resource
 extraction by private business. Democrats, who established both of
 these Monuments lean toward prudent and generous preservation for
-future generations and the nation as a whole.^180
+future generations and the nation as a whole.<sup>180</sup>
 
 ### Selling off property assets
 
@@ -169,7 +169,7 @@ Though the invention was publicly funded it landed in the hands of
 greedy profiteers who increased the price of this life-saving necessity
 from $100 to $650 in 10 years – putting it out of the reach of many
 and leaving people to die, or the public to pay many times over for
-our own invention.^181
+our own invention.<sup>181</sup>
 
 ### Privatizing public services
 
@@ -198,13 +198,13 @@ own hospitals, ambulance, fire departments, and 911 services. They
 own public water and utilities. The private equity companies are not
 experienced managers; they follow a simple moneymaking playbook:
 a mix of cost cuts, price increases, lobbying for de-regulation/lower
-standards, and litigation.^182
+standards, and litigation.<sup>182</sup>
 
 In these life-critical service industries, cost cuts can mean increasing
 risks, and this is proving true. Houses burn down because the for-profit fire department is understaffed and undertrained. People
 die because there are too few ambulances or inadequate supplies,
 or because ambulances break down from cost-cutting poor
-maintenance.^183
+maintenance.<sup>183</sup>
 
 Private contractors have a conflict of interest when it comes to
 putting out fires, reducing prison populations, and making peace
@@ -212,7 +212,7 @@ in the world because it will put them out of business. Yet, for-profit
 private contractors now make up 22 percent of the Department of
 Defense’s workforce. They account for 50 percent of its _workforce cost._
 The average contract employee costs two to three times as much as
-the average civilian employee for performing similar work.^184 185
+the average civilian employee for performing similar work.<sup>184</sup> <sup>185</sup>
 
 Taxpayers pay millions to train soldiers who fulfill a minimum service
 requirement, and then move to the private sector where they will
@@ -240,7 +240,7 @@ And, again privatization and profitization transfers wealth from
 the middle class who once had well-paying jobs with pensions
 to a very small elite of private owners skimming off a profit on
 lower wages and mediocre services. Employees, now paid less and without pensions, shift from independent livelihoods to government
-dependency and/or poverty.^186
+dependency and/or poverty.<sup>186</sup>
 
 It’s worth repeating: we guarantee our money with the health and
 wealth of our commons. Degrade it. Sell it off to private owners.
