@@ -35,7 +35,7 @@ Global Well-Being Index, only 24 percent of adults in the US are
 thriving in social well-being, only 22 percent in financial well-being,
 41 percent in community well-being, and 31 percent in physical well-
 being. The US ranks 23rd. We come in well behind our neighbors, #1.
-Panama, and #2. Costa Rica.^96 In every category at least six out of ten
+Panama, and #2. Costa Rica.<sup>96</sup> In every category at least six out of ten
 of our citizens – the heart of our commonwealth – are only getting by
 or suffering.
 
