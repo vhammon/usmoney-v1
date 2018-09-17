@@ -59,7 +59,6 @@ immigrants and allows roughly one million people to enter the US
 legally every year.<sup>19</sup> Given our population of 326 million, this is a
 relatively tiny number – an addition of 0.3 percent.
 
-
 But this level of absorption has not been enough to meet the demand
 of our current money system. The CDC says between births and
 deaths we have a net gain of about 1.2 million people each year.<sup>20</sup>
@@ -77,7 +76,7 @@ represent about 5 percent of the workforce.<sup>21</sup> With no legal standing,
 they accept lower wages. Politico reports that, _“trends over the past
 half-century suggest that a 10 percent increase in the number of workers
 with a particular set of skills probably lowers the wage of that group by at
-least 3 percent.”_ 22
+least 3 percent.” <sup>22</sup>_
 
 So some fields, particularly low-skilled jobs have lower wages because
 of these unauthorized immigrants, which reduces buying power
