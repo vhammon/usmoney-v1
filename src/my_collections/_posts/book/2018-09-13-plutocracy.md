@@ -280,8 +280,7 @@ deduct the expenses of living.
 
 In contrast, a business entity – a money-making-for-owner-entity, can
 subtract all its expenses before arriving at a net taxable income. This
-policy says we value the money-making of businesses over the wage-
-earning of individuals. We value the supply side over the demand side,
+policy says we value the money-making of businesses over the wage-earning of individuals. We value the supply side over the demand side,
 businesses over consumers, owners over wage earners. Those values
 are not in line with a Constitution that was written to promote the
 General Welfare and Domestic Tranquility.
@@ -313,8 +312,7 @@ eight years from 2008 to 2015. They found:
 
 * 8 paid ZERO in taxes over the full eight-year period.
 * 100 paid zero – or less – in at least one profitable year during the
-      eight-year period, and 58 of those companies had multiple zero-
-  tax years.
+      eight-year period, and 58 of those companies had multiple zero-tax years.
 * 24 companies zeroed out their taxes in at least four of the eight years.
 * 48 companies paid a rate between 0 and 10 percent over
     eight years.<sup>205</sup>
