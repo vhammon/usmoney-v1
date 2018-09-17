@@ -37,7 +37,7 @@ When the 1st Bank of the United States was formed, 80 percent
 owned by private citizens, the investors were held fully and personally
 liable for the bank’s decisions. By the time the 2nd Bank of the US
 was formed, the private investors were only liable for up to double
-their investment.^281 Today, the private owners of banks, their boards,
+their investment.<sup>281</sup> Today, the private owners of banks, their boards,
 and their management are not held personally liable for the banks’
 mistakes at all – zip, zero personal responsibility.
 
@@ -80,14 +80,14 @@ Massey Energy repeatedly violated mining safety standards –
 _knowingly_ putting its employees at risk to increase its profits. CEO
 Don Blankenship was fined $250,000 and sentenced to a year in
 prison for his role in the deadliest US mine disaster in 40 years –
-the Upper Big Branch mine explosion.^282 This may sound like a big
+the Upper Big Branch mine explosion.<sup>282</sup> This may sound like a big
 fine, but when he started with Massey in 2000 he was taking home
 nearly $6 million a year. He made deliberate decisions that resulted
 in the predictable deaths of 29 people and paid a very small price in
 time and money. And, the jail time was notably rare for a corporate
 executive and a pittance for deliberate manslaughter. In 2018, Don
 Blankenship ran for a US Senate seat in West Virginia and got
-20 percent of the Republican votes.^283
+20 percent of the Republican votes.<sup>283</sup>
 
 If corporations are _people,_ why not try the company itself for willful
 murder. If the company deserves the death penalty for killing people,
@@ -119,7 +119,7 @@ a $6 billion fine is less than 20 percent of the $30 billion they made
 on this one drug alone. With a willingness to kill some consumers,
 the corporation made $17.1 billion on adjusted net earnings of $74.3
 billion in sales in 2014. And, whatever they pay in fines, they will
-deduct it from their earnings before calculating taxes.^284
+deduct it from their earnings before calculating taxes.<sup>284</sup>
 
 Alex Gorsky, the man who was in charge of marketing this drug
 falsely, was elevated to chief executive of J&J, and earned over $25
@@ -145,7 +145,7 @@ of Aviation Consumer Protection’s penalties are down 11 percent.
 Trading on the Commodity Futures Exchange? Enforcement is down
 80 percent. Stock market? – Securities and Exchange Commission
 down 68 percent. Using consumer products? The Safety Commission
-is down 43 percent. And, so on.^285 Beware.
+is down 43 percent. And, so on.<sup>285</sup> Beware.
 
 The GOP is as clear as it can be: it believes that if you are in the
 business of making money, then you should not be hampered by fear
