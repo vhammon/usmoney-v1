@@ -56,7 +56,7 @@ According to the International Monetary Fund (IMF), shadow banks
 have been doing over 50 percent of total lending by all banks. They
 may be lending money they already have or they may be creating new money by their lending. They are in the shadows, so we do not know.
 But shadow banking appears to be on a curve with an exponentially
-growing rate of growth.^40 Shadow banking refers to the basic and
+growing rate of growth.<sup>40</sup> Shadow banking refers to the basic and
 money creation activities of banks that deal in the creation and
 exchange of shadow money. They are not required to report with the
 same clarity of general banks, so the shadow also refers to the realm in
@@ -68,7 +68,7 @@ money supply of $13,918 billion – an average annual growth rate of
 8.4 percent over 104 years. There have been some differences in the
 way the money supply is counted over time, but these numbers are
 likely reasonable approximations of M2. From 2016 to 2017 the total
-M2 money supply increased by $625 billion.^41 42 Adding another
+M2 money supply increased by $625 billion.<sup>41</sup> <sup>42</sup> Adding another
 third to this $14 trillion is roughly $18.5 trillion in the money supply.
 Adding the shadow banking money creation adds an unknown
 amount. Here’s another perspective to check our assumption that the
@@ -83,20 +83,20 @@ be roughly equal to our money supply (less their equity). Does that
 check out?
 
 As of September 2017, Federal Deposit Insurance Corporation
-(FDIC)-insured banks held assets of $16.2 trillion^43 and the central
-Fed another $4.5 trillion.^44 Most of those assets are IOUs from the
+(FDIC)-insured banks held assets of $16.2 trillion<sup>43</sup> and the central
+Fed another $4.5 trillion.<sup>44</sup> Most of those assets are IOUs from the
 public or government for which the banks exchanged their own
 IOUs (Federal Reserve notes) – a total of over $20 trillion in assets on
 the books.
 
 Roughly 11 percent of the banks’ booked assets are equity – things
 they own outright, which may include real property, their own stock,
-or stock in other companies.^45 The central Fed’s equity is roughly one
-percent of their assets.^46 Subtract this equity from the $20.7 trillion
+or stock in other companies.<sup>45</sup> The central Fed’s equity is roughly one
+percent of their assets.<sup>46</sup> Subtract this equity from the $20.7 trillion
 
 and you have another indicator of the size of the money supply –
 about $18.4 trillion. The Fed reports the M2 money supply at $14
-trillion.^47 Adding another third to $14 trillion is roughly $18.5 trillion.
+trillion.<sup>47</sup> Adding another third to $14 trillion is roughly $18.5 trillion.
 
 Our supposition appears to hold. The total amount of money that
 has been created by the private banking sector is at least $18.5 trillion.
