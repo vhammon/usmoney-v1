@@ -24,9 +24,9 @@ tags:
 ---
 Here’s a little sunshine on the Federal Reserve balance sheets.
 
-## UNITED STATES FEDERAL RESERVE STATEMENT OF CONDITION OF ALL FEDERAL RESERVE BANKS COMBINED^63
+## UNITED STATES FEDERAL RESERVE STATEMENT OF CONDITION OF ALL FEDERAL RESERVE BANKS COMBINED<sup>63</sup>
 
-\[ graph ]
+<img src="https://res.cloudinary.com/usmoney/image/upload/v1537205492/fed-statement-combined.png" />
 
 ### Notes for United States Federal Reserve
 
@@ -99,20 +99,22 @@ poor is exploding.
 
 \[graph]
 
-## US Government Debt 1913–2017^64
+## US Government Debt 1913–2017<sup>64</sup>
 
 FRED. Economic Research. Federal Reserve Bank of St. Louis.
 Categories>National Accounts>Federal Government Debt
 https://fred.stlouisFed.org/series/GFDEBTN
 
-\[graph]
+<img src="https://fred.stlouisfed.org/graph/fredgraph.png?g=lfqu" />
 
-## The M3 money supply growth 1913–2017^65
+## The M3 money supply growth 1913–2017<sup>65</sup>
 
 FRED. Economic Research. Federal Reserve Bank of St. Louis.
 Categories>International Data>Countries>United States> “M3 for the
 United States (MABMM301 USA 1895). Updated May 1, 2018.
 https://fred.stlouisFed.org/series/MABMM301USA189S
+
+<img src="https://fred.stlouisfed.org/graph/fredgraph.png?g=lfqz" />
 
 ## Unsustainable
 
