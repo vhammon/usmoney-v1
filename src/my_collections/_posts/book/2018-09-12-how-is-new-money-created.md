@@ -31,7 +31,7 @@ Notes,_ for an IOU from either the public or the government.
 When the Fed system was first established it was genuinely a reserve
 system, with gold (and a little silver) as the reserve. The individual
 banks with the power to create new money had to maintain a reserve
-of gold bullion equal to 5–18 percent.^27 For every one dollar worth of
+of gold bullion equal to 5–18 percent.<sup>27</sup> For every one dollar worth of
 gold they kept on hand, they could issue their own IOUs promising
 to produce six to twenty dollars’ worth of gold on demand. However,
 it took only 16 years to go through irrationally exuberant money
@@ -126,14 +126,14 @@ instruments.
 The Fed itself says reserve requirements today affect less than
 10 percent of the money supply and, _“the tight link suggested by the
 multiplier between reserves and money and bank lending does not exist.”_
-(^28) Over several hundred years, bank money creators have successfully
+<sup>28</sup> Over several hundred years, bank money creators have successfully
 convinced lawmakers reserves are excess money that is not being fully
 utilized in the economy. They call the reserves a waste and inefficiency
 needing remedy.
 
 Effective January 2018, the law requires no reserve on deposits (bank
 promises) up to $16 million, 3 percent from $16 million to $122.3
-million, and 10 percent for more than $122.3 million.^29 But, banks
+million, and 10 percent for more than $122.3 million.<sup>29</sup> But, banks
 can count the vault deposits they would need anyway to manage their
 ATM and cash withdrawals, as reserve – because multi-tasking money
 is efficient. They have used the central banking system, and jiggered
@@ -154,7 +154,7 @@ they don’t need to have reserves for that money. After the calculation
 of reserves and reporting, another accounting entry moves the funds
 back into the deposit accounts. This is called a _daily sweep,_ and is just
 one example of the legal capers that virtually eliminate the need for
-reserves and make a mockery of a reserve requirement.^30
+reserves and make a mockery of a reserve requirement.<sup>30</sup>
 
 ### In practice: inadequate capital requirements
 
@@ -176,7 +176,7 @@ reported that by US accounting standards, JPMorgan Chase, the largest commercial
 equity for $2,292 billion in assets – a 4.5 percent ratio of capital to
 assets. However, the $2,292 billion was only what US law requires
 be reported. JPMorgan had another $1,660 billion in assets that they
-were keeping off their books.^31
+were keeping off their books.<sup>31</sup>
 
 If JPMorgan had been required to use recommended international
 standards, they would have needed to report an additional $1,660
@@ -202,7 +202,7 @@ constitutes an asset to meet this requirement. For example, banks
 can include goodwill as an asset. JPMorgan Chase in 2014 meets its
 8 percent requirement by counting $48 billion in goodwill as part of
 its $232 billion in common shareholder equity. Goodwill is 21 percent
-of their equity!^32 If they are insolvent and defaulting on their
+of their equity!<sup>32</sup> If they are insolvent and defaulting on their
 promises, what good will goodwill do? It will evaporate.
 
 Goodwill should not be a bankable asset on the balance sheet of a
