@@ -39,7 +39,7 @@ Depression that began with the market crash of 1929.
 
 In the recovery from the most recent bust, from 2009 through 2015,
 the richest one percent captured 99 percent of the growth in national
-income.^142 With a monopoly on wealth and income, they gobble up,
+income.<sup>142</sup> With a monopoly on wealth and income, they gobble up,
 own and control most of the private wealth in our nation. Here are
 some of the ways our money system shifts wealth from most of us to
 a tiny few, giving them the power to rule.
@@ -67,7 +67,7 @@ example, the market for real-estate owned by a lender (typically
 after a foreclosure), boomed in 2011 after the 2007–2008 meltdown.
 According to Wall Street analyst, Graham Fisher & Co., investors
 made 27 percent of home purchases, a number right in line with
-the housing bubble years of 2004 and 2005.^143 When investors buy
+the housing bubble years of 2004 and 2005.<sup>143</sup> When investors buy
 up houses they never intend to live in, they push up the price for
 ordinary people looking for a new home.
 
@@ -81,7 +81,7 @@ credit it used to make a substantial portion of these buys – more than
 on rental homes. Blackstone could step in and make cash offers,
 elbowing working families out of the market and buy up whole
 neighborhoods. Since 2016, Blackstone is America’s largest landlord
-of rental properties.^144
+of rental properties.<sup>144</sup>
 
 This significant shift of home ownership will have a dramatic impact
 on communities. When a single entity owns most of the homes in a
@@ -102,13 +102,13 @@ Business corporate interests. Former Goldman Sachs executive, Gary
 Cohn became the Director of the National Economic Council. No
 one represented labor, the environment or the common wealth.
 Predictable hard times are coming for most of us, when we have no
-seat at the decision-making table.^145
+seat at the decision-making table.<sup>145</sup>
 
 Update: within six months, Trump’s advisory councils quit because
 of his comments about the _“nice people”_ carrying Nazi banners and
 using Nazi slogans at a rally that killed a woman in Charlottesville,
-Virginia.^146 In March 2018 Gary Cohn quit when Trump announced
-trade tariffs without consulting with his economic team.^147
+Virginia.<sup>146</sup> In March 2018 Gary Cohn quit when Trump announced
+trade tariffs without consulting with his economic team.<sup>147</sup>
 
 ## Exploitation powers the transfer
 
@@ -145,17 +145,17 @@ to afford basic housing. That’s not possible; there are only 168 hours
 in a week – 24/7! In America nearly one in four working families
 spend more than half of their income on housing. They short other
 basics like health care and food. The stress of multiple jobs and
-juggling bills is a killer.^148
+juggling bills is a killer.<sup>148</sup>
 
 Poor people depend on work and often must take what they can
 get. We have 160 million Americans in the labor force. Roughly
 20 million of them are not working. About 14 million of those not
 working are disabled and can’t work. That’s pushing 10 percent of our
-workforce! That’s a sign something is seriously wrong.^149 150
+workforce! That’s a sign something is seriously wrong.<sup>149</sup> <sup>150</sup>
 
 Out of 160 million working Americans, 5 percent – eight million –
 are working more than one job. Some may do it to get ahead, but
-many do it to survive. Is that morally right?^151
+many do it to survive. Is that morally right?<sup>151</sup>
 
 The poor have little power to negotiate or pick and choose among
 safe well-paying jobs and early-death-dangerous, slow-death-wage
@@ -191,7 +191,7 @@ creation headed upward in the latter part of the century, a well-paid
 middle class had to shrink to enable the extraction of wealth by the
 few and the system’s need for more impoverished borrowers. Today,
 union membership is about one in 10, and on the decline – as are
-average wages.^152
+average wages.<sup>152</sup>
 
 Successful propaganda supports the false claim that unions are bad
 for the economy; in truth they are only bad for short-sighted owners.
@@ -209,7 +209,7 @@ Since 1976 in Germany, which is the world’s fourth largest economy
 that union-elected representatives constitute half of the boards of
 companies with over 2,000 employees and one third of the board of
 companies with from 500–2,000 employees. The German economy
-does well under these requirements that respect labor.^153
+does well under these requirements that respect labor.<sup>153</sup>
 
 ## Consumer exploitation
 
@@ -221,7 +221,7 @@ Fulfilling the mission was an uphill battle when the Republicans
 in Congress were blocking adequate funding for the Consumer
 Protection Bureau under the Obama administration. However, as of
 January 1, 2017 the agency had handled over one million complaints,
-and secured $11.8 billion in relief for over 29 million consumers.^155
+and secured $11.8 billion in relief for over 29 million consumers.<sup>155</sup>
 Then came President Trump. Congress and the administration are
 under Republican control. They have made it a top priority to do
 away with the Bureau entirely. In the meantime, they’ve changed
@@ -237,14 +237,14 @@ the freedom of the money power to make as much money as they can.
 We have a law protecting people who own money that someone else
 manages for them. _The Employee Retirement Income Security Act of
 1974_ (ERISA) defines a fiduciary as someone who acts financially in
-trust for someone else.^157 This law established an ethical and legal
+trust for someone else.<sup>157</sup> This law established an ethical and legal
 requirement that a fiduciary act in the client’s best interest, disclosing
 conflict of interest and fees. The definition has been strictly applied
 and did not include general brokers or sales agents of financial
 instruments, or financial fund managers.
 
 Americans have about $12.4 trillion in wealth in retirement
-accounts.^158 Most rely on financial advice at some time. Brokers,
+accounts.<sup>158</sup> Most rely on financial advice at some time. Brokers,
 financial advisors and sales people have not been required by law
 to behave ethically and put their clients’ interests first. So, some
 don’t. They have an incentive to prioritize sales of financial products
@@ -253,11 +253,11 @@ the client.
 
 The Office of Management and Budget estimated excess fees cost
 investors about $17 billion annually, diminishing retirement accounts
-and fattening financial professionals’ wallets.^159 Stanford professor
+and fattening financial professionals’ wallets.<sup>159</sup> Stanford professor
 and Nobel laureate William Sharpe calculated that investing in
 low-or-no-cost funds rather than actively managed funds would save
 people so much money that it would result in a 20 percent higher
-standard of living in retirement.^160
+standard of living in retirement.<sup>160</sup>
 
 But when financial planners and advisors are not required to put their
 clients’ interests first, they are free to sell clients investment portfolios
@@ -276,7 +276,7 @@ financial advisers and brokers are held to high fiduciary standards
 they won’t make as much money. If they can’t make as much money
 they’ll have to raise their prices because exorbitant incomes are
 their due. Then poorer people won’t be able to get their advice –
-some of which will exploit the customers’ naivete and gullibility.^161
+some of which will exploit the customers’ naivete and gullibility.<sup>161</sup>
 Republicans claim we will all benefit from their increased income –
 just not the people who are cheated or given bad advice.
 
@@ -285,13 +285,13 @@ just not the people who are cheated or given bad advice.
 We have laws that allow Walmart employees to be the largest
 group of Medicaid recipients in state after state; more of their 2.2
 million employees are on food stamps and Medicaid than any other
-company. By some estimates, each Walmart worker costs taxpayers from $3,015 to $5,815, in total $6.2 billion in 2014.^162 In 2007, the
+company. By some estimates, each Walmart worker costs taxpayers from $3,015 to $5,815, in total $6.2 billion in 2014.<sup>162</sup> In 2007, the
 wealth of the six heirs to the Walmart fortune was equal to the
 combined wealth of 30 percent of the American population. Just
 eight years later, in 2013, Rob, Jim, Alice and Christy Walton, and
 their nieces, Ann Walton Kroenke and Nancy Walton Laurie owned
 as much wealth as 42 percent of our population – 134 million of our
-citizens.^163 This is a wealth transfer machine at work. And, if you are
+citizens.<sup>163</sup> This is a wealth transfer machine at work. And, if you are
 shopping at Walmart, you are a cog in the machine gutting your own
 earning power.
 
@@ -303,7 +303,7 @@ you with the bill_ (2008); or _The Fine Print: how big companies use
 ‘plain English’ to rob you blind_ (2012), all by David Cay Johnston, a
 champion for government of, by and for the people. These books are
 eye-openers and you will never see big box stores, big business and
-the Money Power in the same light.^164
+the Money Power in the same light.<sup>164</sup>
 
 ## Wealth begets wealth
 
@@ -316,7 +316,7 @@ While the poor must work very hard to achieve wealth, the wealthy
 do not have this struggle. French economist Thomas Piketty pointed
 out in his book, Capital in the 21st Century (2014), once the superrich
 have a big chunk of wealth, their share will get bigger even if they sit
-by and do absolutely nothing.^165
+by and do absolutely nothing.<sup>165</sup>
 
 In recognition of this, and with a commitment to being a nation
 where hard work ruled, rather than inherited wealth, the US tax rates
@@ -336,7 +336,7 @@ corporate profits. In 2018 nearly 30 percent of ALL profits generated
 by domestic business in the US go to this financial extraction
 machine and its gamers. As they continue to successfully remove
 regulations that might curb their freedom to exploit the nation, the
-percentage increases exponentially.^166 167 How is our well-oiled wealth
+percentage increases exponentially.<sup>166</sup> <sup>167</sup> How is our well-oiled wealth
 transfer machine working? Very well. The rich are getting richer and
 taking ownership of more of the nation’s wealth. In 2014 in the US:
 
@@ -347,7 +347,7 @@ taking ownership of more of the nation’s wealth. In 2014 in the US:
 * The wealthiest 1/10th of one percent own 22 percent of America
     and take 8 percent of all US Income.
 * The wealthiest one hundredth of one percent own 11.2 percent
-    of America and take 5 percent of all US income.^168 And, this
+    of America and take 5 percent of all US income.<sup>168</sup> And, this
     was in 2014.
 
 Again, the wealthiest 1/10th of one percent takes home 8 percent of all
@@ -370,7 +370,7 @@ world’s wealth. A couple years ago when I first wrote this paragraph,
 only 85 people in the whole wide world had a net wealth equal to the
 total wealth of the poorest half of the world’s population. As I check
 my footnotes in June 2018, it’s now only EIGHT people. It makes me
-cry; I feel deep sorrow in my chest.^169 Think about the power and the
+cry; I feel deep sorrow in my chest.<sup>169</sup> Think about the power and the
 bad decision-making that follows:
 
 8 people own as much wealth as  
