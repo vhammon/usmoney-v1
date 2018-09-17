@@ -52,7 +52,7 @@ be enough; we may cease to try to fill emptiness with purchased stuff.
 We can savor craftsmanship, creativity, spirituality, quality goods, neigh-
 borliness, and plentiful family time. When each of us can strive to
 achieve our fullest potential without artificial hindrance, we may not
-need war to give meaning to an otherwise dreary drudge of a life.^1
+need war to give meaning to an otherwise dreary drudge of a life.<sup>1</sup>
 
 ## A renewable economy
 
@@ -82,7 +82,7 @@ We will continue to innovate and develop efficiencies because this
 is our nature; doing new and creative things brings us joy. Research
 says money is one of the poorest motivators, and removing money
 from its place as the one and only motivator will see a flowering of
-creative ideas.^2 More time for relaxation, nurturing family connections,
+creative ideas.<sup>2</sup> More time for relaxation, nurturing family connections,
 random knowledge gathering, and reflection will generate creativity on
 an unprecedented scale.
 
