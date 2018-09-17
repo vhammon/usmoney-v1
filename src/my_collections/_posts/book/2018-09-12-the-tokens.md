@@ -54,7 +54,7 @@ circulation, mostly via the Fed. The gross cost to manufacture was
 $480 million. The seignorage on the sale was $392 million – $0.45 per
 dollar of coinage issued. The Mint deducts its expenses, and in 2017,
 it passed $250 million in seignorage to the Government’s General
-Operating Fund.^33
+Operating Fund.<sup>33</sup>
 
 ## Monetized bank notes (IOUs)
 
@@ -80,14 +80,14 @@ for new cash currency and places an order with the Department
 of the Treasury’s Bureau of Engraving and Printing. The Bureau
 manufactures US currency and charges the Fed for only the cost of
 production. For 2018, the Fed ordered 7.4 billion notes, with a face
-value of $233 billion.^34
+value of $233 billion.<sup>34</sup>
 
 Manufacturing costs to the Fed were $862 million and included the
 printing, transportation, and destruction of mutilated currency. The
 physical notes cost from 5.6 cents for $1 and $2 bills to $.132 cents
 for a $100 bill. They last from 4.5 years for a $10 bill to $15 years for
 a $100 bill. Roughly 75 percent of the new bills printed each year
-replace old bills and do not add to the money supply.^35 36
+replace old bills and do not add to the money supply.<sup>35</sup> <sup>36</sup>
 
 The central Fed transforms these pieces of fancy paper into money
 when it distributes them to commercial banks _at their full face value._
@@ -129,7 +129,7 @@ some explaining, which I’ll do at the end of this chapter.
 Under The Federal Reserve Act, seignorage on the bulk of our money
 creation goes to the private bankers. This is a significant reason why
 profits in the financial sector account for over 30 percent of all the
-profits earned by business in the US.^37
+profits earned by business in the US.<sup>37</sup>
 
 There are costs in creating new money by making a loan: labor, overhead, defaults, and collection services. The difference between
 these costs and the value of the money created does not appear on
@@ -157,11 +157,11 @@ the creation of new money goes silently into the hopper, and the net
 profits go to private shareholders.
 
 The net operating income of the 5,670 banking institutions reporting
-to the FDIC in 2017 was $163 billion.^38 This net is after paying some
+to the FDIC in 2017 was $163 billion.<sup>38</sup> This net is after paying some
 unusually high salaries. For example, JPMorgan Chase CEO Jaime
 Dimond got a 35 percent pay increase in 2015 to $27 million. He
 earns almost $13,000 an hour. In three hours he earns more than
-many of his employees earn in a year.^39
+many of his employees earn in a year.<sup>39</sup>
 
 ## Free money for bankers
 
