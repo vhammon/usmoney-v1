@@ -1,11 +1,11 @@
 ---
 layout: chapter
+date: 2018-09-12T07:00:00.000Z
 title: Nature matters
 subtitle: Efficiency vs. resilience and diversity
 section-number: 11
 chapter-number: 2
 next-section: 12
-date: 2018-09-12T07:00:00.000Z
 share: true
 comments: false
 comments-locked: false
@@ -54,7 +54,7 @@ a community springs up around a single major employer, what
 happens when the big employer shuts down? My home state of
 Oregon is littered with ghost towns that were once thriving mining,
 timber or stone quarries. Michael Moore’s film _Roger & Me_ (1989)
-documented such a regional impact when General Motors shut down several auto plants in Flint, Michigan in 1992.^9 The city is still struggling to recover.
+documented such a regional impact when General Motors shut down several auto plants in Flint, Michigan in 1992.<sup>9</sup> The city is still struggling to recover.
 
 Monopolies are changing life in America. Big franchises are displacing
 small local businesses, effectively gutting Main Street. Amazon
