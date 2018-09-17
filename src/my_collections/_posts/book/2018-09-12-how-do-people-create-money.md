@@ -102,7 +102,7 @@ issue, addressed in [Chapter 8.](https://usmoney.us/book/chapter-8))
 We decide to increase the money supply by 625 billion units – an
 increase of 6 percent. If we could have any money system we want,
 what would be our choices for putting an additional 625 billion
-money units into the economy?^9
+money units into the economy?<sup>9</sup>
 
 ### Gifting into the economy
 
@@ -126,7 +126,7 @@ the banks money to invest on their behalf.
 
 Economists refer to this method of introducing money into an
 economy as a _helicopter drop,_ a term first used by 20th century
-economist, Milton Friedman.^10 The difference between the piece
+economist, Milton Friedman.<sup>10</sup> The difference between the piece
 of paper or accounting entry representing units of money and the
 value in the marketplace – so called, _seignorage_ – would go to every
 adult citizen.
@@ -176,7 +176,7 @@ included, in billions:
 * $243 for all else (includes funding for natural resources and
     environment; general science, space, and technology; general
     government; community and regional development; Social
-    Security administration, and commerce and housing).^11
+    Security administration, and commerce and housing).<sup>11</sup>
 
 If we decide to add $625 billion to our economy each year, we
 could almost triple the expenditures in the six major categories
@@ -187,7 +187,7 @@ infrastructure, citing many structurally deficient bridges and potholed
 highways, which compromise business efficiency and individual safety.
 They estimate we need to spend an additional $163 billion annually
 over a six-year period to bring our surface transportation system up
-to a well-functioning standard.^12
+to a well-functioning standard.<sup>12</sup>
 
 If our government had the power to create new money and decided
 to add $625 billion to the economy every year for the next 6 years by
@@ -196,7 +196,7 @@ only bring our transportation network up to _well-functioning,_ we
 could take our infrastructure into a sustainable, renewable energy
 producing and money-saving future – high-speed cross country rail;
 paint city streets white in hot climes to cool and save energy; put
-solar panels or energy generators in highways...^13
+solar panels or energy generators in highways...<sup>13</sup>
 
 In this case, the seignorage would accrue to the public through the
 enhanced value of the transportation system. There would be no need
@@ -273,7 +273,7 @@ guaranteed by the member’s assets. This is still creating money by
 lending money it into a community. The Swiss WIR, a money that
 complements the Swiss national money, is an example of this kind
 of system. (It was initially named the Swiss Economic Circle – in
-German, Wirtschaftsring-Genossenschaft, or in short, WIR.)^14
+German, Wirtschaftsring-Genossenschaft, or in short, WIR.)<sup>14</sup>
 
 The WIR is used within a membership of businesses who agree to use
 it to buy and sell from each other. Systems with cooperative forms of
