@@ -39,7 +39,7 @@ It helps the economy to waste a lot.
 
 We waste and throw away about 30–40 percent of our food. Families
 throw out about 25 percent of the food and beverages we buy, and the
-rest is lost in the chain from production to retail.^46
+rest is lost in the chain from production to retail.<sup>46</sup>
 
 Processing foods adds to economic activity, and as we are slow to
 learn, wastes crucial nutrients. We know some of the processes that
@@ -49,8 +49,8 @@ when you buy whole organic foods at a farmer’s market and cook at
 home, it requires only a couple money transactions – and this is bad
 in our money system. Consequently, we make it very hard for the
 organic farmer, who must submit plans, pass inspections and report
-on monitoring.^47 In contrast, our government heavily subsidizes big
-chemical dependent agriculture to the tune of $13 billion in 2016.^48
+on monitoring.<sup>47</sup> In contrast, our government heavily subsidizes big
+chemical dependent agriculture to the tune of $13 billion in 2016.<sup>48</sup>
 That’s double what we spent on th EPA.
 
 ### Clothing
@@ -61,7 +61,7 @@ throw away a lot. According to the Environmental Protection Agency,
 in 2014, we discarded 16 million tons of textiles, and only recycled
 3 million tons. Clothing materials – rubber, leather and textile –
 account for 11 percent of total landfilled waste. That’s 100 pounds of
-discarded clothing for every person every year.^49
+discarded clothing for every person every year.<sup>49</sup>
 
 ### Store it!
 
@@ -69,14 +69,14 @@ We stuff our houses and a mushrooming personal storage industry
 with the excess we consume. Prior to 1950 self-storage facilities barely
 existed. As of 2018, there were about 50,000 facilities with 2.3 billion
 square feet of storage – a good size closet of 18 square feet for every
-household in the country.^50 Stuff. How much do we need?
+household in the country.<sup>50</sup> Stuff. How much do we need?
 
 ### Trash
 
 There is good news. While in 2014 we generated 258 million tons of
 waste – 1,600 pounds per person, we recycled or composted over 89
 million tons. Another 33 tons was combusted for energy recovery.
-We’re getting better at reuse-recycle.^51
+We’re getting better at reuse-recycle.<sup>51</sup>
 
 And, then there’s some bad news. Increasingly the countries that
 have been taking our stuff for recycling do not want it anymore. My
@@ -84,7 +84,7 @@ hometown, Portland, Oregon, even with recycling, has been sending
 one million tons of waste to a landfill every year – roughly 3,300
 pounds per person. That’s almost double the national average. Shame
 on us, Portland! And, last year China said they will no longer take
-our recycling, so the amount landfilled is increasing.^52
+our recycling, so the amount landfilled is increasing.<sup>52</sup>
 
 All the effort, materials, and energy that goes into making, discarding,
 trashing-reusing-recycling is largely an unnecessary frenzy and waste.
@@ -118,20 +118,20 @@ broken. Did you know:
 * We spend more on prisons than schools. We now have more
       people behind bars than any other nation on the planet – EVER!
   And a year in prison costs taxpayers more than a year in an Ivy
-  League University.^53 54 In contrast the Netherlands has closed 32
-  prisons since 2009 because they weren’t needed.^55
+  League University.<sup>53</sup> <sup>54</sup> In contrast the Netherlands has closed 32
+  prisons since 2009 because they weren’t needed.<sup>55</sup>
 * We spend more on health care than any other nation – double
       the next highest countries, and 18 percent of the US GDP.
   Among the 10 highest income countries, we have the lowest life
   expectancy, the highest percentage of residents without basic
-  medical coverage, and highest infant mortality rate.^56
+  medical coverage, and highest infant mortality rate.<sup>56</sup>
 * We spend more on special education than we spend on parent
       education and support, or on assuring children’s food supply
       and environments are free of the poverty and poisons that
       compromise their development. In 2000, we spent $50 billion
       on special education, and $7 billion on the environmental
   protection that would reduce the number of children needing
-  remedial help. This ratio likely applies in 2017, too.^57 58
+  remedial help. This ratio likely applies in 2017, too.<sup>57</sup> <sup>58</sup>
 * We have let our bridges and highways deteriorate to the point
     that we are in danger when driving to work.
 
@@ -151,7 +151,7 @@ they can’t function well as adults. Currently 30 percent of American
 children would be living in poverty without some government
 assistance – even though most of their parents are working! _fim_
 government assistance, this percentage drops to 19 percent – 14
-million children.^59 60 So, roughly one in five of America’s children are
+million children.<sup>59</sup> <sup>60</sup> So, roughly one in five of America’s children are
 poor, going hungry and getting a lousy start in life – a waste, and a
 recipe for a more costly future.
 
@@ -170,14 +170,14 @@ Our current money system requires prioritizing profits and increasing
 the size of our economy. So, in many cases, we avoid even testing to
 see whether a product will cause harm. In its history, the EPA has
 mandated safety testing for about one percent of the 85,000 industrial
-chemicals available for use today – and only banned a handful.^61
+chemicals available for use today – and only banned a handful.<sup>61</sup>
 
 #### TOXIC PRODUCTS
 
 Our body care products, household cleaners, upholstery, bedding,
 and electronic products often have chemicals in or on them that have
 been shown to cause harm – or they simply haven’t been tested to
-assure that they are safe.^62
+assure that they are safe.<sup>62</sup>
 
 Room _fresheners_ are a case in point. Ignore a dirty room and freshen
 the air with proprietary big molecules that capture the odors and
@@ -185,7 +185,7 @@ drop them to the ground. Spray your kids’ rooms with _fresh_ scents.
 Then put your baby on the floor. Is it safe? We do not know, officially.
 But what does common sense tell us? Fewer than 10 percent of
 volatile ingredients in air fresheners are typically disclosed on labels
-and safety data sheets.^63
+and safety data sheets.<sup>63</sup>
 
 When my oldest granddaughter was born in 2003, I called Johnson
 & Johnson to ask about phthalates in their plastic baby bottles. I was
@@ -208,7 +208,7 @@ Detective Story_ by Theo Colborn, Dianne Dumanoski, and John
 Peterson Myers (1997) is a compendium of research and evidence
 to that date showing chemical pollution is shrinking penises and
 sperm counts, messing with the development of our children and
-killing us slowly with disease.^64 We’re 20 years further down this road.
+killing us slowly with disease.<sup>64</sup> We’re 20 years further down this road.
 We’ve made agonizingly slow progress to clean up our industry and
 commerce.
 
@@ -219,7 +219,7 @@ people have records of killing people by ignoring unsafe work
 conditions and pollution discharge in the industrial plants they
 own. For example, the very wealthy Koch brothers are heavy
 polluters. Their company is one of only three that rank among the
-top 30 polluters of America’s air, water, and climate.^65 They use their
+top 30 polluters of America’s air, water, and climate.<sup>65</sup> They use their
 enormous wealth to fight, remove, and ignore regulations that protect
 the environment, their employees and their neighbors. They are very
 rich – one of the ten richest families in the world. They often win.
@@ -239,7 +239,7 @@ Update & bad news: Scientific American reports that the Trump
 administration was tasked with writing the rules for how the EPA will
 implement this new law. There are concerns that their rules seriously
 subvert the law’s purpose in favor of industry, since they have stated
-that is their plan.^66
+that is their plan.<sup>66</sup>
 
 And, the worst news: Republicans who now control Congress and the
 Executive branch, tell us they are committed to doing away with the
@@ -247,7 +247,7 @@ EPA and as many nationwide protections as they can. And, they’re doing it. Acc
 2016 EPA’s already inadequate net cost was $8.6 billion. In 2017 the
 Republican Congress cut the net cost to $8.4 billion. The 2018 Budget
 is $5.66 billion – a 33 percent cut. President Trump’s proposed 2019
-budget requests $5.4 billion for the EPA – another cut.^67 68
+budget requests $5.4 billion for the EPA – another cut.<sup>67</sup> <sup>68</sup>
 
 Our GDP is nearly $19,000 billion. To spend one tenth of one
 percent on safety standard setting, monitoring, and compliance, we
@@ -266,25 +266,25 @@ applications of chemicals – increasing usage exponentially.
 Some businesses like Monsanto have deliberately ignored their own
 research that says their products do harm. They’ve gone a step further
 and spent millions to attack and discredit independent research
-agencies that find their products are cancer-causing.^69 With mounting
+agencies that find their products are cancer-causing.<sup>69</sup> With mounting
 evidence of their deliberate deceit and killing-for-profit, Monsanto’s
-GMOs have been banned by government in 38 countries.^70
+GMOs have been banned by government in 38 countries.<sup>70</sup>
 
 To increase yields and profits, in 2011 US chemical-additive farmers
 used 46,297 million pounds of fertilizer. The most recent data from
 2007, says they used another 877 million pounds of _active_ ingredients
-(herbicides, insecticides, fungicides, and other pesticides).^71 Very little,
+(herbicides, insecticides, fungicides, and other pesticides).<sup>71</sup> Very little,
 if any, testing has been done on the impact of cocktails of micro
 portions of these active ingredients on human development and life.
 
 Farmers in America use about 30 million pounds of antibiotics on
 their animals, 90 percent of it used to make the animals put on
-weight faster.^72 This increases the private owners’ profits, but shifts
+weight faster.<sup>72</sup> This increases the private owners’ profits, but shifts
 an enormous burden of ill health onto Americans. According to the
 Centers for Disease Control, almost 250,000 people each year require hospital care for antibacterial resistant infections. At least 14,000 of
-them die.^73 In 2008, Tufts University estimated these infections cost
+them die.<sup>73</sup> In 2008, Tufts University estimated these infections cost
 about $20 billion in excess direct healthcare costs, with additional
-costs to society for lost productivity as high as $35 billion a year.^74
+costs to society for lost productivity as high as $35 billion a year.<sup>74</sup>
 But, in our system, this extra spending counts as a desirable increase
 in our GDP.
 
@@ -293,11 +293,11 @@ in our GDP.
 Chemical pesticides are in our water, our food supply, and our bodies.
 Today we have chemicals in our systems, including DDT, flame
 retardants, substances used to make non-stick pans, phthalates, and a
-variety of chemicals found in many beauty products and plastics.^75 76
+variety of chemicals found in many beauty products and plastics.<sup>75</sup> <sup>76</sup>
 
 There is a price to pay for ingesting tiny bits of herbicides that kill
 off your gut flora, and tiny bits of pesticides that disrupt body
-functions.^77 These chemicals are designed to disrupt life process and
+functions.<sup>77</sup> These chemicals are designed to disrupt life process and
 kill. These chemicals can cause birth defects, developmental delays
 and early death.
 
@@ -307,16 +307,16 @@ getting shorter in the US. The United Health Foundation’s 2016
 Annual Report ranked the US 26th of 35 OECD countries for life
 expectancy and 29th for infant mortality. We spend twice as much
 as the next biggest spender on health care. Our poor outcomes are a
-clear indication that private profits are outweighing risks to our lives.^78
+clear indication that private profits are outweighing risks to our lives.<sup>78</sup>
 
 We are near the limits of Earth’s capacity to absorb and process waste
 and pollution. Over 85,000 chemicals are available for use. Most
 are tested to see if you’ll die if you drink them. Only about one
 percent are tested to see if they harm us in small quantities over years — or in combination over the short term. Even fewer are tested for
-    their impact on fish, wildlife and the comprehensive food chain.^79
+    their impact on fish, wildlife and the comprehensive food chain.<sup>79</sup>
     However, Hawaii had enough data on the impact of sunscreens
        on coral reefs and sea life to ban those containing oxybenzone and
-       octinoxate. Bravo Hawaii!^80
+       octinoxate. Bravo Hawaii!<sup>80</sup>
 
 ### Violence
 
@@ -327,28 +327,28 @@ In the US, the money interests have successfully made laws that ban
 using government money to study the causes of gun violence so we
 could make smarter and better informed choices to prevent it. In
 2018, Republicans are still supporting the 22-year ban on gun violence
-research.^81
+research.<sup>81</sup>
 
 In 2012, there were enough applications for gun ownership in the
 US to stock NATO troops five times. Over 16 million people apply for
-a gun license every year, and only a few hundred are refused.^82 We
+a gun license every year, and only a few hundred are refused.<sup>82</sup> We
 have the highest gun ownership in the world, with 89 guns for every
-100 residents. (Yemen is next with 55).^83 Out of 196 countries, 165
+100 residents. (Yemen is next with 55).<sup>83</sup> Out of 196 countries, 165
 countries do better on gun related deaths than the US. In 2016 we
 had 3.85 deaths due to gun violence per 100,000 people – no record
-to be proud of or to ignore.^84
+to be proud of or to ignore.<sup>84</sup>
 
 Gun violence costs an immeasurable amount. Guns were used in
 14,925 homicides and 22,938 suicides in 2016. Guns were used either
 intentionally or accidentally to wound 81,114 people every year on
 average from 2011–1015. On average, seven of our children are killed
 with guns every day. Many people and communities are changed by
-grief, fear, violence and death.^85 Our police are on record killing an
-average of one to three of us every single day.^86 They are accepting
+grief, fear, violence and death.<sup>85</sup> Our police are on record killing an
+average of one to three of us every single day.<sup>86</sup> They are accepting
 battle gear from the Defense Department, and say they shoot to
-kill because they fear for their own lives.^87 When violent crime is
+kill because they fear for their own lives.<sup>87</sup> When violent crime is
 at an all-time low, what is all this about? Fear makes people easy to
-manipulate.^88
+manipulate.<sup>88</sup>
 
 Yet equipping our civilians for war is a drop in the bucket compared
 to how much we spend on equipping our military and militaries all
@@ -362,7 +362,7 @@ a means of keeping a government in debt to the money power. In the
 tried unsuccessfully to engage the US in wars with the northern
 native Americans, then with Britain, with Algiers, then France. They
 hoped the government would lose its shares in the bank to war
-debt.^89 We avoided the wars they were promoting, but this practice
+debt.<sup>89</sup> We avoided the wars they were promoting, but this practice
 of promoting war has gone on with increasing success ever since.
 The US has engaged in one war or another for 215 of our 236 years
 as a nation. And the bankers ultimately succeeded in keeping the
@@ -370,10 +370,10 @@ government from having any share of the bankers money-creation
 privilege.
 
 In 2016, the world spent about $1,688 billion on military equipment –
-2.24 percent of world GDP and $221 for every person on the planet.^90
+2.24 percent of world GDP and $221 for every person on the planet.<sup>90</sup>
 The US accounts for one third or more of these global expenditures.
 The $611 billion we spent in 2016 was more than the total spent by
-the next eight biggest spenders combined.^91 The GOP, controlling
+the next eight biggest spenders combined.<sup>91</sup> The GOP, controlling
 all branches of government beginning in 2017, increased our military
 spending to $700 billion – a 15 percent one year increase, then $717
 for 2018.
@@ -387,15 +387,15 @@ sales and international military education and training. Up through
 2015, this agency became a separate line entry, making it easier to see
 what the US spends to promote the use of a military as a solution to
 the world’s conflicts: our government spent an average of $37 billion
-each year from 2015–1017.^92
+each year from 2015–1017.<sup>92</sup>
 
 The Obama administration loosened restrictions on sales, and from
-2012 to 2016, US arms sales increased by 21 percent.^93 The Trump
+2012 to 2016, US arms sales increased by 21 percent.<sup>93</sup> The Trump
 administration further relaxed customer requirements and is making
-more arms sales a key component of its foreign policy.^94 In 2017, the
+more arms sales a key component of its foreign policy.<sup>94</sup> In 2017, the
 US State Department set a new one-year record for clearing weapons
 sales, with $76 billion cleared and more than $50 billion going to the
-Middle East.^95
+Middle East.<sup>95</sup>
 
 This is good for the bankers, because the more war and destruction,
 the more borrowing for munitions, for reconstruction, and for
