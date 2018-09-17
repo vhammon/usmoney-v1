@@ -54,7 +54,7 @@ University and the University of Cambridge found that even with
 the same education from a prestige university the 10 percent highest-
 earning male graduates from richer backgrounds earned about
 20 percent more than the 10 percent highest earners from relatively
-poorer backgrounds.^188
+poorer backgrounds.<sup>188</sup>
 
 There is a marked link between parental income and the earning potential of their children. And with control of tax laws very
 wealthy people today can hold on to most of their wealth for their
@@ -84,7 +84,7 @@ hard it will be to achieve your goals. That is power.
 
 In 2017 JPMorgan held over $2.5 trillion in assets. In a very broad
 systemic sense this means that it created or controls over 18 percent of
-the total 2017 money supply.^189 One bank. A twelve-member board
+the total 2017 money supply.<sup>189</sup> One bank. A twelve-member board
 of directors set policy that determined the choices made when this
 money was created. TWELVE people decided what the priorities were
 for the creation of roughly one in five dollars. They decided whether
@@ -115,7 +115,7 @@ The very rich have reduced their taxes such that we have fewer tax
 dollars for long-term government research and development. Our
 investment in R&D has dropped from 1.2 percent of GDP in 1980
 to 0.7 percent in 2018. As a percent of the federal budget, the drop is
-from 10 percent down to 3 percent.^190 This is a mistake.
+from 10 percent down to 3 percent.<sup>190</sup> This is a mistake.
 
 For example, while reaching for the stars, many space program
 inventions found their way into our lives – memory foam, radiant
@@ -123,7 +123,7 @@ heat shield insulation, water filters, invisible braces, to name only a
 few of thousands of innovations. Today the National Aeronautics
 and Space Administration (NASA) barely scratches along. At the
 height of the space program in 1966, NASA’s budget was 4.4 percent
-of government spending. Today it is about 0.5 percent.^191 This is
+of government spending. Today it is about 0.5 percent.<sup>191</sup> This is
 shortsighted.
 
 #### PROVEN TECHNOLOGIES PREVAIL
@@ -137,7 +137,7 @@ In the mid 1990s I was at a social event in Marin, California. I was
 fortunate to enjoy a conversation with Mark Reisner, American
 environmentalist and author of _Cadillac Desert: The American West
 and its Disappearing Water_ – originally published in 1986, revised and
-reprinted in hopes someone would finally listen in 1993.^192 He talked
+reprinted in hopes someone would finally listen in 1993.<sup>192</sup> He talked
 passionately about the rice field burning in California. This burning
 polluted the air and wasted a resource. In Asia, for centuries they
 had been cutting the leftover straw and using it for many different
@@ -153,11 +153,11 @@ the burning from about 95 percent of the crops in 1980 to less
 than 10 percent in 2010. Thirty years of asthma were a preventable
 hardship, but good sense finally prevailed. And, note: it took
 government intervention and encouragement. Private business was
-not willing to do it on their own.^193
+not willing to do it on their own.<sup>193</sup>
 
 The first solar collector was created in **1767.** In 1839 a French scientist
 identified the first photovoltaic effect. In 1873 the photoconductivity
-of selenium and it’s emission of solar energy was discovered.^194 It
+of selenium and it’s emission of solar energy was discovered.<sup>194</sup> It
 took until the late 1940s – nearly 200 years later – for solar power to
 become commercially available. By the 1950s it was used to power
 our space station. Early public investment in renewable technologies
@@ -185,7 +185,7 @@ to people who look out for their own short-term bottom line,
 whether or not it benefits the nation – and we suffer accordingly. The
 nations that lead the world in sustainable energy had robust public
 funding for their development – Sweden, Costa Rica, Nicaragua,
-Scotland, and Germany. The US is #10 on the list.^195
+Scotland, and Germany. The US is #10 on the list.<sup>195</sup>
 
 #### PRIVILEGE OF HIGH LEVERAGE
 
@@ -194,7 +194,7 @@ use money to make money. For example, in 2017, our largest bank
 JPMorgan Chase owned $9.97 for every $100 they had earning
 income by US accounting standards. By European accounting
 standards, they only owned about $6. This ratio of owned to invested
-is called leverage.^196 Note that regulations matter. This 2017 leverage
+is called leverage.<sup>196</sup> Note that regulations matter. This 2017 leverage
 is up from the 2–4 percent leverage of 2007.
 
 The average person or business cannot be leveraged so highly. If you
@@ -223,7 +223,7 @@ gives the top 0.4 percent of all filers 16.5 percent of the total benefits.
 From 2028 and thereafter, the bill gives 82 percent of the total
 benefits to the top 0.6 percent of all filers. A little carrot and then
 a big stick for the general population. A big carrot and then more
-carats for the wealthiest Americans.^197
+carats for the wealthiest Americans.<sup>197</sup>
 
 #### INDIVIDUAL TAXES
 
@@ -243,7 +243,7 @@ Great Depression, the rate slowly rose to a high of 94 percent in 1945 - in part
     wealthy should pay their full share to support the war effort.
 
 This highest rate remained at about 90 percent through the 1950s
-and 1960s. We invested in a strong infrastructure and had a booming economy.^198 This high rate balanced some of the extraordinary
+and 1960s. We invested in a strong infrastructure and had a booming economy.<sup>198</sup> This high rate balanced some of the extraordinary
 privileges of the money power and kept money recirculating on Main
 Street. This highest rate was never applied to all the money a very
 rich person made; the rate climbed the more they earned, so for the
@@ -256,12 +256,12 @@ rate of 37 percent – and this is only on their income over $500,000
 (2018). Most of the super-rich use tax avoidance schemes that either
 eliminate taxes, or reduce their rate to single digits. The average
 effective tax rate of the top one percent of tax filers was 27 percent
-in 2016.^199
+in 2016.<sup>199</sup>
 
 And, when these few super-rich people die they can now preserve
 most of their estates for their children. Eliminating estate taxes
 benefits less than 0.2 percent of Americans (remember the top
-0.1 percent owns 22 percent of all wealth in America).^200 Estate taxes
+0.1 percent owns 22 percent of all wealth in America).<sup>200</sup> Estate taxes
 hit the top tiniest percent of people almost entirely. But, the super-
 rich have successful sold the idea that taxing big estates is a _death
 tax_ and _double taxation._ One study found the financial support for
@@ -269,7 +269,7 @@ eliminating inheritance taxes came from 18 super-rich families. These
 people provide the anti-government activists with most of the money
 for this anti-tax effort. So, 18 families are driving a grassroots campaign
 to cut their focus-group tested _death taxes_ – leaving most Americans
-to fill the gap in government revenues.^201 If you’re on this bandwagon,
+to fill the gap in government revenues.<sup>201</sup> If you’re on this bandwagon,
 the super-rich are conducting the band.
 
 #### CORPORATE TAXES
@@ -302,13 +302,13 @@ prosperous economy, corporations as a group paid an average of more
 than 49 percent of their profits in federal corporate income taxes.
 Decade by decade this average shrunk: 1960s – 38 percent; 1970s – 33;
 1990s – 25 percent. By 2017, they paid 18 percent, though by statute
-the tax rate never dropped below 35 percent for all those years.^202 203
+the tax rate never dropped below 35 percent for all those years.<sup>202</sup> <sup>203</sup>
 
 In 2012, America’s 10 most profitable corporations paid an average
 income tax rate of only 9 percent – including JPMorgan Chase
 our biggest bank and money creator, and Wells Fargo Bank. Oil
 company ExxonMobil paid a tax rate of 2 percent, and Chevron paid
-4 percent.^204
+4 percent.<sup>204</sup>
 
 The Institute on Taxation and Economic Policy analyzed 258 of the
 Fortune 500 companies that earned $3.8 trillion in profits over the
@@ -320,14 +320,14 @@ eight years from 2008 to 2015. They found:
   tax years.
 * 24 companies zeroed out their taxes in at least four of the eight years.
 * 48 companies paid a rate between 0 and 10 percent over
-    eight years.^205
+    eight years.<sup>205</sup>
 
 Corporations have shrunk their overall share of taxes, too. Corporate
 income tax as a share of GDP dropped from a high of 6 percent in
-1952 to 1.6 percent in 2017.^206 207
+1952 to 1.6 percent in 2017.<sup>206</sup> <sup>207</sup>
 
 Corporate income tax as a share of the federal government’s operating
-fund dropped from 43 percent in 1952 to 14 percent in 2017.^208 In part
+fund dropped from 43 percent in 1952 to 14 percent in 2017.<sup>208</sup> In part
 this is because there has been an increase in wealthy individuals filing
 as S-corporations, but overall, the share of corporate business taxes
 has dropped.
@@ -336,7 +336,7 @@ In 2017, individual income tax payments were five times the
 contributions of corporations. Individuals paid $1,526 billion in
 income taxes, and ALL the corporations in our great nation only paid
 $299 billion in corporate income taxes on $2,248 billion in all-time
-high corporate profits.^209
+high corporate profits.<sup>209</sup>
 
 The Institute for Policy Studies found, _“Of America’s 100 highest-paid
 CEOs, 29 received more in pay last year than their company paid in
@@ -371,7 +371,7 @@ Government. Banks justly argue that a Big Bank failure will take the
 entire economy down, so a taxpayer guarantee is in the nation’s best
 interest.
 
-Nearly all the big US banks were insolvent in 2007.^211 Their assets
+Nearly all the big US banks were insolvent in 2007.<sup>211</sup> Their assets
 had dropped more than 4 percent in value; it would have taken
 more than they had in reserve and in equity to cover their promises
 coming due. The central Fed bailed them out, with a US government
@@ -395,9 +395,9 @@ case they will be ignored, protected or exonerated.
 
 Back in 2014 I wrote that despite evidence of fraud, criminal
 negligence and other criminal activity, not one banker went to
-jail after the 2007–2008 meltdown. This was true through 2016.^212
+jail after the 2007–2008 meltdown. This was true through 2016.<sup>212</sup>
 Double checking references in 2018, I find that, yes, 35 bankers
-went to jail!^213 So some wheels of justice turned. However, it took
+went to jail!<sup>213</sup> So some wheels of justice turned. However, it took
 almost ten years. And remember that if we’d jailed a proportionate
 number to Iceland’s arrests after their 2007 meltdown, we’d have
 arrested 600,000 – probably a more accurate reflection of the number
@@ -426,7 +426,7 @@ piddling fine compared to the profits they made on their crime. A
 few individuals were charged, and acquitted. No one was jailed. In
 2012, they made a specific law stating this rigging is a crime, as if
 existing laws about fraud did not cover it. This is crime that did pay
-the privileged bankers and traders.^214 215
+the privileged bankers and traders.<sup>214</sup> <sup>215</sup>
 
 While the LIBOR scandal took place on a global scale with global impact, the pattern is common at our national level. As some have
 noted, the Ponzi artist Bernie Madoff did go to jail – because he
@@ -455,7 +455,7 @@ of a team creating a successful company, CEOs would be viewed as
 a unique and special class of people competing with other CEOs. If
 a company wanted a better-than-average CEO, it would have to
 pay more than the median CEO pay. Since everyone can’t be above
-average, this drove a steady, exponential increase in CEO pay.^216 In
+average, this drove a steady, exponential increase in CEO pay.<sup>216</sup> In
 2018, estimates of this ratio range from 300 to 500.
 
 In 2015, the Securities and Exchange Commission (SEC) ruled that
@@ -468,14 +468,14 @@ We are beginning to have solid data on the disparity between CEO
 pay and workers, so the justifications for this disparity are coming out as well. In February 2017, Alex Edmans at the Harvard Business
 Review explained that CEOs were like one-of-a-kind sports or
 entertainment stars and their salary should not be compared to
-ordinary people.^218 The problem with this argument is that there is
+ordinary people.<sup>218</sup> The problem with this argument is that there is
 no evidence that CEOs deserve this prima donna royal status.
 
 Modern Index Strategy Indexes (MSCI) sampled 429 large-cap
 US companies between 2006 and 2015, and found that _“average
 shareholder returns were higher when a company’s CEO was in the
 bottom 20% (of total compensation) than it was for companies whose
-executives were in the top 20% of earners.”_ 219 Could it be that people
+executives were in the top 20% of earners.”_<sup>219</sup> Could it be that people
 work harder and produce more in companies that treat them as
 respected contributors? Companies that have a king and serf model
 do not fare as well.
