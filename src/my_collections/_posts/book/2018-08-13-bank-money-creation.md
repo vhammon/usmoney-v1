@@ -23,9 +23,10 @@ categories:
 tags:
   - money
 ---
-_Yet few people not versed in banking ever dream that their money ‘in the bank’
-is not in the bank; and few people versed in banking ever dream that the
-money which is not there ought to be there, or that it is practical to have it there._
+> _Yet few people not versed in banking ever dream that their money ‘in the bank’
+> is not in the bank; and few people versed in banking ever dream that the
+> money which is not there ought to be there, or that it is practical to have it there._
+
 — Irving Fisher, Economist, 1936<sup>12</sup>
 
 An anchor provides stability or confidence in an otherwise uncertain
