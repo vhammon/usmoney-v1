@@ -25,8 +25,7 @@ tags:
 The second important question is: **How will new money be entered
 into the economy?** This is a question to be decided through our system
 of governance: our democratically elected Congress – preferably with
-input from government at local and state levels. Perhaps a pre-deter-
-mined allotment would be decided at individual, state, and federal levels.
+input from government at local and state levels. Perhaps a pre-determined allotment would be decided at individual, state, and federal levels.
 For example, the law changing our system to commonwealth money can
 stipulate that 30 percent of new money go to individuals, 40 percent to
 states, and 30 percent to the federal operating budget. Or, what propor-
@@ -34,8 +33,7 @@ tion do you think would serve us best, and why?
 
 In the old system, banks were deciding who should get new and existing
 money, because it had to be recreated constantly as loans were repaid
-and then reissued. This gave bankers incredible control over our econ-
-omy and the direction of our investments. The new system takes back
+and then reissued. This gave bankers incredible control over our economy and the direction of our investments. The new system takes back
 some of this control and gives it to WE, the people – individually and
 collectively. Investment decisions are distributed far more widely. A
 broader base of deciders makes better decisions, which then leads to
@@ -46,8 +44,7 @@ of it into Main Street for the benefit of all of us. The nuts and bolts of
 how this works are in the next section.
 
 Since at present, government mostly spends, for simplicity, I’ll just refer
-to government spending as its means of entering money into the econ-
-omy. (Just remember we may choose to have it given, invested or loaned.)
+to government spending as its means of entering money into the economy. (Just remember we may choose to have it given, invested or loaned.)
 
 **Remember, government spending is not a zero-sum proposition; it’s
 an important part of a healthy circulation cycle.** For example, let’s say
@@ -60,8 +57,7 @@ pay for education, pay for a well-staffed justice system...
 Whatever government spending buys, money goes to someone. It pays
 a teacher, a fireman, a policeman, a nurse, a researcher, a park ranger, a
 road construction crew, a clean water monitor. Then it moves around.
-Those 100 units of money may facilitate 1,000 units of trade. A govern-
-ment employee buys groceries, and the grocer buys from farmers, and
+Those 100 units of money may facilitate 1,000 units of trade. A government employee buys groceries, and the grocer buys from farmers, and
 the farmers buy from the seed company, and the seed company pays
 wages. Money moves around. This is how money works, and this is why
 government spending acts as a broad stimulus in the economy.
@@ -84,8 +80,7 @@ of our economic activity in taxes, the government will have the same
 change systems, from one that steadily deteriorates the value of money
 to a stable value money system, government spending will remain rela-
 tively stable. Government spending is not taking _other people’s money_
-and we won’t _run out of it._ It circulates. Government spending is a crit-
-ical component of the circulation in a healthy economy.
+and we won’t _run out of it._ It circulates. Government spending is a critical component of the circulation in a healthy economy.
 
 If we taxed every bit of income over a basic living amount, our tax could
 be well under 10 percent – maybe as low as 2 to 3 percent...a topic for
@@ -127,8 +122,7 @@ account ready to be given, spent, invested, or lent back into circulation.
 
 For the sake of discussion, let’s figure the banks will have about 99 percent
 of their loans returned within a 10-year period. There may be some
-outlier 30–50 year mortgages that go their full term, but if our law spec-
-ifies that no debt made using the former money creation powers of the
+outlier 30–50 year mortgages that go their full term, but if our law specifies that no debt made using the former money creation powers of the
 banks can be assumed by another, then it is reasonable to figure within
 10 years nearly all money in circulation will be common wealth money.
 
@@ -172,7 +166,7 @@ time, instead of over 10 years:
 
 If we want to be grown-up responsible, then the government debt _held
 by the public_ currently stands at about $14,724 billion (2017 fiscal year
-end).^2 We could pay it off as it comes due, instead of reissuing more
+end).<sup>2</sup> We could pay it off as it comes due, instead of reissuing more
 debt to cover it as we do now. Remember this debt was necessary as an
 anchor for the fractional reserve money creation of the public bankers
 in our old system. But, in our new money system, there will no longer
@@ -185,7 +179,7 @@ of it until its term is up. For example, in 1982, President Reagan issued
 30-year bonds that could not be paid off early, paying an all-time high
 interest of 14.56 percent. The few investors who had first grab at these
 bonds, collected that interest up until 2012, even though bond interest
-was under 8 percent since 1990, and under 5 since 2000.^3
+was under 8 percent since 1990, and under 5 since 2000.<sup>3</sup>
 
 As our government debt decreases, the cost of government will decrease.
 One in six of your income tax dollars goes to pay interest on US
@@ -198,8 +192,7 @@ keep money circulating.
 
 As the US Government ceases to be a big borrower (which it is required
 to do in the old system), this will free up money for borrowing by the
-business community. There will be no shortage of credit available to busi-
-nesses and to individuals. Paying off government debt will put almost
+business community. There will be no shortage of credit available to businesses and to individuals. Paying off government debt will put almost
 $15 trillion back into the pool of funds available to lend and invest.
 
 ### Repair and modernize our nation
@@ -218,19 +211,18 @@ switch to farming that preserves our food supply. These are all critical
 priorities. The unregulated free market will not take care of these prob-
 lems in time. The government must take action.
 
-We can spend to rebuild our infrastructure. Our national transporta-
-tion and communication networks are sorely in need of maintenance
+We can spend to rebuild our infrastructure. Our national transportation and communication networks are sorely in need of maintenance
 and improvement. We need to fill our potholes, repair our bridges and
 highways. Put solar recharging stations along our major highway. Today
 many developing nations provide free high speed broadband to their
 citizens, increasing economic activity dramatically.
 
 We can build new schools so we do not have children dodging rats,
-breathing mold and vulnerable to earthquakes. While Philadelphia^4 and
-Detroit^5 both made national news for these problems, many cities have
+breathing mold and vulnerable to earthquakes. While Philadelphia<sup>4</sup> and
+Detroit<sup>5</sup> both made national news for these problems, many cities have
 aging schools in need of repair. Nationally there aren’t enough nursing
 schools to meet our need for nurses with boomers aging. (or teachers
-for the nursing schools – over 1,500 vacant teacher positions).^6 We can
+for the nursing schools – over 1,500 vacant teacher positions).<sup>6</sup> We can
 build new colleges and vocational schools, and hire new teachers so
 everyone who wants an education has a place to get one.
 
@@ -258,8 +250,7 @@ up profits that sink into a few pockets and cease to circulate locally.
 
 ### Quality of Life
 
-If life is a right, then long-living shouldn’t be for the rich and slow-dy-
-ing for the poor. Like most of the developed world we can and should
+If life is a right, then long-living shouldn’t be for the rich and slow-dying for the poor. Like most of the developed world we can and should
 provide health care for everyone. No citizen should have to worry that
 they will be bankrupt and jobless if they need medical care. The nations
 providing health care for everyone spend less on health care and have
@@ -273,13 +264,12 @@ Over months, physical and occupational therapists, and nurses came to
 the house to show us how to make her safe and comfortable. Let’s have
 a hospitality service for the beginning of life!
 
-Some European countries provide welcome boxes for their new citi-
-zen-babies, and a few cities in the US are experimenting with this
-wonderful way to say we care about all our citizens.^7 In Europe, new
+Some European countries provide welcome boxes for their new citizen-babies, and a few cities in the US are experimenting with this
+wonderful way to say we care about all our citizens.<sup>7</sup> In Europe, new
 moms and dads can take up to two months paid leave to bond with
-their babies and establish a strong family.^8 Then they can have some-
+their babies and establish a strong family.<sup>8</sup> Then they can have some-
 one come in and give them respite, or help with shopping, or laundry
-or cleaning.^9 We can do this. This would make America great!
+or cleaning.<sup>9</sup> We can do this. This would make America great!
 
 New moms and dads could choose to have an early childhood expert
 make a home visit to check for child safety concerns. If parents needed
@@ -313,7 +303,7 @@ storage for decades and the results have only recently been analyzed.
 By every measure people were better off. Most people continued to
 work. People were healthier. Hospital visits dropped. More kids stayed
 in school. Mothers took more time with their babies. People were less
-stressed and happier.^10 The Canadian province of Ontario launched
+stressed and happier.<sup>10</sup> The Canadian province of Ontario launched
 another basic income pilot project in November 2017.
 
 In June 2016, after 10 years of discussion, the Swiss people became the
@@ -324,7 +314,7 @@ before the vote, _“In Switzerland over 50% of total work that is done is
 \[already] unpaid. It’s care work, it’s at home, it’s in different communities,
 so that work would be more valued with a basic income.”_ The referendum
 went down 77–23 percent, but almost 70 percent of voters believe that
-it will reappear on a ballot after further discussion polishes the plan.^11
+it will reappear on a ballot after further discussion polishes the plan.<sup>11</sup>
 What would you choose to do if you had a basic income?
 
 A guaranteed basic income is not a new idea. There have been proposals
@@ -334,8 +324,7 @@ The group _usbig.net_ has resources for exploring this option. By some of
 their estimates we could break even by eliminating over 100 different
 government programs that help the poor.
 
-Cutting these programs would considerably reduce the cost of govern-
-ment. There would no longer be any repetitive application processes,
+Cutting these programs would considerably reduce the cost of government. There would no longer be any repetitive application processes,
 means testing, processing, monitoring for fraud, etc. Medicare and
 Medicaid employ 6,000 people and contracts out most of their work.
 But, those people put out of work would have a basic income to tide
@@ -352,8 +341,7 @@ til they turn 18, that could either go towards their family’s costs, or be
 set aside in a savings account for when they turn 18. Imagine how our
 nation would change!
 
-Yes, it raises interesting issues about dependency, personal responsibil-
-ity, and productivity. Would everyone just sit on their porch, smoke
+Yes, it raises interesting issues about dependency, personal responsibility, and productivity. Would everyone just sit on their porch, smoke
 pot and twiddle their thumbs? Would enough people want to farm so
 that we have plenty of food? I asked my dairyman, who devotes untold
 hours to providing the best milk on the planet, what he would do. Mike
@@ -361,14 +349,13 @@ said he is passionate about providing good food and he would keep at
 it. But, it would be a godsend, making his life more comfortable, and
 help him tide over downturns.
 
-Could small businesses find good labor? Certainly our model of exploita-
-tion would need to shift toward a partnership model of business, but
+Could small businesses find good labor? Certainly our model of exploitation would need to shift toward a partnership model of business, but
 this would be good for our nation, right?
 
 Inadequacy, despair and dependency are a part of our culture today.
 According to the Census Bureau, in 2012, approximately 52.2 million
 (21.3 percent) Americans drew income from major means-tested govern-
-ment assistance programs each month.^12
+ment assistance programs each month.<sup>12</sup>
 
 In 2012, roughly 50 percent of our population received benefits from one
 or more general government benefit programs such as Social Security,
@@ -393,8 +380,7 @@ the SS high, or provide for all at a lower and equal level.
 
 Social Security began as an insurance program. That’s still its official
 name, _Old-Age, Survivors and Disability Insurance Program._ It was not
-intended to be a retirement plan, paying more to those who contrib-
-uted more; it was intended to be a basic survival income for the old
+intended to be a retirement plan, paying more to those who contributed more; it was intended to be a basic survival income for the old
 and disabled. However, the money power twisted it into a system that
 values those who work for money over those who work without. The
 people who choose high paying careers and work at least 35 years, get
@@ -411,15 +397,13 @@ on their meager $750/month in Social Security benefits.
 It would take time, and perhaps generations to make the cultural shift.
 We have people who are fourth generation welfare recipients, still facing
 lives of mostly despair, poor health, curtailed educations and sometimes
-crime. Would some people choose to take their basic income and vege-
-tate on alcohol and drugs? Probably. Some do today. But a different
+crime. Would some people choose to take their basic income and vegetate on alcohol and drugs? Probably. Some do today. But a different
 system encourages different behavior. As each successive generation faces
 genuine opportunity, fewer would choose to waste their lives. It is the
 poverty, despair, and hopelessness that keeps people trapped. Healthy,
-happy kids who can see a positive future do not choose a life of vegeta-
-tive despair. Kalamazoo, Michigan has been promising its students who
+happy kids who can see a positive future do not choose a life of vegetative despair. Kalamazoo, Michigan has been promising its students who
 graduate from high school, a college scholarship since 2005. It’s made a
-difference, not only for the kids, but for the whole town.^13
+difference, not only for the kids, but for the whole town.<sup>13</sup>
 
 An equal annual distribution of new money, or basic income, would not
 make everyone the same; some people would still have advantages from
@@ -429,15 +413,13 @@ Just as in a board game, even though people start out with the same
 amount, they play the game differently, and some come out ahead.
 That’s life, too. But, in our new system, the game is not rigged against
 some and to the advantage of others. And, the system would no longer
-be set up so some people’s lives and health are exploited for the bene-
-fit of a few wealthy people.
+be set up so some people’s lives and health are exploited for the benefit of a few wealthy people.
 
 Basic Income is a worthy option to consider. While it’s a great idea
 on its own, it likely needs a change in the money system to work. If
 we implemented it under our current system, it could cause inflation,
 because it would require an increase in government spending, which
-currently means more borrowing and money creation by private bank-
-ers. The organization USBig claims it could be close to a wash when we
+currently means more borrowing and money creation by private bankers. The organization USBig claims it could be close to a wash when we
 eliminate all the existing programs. Check out their resource papers at
 usbig.net. In a common wealth money system, the reduction in wealth
 extraction by the tiny elite money power would pay for this basic income
@@ -448,13 +430,11 @@ expenditure.
 A universal basic income makes the most sense to me, but if that’s a step
 too far, then a bonus check is another option. We could send everyone
 a check. Roughly 75 percent of our population of 320 million is over 18
-years old – so 240 million adults. IF we had an even 10-year distribu-
-tion – which we would not – that’s $1,400 billion to distribute each year.
+years old – so 240 million adults. IF we had an even 10-year distribution – which we would not – that’s $1,400 billion to distribute each year.
 We could send 240 million adults a check for $5,800 every year for 10
 years. And, we’d still have the same amount of money circulating. This
 would put money into circulation on Main Street, which would cause
-a dramatic upswing in business everywhere. That money would circu-
-late from customer to business and employer to employee and around
+a dramatic upswing in business everywhere. That money would circulate from customer to business and employer to employee and around
 again. And, the direction of the economy would be chosen in the most
 distributed way. If we buy solar panels for our roofs and electric cars with
 our windfall we could put the shift to renewable energy into hyperdrive.
@@ -463,22 +443,19 @@ see a true one with a level playing field and genuine consumer choice.
 
 However, it would be irresponsible to ignore our debt and the need to
 prudently prepare for our future and choose this as a single path, but
-there’s no reason we couldn’t give every adult a little bonus to gener-
-ate local economic activity. This, too, will create jobs. For example, if
+there’s no reason we couldn’t give every adult a little bonus to generate local economic activity. This, too, will create jobs. For example, if
 we used just 10 percent of the money to give every adult a bonus, that
 would put an extra $580 in our pockets every year for ten years. That’s
 enough to generate some citizen directed economic activity.
 
 ### Balance, proportion and prudence
 
-Congress can specify a percentage of annual money creation and recir-
-culation that goes toward any or all of the following:
+Congress can specify a percentage of annual money creation and recirculation that goes toward any or all of the following:
 
 * Re-loan to the banks to assist them in the transition (over a
     limited time)
 * Pay down government debt as it comes due
-* Spend to make the transformation from fossil fuels to renew-
-    able energy
+* Spend to make the transformation from fossil fuels to renewable energy
 * Spend for infrastructure maintenance at federal and state levels
 * Pay for universal health care
 * Give to citizens as basic income or as a bonus.
@@ -497,39 +474,34 @@ their vote had this additional impact.
 We will make the best decisions about how to improve the general welfare
 and the common wealth when we have some decent data on its current
 condition. It’s worth our while to know what we have in common wealth
-assets and the current liabilities against them. Let’s take a comprehen-
-sive look at our common wealth and its value.
+assets and the current liabilities against them. Let’s take a comprehensive look at our common wealth and its value.
 
 Unfortunately, we don’t currently keep track of this. Our US Government
 Financial Report gives a nod at the end of the _Notes #25_ to what it calls
-our _Heritage Assets_ – our public lands and historical sites. It acknowl-
-edges we have set aside land for public and military use, public parks
+our _Heritage Assets_ – our public lands and historical sites. It acknowledges we have set aside land for public and military use, public parks
 and sites of cultural importance. But, none of this is given any value.
 Only financial assets are booked in our national accounts (cash on hand,
 accounts receivable, financial investments).
 
 Our government gives no financial value to the very real common wealth
 that guarantees our ability to prosper and to back the promises made by
-our money system – the health and level of education of our popula-
-tion; the effectiveness of our institutions for justice and governance; the
+our money system – the health and level of education of our population; the effectiveness of our institutions for justice and governance; the
 usefulness of our transportation and communication networks; access
 to a rich cultural heritage of art and ideas.
 
 The Federal Government owns nearly 650 million acres of land – almost
 30 percent of the land area of the United States. Let’s appraise it and book
-the value of its many resources, including recreation, watersheds, miner-
-als, grazing land, etc. Let’s book any delayed maintenance or clean-up
+the value of its many resources, including recreation, watersheds, minerals, grazing land, etc. Let’s book any delayed maintenance or clean-up
 costs on the liability side of our national accounts.
 
 Let’s book the value of our drinking water aquifers, and book – and
 mourn – their loss as we draw them down below sustainable levels. Fifty
 years ago Oregon put a law on its books that required water permits
 take into account the state of the aquifer. This is a smart thing to do;
-it doesn’t make sense to give away so much water that it will be impos-
-sible for people to live and farm in the state within a short time. But,
+it doesn’t make sense to give away so much water that it will be impossible for people to live and farm in the state within a short time. But,
 after 50 years of inadequate funding and free market propaganda, we
 still do not know the volume of water remaining in our aquifers, and
-we keep giving more and more of it away every year.^14
+we keep giving more and more of it away every year.<sup>14/<sup>
 
 There is a clear financial value to having clean air to breathe and water to
 drink. Let’s book it. Let’s account for the liability of air pollution. Let’s
@@ -549,12 +521,10 @@ depressant drugs. Let’s have as broad and detailed an index as possible
 measuring how we are achieving the goals for our nation set forward in
 our founding documents.
 
-When we do not give this common wealth a value, it is easy to whit-
-tle it away without anyone paying attention. We find ways to assign a
+When we do not give this common wealth a value, it is easy to whittle it away without anyone paying attention. We find ways to assign a
 financial value to nearly everything else, so surely we can come up with
 a way to value our common wealth. If JPMorgan and other businesses
-can book _goodwill_ on their balance sheets, we can book _domestic tran-
-quility_ and the _general welfare_ on the nation’s balance sheet.
+can book _goodwill_ on their balance sheets, we can book _domestic tranquility_ and the _general welfare_ on the nation’s balance sheet.
 
 It’s worth putting some resources towards cataloging our very real assets
 and the liabilities against them. It’s a big project, but worthwhile. When
