@@ -151,7 +151,7 @@ relationships.” 23
 * Government authorizes the money, making it legal tender; and,
 * Government backs the money with the full faith, credit and
     common wealth of the nation: and,
-* **Government creates new money by giving, spending** , **lending,**
+* **Government creates new money by giving, spending**, **lending,**
     **or investing,** and money cannot be used by anyone else to
     leverage additional money creation. This money is not anyone’s
     debt or credit, it is an asset – part of the shared equity of the
