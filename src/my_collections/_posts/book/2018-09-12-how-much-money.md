@@ -22,11 +22,11 @@ categories:
 tags:
   - money
 ---
-_There is a certain proportionate quantity of money requisite to carry on
-the trade of a country freely and currently; more than which would be of
-no advantage in trade, and less, if much less, exceedingly detrimental to it._
+> _There is a certain proportionate quantity of money requisite to carry on
+> the trade of a country freely and currently; more than which would be of
+> no advantage in trade, and less, if much less, exceedingly detrimental to it._
 
-— Benjamin Franklin, _The Nature and Necessity of a Paper Currency,_ 1729^15
+— Benjamin Franklin, _The Nature and Necessity of a Paper Currency,_ 1729<sup>15</sup>
 
 After the Great Depression, when President Franklin D. Roosevelt
 took office in 1933, one quarter of the US workforce was unemployed.
@@ -150,7 +150,7 @@ she would have found a nation with too much money. She would
 have found some prices had been jumping up by over 10 percent
 annually for several years. The average price of new homes in the US
 increased by 70 percent in the ten years from 1997 to 2007 according
-the Census Bureau.^16 Banks were using software to calculate mortgage
+the Census Bureau.<sup>16</sup> Banks were using software to calculate mortgage
 risks that did not include the possibility of falling prices. People were
 giddy about home buying and loans were so easy to get, you didn’t
 need any paperwork documenting your income for many loans.
@@ -201,9 +201,9 @@ difficult years of the recent depression – the central Federal Reserve
 bank (Fed) loaned the big banks and financial players over $16.1
 trillion which they used to buy stocks, bonds, municipal properties
 and revenue streams, commodity sources, and entire communities
-of housing.^17 That’s ‘T’ for TRILLION, more than the entire volume
+of housing.<sup>17</sup> That’s ‘T’ for TRILLION, more than the entire volume
 of economic activity in the nation in the year 2011 when the Gross
-Domestic Product (GDP) was $15,319.^18 More on this wealth transfer
+Domestic Product (GDP) was $15,319.<sup>18</sup> More on this wealth transfer
 machine in [Chapter 6.65–6.72.](https://usmoney.us/book/chapter-6)
 
 When we have too little money in proportion to the products and
@@ -238,7 +238,7 @@ choosing steady devaluation have been running in the 5–8 percent
 devaluation range for the past century – and simply changing the way
 they measure devaluation to push the numbers into their sweet spot.
 In the US, our Federal Reserve System declares 2 percent devaluation
-of the dollar to be optimum.^19
+of the dollar to be optimum.<sup>19</sup>
 
 If you value an equitable system that privileges no one, then the
 right amount of money is an amount that keeps the value of money
