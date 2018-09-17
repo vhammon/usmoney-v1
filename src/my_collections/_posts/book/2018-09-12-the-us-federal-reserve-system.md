@@ -22,10 +22,10 @@ categories:
 tags:
   - money
 ---
-_The Federal Reserve, the central bank of the United States, provides the nation
-with a safe, flexible, and stable monetary and financial system.  _
+> _The Federal Reserve, the central bank of the United States, provides the nation
+> with a safe, flexible, and stable monetary and financial system.  _
 
-– http://www.federalreserve.gov
+– <http://www.federalreserve.gov>
 
 The Federal Reserve Act makes money created by private bankers
 using a fractional reserve system our national money. Our money is
@@ -51,9 +51,9 @@ mandated.
 
 We the people decided, through our duly elected representatives in
 the Congress of the United States. In 1913, we passed a law called, _The
-Federal Reserve Act._^11 The law was written in 10 days, in secret, by six
+Federal Reserve Act._<sup>11</sup> The law was written in 10 days, in secret, by six
 bankers on Jekyll Island off the coast of Georgia, and then passed
-by Congress.^12 As with all fractional reserve money creation systems,
+by Congress.<sup>12</sup> As with all fractional reserve money creation systems,
 the choice was not made with all the information on the table. It is
 fair to say most decision-makers never fully understood the decision
 they were making; a review of what they chose to argue about will show this to be true. The arguments are mostly about the role of a
@@ -105,7 +105,7 @@ guarantor of the value of the Federal Reserve System IOUs. From
 1913–1970 the Federal Reserve System banks were required to back
 their notes with a 5–25 percent reserve of gold or gold certificates, to
 support the guarantee from the US government implicit in making
-the Federal Reserve Notes the national money.^13
+the Federal Reserve Notes the national money.<sup>13</sup>
 
 From 1970 to the present, ownership of a gold reserve has not been
 required of the private banks. Today, bank reserves consist of IOUs
@@ -151,7 +151,7 @@ monetary system. The Federal Reserve Act gives the central bank a
 few ineffective powers to limit the private banks’ money creation
 so the decline in the value of the dollar remains steady at about
 2 percent. Methods of measurement have simply been changed to
-keep the reported decrease in value closer to the target.^14 There are no
+keep the reported decrease in value closer to the target.<sup>14</sup> There are no
 consequences for failure built into the law.
 
 ## A CENTRAL BANK
@@ -167,7 +167,7 @@ by the President of the United States and confirmed by the Senate
 for staggered 14 year terms. By law, the appointments must yield
 _a “fair representation of the financial, agricultural, industrial, and
 commercial interests and geographical divisions of the country,”_ and no
-two Governors may come from the same Federal Reserve District.^15
+two Governors may come from the same Federal Reserve District.<sup>15</sup>
 It is assumed that the interests represented are those of the industries’
 _owners,_ not those who labor in those industries.
 
