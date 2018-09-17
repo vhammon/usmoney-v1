@@ -54,8 +54,7 @@ to grow and the money supply remains constant, there will be less
 money in proportion to the exchanges using money. This is one way
 to reduce the money supply.
 
-If population and productivity remain constant, then the money-
-creator could tax or demand some form of payment that would pull
+If population and productivity remain constant, then the money-creator could tax or demand some form of payment that would pull
 money back out of the economy. If this tax money was not re-spent
 into circulation, it would effectively be destroyed.
 
