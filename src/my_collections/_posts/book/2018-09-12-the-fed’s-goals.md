@@ -22,11 +22,16 @@ categories:
 tags:
   - money
 ---
-**The Purposes and Functions of the Federal Reserve System...**
-_The goals of monetary policy are spelled out in the Federal Reserve Act, which
-specifies that the Board of Governors and the Federal Open Market Committee
-should “seek to promote effectively the goals of maximum employment, stable
-prices, and moderate long-term interest rates._\
+> **The Purposes and Functions of the Federal Reserve System...**
+>
+>
+>
+>
+> _The goals of monetary policy are spelled out in the Federal Reserve Act, which
+> specifies that the Board of Governors and the Federal Open Market Committee
+> should “seek to promote effectively the goals of maximum employment, stable
+> prices, and moderate long-term interest rates._
+
 — _The Federal Reserve: Its Purposes and Functions,_ 9th Edition, 2005
 
 We gave away the power to create 99 percent of our new money to
@@ -96,7 +101,6 @@ sometimes to the advantage of business owners. Like a real business cycle, it wi
 be too few nurses and they can demand a high wage, or too many
 combustion engine mechanics when all vehicles are electric.
 
-
 However, in our current system, the Fed acts on the belief that its
 goal is to keep _overall_ employment in the sweet spot for big and
 global business owners. The general idea seems to be to maximize
@@ -113,7 +117,7 @@ ownership.
 _The Federal Reserve Act of 1913_ specifies an elastic value money system;
 it declares our intent to steadily reduce the value of our money by
 expanding the supply beyond that required by economic needs. The
-Fed board sets a target rate of 2 percent annual devaluation.^18 Earn
+Fed board sets a target rate of 2 percent annual devaluation.<sup>18</sup> Earn
 $1 this year. It will be worth $$0.98 next year (or less).To reduce
 the value of our money at the desired rate, the money supply must
 increase 2 percent beyond increases required by population growth
@@ -164,7 +168,7 @@ creation) to accommodate the money creation of the independent
 bankers _after_ the private, independent banks have created the money.
 According to the Fed, there is about a three-month lag between the
 creation of money by the private banking sector and the creation by
-the central bank of the needed reserves and government debt.^19
+the central bank of the needed reserves and government debt.<sup>19</sup>
 
 As the shadow banking sector has grown, and as the banks have
 created more new money for each other’s gaming, the connection
