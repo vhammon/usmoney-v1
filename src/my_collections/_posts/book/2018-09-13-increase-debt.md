@@ -57,7 +57,7 @@ improvements. Buying back stock juices its value, so the business
 has greater borrowing power and CEOs can collect higher salaries.
 The New York Post reports that from 2008 to 2016, US companies
 spent $4 trillion buying back their own stock. In 2016, _“a whopping
-66 percent of corporate earnings went to buybacks.”_ 2
+66 percent of corporate earnings went to buybacks.” _<sup>_2_</sup>
 
 The dearth of long-term investment ultimately hollows out business.
 When individuals and businesses have no savings upon which to
@@ -186,7 +186,7 @@ corporate thumbs. John Perkins book, _Confessions of an Economic
 Hitman_ (2004) or S.C. Gwynne’s _Selling Money; a Young Banker’s
 First-hand Account of the Rise and Extraordinary Fall of the Great
 International Lending Boom_ (1986) explain this immoral and shameful
-activity in detail.8 9
+activity in detail.<sup>8</sup><sup>9</sup>
 
 ## More borrowers – Students
 
