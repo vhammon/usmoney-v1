@@ -109,8 +109,7 @@ platform.
 #### MONEY CREATION
 
 These private corporate platforms are not limiting themselves to basic
-bank services. They are rapidly moving into the territory of money-
-creator banks, creating their own loan services using the same model
+bank services. They are rapidly moving into the territory of money-creator banks, creating their own loan services using the same model
 of money creation that all private banks use in our current money
 system. This ability to pick and choose who gets newly created money
 gives them enormous additional power over society.
