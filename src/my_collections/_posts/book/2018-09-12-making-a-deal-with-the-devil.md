@@ -214,7 +214,7 @@ competition from a handful of banks that control most of the
 financial marketplace. One in four local banks have vanished since
 2008, while megabanks (assets over $100 Billion) have increased their
 control over all assets from 17 percent in 1995 to 59 percent just 20
-years later.^11
+years later.<sup>11</sup>
 
 ## Citizen benefits
 
