@@ -45,7 +45,7 @@ amount of money people save has been slowly shrinking. The Federal
 Reserve reports that our _“Net saving as a percentage of gross national
 income”_ has dropped from averaging about 11 percent in the 1960s to
 1980s to averages below 3 percent since 2000. The rate in January 2018
-is 1.5 percent.^1 In fact, we recorded negative saving rates from 2008
+is 1.5 percent.<sup>1</sup> In fact, we recorded negative saving rates from 2008
 to 2011, which means people were taking more out of savings than
 putting in. Some of this is due to retiring boomers drawing on their
 savings, but given the numbers, there should be a balance of young
@@ -71,7 +71,7 @@ are happy.
 In 1900 America, the 46 percent who owned their homes generally
 owned them outright. Today, while we are above 60 percent home
 _ownership,_ only about 30 percent of home owners actually own their
-home mortgage free.^3 That represents a substantial increase in the
+home mortgage free.<sup>3</sup> That represents a substantial increase in the
 amount of debt against homes. Creating new money by making a
 mortgage loan against real property has always been a favorite of
 bankers. They legally own the property until the loan is paid, so they
@@ -87,7 +87,7 @@ banks’ risks onto the commonwealth. Mortgage loans resumed a
 steady exponential increase. After WWII, provisions in the G.I. Bill
 guaranteed loans to veterans giving banks confidence to issue even
 more mortgages. By 2017, total mortgage debt in the US was $
-trillion – about $118,000 for every US household.^4 But, there are
+trillion – about $118,000 for every US household.<sup>4</sup> But, there are
 only so many people who need to buy a home, and most of us get by
 with one.
 
@@ -121,9 +121,9 @@ $1 trillion – about $8,099 for every adult in the US. Non-revolving
 credit is another $2.8 trillion – another $22,080 per adult. This means
 in addition to the average household mortgage burden of $118,232,
 American adults carry an average of $30,200 each – roughly $150,
-or more per household.^5
+or more per household.<sup>5</sup>
 
-In 2017 median _household_ income was roughly $58,000.^6 So in
+In 2017 median _household_ income was roughly $58,000.<sup>6</sup> So in
 about 50 years, from 1970 to 2017, American households went from
 having almost no consumer debt to owing more than twice what
 they earn in a year. With an average interest rate of 5 percent, the
@@ -160,7 +160,7 @@ small business owner has an average mortgage balance of $192,000,
 an average credit limit of $56,100 and an average income of $91,600.
 That’s a challenging level of debt to carry. The inescapable interest
 payments on previous debt can make it impossible to withstand a
-downturn in sales and necessitate further borrowing.^7
+downturn in sales and necessitate further borrowing.<sup>7</sup>
 
 ## More borrowers – Other nations
 
@@ -196,11 +196,11 @@ arts education was good for the nation as a whole; we believed in
 an educated citizenry. A significant shift happened under Ronald
 Reagan, who as governor of California said the state had no business
 _“subsidizing intellectual curiosity”_ – a strange attitude for a leader in a
-democracy.^10 But it is an attitude that makes short-sighted sense if
+democracy.<sup>10</sup> But it is an attitude that makes short-sighted sense if
 the goal is to strengthen the money power and manipulate a poorly
 educated populace. A few years later as president, Reagan initiated
 a national shift away from grants for education to student loans – a
-new candy jar for Wall Street bankers.^11
+new candy jar for Wall Street bankers.<sup>11</sup>
 
 Before the Reagan administration there was almost no student debt.
 In 2006, the Fed records $481 billion in student debt. Twelve years
@@ -208,14 +208,14 @@ later in 2018, the debt had tripled to $1,521 billion. 2005 marks a
 dramatic change in the rate of debt increase. The 2005 Bankruptcy
 Reform Bill made an exception of student debt. It is the only debt
 that cannot be discharged in a bankruptcy proceeding. This reduces
-the risk for those who create money to loan to students.^12
+the risk for those who create money to loan to students.<sup>12</sup>
 
 Roughly 44 million of our 160 million working age adults carry an average of $37,172 in student loan debt. Of those, 5 million are in
 default – their job prospects have not been enough to enable them
 to repay their debt. Being in default on a loan is crippling and most
 student loans cannot be discharged by a declaration of bankruptcy.
 Over 3 percent of our working age adults are so encumbered – and
-the number is growing.^13
+the number is growing.<sup>13</sup>
 
 ## More borrowing – US Government
 
@@ -259,7 +259,7 @@ a complete lack of transparency. According to the SEC, in 2005
 these pools accounted for roughly 5 percent of national market
 system trades. By 2015, they were executing about 18 percent, in
 fact executing a larger portion of consolidated volume than smaller
-exchanges.^14 Here borrowing and gaming take place mostly off the
+exchanges.<sup>14</sup> Here borrowing and gaming take place mostly off the
 books. Banks trade with each other and with well-chosen marks –
 often with borrowed funds. Given the exponential curve of money
 supply growth, the dark pools today must be soaking up a greater and
