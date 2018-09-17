@@ -46,8 +46,7 @@ be insured by the bank, just as a business insures inventory on hand.
 Smaller local banks and branches usually have a higher need for cash
 on hand as a percentage of their deposits (think of the cash needs of a
 supermarket ATM branch and a bank on Wall Street). To support local
-banking, WE may want to subsidize the insurance of this cash inven-
-tory at smaller banks. That’s a policy choice.
+banking, WE may want to subsidize the insurance of this cash inventory at smaller banks. That’s a policy choice.
 
 ### Borrowing
 
