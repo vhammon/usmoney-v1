@@ -24,13 +24,15 @@ categories:
 tags:
   - money
 ---
-_In a world governed by the pressure of organised interests, the important truth
-to keep in mind is that we cannot count on intelligence or understanding but
-only on sheer self-interest to give us the institutions we need._\
+> _In a world governed by the pressure of organised interests, the important truth
+> to keep in mind is that we cannot count on intelligence or understanding but
+> only on sheer self-interest to give us the institutions we need._
+
 — _The Denationalisation of Money: The Argument Refined_ by F.A. Hayek (1990)<sup>1</sup>
 
-_The source and root of all monetary evil \[is] the government monopoly on
-the issue and control of money._\
+> _The source and root of all monetary evil \[is] the government monopoly on
+> the issue and control of money._
+
 — F. A. Hayek, Economist (1899–1992)<sup>2</sup>
 
 While we think about what kind of money system would serve
@@ -58,8 +60,7 @@ government, but by the will of selfish players in the marketplace. And,
 a money creation system free of the political will of the people has
 been successfully sold as an asset to our nation. Economists, people
 at the Fed and in government speak proudly of the fact that our
-Federal Reserve money creation system, and it’s private member-
-owner banks operates _independently_ – without interference from our
+Federal Reserve money creation system, and it’s private member-owner banks operates _independently_ – without interference from our
 duly and democratically elected government. If you’re a believer, this
 is desirable.
 
