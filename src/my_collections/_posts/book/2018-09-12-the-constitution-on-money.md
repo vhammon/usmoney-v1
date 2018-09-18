@@ -42,7 +42,7 @@ Not enough. Here’s what relates to money from the Constitution:
 >
 > **The Congress shall have Power To lay and collect Taxes,**
 >
-> _ Duties,Imposts and Excises, _
+> _Duties,Imposts and Excises,_
 >
 > **to pay the Debts and provide for the common
 > Defence and general Welfare of the United States; but all Duties,
@@ -54,7 +54,7 @@ Not enough. Here’s what relates to money from the Constitution:
 > **TO COIN MONEY,**
 >
 > _regulate the Value thereof, and of foreign Coin, and
-> fix the standard of Weights and Measures;...> _
+> fix the standard of Weights and Measures;..._
 >
 > **To make all Laws which shall be necessary and proper for
 > carrying into Execution the foregoing Powers, and all other Powers**
@@ -94,12 +94,11 @@ framers of the Constitution? Samuel Johnson’s popular dictionary
 of 1755,<sup>9</sup> gives these definitions for the noun coin: (I’ve added the
 bold type.)
 
-**COIN,** _noun. 1. Money stamped with a legal impression.; 2. _**Payment of
-any kind.**_
+**COIN,** _noun. 1. Money stamped with a legal impression.; 2. _**Payment of any kind.**_
 _**COIN,**_ verb. 1. To mint or stamp metals for money; and 2. to make or gorge
 anything.
 _**COINAGE.**_ 1. the act or practice of coining money; 2. Coin; _**money; stamped
-and legitimated metal;**_ 3. The charges of coining money.. Forgery; invention._
+and legitimated metal;**_ 3. The charges of coining money.. Forgery; invention.
 
 Curiously, although this dictionary uses the word money in 69
 entries, it does not define money itself.
