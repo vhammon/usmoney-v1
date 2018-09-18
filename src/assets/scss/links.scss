@@ -34,15 +34,15 @@ a:visited {
   &:link,
   &:hover,
   &:focus {
-    color: $primary;
-    background: -webkit-linear-gradient($white, $white), -webkit-linear-gradient($white, $white), -webkit-linear-gradient($primary, $primary);
-    background: linear-gradient($white, $white), linear-gradient($white, $white), linear-gradient($primary, $primary);
-    -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-    -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-    background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-    background-repeat: no-repeat, no-repeat, repeat-x;
-    text-shadow: 0.03em 0 $white, -0.03em 0 $white, 0 0.03em $white, 0 -0.03em $white, 0.06em 0 $white, -0.06em 0 $white, 0.09em 0 $white, -0.09em 0 $white, 0.12em 0 $white, -0.12em 0 $white, 0.15em 0 $white, -0.15em 0 $white;
-    background-position: 0 93%, 100% 93%, 0 93%;
+    color: $primary-hover;
+    // background: -webkit-linear-gradient($white, $white), -webkit-linear-gradient($white, $white), -webkit-linear-gradient($primary, $primary);
+    // background: linear-gradient($white, $white), linear-gradient($white, $white), linear-gradient($primary, $primary);
+    // -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+    // -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+    // background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+    // background-repeat: no-repeat, no-repeat, repeat-x;
+    // text-shadow: 0.03em 0 $white, -0.03em 0 $white, 0 0.03em $white, 0 -0.03em $white, 0.06em 0 $white, -0.06em 0 $white, 0.09em 0 $white, -0.09em 0 $white, 0.12em 0 $white, -0.12em 0 $white, 0.15em 0 $white, -0.15em 0 $white;
+    // background-position: 0 93%, 100% 93%, 0 93%;
   }
 }
 
@@ -69,26 +69,26 @@ ul.related-posts, .calendar-details, aside .uk-subnav>*>,
   a {
     color: $primary;
     &:link {
-      background: -webkit-linear-gradient($white, $white), -webkit-linear-gradient($white, $white), -webkit-linear-gradient($primary, $primary);
-      background: linear-gradient($white, $white), linear-gradient($white, $white), linear-gradient($primary, $primary);
-      -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-      -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-      background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-      background-repeat: no-repeat, no-repeat, repeat-x;
-      text-shadow: 0.03em 0 $white, -0.03em 0 $white, 0 0.03em $white, 0 -0.03em $white, 0.06em 0 $white, -0.06em 0 $white, 0.09em 0 $white, -0.09em 0 $white, 0.12em 0 $white, -0.12em 0 $white, 0.15em 0 $white, -0.15em 0 $white;
-      background-position: 0 93%, 100% 93%, 0 93%;
+      // background: -webkit-linear-gradient($white, $white), -webkit-linear-gradient($white, $white), -webkit-linear-gradient($primary, $primary);
+      // background: linear-gradient($white, $white), linear-gradient($white, $white), linear-gradient($primary, $primary);
+      // -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      // -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      // background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      // background-repeat: no-repeat, no-repeat, repeat-x;
+      // text-shadow: 0.03em 0 $white, -0.03em 0 $white, 0 0.03em $white, 0 -0.03em $white, 0.06em 0 $white, -0.06em 0 $white, 0.09em 0 $white, -0.09em 0 $white, 0.12em 0 $white, -0.12em 0 $white, 0.15em 0 $white, -0.15em 0 $white;
+      // background-position: 0 93%, 100% 93%, 0 93%;
     }
     &:hover,
     &:focus {
       color: $primary-hover;
-      background: -webkit-linear-gradient($white, $white), -webkit-linear-gradient($white, $white), -webkit-linear-gradient($primary-hover, $primary-hover);
-      background: linear-gradient($white, $white), linear-gradient($white, $white), linear-gradient($primary-hover, $primary-hover);
-      -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-      -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-      background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-      background-repeat: no-repeat, no-repeat, repeat-x;
-      text-shadow: 0.03em 0 $white, -0.03em 0 $white, 0 0.03em $white, 0 -0.03em $white, 0.06em 0 $white, -0.06em 0 $white, 0.09em 0 $white, -0.09em 0 $white, 0.12em 0 $white, -0.12em 0 $white, 0.15em 0 $white, -0.15em 0 $white;
-      background-position: 0 93%, 100% 93%, 0 93%;
+      // background: -webkit-linear-gradient($white, $white), -webkit-linear-gradient($white, $white), -webkit-linear-gradient($primary-hover, $primary-hover);
+      // background: linear-gradient($white, $white), linear-gradient($white, $white), linear-gradient($primary-hover, $primary-hover);
+      // -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      // -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      // background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      // background-repeat: no-repeat, no-repeat, repeat-x;
+      // text-shadow: 0.03em 0 $white, -0.03em 0 $white, 0 0.03em $white, 0 -0.03em $white, 0.06em 0 $white, -0.06em 0 $white, 0.09em 0 $white, -0.09em 0 $white, 0.12em 0 $white, -0.12em 0 $white, 0.15em 0 $white, -0.15em 0 $white;
+      // background-position: 0 93%, 100% 93%, 0 93%;
     }
   }
 

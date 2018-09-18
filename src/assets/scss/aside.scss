@@ -146,8 +146,23 @@
 // }
 
 .categories > * > :first-child {
-  color: $black;
-      margin-right: .7em;
+  //color: $black;
+  color: $primary;
+  margin-right: .7em;
+  &:hover {
+    color: $primary-hover;
+  }
+}
+
+.uk-breadcrumb>*>* {
+  color: $primary;
+  &:hover {
+    color: $primary-hover;
+  }
+}
+
+.uk-breadcrumb>:last-child>* {
+  color: $primary-hover;
 }
 
 .subscribe-bar > .uk-navbar-item {

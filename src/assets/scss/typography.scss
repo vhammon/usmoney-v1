@@ -15,6 +15,7 @@ body {
     font-size: 17px;
   }
 }
+
 .signature{
     width: 241px;
     height: 30px;
@@ -92,8 +93,9 @@ h4 {
 h1 {
   margin-top: 0;
   margin-bottom: .2em;
-  font-size: 2.827em;
+  font-size: 2.25em;
   line-height: .9em;
+  color: $primary;
   //letter-spacing: 0.03em;
 }
 
@@ -101,18 +103,7 @@ h1 {
 h2 {
   font-size: 1.414em;
   font-weight: 700;
-}
-
-.paper > h1, .paper > .uk-h1,
-.paper > h2, .paper > .uk-h2,
-.paper > h3, .paper > .uk-h3,
-.paper > h4, .paper > .uk-h4
-.paper a > h1, .paper a > .uk-h1,
-.paper a > h2, .paper a > .uk-h2,
-.paper a > h3, .paper a > .uk-h3,
-.paper a > h4, .paper a > .uk-h4 {
-  margin-top: 0;
-  text-align: center;
+  letter-spacing: 0.03em;
 }
 
 main section h1:first-of-type,
@@ -131,12 +122,6 @@ main section h4:first-of-type,
 .uk-comment-body > h4, .uk-comment-body > .uk-h4 {
   margin-top: 0;
 }
-
-
-
-// .content h2, .content .uk-h2 {
-//   margin: 1.414em 0 1.5em;
-// }
 
 p {
   margin: 0 0 1.414em;
@@ -212,7 +197,3 @@ u::-moz-selection {
   line-height: 1;
   margin-bottom: -15px;
 }
-
-// .post-content .meditations  p {
-//   margin: 0 !important;
-// }

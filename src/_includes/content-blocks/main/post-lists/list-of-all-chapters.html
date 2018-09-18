@@ -24,14 +24,14 @@
       <a class="uk-accordion-title" href="#">Chapter {{ i }} &ndash; {{ site.data.book.chapters[i].name }}</a>
       <div class="uk-accordion-content">
         {% for post in myPost %}
-        <div>
-        <span class=" uk-text-uppercase">
-          <a class="uk-margin-remove" href="{{ post.url | relative_url }}">
+        <div class="uk-margin-left">
+            <a class="uk-margin-remove" href="{{ post.url | relative_url }}">
             {% unless post.title contains "Endnotes" %}
             {{ i }}.{{ post.section-number }}&ensp;
             {% endunless %}
             {{ post.title }}{% if post.subtitle %}: {{ post.subtitle }}
           {% endif %}</span></a>
+          </div>
         {% endfor %}
       </div>
   </li>
@@ -43,7 +43,7 @@
         <div class="uk-accordion-content">
           {% for post in myPost %}
           <div>
-          <a class="uk-margin-remove" href="{{ post.url | relative_url }}"><span class=" uk-text-uppercase">
+          <a class="uk-margin-remove" href="{{ post.url | relative_url }}"><span class=" uk-text-">
             {% unless post.title contains "Endnotes" %}
             {{ open }}.{{ post.section-number }}&ensp;
             {% endunless %}
