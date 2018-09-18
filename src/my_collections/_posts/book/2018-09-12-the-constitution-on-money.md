@@ -38,57 +38,44 @@ Not enough. Here’s what relates to money from the Constitution:
 > Blessings of Liberty** to ourselves and our Posterity, do ordain and establish
 > this Constitution for the United States of America...._
 >
-> _Article I, Section 8
-> _
+> _Article I, Section 8_
 >
 > **The Congress shall have Power To lay and collect Taxes,**
 >
-> _ Duties,
-> Imposts and Excises, _
+> _ Duties,Imposts and Excises, _
 >
 > **to pay the Debts and provide for the common
 > Defence and general Welfare of the United States; but all Duties,
 > Imposts and Excises shall be uniform throughout the United States;**
->
-> _
-> _
->
+>>
 > **To borrow Money on the credit of the United States;
 > To regulate Commerce with foreign Nations, and among the
-> several States...
-> TO COIN MONEY,**
+> several States...**
+> **TO COIN MONEY,**
 >
-> _ regulate the Value thereof, and of foreign Coin, and
-> fix the standard of Weights and Measures;...
-> _
+> _regulate the Value thereof, and of foreign Coin, and
+> fix the standard of Weights and Measures;...> _
 >
 > **To make all Laws which shall be necessary and proper for
 > carrying into Execution the foregoing Powers, and all other Powers**
 >
-> _
-> vested by this Constitution in the Government of the United States, or in any
+> _vested by this Constitution in the Government of the United States, or in any
 > Department or Officer thereof._
 >
-> _Article 1, Section 10
-> _
+> _Article 1, Section 10_
 >
 > **No State shall...coin money; emit Bills of Credit; make any Thing
 > but gold and silver Coin a Tender in Payment of Debts;...**
 >
-> _Amendment XIV, SECTION 4
-> _
+> _Amendment XIV, SECTION 4_
 >
 > **The validity of the public debt of the United States,**
 >
-> _ authorized by law,
-> including debts incurred for payment of pensions and bounties for services in
-> suppressing insurrection or rebellion, _
+> _authorized by law,including debts incurred for payment of pensions and bounties for services in suppressing insurrection or rebellion,_
 >
 > **shall not be questioned....**
->
-> _
-> Amendment XIV, Section 5
-> The Congress shall have power to enforce, by appropriate legislation, the
+> _Amendment XIV, Section 5_
+> _The Congress shall have power to enforce, by appropriate legislation, the
 > provisions of this article._
 
 There are only two specific references to money in the Constitution:
