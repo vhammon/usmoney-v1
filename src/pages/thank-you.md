@@ -3,6 +3,7 @@ title: Thank You
 permalink: /thank-you/
 left-aside: false
 right-aside-top: false
+hidden: true
 ---
 
 <h1 class="uk-h3">Thank you</h1>

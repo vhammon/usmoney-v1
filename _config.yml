@@ -97,9 +97,9 @@ pagination:
   permalink: '/page/:num/'
   title: ':title - page :num of :max'
   limit: 0
+  category: blog
   sort_field: 'date'
   sort_reverse: true
-  category: blog
   trail:
     before: 2 # The number of links before the current page
     after: 2  # The number of links after the current page
@@ -173,19 +173,10 @@ defaults:
 # Site configuration for the Auto-Pages feature
 autopages:
   enabled: true
-
   collections:
-    layouts:
-      - 'autopage.html'
-    title: 'US Money :coll' # :coll is replaced by the collection name
-    permalink: '/book/:coll'
-
+    enabled: false
   categories:
-    layouts:
-      - 'autopage.html'
-    title: ':cat Posts'
-    permalink: '/category/:cat'
-
+    enabled: false
   tags:
     layouts:
       - 'autopage.html'

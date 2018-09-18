@@ -5,17 +5,24 @@
 </div>
 {% endif %}
 
-{% assign open1 = page.pagination.category | remove: "chapter-" %}
+{% assign open1 = page.category | remove: "chapter-" %}
 
 {% assign open = open1 | plus:0 %}
 
-{% if page.pagination.category contains "chapter" %}
+{% if page.category contains "chapter" %}
 <div class="uk-margin-bottom">
   {{ site.data.book.chapters[open].summary }}
 </div>
 {% endif %}
 
-{% assign sortedPosts = paginator.posts | sort:"section-number" %}
+{% if page.category %}
+{% assign myCat = page.category %}
+{% else %}
+{% assign myCat = 'book' %}
+{% endif %}
+
+{% assign sortedPosts = site.categories[myCat] | sort:"section-number" %}
+
 <ul class="uk-margin-medium-bottom uk-padding-remove-left chapter-accordian" uk-accordion>
   {% if page.title == "US Money" %}
   {% for i in (1..10) %}
@@ -30,7 +37,8 @@
             {{ i }}.{{ post.section-number }}&ensp;
             {% endunless %}
             {{ post.title }}{% if post.subtitle %}: {{ post.subtitle }}
-          {% endif %}</span></a>
+            {% endif %}
+          </a>
           </div>
         {% endfor %}
       </div>
@@ -43,14 +51,13 @@
         <div class="uk-accordion-content">
           {% for post in myPost %}
           <div>
-          <a class="uk-margin-remove" href="{{ post.url | relative_url }}"><span class=" uk-text-">
+          <a class="uk-margin-remove" href="{{ post.url | relative_url }}">
             {% unless post.title contains "Endnotes" %}
             {{ open }}.{{ post.section-number }}&ensp;
             {% endunless %}
             {{ post.title }}{% if post.subtitle %}: {{ post.subtitle }}
-          {% endif %}</span></a>
-          {% endfor %}
+            {% endif %}
+        </a>
         </div>
-    </li>
+        {% endfor %}
     {% endif %}
-</ul>
