@@ -33,7 +33,7 @@ algolia:
   search_only_api_key: 7a38139c7e666cf1c8c1a47bfbce324f
 
 analytics:
-  google:
+  google: UA-125940677-1
   momently:
   hotjar:
 
