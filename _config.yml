@@ -89,6 +89,7 @@ plugins:
   - jemoji
   - jekyll-typogrify
   - jekyll-algolia
+
 # Pagination Settings
 pagination:
   enabled: true
@@ -98,6 +99,7 @@ pagination:
   limit: 0
   sort_field: 'date'
   sort_reverse: true
+  category: blog
   trail:
     before: 2 # The number of links before the current page
     after: 2  # The number of links after the current page
@@ -167,20 +169,7 @@ defaults:
       download: false
       download-file:
       lead-id:
-# Pagination Settings
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: '/page/:num/'
-  title: ':title - page :num of :max'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-  trail:
-    before: 2 # The number of links before the current page
-    after: 2  # The number of links after the current page
 
-############################################################
 # Site configuration for the Auto-Pages feature
 autopages:
   enabled: true
