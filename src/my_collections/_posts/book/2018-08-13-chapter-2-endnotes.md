@@ -54,27 +54,37 @@ and Social Psychology,_ vol. 67, no. 4, October 1963, pp. 371–378. <http://dx.
 
 NOTE: Since publication in 1963, a great deal of discussion literature has been
 published. The Society for the Psychological Study of Social Issues devotes an issue
-of the Journal of Social Issues to Milgram’s work: Milgram at 50: Exploring the
-Enduring Relevance of Psychology’s most Famous Studies, vol. 70, no. 3, September
+of the _Journal of Social Issues_ to Milgram’s work: _Milgram at 50: Exploring the
+Enduring Relevance of Psychology’s most Famous Studies,_ vol. 70, no. 3, September
 2014, pp. 393–602.
+
+
 5 Allen, Marshall and Olga Pierce. “Medical Errors Are No. 3 Cause of U.S. Deaths,
-Researchers Say.” Morning Edition, National Public Radio, May 3, 2016.
-https://www.npr.org/sections/health-shots/2016/05/03/476636183/
-death-certificates-undercount-toll-of-medical-errors
+Researchers Say.” _Morning Edition, National Public Radio,_ May 3, 2016.
+<https://www.npr.org/sections/health-shots/2016/05/03/476636183/death-certificates-undercount-toll-of-medical-errors>
+
+
 6 Segilia, Deana. “Asch’s Conformity experiment.” Penn State. March 17, 2016.
 <http://sites.psu.edu/dps16/2016/03/17/aschs-conformity-experiment/>
+
+
 NOTE: This is a simple explanation of the experiment, which was first done by
 Swarthmore professor Solomon Asch in 1951: McLeod, Saul. “Asch Experiment.”
 SimplyPsychology, 2008. <http://www.simplypsychology.org/asch-conformity.html>
+
+
 7 Simons, Daniel J and Christopher F. Chabris. “Gorillas in our Midst: Sustained
 Inattentional Blindness for Dynamic Events,” Perception, vol. 28. no. 9, 1999, pp.
-1059–1074. Also available online as a pdf: <http://www.chabris.com/Simons1999.>
-pdf.
+1059–1074. Also available online as a pdf: <http://www.chabris.com/Simons1999.pdf>.
+
+
 NOTE: You can try some of their experiments by going to theinvisiblegorilla.com or
 to Simons’ YouTube Channel, <http://www.youtube.com/user/profsimons>
-8 Tavris, Carol and Elliot Aronson. Mistakes Were Made (But Not by Me): Why We
-Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts. New York, NY: Houghton
-Mifflin Harcourt, 2007.
-9 Moore, Michael, Director and Screenplay Author. Roger & Me. Documentary film.
 
-2018.
+
+8 Tavris, Carol and Elliot Aronson. _Mistakes Were Made (But Not by Me): Why We
+Justify Foolish Beliefs, Bad Decisions, and Hurtful Acts._ New York, NY: Houghton
+Mifflin Harcourt, 2007.
+
+
+9 Moore, Michael, Director and Screenplay Author. Roger & Me. Documentary film. 1989
