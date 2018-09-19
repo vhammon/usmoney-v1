@@ -94,7 +94,7 @@ framers of the Constitution? Samuel Johnson’s popular dictionary
 of 1755,<sup>9</sup> gives these definitions for the noun coin: (I’ve added the
 bold type.)
 
-**COIN,** _noun. 1. Money stamped with a legal impression.; 2. _**Payment of any kind.**_
+**COIN,** _noun. 1. Money stamped with a legal impression.; 2. **Payment of any kind.**
 _**COIN,**_ verb. 1. To mint or stamp metals for money; and 2. to make or gorge
 anything.
 _**COINAGE.**_ 1. the act or practice of coining money; 2. Coin; _**money; stamped
@@ -110,7 +110,7 @@ Webster’s Dictionary of 1828<sup>10</sup> said fifty years later:
 stamped;**_ a piece of metal, as gold, silver, copper, or other metal, _**converted
 into money, by impressing on it marks, figures or characters.... 3.
 That which serves for payment.**
-**COIN,** _verb transitive, 1. To stamp a metal, and convert it into money; to mint. ..._
+**COIN,** verb transitive, 1. To stamp a metal, and convert it into money; to mint....
 **MONEY,** _noun plural moneys. 1. Coin; stamped metal; any piece of metal,
 usually gold, silver or copper, stamped by public authority, and used as the
 medium of commerce. We sometimes give the name of money to other coined
