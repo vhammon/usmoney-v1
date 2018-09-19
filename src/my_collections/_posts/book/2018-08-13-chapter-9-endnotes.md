@@ -23,20 +23,26 @@ categories:
 tags:
   - money
 ---
-
 ## Endnotes
-9.88 Consequences: Sustainable Life
-1 Hedges, Chris. War is a Force That Gives Us Meaning. New York: Public
+
+### 9.88 Consequences: Sustainable Life
+
+1 Hedges, Chris. _War is a Force That Gives Us Meaning._ New York: Public
 Affairs. 2002
+
 2 Chamorro-Premuzic. “Does Money Really Affect Motivation? A Review of the
-Research.” Harvard Business Review. A p r i l 10, 2013. h t t ps:// h b r.o rg/2013/0 4/
-does-money-really-affect-motiv
-9.89 Health and Prosperity
-3 VanLerven, Frank, Graham Hodgson, and Ben Dyson. Would There be Enough
-Credit in a Sovereign Money System. Positive Money Press. [http://positivemoney.](http://positivemoney.)
-org/press-releases/would-there-be-enough-credit-in-a-sovereign-money-system/
-9.91 Best Decision Making
+Research.” _Harvard Business Review._ April 10, 2013. <https://hbr.org/2013/04/does-money-really-affect-motiv>
+
+### 9.89 Health and Prosperity
+
+3 VanLerven, Frank, Graham Hodgson, and Ben Dyson. _Would There be Enough
+Credit in a Sovereign Money System._ Positive Money Press. <http://positivemoney.org/press-releases/would-there-be-enough-credit-in-a-sovereign-money-system/>
+
+### 9.91 Best Decision Making
+
 4 Graeber, David. Debt: The First 5,000 Years. New York, NY: Melville House, 2012.
+
+
 5 Fisher, Roger, William L. Ury and for the 2nd Edition, Bruce Patton. Getting to Yes:
 Negotiating Agreement Without Giving In. Revised Edition. New York, NY: Penguin
-B o o k s , 1991.
+Books , 1991.
