@@ -29,20 +29,19 @@ tags:
 ### 2.9 Human Nature Matters
 
 1 NOTE: Yawns are contagious. There’s been a considerable amount of research on
-contagious yawning, that finds intriguing differences among ages and individuals. If
-you’d like to see how you fall on the vulnerability to contagion scale, try the video
-on this Psychology Today post:
+contagious yawning, that finds intriguing differences among ages and individuals. 
+
+If you’d like to see how you fall on the vulnerability to contagion scale, try the video on this Psychology Today post:
+
 Bergland, Christopher. “Why is Yawning so Contagious?” Psychology Today,
 March 16, 2014. https://www.psychologytoday.com/blog/the-athletes-
 way/201403/why-is-yawning-so-contagious
-Or, Miller, Sara G. “Here’s Why Yawns Are So contagious.” LiveScience, August 31,
 
-2017. https://www.livescience.com/60288-why-are-yawns-so-contagious.html
+Or, Miller, Sara G. “Here’s Why Yawns Are So contagious.” LiveScience, August 31, 2017. https://www.livescience.com/60288-why-are-yawns-so-contagious.html
       2 Krulwich, Robert. “Do Our Friends Make Us Fatter?,” April 28, 2011. National
       Public Radio. https://www.npr.org/sections/krulwich/2011/04/28/135772461/
       do-our-friends-make-us-fatter
-      Referencing: Cristakis, Nicholas A. and James H. Fowler, James H. “The Spread of
-      Obesity in a Large Social Network over 32 Years.” The New England Journal of
+      Referencing: Cristakis, Nicholas A. and James H. Fowler, James H. “The Spread of Obesity in a Large Social Network over 32 Years.” The New England Journal of
       Medicine, vol. 357, 2007, pp.370–379. DOI:10.1056/NEJMsa066082
       3 Rolls, Barbara J., Erin L. Morris Roe and Liane S. Roe. “Portion size of food affects
       energy intake in normal-weight and overweight men and women.” The American
