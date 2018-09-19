@@ -24,6 +24,16 @@ categories:
 tags:
   - money
 ---
+## INTERMISSION & THANK YOU!
+Thanks for reading this far! I know that [Chapter 6](https://usmoney.us/book/chapter-6) was a downer – a
+dismal litany of things gone wrong. I know it includes strong opinions.
+I’ve done my best to weed out the unsupported suppositions. Please let
+me know where I failed and I’ll make corrections.
+But, when we know where we are, and know where we want to go,
+we can move toward our goals.
+
+<hr>
+
 > _In a world governed by the pressure of organised interests, the important truth
 > to keep in mind is that we cannot count on intelligence or understanding but
 > only on sheer self-interest to give us the institutions we need._
