@@ -35,6 +35,8 @@ If you’d like to see how you fall on the vulnerability to contagion scale, try
 Bergland, Christopher. “Why is Yawning so Contagious?” Psychology Today,
 March 16, 2014. [https://www.psychologytoday.com/blog/the-athletes-
 way/201403/why-is-yawning-so-contagious](<https://www.psychologytoday.com/blog/the-athletes- way/201403/why-is-yawning-so-contagious>)
+
+
 Or, Miller, Sara G. “Here’s Why Yawns Are So contagious.” _LiveScience,_ August 31, 2017. <https://www.livescience.com/60288-why-are-yawns-so-contagious.html>
 
 
@@ -43,7 +45,7 @@ Or, Miller, Sara G. “Here’s Why Yawns Are So contagious.” _LiveScience,_ A
       Referencing: Cristakis, Nicholas A. and James H. Fowler, James H. “The Spread of Obesity in a Large Social Network over 32 Years.” _The New England Journal of
       Medicine,_ vol. 357, 2007, pp.370–379. DOI:10.1056/NEJMsa066082
 
-\    3 Rolls, Barbara J., Erin L. Morris Roe and Liane S. Roe. “Portion size of food affects
+3 Rolls, Barbara J., Erin L. Morris Roe and Liane S. Roe. “Portion size of food affects
       energy intake in normal-weight and overweight men and women.” The American
       Journal of Clinical Nutrition, Volume 76, No. 6, 1 December 2002, pages 1207–2018 https://academic.oup.com/ajcn/article/76/6/1207/4689551
 
