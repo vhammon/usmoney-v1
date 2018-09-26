@@ -5,6 +5,7 @@ title: How do people create money?
 section-number: 21
 chapter-number: 3
 next-section: 22
+discourse-page: 'https://forum.usmoney.us/t/money-fundamentals-3-21-how-do-people-create-money/'
 share: true
 comments: false
 comments-locked: false
