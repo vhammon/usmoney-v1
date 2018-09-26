@@ -5,6 +5,7 @@ title: 'What makes money, money?'
 section-number: 17
 chapter-number: 3
 next-section: 18
+discourse-page: 'https://forum.usmoney.us/t/money-fundamentals-3-17-what-makes-money-money/'
 share: true
 comments: false
 comments-locked: false
