@@ -6,6 +6,7 @@ section-number: 12
 chapter-number: 2
 next-section: 13
 chapter-end: true
+discourse-page: 'https://forum.usmoney.us/t/foundation-piecing-2-12-clear-thinking-matters/'
 share: true
 comments: false
 comments-locked: false
