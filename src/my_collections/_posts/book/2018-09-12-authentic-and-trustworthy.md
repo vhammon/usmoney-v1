@@ -5,6 +5,7 @@ title: Authentic and Trustworthy
 section-number: 19
 chapter-number: 3
 next-section: 20
+discourse-page: 'https://forum.usmoney.us/t/money-fundamentals-3-19-authentic-and-trustworthy/'
 share: true
 comments: false
 comments-locked: false
