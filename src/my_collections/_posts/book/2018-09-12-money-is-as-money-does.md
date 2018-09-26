@@ -6,6 +6,8 @@ subtitle: 'Money functions: tool, measure, store of value'
 section-number: 15
 chapter-number: 3
 next-section: 16
+discourse-page: >-
+  https://forum.usmoney.us/t/money-fundamentals-3-15-money-is-as-money-does-money-functions-tool-measure-store-of-value/
 share: true
 comments: false
 comments-locked: false
