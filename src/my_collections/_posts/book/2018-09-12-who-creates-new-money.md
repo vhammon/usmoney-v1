@@ -7,6 +7,7 @@ section-number: 46
 chapter-number: 5
 next-section: 47
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/money-fundamentals-3-20-who-creates-new-money/'
 share: true
 comments: false
 comments-locked: false
