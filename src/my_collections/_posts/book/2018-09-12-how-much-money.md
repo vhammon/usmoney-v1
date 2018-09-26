@@ -6,6 +6,7 @@ section-number: 23
 chapter-number: 3
 next-section: 24
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/money-fundamentals-3-23-how-much-money/'
 share: true
 comments: false
 comments-locked: false
