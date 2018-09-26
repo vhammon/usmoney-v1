@@ -6,6 +6,8 @@ subtitle: Where does it come from and where does it go?
 section-number: 3
 chapter-number: 1
 next-section: 4
+discourse-page: >-
+  https://forum.usmoney.us/t/introduction-1-3-what-is-money-where-does-it-come-from-and-where-does-it-go/
 share: true
 comments: false
 comments-locked: false
