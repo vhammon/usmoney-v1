@@ -7,6 +7,8 @@ section-number: 30
 chapter-number: 4
 next-section: 31
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/money-systems-4-30-iou-future-value-money-debt-or-credit-money/
 share: true
 comments: false
 comments-locked: false
