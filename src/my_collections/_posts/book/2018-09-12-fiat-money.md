@@ -7,6 +7,7 @@ section-number: 31
 chapter-number: 4
 next-section: 32
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/money-systems-4-31-fiat-money-money-by-decree/'
 share: true
 comments: false
 comments-locked: false
