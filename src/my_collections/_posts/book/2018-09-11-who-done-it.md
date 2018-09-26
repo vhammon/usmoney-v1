@@ -5,6 +5,7 @@ title: Who Done It?
 section-number: 2
 chapter-number: 1
 next-section: 3
+discourse-page: 'https://forum.usmoney.us/t/introduction-1-2-who-done-it/'
 share: true
 comments: false
 comments-locked: false
