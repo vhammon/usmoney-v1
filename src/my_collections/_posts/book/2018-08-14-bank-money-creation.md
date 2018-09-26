@@ -7,6 +7,8 @@ section-number: 35
 chapter-number: 4
 next-section: 36
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/money-systems-4-35-bank-money-creation-anchored-by-bank-s-capital/
 share: true
 comments: false
 comments-locked: false
