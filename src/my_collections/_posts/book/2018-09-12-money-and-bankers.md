@@ -6,6 +6,7 @@ section-number: 24
 chapter-number: 3
 next-section: 25
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/money-fundamentals-3-24-money-and-bankers/'
 share: true
 comments: false
 comments-locked: false
