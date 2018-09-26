@@ -6,6 +6,7 @@ section-number: 27
 chapter-number: 4
 next-section: 28
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/money-systems-4-27-what-system/'
 share: true
 comments: false
 comments-locked: false
