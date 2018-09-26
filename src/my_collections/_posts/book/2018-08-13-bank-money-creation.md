@@ -7,6 +7,8 @@ section-number: 34
 chapter-number: 4
 next-section: 35
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/money-systems-4-34-bank-money-creation-anchored-by-reserves/
 share: true
 comments: false
 comments-locked: false
