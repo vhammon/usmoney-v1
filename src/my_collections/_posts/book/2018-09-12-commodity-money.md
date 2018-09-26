@@ -6,6 +6,7 @@ section-number: 28
 chapter-number: 4
 next-section: 29
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/money-systems-4-28-commodity-money/'
 share: true
 comments: false
 comments-locked: false
