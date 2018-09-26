@@ -6,6 +6,7 @@ section-number: 4
 chapter-number: 1
 next-section: endnotes
 chapter-end: true
+discourse-page: 'https://forum.usmoney.us/t/introduction-1-4-let-s-piece-it-together/'
 share: true
 comments: false
 comments-locked: false
