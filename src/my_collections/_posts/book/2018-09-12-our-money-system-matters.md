@@ -1,10 +1,11 @@
 ---
 layout: chapter
+date: 2018-09-12T07:00:00.000Z
 title: Our money system matters
 section-number: 6
 chapter-number: 2
 next-section: 7
-date: 2018-09-12T07:00:00.000Z
+discourse-page: 'https://forum.usmoney.us/t/foundation-piecing-2-6-our-money-system-matters/'
 share: true
 comments: false
 comments-locked: false
