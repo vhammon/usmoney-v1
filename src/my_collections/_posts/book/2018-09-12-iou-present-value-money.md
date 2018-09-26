@@ -7,6 +7,8 @@ section-number: 29
 chapter-number: 4
 next-section: 30
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/money-systems-4-29-iou-present-value-money-receipt-or-representative-money/
 share: true
 comments: false
 comments-locked: false
