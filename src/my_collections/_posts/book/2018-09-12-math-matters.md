@@ -6,6 +6,8 @@ subtitle: Ponzis & pyramid schemes
 section-number: 8
 chapter-number: 2
 next-section: 9
+discourse-page: >-
+  https://forum.usmoney.us/t/foundation-piecing-2-8-math-matters-ponzis-pyramid-schemes/
 share: true
 comments: false
 comments-locked: false
