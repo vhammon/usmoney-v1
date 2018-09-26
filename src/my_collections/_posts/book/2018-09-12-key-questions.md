@@ -1,10 +1,11 @@
 ---
 layout: chapter
+date: 2018-09-12T07:00:00.000Z
 title: Key Questions
 section-number: 18
 chapter-number: 3
 next-section: 19
-date: 2018-09-12T07:00:00.000Z
+discourse-page: 'https://forum.usmoney.us/t/money-fundamentals-3-18-key-questions/'
 share: true
 comments: false
 comments-locked: false
