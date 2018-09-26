@@ -7,6 +7,8 @@ section-number: 33
 chapter-number: 4
 next-section: 34
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/money-systems-4-33-making-a-deal-with-the-devil-grand-bargain-a-national-central-bank-and-privately-created-legal-tender/
 share: true
 comments: false
 comments-locked: false
