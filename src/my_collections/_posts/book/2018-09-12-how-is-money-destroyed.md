@@ -6,6 +6,7 @@ section-number: 22
 chapter-number: 3
 next-section: 23
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/money-fundamentals-3-22-how-is-money-destroyed/'
 share: true
 comments: false
 comments-locked: false
