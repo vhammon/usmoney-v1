@@ -6,6 +6,8 @@ subtitle: wealth and/or tool
 section-number: 16
 chapter-number: 3
 next-section: 17
+discourse-page: >-
+  https://forum.usmoney.us/t/money-fundamentals-3-16-money-paradox-wealth-and-or-tool/
 share: true
 comments: false
 comments-locked: false
