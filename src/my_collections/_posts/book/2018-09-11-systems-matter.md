@@ -7,6 +7,8 @@ section-number: 5
 chapter-number: 2
 next-section: 6
 chapter-start: true
+discourse-page: >-
+  https://forum.usmoney.us/t/foundation-piecing-2-5-systems-matter-different-field-different-rules-different-values-lead-to-different-outcomes/
 share: true
 comments: false
 comments-locked: false
