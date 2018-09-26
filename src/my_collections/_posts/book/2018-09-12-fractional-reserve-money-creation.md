@@ -6,6 +6,8 @@ section-number: 32
 chapter-number: 4
 next-section: 33
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/money-systems-4-32-fractional-reserve-money-creation/
 share: true
 comments: false
 comments-locked: false
