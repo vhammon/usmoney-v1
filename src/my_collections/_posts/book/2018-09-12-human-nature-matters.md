@@ -5,6 +5,7 @@ title: Human nature matters
 section-number: 9
 chapter-number: 2
 next-section: 10
+discourse-page: 'https://forum.usmoney.us/t/foundation-piecing-2-9-human-nature-matters/'
 share: true
 comments: false
 comments-locked: false
