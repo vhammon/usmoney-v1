@@ -6,6 +6,8 @@ subtitle: 'You can have your own opinion, but you can’t have your own math.'
 section-number: 7
 chapter-number: 2
 next-section: 8
+discourse-page: >-
+  https://forum.usmoney.us/t/foundation-piecing-2-7-math-matters-exponential-growth-you-can-have-your-own-opinion-but-you-can-t-have-your-own-math/
 share: true
 comments: false
 comments-locked: false
