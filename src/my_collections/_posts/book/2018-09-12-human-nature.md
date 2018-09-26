@@ -6,6 +6,8 @@ subtitle: The blind men and the elephant
 section-number: 10
 chapter-number: 2
 next-section: 11
+discourse-page: >-
+  https://forum.usmoney.us/t/foundation-piecing-2-10-human-nature-the-blind-men-and-the-elephant/
 share: true
 comments: false
 comments-locked: false
