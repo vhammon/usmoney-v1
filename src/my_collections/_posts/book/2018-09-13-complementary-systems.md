@@ -6,6 +6,7 @@ section-number: 87
 chapter-number: 8
 next-section: 88
 chapter-end: true
+discourse-page: 'https://forum.usmoney.us/t/modern-money-8-87-complementary-systems/'
 share: true
 comments: false
 comments-locked: false
