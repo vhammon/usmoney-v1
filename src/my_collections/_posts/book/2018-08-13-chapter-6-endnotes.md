@@ -40,7 +40,7 @@ https://www.census.gov/hhes/www/housing/census/historic/owner.html
 4 FED. Board of Governors.. “Mortgage Debt Outstanding.” Last updated June 7, 2018 <https://www.federalreserve.gov/data/mortoutstand/current.htm>
 
 5 FED. Board of Governors. “Consumer Credit – G.19” REVOLVING: [https://www.federalreserve.gov/releases/g19/HIST/cc_hist_r_levels.html_](https://www.federalreserve.gov/releases/g19/HIST/cchist_r_levels.html)_
-NON-REVOLVING: _[_https://www.federalreserve.gov/releases/g19/HIST/cc\_hist\__nr_levels.html](https://www.federalreserve.gov/releases/g19/HIST/cc_hist_nr_levels.html)
+NON-REVOLVING: _[_https://www.federalreserve.gov/releases/g19/HIST/cc_hist__nr_levels.html](https://www.federalreserve.gov/releases/g19/HIST/cc_hist_nr_levels.html)
 
 6 US Census. “Median Household Income in the United States.” September 14, 2017.
 <https://www.census.gov/library/visualizations/2017/comm/income-map.html>
@@ -228,7 +228,6 @@ Life Expectancy \[infographic].” June 10, 2017. <https://blog.nationwide.com/h
 Food Waste Challenge/ FAQ’s” Retrieved June 2018. https://www.usda.gov/oce/
 foodwaste/faqs.htm
 
-
 And, Gunders, Dana. NRDC Issue Paper. Wasted: How America is Losing Up to
 40 Percent of its Food from Farm to Fork to Landfill.” Natural Resources Defense
 Council. August 2012 I P :12- 0 6 - B
@@ -243,7 +242,6 @@ October 10, 2012. <https://www.usda.gov/media/blog/2012/10/10/organic-101-five-s
 https://fred.stlouisfed.org/series/L312041A027NBEA , June 13, 2018.
 
 49 EPA. “Advancing Sustainable Materials Management: 2014 Fact Sheet.” November 2016 <https://www.epa.gov/sites/production/files/2016-11/documents/2014_smmfactsheet_508.pdf>
-
 
 50 Harris, Alexander. “U.S. self-storage industry statistics.” SpareFoot.
 com. News. March 21, 2018. <https://www.sparefoot.com/self-storage/news/1432-self-storage-industry-statistics/>
@@ -383,7 +381,6 @@ Americans remain unconvinced by the data?” Bloomberg. February
 90 Global military expenditures:. “Global military spending from 2001 to 2016 (in
 billion US dollars). Statista. The Statistics Portal. Retrieved June 2018.
 <https://www.statista.com/statistics/264434/trend-of-global-military-spending/>
-
 
 Global GDP 2016
 <https://www.statista.com/statistics/268750/global-gross-domestic-product-gdp/>
@@ -584,73 +581,56 @@ Business Day. September 4, 2009. <https://www.nytimes.com/2009/09/05/business/05
 141 Kruse, Kevin. One Nation Under god: How Corporate America Invented Christian
 America. New York, NY: Perseus Books Group, Basic Books. 2015.
 
-### 6.68 A Private Wealth Transfer System:
-
- From the 99% to the One Percent
+### 6.68 A Private Wealth Transfer System: From the 99% to the One Percent
 
 142 Sanders, Katie. “Bernie Sanders says 99 percent of ‘new’ income is going to top
-1 percent – ‘mostly true.” Politifact. April 19, 2015. NOTE: income is measured
-pre-tax. <http://www.politifact.com/truth-o-meter/statements/2015/apr/19/>
-bernie-s/bernie-sanders-says-99-percent-new-income-going-to/
+1 percent – ‘mostly true.” _Politifact._ April 19, 2015. NOTE: income is measured
+pre-tax. <http://www.politifact.com/truth-o-meter/statements/2015/apr/19/bernie-s/bernie-sanders-says-99-percent-new-income-going-to/>
 
-143 Dayen, David. “Your New Landlord Works on Wall Street.” The New
-Republic, February 11, 2013. https://newrepublic.com/article/112395/
-wall-street-hedge-funds-buy-rental-properties
+143 Dayen, David. “Your New Landlord Works on Wall Street.” _The New
+Republic,_ February 11, 2013. <https://newrepublic.com/article/112395/wall-street-hedge-funds-buy-rental-properties>
 
 144 Gara, Antoine. “Blackstone’s $9.6 Billion Bet On the US Housing Recovery Files to
-Go Public.” Forbes; Investing; #BigBusiness. January 6, 2017. https://www.forbes.
-com/sites/antoinegara/2017/01/06/blackstones-big-bet-on-the-u-s-housing-
-recovery-files-to-go-public/#651b51f63dba
+Go Public.” _Forbes;_ Investing; #BigBusiness. January 6, 2017. <https://www.forbes.com/sites/antoinegara/2017/01/06/blackstones-big-bet-on-the-u-s-housing-recovery-files-to-go-public/#651b51f63dba>
 Marino, Jonathan. “Blackstone is now ‘the largest owner of real estate in the
-world’.” Business Insider. November 15, 2015. <http://www.businessinsider.com/>
-blackstone-is-largest-owner-of-real-estate-2015-11
+world’.” _Business Insider._ November 15, 2015. <http://www.businessinsider.com/blackstone-is-largest-owner-of-real-estate-2015-11>
 
 145 Feloni, Richard. “Here are the 17 executives who met with Trump for his first business
-advisory council.” Business Insider. February 3, 2107. <http://www.businessinsider.>
-com/who-is-on-trump-business-advisory-council-2017-2
+advisory council.” _Business Insider._ February 3, 2107. <http://www.businessinsider.com/who-is-on-trump-business-advisory-council-2017-2>
 
 146 Gelles, David, Landon Thomas Jr., Andrew Ross Sorkin and Kate Kelly. “Inside
-the C.E.O. Rebellion Against Trump’s Advisory Councils.” The New York Times,
-August 16, 2017. https://www.nytimes.com/2017/08/16/business/trumps-
-council-ceos.html
+the C.E.O. Rebellion Against Trump’s Advisory Councils.” _The New York Times,_
+August 16, 2017. <https://www.nytimes.com/2017/08/16/business/trumps-council-ceos.html>
 
-147 Horsley, Scott. “White House Economic Adviser Gary Cohn Quits.” NPR:
-Politics. M a rc h 6 , 2018. h t t ps://w w w.n p r.o rg/2018/03/0 6/585786755/
-white-house-economic-adviser-gary-cohn-quits
+147 Horsley, Scott. “White House Economic Adviser Gary Cohn Quits.” _NPR:
+Politics._ March 6 , 2018. <https://www.npr.org/2018/03/06/585786755/white-house-economic-adviser-gary-cohn-quits>
 
-148 Riley, Theresa. “Making the Rent on Minimum Wage.” Bill Moyers.com. April 2,
+148 Riley, Theresa. “Making the Rent on Minimum Wage.” _Bill Moyers.com._ April 2, 2012 <https://billmoyers.com/2012/04/02/making-the-rent-on-minimum-wage/>
 
-2012. https://billmoyers.com/2012/04/02/making-the-rent-on-minimum-wage/
-      149 Jacobson, Louis. “Are 90 million Americans not working or not
-      looking for work?” PolitiFact. July 30, 2013. <http://www.politifact.>
-      com/truth-o-meter/statements/2013/jul/30/blog-posting/
-      are-90-million-americans-not-working-or-looking-wo/
 
-150 Joffe-Walt, Chana. “Unfit for Work: The startling Rise of Disability in America.” NPR:
-Planet Money. (no date) Retrieved July 2018. <http://apps.npr.org/unfit-for-work/>
+149 Jacobson, Louis. “Are 90 million Americans not working or not
+looking for work?” _PolitiFact._ July 30, 2013. <http://www.politifact.com/truth-o-meter/statements/2013/jul/30/blog-posting/are-90-million-americans-not-working-or-looking-wo/>
+
+150 Joffe-Walt, Chana. “Unfit for Work: The startling Rise of Disability in America.” _NPR:
+Planet Money._ (no date) Retrieved July 2018. <http://apps.npr.org/unfit-for-work/>
 
 151 US BLS. “Household Data Annual Averages. 36. Multiple jobholders by selected
-characteristics.” https://www.bls.gov/cps/cpsaat36.pdf
+characteristics.”[ https://www.bls.gov/cps/cpsaat36.pdf](https://www.bls.gov/cps/cpsaat36.pdf)
 
 152 US BLS. “Economic News Release: Union Members Summary.” January 19, 2018.
-USDL-18-0080. https://www.bls.gov/news.release/union2.nr0.htm
+USDL-18-0080. <https://www.bls.gov/news.release/union2.nr0.htm>
 
 153 Matthews, Dylan. “In Germany, workers help run their companies. And it’s
-going great!” The Washington Post: Wonkblog. October 7, 2012. https://www.
-washingtonpost.com/news/wonk/wp/2012/10/07/in-germany-workers-help-
-run-their-companies-and-its-going-great/?utm_term=.55d9e0586232
+going great!” _The Washington Post: Wonkblog._ October 7, 2012. <https://www.washingtonpost.com/news/wonk/wp/2012/10/07/in-germany-workers-help-run-their-companies-and-its-going-great/?utm_term=.55d9e0586232>
 
 154 US Government Consumer Financial Protection Bureau (CFPB). “Consumer
 Response Annual Report January 1 – December 31, 2016; Message from Richard
-Cordray, Director of the CFPB.” https://s3.amazonaws.com/files.consumerfinance.
-gov/f/documents/201703_cfpb_Consumer-Response-Annual-Report-2016.PDF
+Cordray, Director of the CFPB.” <https://s3.amazonaws.com/files.consumerfinance.gov/f/documents/201703_cfpb_Consumer-Response-Annual-Report-2016.PDF>
 
-155 CFPB. “Factsheet – December 2016.” https://files.consumerfinance.gov/f/
-documents/201701_cfpb_CFPB-By-the-Numbers-Factsheet.pdf
+155 CFPB. “Factsheet – December 2016.” <https://files.consumerfinance.gov/f/documents/201701_cfpb_CFPB-By-the-Numbers-Factsheet.pdf>
 
 156 CFPB. Press Release: “CFPB Releases Strategic Plan.” February 12, 2018.
-https://www.consumerfinance.gov/about-us/newsroom/cfpb-releases-strategic-
-plan/
+<https://www.consumerfinance.gov/about-us/newsroom/cfpb-releases-strategic-plan/>
 
 QUOTE & NOTE: “If there is one way to summarize the strategic changes
 occurring at the Bureau, it is this: we have committed to fulfill the Bureau’s statutory
@@ -663,12 +643,10 @@ of consumers; it will make protecting business from the burdens of rules that pr
 consumers but that might pinch their profit-making.
 
 157 US Department of Labor. “The Employee Retirement Income Security Act of 1974;
-Fiduciary Responsibilities.” https://www.dol.gov/general/topic/retirement/
-fiduciaryresp
+Fiduciary Responsibilities.” <https://www.dol.gov/general/topic/retirement/fiduciaryresp>
 
-158 Snyder, Bill. “William Sharpe: How to Invest In a Turbulent Market.” Stanford
-Business: Insights: Finance. April 18, 2013. https://www.gsb.stanford.edu/insights/
-william-sharpe-how-invest-turbulent-market
+158 Snyder, Bill. “William Sharpe: How to Invest In a Turbulent Market.” _Stanford
+Business:_ Insights: Finance. April 18, 2013. <https://www.gsb.stanford.edu/insights/william-sharpe-how-invest-turbulent-market>
 
 159 The White House, Office of the Press Secretary. “Fact Sheet: Middle
 Class Economics: Strengthening Retirement Security by Cracking down
@@ -679,130 +657,101 @@ fact-sheet-middle-class-economics-strengthening-retirement-security
 160 Snyder, Bill. Ibid.
 
 161 White House. “Presidential Memorandum on Fiduciary Duty Rule.”
-February 3, 2017. https://www.whitehouse.gov/presidential-actions/
-presidential-memorandum-fiduciary-duty-rule/
+February 3, 2017. <https://www.whitehouse.gov/presidential-actions/presidential-memorandum-fiduciary-duty-rule/>
 
 162 O’Connor, Clare. “Report: Walmart Workers Cost Taxpayers $6.2 Billion in
-Public Assistance.” Forbes. April 15, 2014. https://www.forbes.com/sites/
-clareoconnor/2014/04/15/report-walmart-workers-cost-taxpayers-6-2-billion-
-in-public-assistance/#1b76cb96720b
+Public Assistance.” Forbes. April 15, 2014. <https://www.forbes.com/sites/clareoconnor/2014/04/15/report-walmart-workers-cost-taxpayers-6-2-billion-in-public-assistance/#1b76cb96720b>
 
 163 Moorhead, Molly. “Bernie Sanders says Walmart heirs own more wealth
-than bottom 40 percent of Americans – True.” Politifact.com. h t t p : //
-<http://www.politifact.com/truth-o-meter/statements/2012/jul/31/bernie-s/>
-sanders-says-walmart-heirs-own-more-wealth-bottom-/
+than bottom 40 percent of Americans – True.” _Politifact.com._ <http://www.politifact.com/truth-o-meter/statements/2012/jul/31/bernie-s/sanders-says-walmart-heirs-own-more-wealth-bottom-/>
 
-164 Johnston, David Cay. Free Lunch: How the Wealthiest Americans Enrich Themselves
-at Government Expense (and Stick You with the Bill). First Edition. 2007; Perfectly
+164 Johnston, David Cay. _Free Lunch: How the Wealthiest Americans Enrich Themselves
+at Government Expense (and Stick You with the Bill)._ First Edition. 2007; _Perfectly
 Legal: The Covert Campaign to Rig Our Tax System to Benefit the Super Rich – and
-Cheat Everyone Else. 2003; The Fine Print: How Big Companies Use “Plain English”
-to Rob You Blind,.2012. New York, NY: Portfolio Publications, a Penguin Group.
+Cheat Everyone Else._ 2003; _The Fine Print: How Big Companies Use “Plain English”
+to Rob You Blind,_.2012. New York, NY: Portfolio Publications, a Penguin Group.
 
-165 Piketty, Thomas. Capital in the Twenty-First Century. Cambridge, Massachusetts: The
+165 Piketty, Thomas. _Capital in the Twenty-First Century._ Cambridge, Massachusetts: The
 Belknap Press of Harvard University Press, 2014. Chapter 11, p. 378-.
 
-166 Weissmann, Jordan. “How Wall Street Devoured Corporate America.” The
-Atlantic: Business. March 5, 2013. https://www.theatlantic.com/business/
-archive/2013/03/how-wall-street-devoured-corporate-america/273732/
+166 Weissmann, Jordan. “How Wall Street Devoured Corporate America.” _The
+Atlantic:_ Business. March 5, 2013. <https://www.theatlantic.com/business/archive/2013/03/how-wall-street-devoured-corporate-america/273732/>
 
 167 BEA. News Release: “Gross domestic Product: First Quarter 2018 (Third Estimate)
 Corporate Profits: First Quarter 2018 (Revised Estimate): Table 12. Corporate Profits
-by Industry: Level and Change From Preceding Period.” P.17. https://www.bea.gov/
-newsreleases/national/gdp/2018/pdf/gdp1q18_3rd.pdf
+by Industry: Level and Change From Preceding Period.” P.17. <https://www.bea.gov/newsreleases/national/gdp/2018/pdf/gdp1q18_3rd.pdf>
 
 168 Zuesse, Eric. “U.S. Wealth-Concentration: Wealthiest Tenth (10%) of Americans
 Own 75% of America.” Global Research, Centre for Research on Globalization.
-July 08, 2015. <http://www.globalresearch.ca/u-s-wealth-concentration-wealthiest->
-tenth-10-of-americans-own-75-of-america/5461246
+July 08, 2015. <http://www.globalresearch.ca/u-s-wealth-concentration-wealthiest-tenth-10-of-americans-own-75-of-america/5461246>
 
 169 Oxfam International. “Just 8 men own same wealth as half the world.” January
-16, 2017. https://www.oxfam.org/en/pressroom/pressreleases/2017-01-16/
-just-8-men-own-same-wealth-half-world
+16, 2017. <https://www.oxfam.org/en/pressroom/pressreleases/2017-01-16/just-8-men-own-same-wealth-half-world>
 
 ### 6.69 From Common Wealth to Private Wealth
 
-170 Rand, Ayn. The Virtue of Selfishness: Fifthieth Anniversary Edition. New York: Signet
+170 Rand, Ayn. _The Virtue of Selfishness:_ Fifthieth Anniversary Edition. New York: Signet
 Mass Paperback Edition. 1964.
 
-171 Cummins, Denise. “This is what happens when you take Ayn Rand Seriously.” PBS
-News Hour. February 16, 2016. https://www.pbs.org/newshour/economy/
-column-this-is-what-happens-when-you-take-ayn-rand-seriously
+171 Cummins, Denise. “This is what happens when you take Ayn Rand Seriously.” _PBS
+News Hour._ February 16, 2016. <https://www.pbs.org/newshour/economy/column-this-is-what-happens-when-you-take-ayn-rand-seriously>
 
 172 US Bureau of Land Management. “BLM and Forest Serve announce
-2017 Grazing Fee.” https://www.blm.gov/press-release/
-blm-and-forest-service-announce-2017-grazing-fee
+2017 Grazing Fee.” <https://www.blm.gov/press-release/blm-and-forest-service-announce-2017-grazing-fee>
 
 173 McMaken, Ryan. “Oregon and the Problem of Federal Lands.” The Mises Institute.
-January 4, 2016. https://mises.org/wire/oregon-and-problem-federal-lands
+January 4, 2016. <https://mises.org/wire/oregon-and-problem-federal-lands>
 
 174 Bureau of Land Management. This mission statement is no longer on the website
 where I found it several years ago. The site has been updated. I’ve assumed the
 mission is still similar.
 
 175 The National Park Service. “American Antiquities Act of 1906.” Legislative and
-Congressional Affairs; The Law; Monuments. https://www.nps.gov/subjects/legal/
-american-antiquities-act-of-1906.htm
+Congressional Affairs; The Law; Monuments. <https://www.nps.gov/subjects/legal/american-antiquities-act-of-1906.htm>
 
 176 Schlossberg, Tatiana. “What is the antiquities Act and Why Does President Trump
-Want to Change It?” The New York Times. April 26, 2017. https://www.nytimes.
-com/2017/04/26/climate/antiquities-act-federal-lands-donald-trump.html
+Want to Change It?” _The New York Times._ April 26, 2017. <https://www.nytimes.com/2017/04/26/climate/antiquities-act-federal-lands-donald-trump.html>
 
 177 US Department of the Interior, Bureau of Land Management. “Instruction
-Memorandum No. 2018-034.” January 31, 2018. https://www.blm.gov/policy/
-i m -2018 - 034
+Memorandum No. 2018-034.” January 31, 2018. <https://www.blm.gov/policy/im-2018-034>
 
 178 The Trump White House. “Presidential Proclamation Modifying the Bears
-Ears National Monument.” December 4, 2017. https://www.whitehouse.gov/
-presidential-actions/presidential-proclamation-modifying-bears-ears-national-
-monument/
+Ears National Monument.” December 4, 2017. <https://www.whitehouse.gov/presidential-actions/presidential-proclamation-modifying-bears-ears-national-monument/>
 
 And, “Presidential Proclamation Modifying the Grand Staircase – Escalante
-National Monument.” December 4, 2017. https://www.whitehouse.gov/
-presidential-actions/presidential-proclamation-modifying-grand-staircase-
-escalante-national-monument/
+National Monument.” December 4, 2017. <https://www.whitehouse.gov/presidential-actions/presidential-proclamation-modifying-grand-staircase-escalante-national-monument/>
 
 179 Popovich, Nadja. “Bears Ear National Monument Is Shrinking. Here’s What is
-Being Cut.” The New York Times. December 8, 2017. https://www.nytimes.com/
-interactive/2017/12/08/climate/bears-ears-monument-trump.html
+Being Cut.” _The New York Times._ December 8, 2017. <https://www.nytimes.com/interactive/2017/12/08/climate/bears-ears-monument-trump.html>
 
 180 D’Angelo, Chris. “Leaked Documents Reveal the Trump Administration’s Plan to
 Sell off Our Public Lands.” Mother Jones, January 27, 2018. Includes a link to the
-referenced document, which mentions the sale of land on p.3, paragraph VI. https://
-<http://www.motherjones.com/environment/2018/01/leaked-documents-reveal-the->
-trump-administrations-plan-to-sell-off-our-public-lands/
+referenced document, which mentions the sale of land on p.3, paragraph VI. <https://http://www.motherjones.com/environment/2018/01/leaked-documents-reveal-the-trump-administrations-plan-to-sell-off-our-public-lands/>
 
-181 Carpenter, Zoe. “5 Myths About the EpiPen Scandal.” The Nation. September 8, 2016. https://www.thenation.com/article/5-myths-about-the-epipen-scandal/
+181 Carpenter, Zoe. “5 Myths About the EpiPen Scandal.” _The Nation._ September 8, 2016. <https://www.thenation.com/article/5-myths-about-the-epipen-scandal/>
 
 182 Ivory, Danielle, Ben Protess and Kitty Bennett. “When You Dial
-911 and Wall Street Answers.” The New York Times; Business
-Day. June 25, 2016. <http://www.nytimes.com/2016/06/26/>
-business/dealbook/when-you-dial-911-and-wall-street-answers.
-html?emc=edit_th_20160626&nl=todaysheadlines&nlid=49276086&_r=0
+911 and Wall Street Answers.” _The New York Times;_ Business
+Day. June 25, 2016. [http://www.nytimes.com/2016/06/26/business/dealbook/when-you-dial-911-and-wall-street-answers.html?emc=edit_th_20160626&nl=todaysheadlines&nlid=49276086&_r=0](http://www.nytimes.com/2016/06/26/business/dealbook/when-you-dial-911-and-wall-street-answers.html?emc=edit_th_20160626&nl=todaysheadlines&nlid=49276086&_r=0)
 
 183 Ivory, Danielle, ibid.
 
 184 AllGov.com. “Contractors Account for 22% of Defense Dept. Workforce, but 50% of
 Workforce Cost.”
-<http://www.allgov.com/news/where-is-the-money-going/>
-contractors-account-for-22-percent-of-defense-dept-workforce-but-50-percent-of-
-workforce-cost?news=850315
+<http://www.allgov.com/news/where-is-the-money-going/contractors-account-for-22-percent-of-defense-dept-workforce-but-50-percent-of-workforce-cost?news=850315>
 
 185 BillMoyers.com. “US Government pays Contractors Twice as Much as Civil Servants
-for the Same Work.” December 12, 2013. https://billmoyers.com/2013/12/12/
-ripoff-us-government-pays-contractors-twice-as-much-as-civil-servants-for-the-
-same-work/
+for the Same Work.” December 12, 2013. <https://billmoyers.com/2013/12/12/ripoff-us-government-pays-contractors-twice-as-much-as-civil-servants-for-the-same-work/>
 
 186 Here’s an example of how cities lose when they privatize basic services:
 “Chicago Parking Meter Revenue Surged $30 Million in 2012, City Council to
-Take UP Deal Tweaks.” Huffpost. May 8, 2013, updated December 6, 2017.
-https://www.huffingtonpost.com/2013/05/08/chicago-parking-meter-
-rev_n_3238231.html
+Take UP Deal Tweaks.” _Huffpost._ May 8, 2013, updated December 6, 2017.
+<https://www.huffingtonpost.com/2013/05/08/chicago-parking-meter-rev_n_3238231.html>
 
 ### 6.70 Innovation Is Compromised
 
-187 Hecht, Jared. “Are Small Businesses Really the Backbone of the Economy?” Inc.
-December 17, 2017. https://www.inc.com/jared-hecht/are-small-businesses-
-really-the-backbone-of-the-economy.html
+187 Hecht, Jared. “Are Small Businesses Really the Backbone of the Economy?” _Inc._
+December 17, 2017. <https://www.inc.com/jared-hecht/are-small-businesses-really-the-backbone-of-the-economy.html>
 
 ### 6.71 Plutocracy: Rule by a Wealthy Few
 
