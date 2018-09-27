@@ -7,6 +7,8 @@ section-number: 55
 chapter-number: 5
 next-section: 56
 chapter-end: true
+discourse-page: >-
+  https://forum.usmoney.us/t/our-current-system-5-55-pandora-s-box-pushing-the-boundaries-a-new-digital-currency/
 share: true
 comments: false
 comments-locked: false
