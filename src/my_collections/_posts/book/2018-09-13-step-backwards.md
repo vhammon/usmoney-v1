@@ -7,6 +7,8 @@ section-number: 78
 chapter-number: 7
 next-section: 79
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/backwards-bandages-and-bridges-7-78-step-backwards-return-to-the-gold-standard-or-gold/
 share: true
 comments: false
 comments-locked: false
