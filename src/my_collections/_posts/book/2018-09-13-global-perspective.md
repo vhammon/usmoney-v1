@@ -7,6 +7,8 @@ section-number: 86
 chapter-number: 8
 next-section: 87
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/modern-money-8-86-global-perspective-what-will-it-mean-to-the-world/
 share: true
 comments: false
 comments-locked: false
