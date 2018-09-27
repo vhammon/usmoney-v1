@@ -7,6 +7,8 @@ section-number: 68
 chapter-number: 6
 next-section: 69
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/consequences-6-68-private-wealth-transfer-system-from-the-99-to-the-one-percent/
 share: true
 comments: false
 comments-locked: false
