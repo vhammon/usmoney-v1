@@ -7,6 +7,8 @@ section-number: 49
 chapter-number: 5
 next-section: 50
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/our-current-system-5-49-how-much-money-have-the-banks-created/
 share: true
 comments: false
 comments-locked: false
