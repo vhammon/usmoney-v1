@@ -6,6 +6,7 @@ section-number: 82
 chapter-number: 8
 next-section: 83
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/modern-money-8-82-how-much-new-money/'
 share: true
 comments: false
 comments-locked: false
