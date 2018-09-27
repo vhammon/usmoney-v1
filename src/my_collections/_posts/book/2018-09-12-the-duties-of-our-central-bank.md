@@ -6,6 +6,8 @@ section-number: 45
 chapter-number: 5
 next-section: 46
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/our-current-system-5-45-the-duties-of-our-central-bank/
 share: true
 comments: false
 comments-locked: false
