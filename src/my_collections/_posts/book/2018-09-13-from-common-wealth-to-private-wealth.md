@@ -6,6 +6,8 @@ section-number: 69
 chapter-number: 6
 next-section: 70
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/consequences-6-69-from-common-wealth-to-private-wealth/
 share: true
 comments: false
 comments-locked: false
