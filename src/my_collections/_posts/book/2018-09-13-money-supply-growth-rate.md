@@ -7,6 +7,8 @@ section-number: 50
 chapter-number: 5
 next-section: 51
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/our-current-system-5-50-money-supply-growth-rate-steady-devaluation-of-our-dollar/
 share: true
 comments: false
 comments-locked: false
