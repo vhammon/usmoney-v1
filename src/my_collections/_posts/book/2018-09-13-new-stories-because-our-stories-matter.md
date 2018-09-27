@@ -6,6 +6,8 @@ section-number: 95
 chapter-number: 10
 next-section: 96
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/the-path-forward-10-95-new-stories-because-our-stories-matter/
 share: true
 comments: false
 comments-locked: false
