@@ -607,7 +607,6 @@ Politics._ March 6 , 2018. <https://www.npr.org/2018/03/06/585786755/white-house
 
 148 Riley, Theresa. “Making the Rent on Minimum Wage.” _Bill Moyers.com._ April 2, 2012 <https://billmoyers.com/2012/04/02/making-the-rent-on-minimum-wage/>
 
-
 149 Jacobson, Louis. “Are 90 million Americans not working or not
 looking for work?” _PolitiFact._ July 30, 2013. <http://www.politifact.com/truth-o-meter/statements/2013/jul/30/blog-posting/are-90-million-americans-not-working-or-looking-wo/>
 
@@ -757,264 +756,209 @@ December 17, 2017. <https://www.inc.com/jared-hecht/are-small-businesses-really-
 
 188 Editorial. “New research shows yet again that social mobility in Britain is dead.
 Politicians must act now.” Independent. April 12, 2016. Referencing a study by
-the Institute for Fiscal Studies. https://www.independent.co.uk/voices/editorials/
-new-research-shows-yet-again-that-social-mobility-in-britain-is-dead-politicians-
-must-act-now-a6981106.html
-https://www.ifs.org.uk/research/73
+the Institute for Fiscal Studies. <https://www.independent.co.uk/voices/editorials/new-research-shows-yet-again-that-social-mobility-in-britain-is-dead-politicians-must-act-now-a6981106.html>
+<https://www.ifs.org.uk/research/73>
 
 189 JPMorgan Chase and Co. Annual Report 2017. -Total Assets: $2,533.6 billion
-= 18.3% of M2 https://www.jpmorganchase.com/corporate/investor-relations/
-document/annualreport-2017.pdf
+= 18.3% of M2 <https://www.jpmorganchase.com/corporate/investor-relations/document/annualreport-2017.pdf>
 FRED. M2 Money Stock January 1, 2018 - $13,823 billion
-https://fred.stlouisfed.org/series/M2
+<https://fred.stlouisfed.org/series/M2>
 
 190 American Association for the Advancement of Science -AAAS. “Historical Trends in
 Federal R&D: Federal R&D as a Percent of GDP, 1976–2018 and $&D as a Percent
-of the Total Federal Budget, 1962–2017.” Last updated April 2018. https://www.
-aaas.org/sites/default/files/RDGDP;.jpg https://www.aaas.org/sites/default/
-files/Budget;.jpg
+of the Total Federal Budget, 1962–2017.” Last updated April 2018. <https://www.aaas.org/sites/default/files/RDGDP;.jpg https://www.aaas.org/sites/default/files/Budget;.jpg>
 
-191 US Government. Financial Report of the US Government 2017. https://www.fiscal.
-treasury.gov/fsreports/rpt/finrep/fr/17frusg/02142018_FR(Final).pdf
+191 US Government. _Financial Report of the US Government 2017._ <https://www.fiscal.treasury.gov/fsreports/rpt/finrep/fr/17frusg/02142018_FR(Final).pdf>
 NOTE: There were no federal financial reports in 1966, the height of the space race.
 Federal Financial Reports began in 1997, one has to access the budgets.
 And, Aull, Charles. “Fact Check: Is NASA’s budget less than 2 percent of the federal
 budget?” Ballotpedia: Fact Check. July 14, 2015.
-https://ballotpedia.org/Fact_check/
-Is_NASA%27s_budget_less_than_2_percent_of_the_federal_budget%3F
+<https://ballotpedia.org/Fact_check/Is_NASA%27s_budget_less_than_2_percent_of_the_federal_budget%3F>
 
-192 Reisner, Mark. Cadillac Desert: The American West and Its Disappearing Water.
+192 Reisner, Mark. _Cadillac Desert: The American West and Its Disappearing Water._
 New York: Penguin Books. Originally published in 1986, revised in 1993
 
 193 American Commodity Company, LLC. “The Facts About California Rice Production:
 as reported in part from the May 2012, Environmental Sustainability Report
 prepared by the California Rice Commission.” May 2012.
 
-194 SolarEnergyBase.com. “History of Solar Energy.” https://www.solarenergybase.
-com/history-of-solar-energy/
+194 SolarEnergyBase.com. “History of Solar Energy.” <https://www.solarenergybase.com/history-of-solar-energy/>
 
 195 Climate Reality Project. “Follow the Leader: How 11 Countries are shifting to
-renewable energy.” February 03, 2016. https://www.climaterealityproject.org/
-blog/follow-leader-how-11-countries-are-shifting-renewable-energy
+renewable energy.” February 03, 2016. <https://www.climaterealityproject.org/blog/follow-leader-how-11-countries-are-shifting-renewable-energy>
 
 196 JPMC. “2017 Annual Report.” Balance sheet, p. 38, Off-balance information, p.262.
 Note: (total stockholder equity/assets...when you subtract $54 billion in goodwill,
 and add the off balance sheet assets, the ratio drops to $5.70.)
 
 197 NPR. “Charts: See How Much of GOP Tax Cuts Will Go to the Middle Class.”
-NPR:Politics. December 19, 2017. https://www.npr.org/2017/12/19/571754894/
-charts-see-how-much-of-gop-tax-cuts-will-go-to-the-middle-class
+NPR:Politics. December 19, 2017. <https://www.npr.org/2017/12/19/571754894/charts-see-how-much-of-gop-tax-cuts-will-go-to-the-middle-class>
 
 198 IRS. “SOI Tax Stats- Historical Table 23: U.S. Individual Income Tax: Personal
 Exemptions and Lowest and Highest Bracket Tax Rates, and Tax Base for Regular
 
 Tax – Tax Years 1913–2015.”
-https://www.irs.gov/statistics/soi-tax-stats-historical-table-23
+<https://www.irs.gov/statistics/soi-tax-stats-historical-table-23>
 
 199 Greenberg, Scott. “Summary of the Latest Federal Income Tax Data, 2016
-Update.” The Tax Foundation. February 1, 2017. https://taxfoundation.org/
-summary-latest-federal-income-tax-data-2016-update/
+Update.” The Tax Foundation. February 1, 2017. <https://taxfoundation.org/summary-latest-federal-income-tax-data-2016-update/>
 
 200 Tax Policy Center: Urban Institute and Brookings Institute. “Briefing Book: A
 citizen’s guide to the fascinating (though often complex elements of the federal tax
-system.” Retrieved June 2018. https://www.taxpolicycenter.org/briefing-book/
-how-many-people-pay-estate-tax
+system.” Retrieved June 2018. <https://www.taxpolicycenter.org/briefing-book/how-many-people-pay-estate-tax>
 
 201 Domhoff, G. William. “Wealth, Income, and Power.” Who Rules America? Updated
-April 2017.
-https://whorulesamerica.ucsc.edu/power/wealth.html
+April 2017. <https://whorulesamerica.ucsc.edu/power/wealth.html>
 
-202 IRS. “Corporation Income Tax Brackets and Rates, 1909–2002.” https://www.irs.
-gov/pub/irs-soi/02corate.pdf
+202 IRS. “Corporation Income Tax Brackets and Rates, 1909–2002.” <https://www.irs.gov/pub/irs-soi/02corate.pdf>
 
 203 Amadeo, Kimberly. “Corporate Income Tax, Its History and the Effective Rate.” The
-Balance: US Economy: Economy Stats. Updated April 16, 2018. https://www.
-thebalance.com/corporate-income-tax-definition-history-effective-rate-3306024
+Balance: US Economy: Economy Stats. Updated April 16, 2018. <https://www.thebalance.com/corporate-income-tax-definition-history-effective-rate-3306024>
 
 204 Rieman, Maxime. “NerdWallet Study: Top Companies Paid 9% U.S. Tax Rate.”
-NerdWallet. July 24, 2012. https://www.nerdwallet.com/blog/investing/
-investing-data/corporate-taxes-only-9-percent/#.UB-zQshYu9c
+NerdWallet. July 24, 2012. <https://www.nerdwallet.com/blog/investing/investing-data/corporate-taxes-only-9-percent/#.UB-zQshYu9c>
 
 205 Institute on Taxation and Economic Policy. “Fact Sheet: The 35 Percent
-Corporate Tax Myth.” March 2017. https://itep.org/wp-content/uploads/
-corpstudyfact2017.pdf
+Corporate Tax Myth.” March 2017. <https://itep.org/wp-content/uploads/corpstudyfact2017.pdf>
 
 206 Tax Policy Center. “Corporate Income Tax as a Share of GDP, 1946–2015.”
-Updated May 8, 2017.
-https://www.taxpolicycenter.org/statistics/
-corporate-income-tax-share-gdp-1946-2015
+Updated May 8, 2017. <https://www.taxpolicycenter.org/statistics/corporate-income-tax-share-gdp-1946-2015>
 
 207 GAO. US Government Financial Report, 2017. p. 51.
 
 208 Jacobson, Louis. “Bernie Sanders says tax share paid by corporations has
-fallen from 33% to 9% since 1952 – Mostly True.” Politifact. August 28, 2014. I
+fallen from 33% to 9% since 1952 – Mostly True.” _Politifact._ August 28, 2014. I
 used this data for 1952, but adjusted it to reflect only the share of operating
-fund revenue. It is misleading to include the retirement fund income. <http://>
-<http://www.politifact.com/truth-o-meter/statements/2014/aug/28/bernie-s/>
-bernie-sanders-says-tax-share-paid-corporations-ha/
+fund revenue. It is misleading to include the retirement fund income. [http://
+http://www.politifact.com/truth-o-meter/statements/2014/aug/28/bernie-s/bernie-sanders-says-tax-share-paid-corporations-ha/](<http:// http://www.politifact.com/truth-o-meter/statements/2014/aug/28/bernie-s/bernie-sanders-says-tax-share-paid-corporations-ha/>)
 
 209 U.S. Bureau of Economic Analysis. “National income: Corporate profits before tax
 (without IVA and CCAdj) \[A053RC1Q027SBEA],” retrieved from FRED, Federal
-Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/A053RC1Q027SBEA,
+Reserve Bank of St. Louis; <https://fred.stlouisfed.org/series/A053RC1Q027SBEA>,
 July 8, 2018.
 
 210 Institute for Policy Studies: Center for Effective Government. “Fleecing Uncle Sam:
 A growing number of corporations spend more on executive compensation than
-federal income taxes.” 2014.
-https://ips-dc.org/wp-content/uploads/2014/11/IPS_Fleecing_Uncle_Sam_
-Report_Nov2014.pdf
+federal income taxes.” 2014. [https://ips-dc.org/wp-content/uploads/2014/11/IPS_Fleecing_Uncle_Sam_Report_Nov2014.pdf](https://ips-dc.org/wp-content/uploads/2014/11/IPSFleecing_Uncle_SamReport_Nov2014.pdf)
 
 211 Strahan, Philip E. “FRBSF Economic Letter: Liquidity Risk and Credit in the
-Financial Crisis.” Federal Reserve Bank of San Francisco. May 14, 2012. https://
-<http://www.frbsf.org/economic-research/publications/economic-letter/2012/may/>
-liquidity-risk-credit-financial-crisis/
+Financial Crisis.” Federal Reserve Bank of San Francisco. May 14, 2012. <https://www.frbsf.org/economic-research/publications/economic-letter/2012/may/liquidity-risk-credit-financial-crisis/>
 
 212 Pinsker, Joe. “Why Aren’t Any Bankers in Prison for Causing
-the Financial Crisis?” The Atlantic. August 17, 2016. https://
-<http://www.theatlantic.com/business/archive/2016/08/>
-why-arent-any-bankers-in-prison-for-causing-the-financial-crisis/496232/
+the Financial Crisis?” The Atlantic. August 17, 2016. <https://www.theatlantic.com/business/archive/2016/08/why-arent-any-bankers-in-prison-for-causing-the-financial-crisis/496232/>
 
 213 Isidore, Chris. “35 bankers were sent to prison for financial crisis crimes.” CNN
-Money. April 28, 2016. https://money.cnn.com/2016/04/28/news/companies/
-bankers-prison/index.html
+Money. April 28, 2016. <https://money.cnn.com/2016/04/28/news/companies/bankers-prison/index.html>
 
-214 BBC. “The Big Bank Fix.” BBC One: Panorama. Last on BBC Two, April 15, 2017.
-https://www.bbc.co.uk/programmes/b08nfvpn
+214 BBC. “The Big Bank Fix.” _BBC One: Panorama._ Last on BBC Two, April 15, 2017.
+<https://www.bbc.co.uk/programmes/b08nfvpn>
 
-215 Enrich, David. The Spider Network: The Wild story of a Math Genius, a Gang of
-Backstabbing Bankers, and One of the Greatest Scams in Financial History. Reprint
+215 Enrich, David. _The Spider Network: The Wild story of a Math Genius, a Gang of
+Backstabbing Bankers, and One of the Greatest Scams in Financial History._ Reprint
 edition. New York: Custom House. 2018.
 
-216 Clifford, Steven. “How Companies Actually Decide What to Pay CEOs.” The
-Atlantic: Business. June 14, 2017. https://www.theatlantic.com/business/
-archive/2017/06/how-companies-decide-ceo-pay/530127/
+216 Clifford, Steven. “How Companies Actually Decide What to Pay CEOs.” _The
+Atlantic:_ Business. June 14, 2017. <https://www.theatlantic.com/business/archive/2017/06/how-companies-decide-ceo-pay/530127/>
 
 217 SEC. “17 CFR Parts 229 and 249 \[Release Nos. 33-9877; 34-75610; File
-No. S7-07-13] RIN 3235-AL47 –Final Rule.” https://www.sec.gov/rules/
-final/2015/33-9877.pdf
+No. S7-07-13] RIN 3235-AL47 –Final Rule.” <https://www.sec.gov/rules/final/2015/33-9877.pdf>
 
 218 Edmans, Alex. “Why We Need to Stop Obsessing Over CEO Pay Ratios.”
-Harvard Business Review. February 23, 2017. https://hbr.org/2017/02/
-why-we-need-to-stop-obsessing-over-ceo-pay-ratios
+_Harvard Business Review._ February 23, 2017. <https://hbr.org/2017/02/why-we-need-to-stop-obsessing-over-ceo-pay-ratios>
 
 219 Guillot, Craig. “Does Higher CEO Pay Produce Better Company
-Performance?” Chief Executive. July 29, 2016. https://chiefexecutive.net/
-higher-ceo-pay-produce-better-company-performance/
+Performance?” _Chief Executive._ July 29, 2016. <https://chiefexecutive.net/higher-ceo-pay-produce-better-company-performance/>
 
 ### 6.72 No ‘of by and for the People’
 
 220 Piff, Paul K, and Daniel M. Stancato, Stephane Cote, Rodolfo Mendoza-Denton,
 and Dacher Keltner. “Higher social class predicts increased unethical behavior.”
-PNAS, March 13, 2012. 109 (11) 4086-4091; https://doi.org/10.1073/
-pnas.1118373109
+PNAS, March 13, 2012. 109 (11) 4086-4091; <https://doi.org/10.1073/pnas.1118373109>
 Stellar JE, Manzo VM, Kraus MW, Keltner D. “Class and compassion:
 socioeconomic factors predict responses to suffering.” June 2012. PMID: 22148992,
 DOI: 10.1037/a0026508
 
-221 Cassidy, John. “Is America an Oligarchy?” The New Yorker. April 18, 2014. https://
-<http://www.newyorker.com/news/john-cassidy/is-america-an-oligarchy>
+221 Cassidy, John. “Is America an Oligarchy?” _The New Yorker._ April 18, 2014. <https://www.newyorker.com/news/john-cassidy/is-america-an-oligarchy>
 
-222 Liptak, Adam. “Courts Take On Campaign Finance Decision.” The New
-York Times. M a rc h 26 , 2010. h t t ps://w w w.ny t i m e s .c o m/2010/03/27/us/
-politics/27campaign.html
+222 Liptak, Adam. “Courts Take On Campaign Finance Decision.” _The New
+York Times._ March 26, 2010. <https://www.nytimes.com/2010/03/27/us/politics/27campaign.html>
 
 223 Alexander, Madi. “PACs Made Up Nearly Half of 2016 Election
-Spending.” Bloomberg News. April 18, 2017. https://www.bna.com/
-pacs-made-nearly-n57982086803/
+Spending.” Bloomberg News. April 18, 2017. <https://www.bna.com/pacs-made-nearly-n57982086803/>
 
 224 Albert, Zachary. “Trends in Campaign Financing, 1980–2016.” Bipartisan Policy
-Center. https://bipartisanpolicy.org/wp-content/uploads/2018/01/Trends-in-
-Campaign-Financing-1980-2016.-Zachary-Albert..pdf
+Center. <https://bipartisanpolicy.org/wp-content/uploads/2018/01/Trends-in-Campaign-Financing-1980-2016.-Zachary-Albert.pdf>
 
 225 Bipartisan Policy Center. P.4.
 
 226 Edkins, Brett. “In the Wake of Trump’s Win, Here Are 5 Ways the Media Can
-Regain Credibility.” Forbes. November 17, 2016. https://www.forbes.com/sites/
-brettedkins/2016/11/17/in-the-wake-of-trumps-win-how-does-the-media-regain-
-credibility/#78cab37b2ca5
+Regain Credibility.” _Forbes._ November 17, 2016. <https://www.forbes.com/sites/brettedkins/2016/11/17/in-the-wake-of-trumps-win-how-does-the-media-regain-credibility/#78cab37b2ca5>
 
-227 Naureckas, Jim. “Trump: Bad for America, Good for CBS.” FAIR- Fairness
-and Accuracy in Reporting. April 2016. https://fair.org/home/
-trump-bad-for-america-good-for-cbs/
+227 Naureckas, Jim. “Trump: Bad for America, Good for CBS.” _FAIR- Fairness
+and Accuracy in Reporting._ April 2016. <https://fair.org/home/trump-bad-for-america-good-for-cbs/>
 
 228 Hooker, Brad. “Corporations Represented on ALEC’s Private Enterprise
 Board Are Big Spenders in Washington.” Center for Responsive Politics.
-September 12, 2011. https://www.opensecrets.org/news/2011/09/
-alec-corporations-are-big-spenders/
+September 12, 2011. <https://www.opensecrets.org/news/2011/09/alec-corporations-are-big-spenders/>
 
 229 Duignan, Brian. “Citizens United v. Federal Election Commission, Law
-Case.” Encyclopedia Britannica. https://www.britannica.com/event/
-Citizens-United-v-Federal-Election-Commission
+Case.” _Encyclopedia Britannica._ <https://www.britannica.com/event/Citizens-United-v-Federal-Election-Commission>
 
 230 Regan, Michael D. “What does voter turnout tell us about the 2016 election?”
-PBS News Hour. November 20, 2016. https://www.pbs.org/newshour/politics/
-voter-turnout-2016-elections
+_PBS News Hour._ November 20, 2016. <https://www.pbs.org/newshour/politics/voter-turnout-2016-elections>
 
 231 US Election Assistance Commission. “The Election Administration and Voting Survey
-2016 Comprehensive Report: A Report to the 115th Congress.” https://www.eac.
-gov/assets/1/6/2016_EAVS_Comprehensive_Report.pdf
+2016 Comprehensive Report: A Report to the 115th Congress.” <https://www.eac.gov/assets/1/6/2016_EAVS_Comprehensive_Report.pdf>
 
 232 The International Institute for Democracy and Electoral Assistance (International
-IDEA). “Voter Turnout Database.” https://www.idea.int/data-tools/data/
-voter-turnout
+IDEA). “Voter Turnout Database.” <https://www.idea.int/data-tools/data/voter-turnout>
 
 233 Layton, Lyndsey. “How Bill Gates pulled off the swift Common Core revolution.”
-The Washington Post. June 7, 2014. https://www.washingtonpost.com/politics/
-how-bill-gates-pulled-off-the-swift-common-core-revolution/2014/06/07/
-a830e32e-ec34-11e3-9f5c-9075d5508f0a_story.html?utm_term=.d7d7d9436fde
+The Washington Post. June 7, 2014. <https://www.washingtonpost.com/politics/how-bill-gates-pulled-off-the-swift-common-core-revolution/2014/06/07/a830e32e-ec34-11e3-9f5c-9075d5508f0a_story.html?utm_term=.d7d7d9436fde>
 
-234 Strauss, Valerie. “Five Reasons standardized testing isn’t likely to let up.” The
-Washington Post. March 11, 2015. https://www.washingtonpost.com/news/
-answer-sheet/wp/2015/03/11/five-reasons-standardized-testing-isnt-likely-to-
-let-up/?utm_term=.e7e3738bd6a1
+234 Strauss, Valerie. “Five Reasons standardized testing isn’t likely to let up.” _The
+Washington Post._ March 11, 2015. <https://www.washingtonpost.com/news/answer-sheet/wp/2015/03/11/five-reasons-standardized-testing-isnt-likely-to-let-up/?utm_term=.e7e3738bd6a1>
 
 235 Ward, Steven. “Crisis in American education as teacher morale hits an
-all-time low.” The Conversation. April 7, 2015. https://theconversation.com/
-crisis-in-american-education-as-teacher-morale-hits-an-all-time-low-39226
+all-time low.” The Conversation. April 7, 2015. <https://theconversation.com/crisis-in-american-education-as-teacher-morale-hits-an-all-time-low-39226>
 
 236 Murphy, Tim. “Inside the Mammoth Backlash to Common Core: How a bipartisan
 education reform effort became the biggest conservative bogeyman since
-Obamacare.” Mother Jones. September/October 2014. https://www.motherjones.
-com/politics/2014/09/common-core-education-reform-backlash-obamacare/
+Obamacare.” _Mother Jones._ September/October 2014. <https://www.motherjones.com/politics/2014/09/common-core-education-reform-backlash-obamacare/>
 
 237 Layton. Washington Post. Ibid.
 
-238 Herman, Edward S. and Noam Chomsky. Manufacturing Consent: The Political
-Economy of the Mass Media. New York, NY: Pantheon Books, 1988. NOTE: There
+238 Herman, Edward S. and Noam Chomsky. _Manufacturing Consent: The Political
+Economy of the Mass Media._ New York, NY: Pantheon Books, 1988. NOTE: There
 is also a 2002 update of this book.
 
 239 McKew, Molly. “Did Russia Affect the 2016 Election? It’s Now Undeniable.”
-Wired Magazine, February 16, 2018. https://www.wired.com/story/
-did-russia-affect-the-2016-election-its-now-undeniable/
+Wired Magazine, February 16, 2018. <https://www.wired.com/story/did-russia-affect-the-2016-election-its-now-undeniable/>
+
+
 240 Rendall, Steve. “The Fairness Doctrine: How we lost it, and why we need it back.”
-FAIR. January 2005. https://fair.org/extra/the-fairness-doctrine/
+FAIR. January 2005. <https://fair.org/extra/the-fairness-doctrine/>
 
 241 Thierer, Adam. “Why the Fairness Doctrine Is Anything But Fair.” The Heritage
-Foundation. October 29, 1993. https://www.heritage.org/government-regulation/
-report/why-the-fairness-doctrine-anything-fair
+Foundation. October 29, 1993. <https://www.heritage.org/government-regulation/report/why-the-fairness-doctrine-anything-fair>
 
-242 “Big Media: Media Regulation Timeline.” OPB:PBS. January 30, 2004. <http://www.>
-pbs.org/now/politics/mediatimeline.html
+242 “Big Media: Media Regulation Timeline.” OPB:PBS. January 30, 2004. <http://www.pbs.org/now/politics/mediatimeline.html>
 
 243 Perlstein, Jeff. “Clear Channel: The Media Mammoth That Stole the
-Airwaves.” Davy D. Retrieved July 2018. <http://www.daveyd.com/>
-articlesclearchannelbyjeffpearlstein.html
+Airwaves.” Davy D. Retrieved July 2018. <http://www.daveyd.com/articlesclearchannelbyjeffpearlstein.html>
 
 244 Vinton, Kate. “These 15 Billionaires Own America’s News Media Companies.”
-Forbes. June 1, 2016. https://www.forbes.com/sites/katevinton/2016/06/01/
-these-15-billionaires-own-americas-news-media-companies/#33790488660a
+Forbes. June 1, 2016. <https://www.forbes.com/sites/katevinton/2016/06/01/these-15-billionaires-own-americas-news-media-companies/#33790488660a>
+
 245 Stewart, James B. “When Media Mergers Limit More Than Competition.” New York
-Times. July 25, 2014. https://www.nytimes.com/2014/07/26/business/a-21st-
-century-fox-time-warner-merger-would-narrow-already-dwindling-competition.html
+Times. July 25, 2014. <https://www.nytimes.com/2014/07/26/business/a-21st-century-fox-time-warner-merger-would-narrow-already-dwindling-competition.html>
 
 246 Johnson, Ted. “PBS Stations Express Cautious Optimism About Federal
-Funding.” Variet y. February 27, 2018. https://variety.com/2018/politics/news/
-pbs-federal-funding-trump-budget-cuts-1202710960/
+Funding.” _Variety._ February 27, 2018. <https://variety.com/2018/politics/news/pbs-federal-funding-trump-budget-cuts-1202710960/>
 
 247 Schmeiser, Lisa. “The Effect of Facebook’s Social Media Silo on Itself and
 You; It turns out the behemoth is dividing communities and stunting social
-discourse. The Observer. May, 3, 2017. <http://observer.com/2017/05/>
-facebook-social-media-silo-effect-social-discourse/
+discourse. _The Observer._ May, 3, 2017. <http://observer.com/2017/05/facebook-social-media-silo-effect-social-discourse/>
 
 248 Lapowsky, Issie. Here’s How Facebook Actually Won Trump the Presidency.”
 WIRED. November 15, 2016. https://www.wired.com/2016/11/
@@ -1022,105 +966,88 @@ facebook-won-trump-election-not-just-fake-news/
 
 249 OPB:PBS. Timeline. Ibid.
 
-250 Rushkoff, Douglas. Coercion; Why we listen to what ‘they’ say. New York, NY:
+250 Rushkoff, Douglas. Coercion; _Why we listen to what ‘they’ say._ New York, NY:
 Riverhead Books a member of Penguin Putnam Inc. 1999.
 
 251 Donohue, Julie. “A History of Drug Advertising: The Evolving Roles of Consumers
-and Consumer Protection.” The Milbank Quarterly. December 2006. doi:
+and Consumer Protection.” _The Milbank Quarterly._ December 2006. doi:
 10.1111/j.1468-0009.2006.00464.x
 
 252 McCaffrey, Kevin. “Drugmakers again boost DTC spending, to $5.6 billion in
-2016 .” MM&M. March 03, 2017. https://www.mmm-online.com/commercial/
-drugmakers-again-boost-dtc-spending-to-56-billion-in-2016/article/642028/
+2016 .” MM&M. March 03, 2017. h<ttps://www.mmm-online.com/commercial/drugmakers-again-boost-dtc-spending-to-56-billion-in-2016/article/642028/>
 
-253 “US prescription drug spending as high as $610 billion by 2021: Report.” Reuters.
-May 4, 2017. https://www.cnbc.com/2017/05/04/us-prescription-drug-
-spending-as-high-as-610-billion-by-2021-report.html
+253 “US prescription drug spending as high as $610 billion by 2021: Report.” _Reuters._
+May 4, 2017. <https://www.cnbc.com/2017/05/04/us-prescription-drug-spending-as-high-as-610-billion-by-2021-report.html>
 
 254 US Department of Health and Human Services. Centers for Disease Control and
 Prevention. National Center for Health Statistics. Health, United States, 2016.
 Table 79 (page 1 of 2). Prescription drug use in the past 30 days, by sex, race and
 Hispanic origin, and age: United States selected years 1988–1994 through 2011–
-2014.” p. 293 https://www.cdc.gov/nchs/data/hus/hus16.pdf#079
+2014.” p. 293 <https://www.cdc.gov/nchs/data/hus/hus16.pdf#079>
 
 255 US Dept. of Health. Ibid.
 
-256 Nuaw, Ingrid. “Do antidepressants do more harm than good?” ScienceNordic.
+256 Nuaw, Ingrid. “Do antidepressants do more harm than good?” _ScienceNordic._
 April 18, 2017. <http://sciencenordic.com/do-antidepressants-do-more-harm-good>
 
 257 OPB:PBS. Timeline. Ibid.
 
-258 Moses, Lucia. “A Look at Kids’ Exposure to Ads.” Adweek. March 11, 2014. https://
-<http://www.adweek.com/digital/look-kids-exposure-ads-156191/>
+258 Moses, Lucia. “A Look at Kids’ Exposure to Ads.” Adweek. March 11, 2014. <https://www.adweek.com/digital/look-kids-exposure-ads-156191/>
 
 259 US Centers for Disease Control (CDC). “Childhood Obesity Facts.” Updated
-January 29, 2018. https://www.cdc.gov/healthyschools/obesity/facts.htm
+January 29, 2018. <https://www.cdc.gov/healthyschools/obesity/facts.htm>
+
 260 NOTE: Google “post truth era.” 130,000,000 results appear.
 
 261 “Survey confirms: people have no idea about how money is created.”
-PositiveMoney. September 20, 2015. <http://positivemoney.org/2015/09/>
-survey-confirms-people-have-no-idea-about-how-money-is-created/
+PositiveMoney. September 20, 2015. <http://positivemoney.org/2015/09/survey-confirms-people-have-no-idea-about-how-money-is-created/>
 
 262 Glasser, Susan B. “It’s True: Trump is Lying More, and He’s Doing it On Purpose.”
-The New Yorker. “5:00 A.M.”....if that’s the day I retrieved the story, it’s August
-3, 2018. https://www.newyorker.com/news/letter-from-trumps-washington/
-trumps-escalating-war-on-the-truth-is-on-purpose
+_The New Yorker._ “5:00 A.M.”....if that’s the day I retrieved the story, it’s August
+3, 2018. <https://www.newyorker.com/news/letter-from-trumps-washington/trumps-escalating-war-on-the-truth-is-on-purpose>
 
 ### 6.73 No Free Market
 
 263 Rushkoff, Douglas. Ibid.
 
 264 Daley, Jason. “Five Things to Know About the New GMO Labeling Bill.”
-Smithsonian.com. July 15, 2016. https://www.smithsonianmag.com/smart-news/
-five-things-know-about-new-gmo-labeling-bill-180959821/
+Smithsonian.com. July 15, 2016. <https://www.smithsonianmag.com/smart-news/five-things-know-about-new-gmo-labeling-bill-180959821/>
 
 265 Goday, Maria. “The Science of Twinkies: How Do They Last
-So Darned Long?” NPR: The Salt. July 10, 2013. https://
-<http://www.npr.org/sections/thesalt/2013/07/09/200465360/>
-the-science-of-twinkies-how-do-they-last-so-long
+So Darned Long?” _NPR:_ The Salt. July 10, 2013. <https://www.npr.org/sections/thesalt/2013/07/09/200465360/the-science-of-twinkies-how-do-they-last-so-long>
 
 266 Gunnars, Kris, BSc. “Nine ways that processed foods are harming people.”
-Medical News Today. August 1, 2017. https://www.medicalnewstoday.com/
-articles/318630.php
+Medical News Today. August 1, 2017. <https://www.medicalnewstoday.com/articles/318630.php>
 
 267 Kotch, Alex. “Charles Koch’s Disturbing High School Economics Project Teaches
-‘Sacrificing Lives for Profits.’ Alternet. May 9, 2016. <http://www.truthdig.com/>
-report/item/charles_kochs_disturbing_high_school_economics_20160602
+‘Sacrificing Lives for Profits.’ Alternet. May 9, 2016. <http://www.truthdig.com/report/item/charles_kochs_disturbing_high_school_economics_20160602>
 
-268 Gwartney, James D.; Richard L. Stroup; Dwight R. Lee. Common Sense Economics:
-What Everyone Should Know About Wealth and Prosperity. New York, NY:
+268 Gwartney, James D.; Richard L. Stroup; Dwight R. Lee. _Common Sense Economics:
+What Everyone Should Know About Wealth and Prosperity._ New York, NY:
 Macmillan: St. Martin’s Press, 2005.
 
 269 Lee, Dwight R. “Sacrificing Lives for Profits: Adults Should Be Allowed to Choose
-Their Own Levels of Risk-Taking.” FEE Foundation for Economic Education
-November 1, 2000. https://fee.org/articles/sacrificing-lives-for-profits/
+Their Own Levels of Risk-Taking.” _FEE Foundation for Economic Education_
+November 1, 2000. <https://fee.org/articles/sacrificing-lives-for-profits/>
 
-270 Worstall, Tim. “Sorry, Salon: The Koch Brothers are Actually Right.” Forbes. May 17,
-
-2016. https://www.forbes.com/sites/timworstall/2016/05/17/its-a-bit-strange-
-      to-shout-at-the-koch-brothers-when-theyre-actually-right/#45edfff17802
+270 Worstall, Tim. “Sorry, Salon: The Koch Brothers are Actually Right.” _Forbes._ May 17, 2016 <https://www.forbes.com/sites/timworstall/2016/05/17/its-a-bit-strange-to-shout-at-the-koch-brothers-when-theyre-actually-right/#45edfff17802>
 
 271 CDC- Centers for Disease Control and Prevention. “Policy Impact: Seat Belts.”
-Last updated January 21, 2014. https://www.cdc.gov/motorvehiclesafety/
-seatbeltbrief/index.html
+Last updated January 21, 2014. <https://www.cdc.gov/motorvehiclesafety/seatbeltbrief/index.html>
 
 272 Mayer, Jane. Ibid.
 
 ### 6.74 Idolatry of Money
 
-273 Smith, Adam. The Theory of Moral Sentiments. “Chapter III: Of the corruption of our
+273 Smith, Adam. _The Theory of Moral Sentiments._ “Chapter III: Of the corruption of our
 moral sentiments, which is occasioned by this disposition to admire the rich and the
 great, and to despise or neglect persons of poor and mean condition.” Retrieved
 from University of Pennsylvania. <http://knarf.english.upenn.edu/Smith/tms133.html>
 
-274 USDA. “Food Security Status of U.S. Households in 2016.” https://www.ers.usda.
-gov/topics/food-nutrition-assistance/food-security-in-the-us/key-statistics-
-graphics.aspx
+274 USDA. “Food Security Status of U.S. Households in 2016.” <https://www.ers.usda.gov/topics/food-nutrition-assistance/food-security-in-the-us/key-statistics-graphics.aspx>
 
 275 Shute, Nancy. “CDC: Developmental Disabilities Affect 1 in 7 U.S.
-Kids.” NPR: Your Health. May 23, 2011. https://www.npr.org/sections/
-health-shots/2011/05/23/136582348/cdc-developmental-disabilities-affect-1-
-in-7-u-s-kids
+Kids.” NPR: Your Health. May 23, 2011. <https://www.npr.org/sections/health-shots/2011/05/23/136582348/cdc-developmental-disabilities-affect-1-in-7-u-s-kids>
 
 NOTE: Curiously while the CDC reported over 14 percent in 2011, by 2014, they
 decided that it was really only 6 percent if you left out many diagnoses of difficulties.
@@ -1129,25 +1056,20 @@ concern? Among the teachers I know there is a general consensus that it’s clos
 one in five.
 National Center for Health Statistics. Zablotsky, Benjamin, PhD. “Estimated
 Prevalence of Children With Diagnosed Developmental Disabilities in the United
-States, 2014-2016.” NCHS Data Brief No. 291, November 2017. https://www.cdc.
-gov/nchs/data/databriefs/db291.pdf
+States, 2014-2016.” NCHS Data Brief No. 291, November 2017. <https://www.cdc.gov/nchs/data/databriefs/db291.pdf>
 
 276 McPhillips, Deidre. “This Labor Day weekend, a Look at the Hardest-
-Working Countries.” USNews. September 2, 2016. https://
-<http://www.usnews.com/news/best-countries/articles/2016-09-02/>
-hardest-working-countries-ranked-by-hours-worked-per-year
+Working Countries.” _USNews._ September 2, 2016. <https://www.usnews.com/news/best-countries/articles/2016-09-02/hardest-working-countries-ranked-by-hours-worked-per-year>
 
-277 Moore, Michael, Director. Where to Invade Next. Distributed by Neon. February
+277 Moore, Michael, Director. _Where to Invade Next._ Distributed by Neon. February
 12, 2016.
 
 278 Kurtzleben, Danielle. “Lots of Other Countries Mandate Paid Leave. Why
-Not the U.S.? NPR: Politics. July 15, 2015, charts updated May 6, 2016.
-https://www.npr.org/sections/itsallpolitics/2015/07/15/422957640/
-lots-of-other-countries-mandate-paid-leave-why-not-the-us
+Not the U.S.? _NPR: Politics._ July 15, 2015, charts updated May 6, 2016.
+<https://www.npr.org/sections/itsallpolitics/2015/07/15/422957640/lots-of-other-countries-mandate-paid-leave-why-not-the-us>
 
 279 Schulze, Elizabeth. “Vacation can make you more productive – just ask the
-Europeans.” CNBC. August 25, 2017. https://www.cnbc.com/2017/08/25/
-vacation-can-make-you-more-productive--just-ask-the-europeans.html
+Europeans.” CNBC. August 25, 2017. <https://www.cnbc.com/2017/08/25/vacation-can-make-you-more-productive--just-ask-the-europeans.html>
 
 280 Kurtzleben. Ibid.
 
@@ -1156,54 +1078,40 @@ vacation-can-make-you-more-productive--just-ask-the-europeans.html
 ### 6.75 Moral Hazard
 
 282 McCallister, Doreen. “Ex-Massey energy CEO Completes 1-Year
-Federal Criminal Sentence.” NPR: America. May 11, 2017. https://
-<http://www.npr.org/sections/thetwo-way/2017/05/11/527886633/>
-ex-massey-energy-ceo-completes-1-year-federal-criminal-sentence
+Federal Criminal Sentence.” _NPR: America._ May 11, 2017. h<ttps://www.npr.org/sections/thetwo-way/2017/05/11/527886633/ex-massey-energy-ceo-completes-1-year-federal-criminal-sentence>
 
 283 Gabriel, Trip. “Don Blankenship Loses West Virginia Republican Primary for Senate.”
-New York Times. May 8, 2018. ht tps://w w w.ny times.com/2018/05/08/us/
-politics/blankenship-west-virginia.html
+_New York Times._ May 8, 2018. <https://www.nytimes.com/2018/05/08/us/politics/blankenship-west-virginia.html>
 
-284 Kristof, Nicholas. “When Crime Pays: J& J’s Drug Risperdal.” New York Times.
-September 17, 2015. https://www.nytimes.com/2015/09/17/opinion/nicholas-
-kristof-when-crime-pays-jjs-drug-risperdal.html
+284 Kristof, Nicholas. “When Crime Pays: J& J’s Drug Risperdal.” _New York Times._
+September 17, 2015. <https://www.nytimes.com/2015/09/17/opinion/nicholas-kristof-when-crime-pays-jjs-drug-risperdal.html>
 
 285 Public Citizen. “Penalties for Corporate Violations Plummet by Double Digits
-Under Trump.” July 25, 2018. https://www.citizen.org/media/press-releases/
-penalties-corporate-violations-plummet-double-digits-under-trump
+Under Trump.” July 25, 2018. <https://www.citizen.org/media/press-releases/penalties-corporate-violations-plummet-double-digits-under-trump>
 
 286 Shen, Lucinda. “Here’s What Just Wiped More Than $80 Billion Off Wall Street’s
-Trump Bump.” Fortune. March 21, 2017. http://fortune.com/2017/03/21/
-donald-trump-stock-market-rally-bank/
+Trump Bump.” Fortune. March 21, 2017. <http://fortune.com/2017/03/21/donald-trump-stock-market-rally-bank/>
 
 ### 6.76 The End of the Road
 
 287 Amadeo, Kimberly. “Dow Highest Closing Records.” The
-Balance. Updated June 11, 2018. https://www.thebalance.com/
-dow-jones-closing-history-top-highs-and-lows-since-1929-3306174
+Balance. Updated June 11, 2018. <https://www.thebalance.com/dow-jones-closing-history-top-highs-and-lows-since-1929-3306174>
 
 288 Kopf, Dan. “Trump’s first 17 cabinet-level picks have more money than a third
-of American households combined.” Quartz. December 15, 2016. https://
-qz.com/862412/trumps-16-cabinet-level-picks-have-more-money-than-a-third-
-of-american-households-combined/
+of American households combined.” _Quartz._ December 15, 2016. <https://qz.com/862412/trumps-16-cabinet-level-picks-have-more-money-than-a-third-of-american-households-combined/>
 
 289 Richter, Wolf. “Here’s why efforts to reduce the dollar’s
-dominance won’t work anytime soon.” Business Insider: Wolf
-Street. July 2, 2018. https://www.businessinsider.com/
-us-dollar-heres-why-it-will-remain-dominant-around-the-world-2018-7
+dominance won’t work anytime soon.” _Business Insider: Wolf
+Street._ July 2, 2018. <https://www.businessinsider.com/us-dollar-heres-why-it-will-remain-dominant-around-the-world-2018-7>
 
 290 International Monetary Fund. “Press Release No. 17/108: IMF
 Releases Data on the Currency Composition of Foreign Exchange
-Reserves Including Holdings in Renminbi.” IMF News. March
-31, 2017. https://www.imf.org/en/News/Articles/2017/03/31/
-pr17108-IMF-Releases-Data-on-the-Currency-Composition-of-Foreign-
-Exchange-Reserves
+Reserves Including Holdings in Renminbi.” _IMF News._ March
+31, 2017. <https://www.imf.org/en/News/Articles/2017/03/31/pr17108-IMF-Releases-Data-on-the-Currency-Composition-of-Foreign-Exchange-Reserves>
 
 291 Wike, Richard, Bruce Stokes, Jacob Poushter and Janell Fetterolf. “U.S. Image
-Suffers as Publics Around World Question Trump’s Leadership.” Pew Research
-Center: Global Attitudes & Trends. June 26, 2017. <http://www.pewglobal.>
-org/2017/06/26/u-s-image-suffers-as-publics-around-world-question-trumps-
-leadership/
+Suffers as Publics Around World Question Trump’s Leadership.” _Pew Research
+Center: Global Attitudes & Trends._ June 26, 2017. <http://www.pewglobal.org/2017/06/26/u-s-image-suffers-as-publics-around-world-question-trumps-leadership/>
 
 292 NOTE: Trump has insulted so many people. He calls somebody a childish name
 every day it seems. I’m not going to track all these insults down. If you doubt he
@@ -1213,16 +1121,13 @@ do it today.
 293 Richter, Wolf. Ibid.
 
 294 Edwards, Kyle. “Could Ottawa slap the Trump Organization with trade
-sanctions?” Maclean’s: Politics. June 13, 2018. https://www.macleans.ca/politics/
-could-ottawa-slap-the-trump-organization-with-trade-sanctions/
+sanctions?” Maclean’s: Politics. June 13, 2018. <https://www.macleans.ca/politics/could-ottawa-slap-the-trump-organization-with-trade-sanctions/>
 
 295 The Editors. “How Germany Is, Reluctantly, Assuming a
-Leadership Role in NATO.” World Politics Review. April 13, 2017.
-https://www.worldpoliticsreview.com/trend-lines/21838/
-how-germany-is-reluctantly-assuming-a-leadership-role-in-nato
+Leadership Role in NATO.” _World Politics Review._ April 13, 2017.
+<https://www.worldpoliticsreview.com/trend-lines/21838/how-germany-is-reluctantly-assuming-a-leadership-role-in-nato>
 
 296 “China Global Investment Tracker: Worldwide Chinese Investments & Construction
-(2009–2018).” American Enterprise Institute. Retrieved August 3, 2018. <http://>
-<http://www.aei.org/china-global-investment-tracker/>
+(2009–2018).” _American Enterprise Institute._ Retrieved August 3, 2018. <http://www.aei.org/china-global-investment-tracker/>
 
 297 Oxfam. Ibid.
