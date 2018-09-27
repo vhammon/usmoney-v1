@@ -7,6 +7,7 @@ section-number: 62
 chapter-number: 6
 next-section: 63
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/consequences-6-62-hard-times-by-design/'
 share: true
 comments: false
 comments-locked: false
