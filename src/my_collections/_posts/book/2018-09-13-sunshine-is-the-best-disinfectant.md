@@ -6,6 +6,8 @@ section-number: 54
 chapter-number: 5
 next-section: 55
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/our-current-system-5-54-sunshine-is-the-best-disinfectant/
 share: true
 comments: false
 comments-locked: false
