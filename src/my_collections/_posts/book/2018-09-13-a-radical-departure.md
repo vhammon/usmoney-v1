@@ -6,6 +6,7 @@ section-number: 53
 chapter-number: 5
 next-section: 54
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/our-current-system-5-53-a-radical-departure/'
 share: true
 comments: false
 comments-locked: false
