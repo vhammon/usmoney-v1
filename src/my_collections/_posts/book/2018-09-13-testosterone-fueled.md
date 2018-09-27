@@ -6,6 +6,7 @@ section-number: 64
 chapter-number: 6
 next-section: 65
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/consequences-6-64-testosterone-fueled/'
 share: true
 comments: false
 comments-locked: false
