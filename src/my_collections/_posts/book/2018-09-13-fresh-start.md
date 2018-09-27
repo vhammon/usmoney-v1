@@ -6,6 +6,7 @@ section-number: 94
 chapter-number: 10
 next-section: 95
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/the-path-forward-10-94-fresh-start/'
 share: true
 comments: false
 comments-locked: false
