@@ -6,6 +6,7 @@ section-number: 83
 chapter-number: 8
 next-section: 84
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/modern-money-8-83-who-gets-it/'
 share: true
 comments: false
 comments-locked: false
