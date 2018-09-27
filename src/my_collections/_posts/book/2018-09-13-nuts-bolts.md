@@ -7,6 +7,7 @@ section-number: 84
 chapter-number: 8
 next-section: 85
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/modern-money-8-84-nuts-bolts-how-will-it-work/'
 share: true
 comments: false
 comments-locked: false
