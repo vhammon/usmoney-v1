@@ -7,6 +7,8 @@ section-number: 47
 chapter-number: 5
 next-section: 48
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/our-current-system-5-47-how-is-new-money-created-debt-credit-creates-the-money-supply/
 share: true
 comments: false
 comments-locked: false
