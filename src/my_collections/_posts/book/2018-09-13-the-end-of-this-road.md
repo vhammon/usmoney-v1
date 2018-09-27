@@ -6,6 +6,7 @@ section-number: 76
 chapter-number: 6
 next-section: 77
 chapter-end: true
+discourse-page: 'https://forum.usmoney.us/t/consequences-6-76-the-end-of-the-road/'
 share: true
 comments: false
 comments-locked: false
