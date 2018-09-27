@@ -6,6 +6,7 @@ section-number: 58
 chapter-number: 6
 next-section: 59
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/consequences-6-58-increase-debt/'
 share: true
 comments: false
 comments-locked: false
