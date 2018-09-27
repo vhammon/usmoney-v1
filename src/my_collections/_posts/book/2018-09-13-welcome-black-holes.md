@@ -6,6 +6,7 @@ section-number: 61
 chapter-number: 6
 next-section: 62
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/consequences-6-61-welcome-black-holes/'
 share: true
 comments: false
 comments-locked: false
