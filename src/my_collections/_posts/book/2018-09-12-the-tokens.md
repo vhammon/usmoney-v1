@@ -7,6 +7,8 @@ section-number: 48
 chapter-number: 5
 next-section: 49
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/our-current-system-5-48-the-tokens-cash-and-digital/
 share: true
 comments: false
 comments-locked: false
