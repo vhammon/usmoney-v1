@@ -7,6 +7,7 @@ section-number: 36
 chapter-number: 4
 next-section: 37
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/money-systems-4-36-bank-money-creation-no-anchor/'
 share: true
 comments: false
 comments-locked: false
