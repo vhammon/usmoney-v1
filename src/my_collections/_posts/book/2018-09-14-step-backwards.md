@@ -8,6 +8,8 @@ section-number: 77
 chapter-number: 7
 next-section: 78
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/backwards-bandages-and-bridges-7-77-step-backwards-fewer-laws-free-market-banking-money-creation/
 share: true
 comments: false
 comments-locked: false
