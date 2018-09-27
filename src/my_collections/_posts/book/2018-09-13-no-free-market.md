@@ -6,6 +6,7 @@ section-number: 73
 chapter-number: 6
 next-section: 74
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/consequences-6-73-no-free-market/'
 share: true
 comments: false
 comments-locked: false
