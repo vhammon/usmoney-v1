@@ -7,6 +7,7 @@ section-number: 71
 chapter-number: 6
 next-section: 72
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/consequences-6-71-plutocracy-rule-by-a-wealthy-few/'
 share: true
 comments: false
 comments-locked: false
