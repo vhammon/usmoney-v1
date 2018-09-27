@@ -6,6 +6,7 @@ section-number: 67
 chapter-number: 6
 next-section: 68
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/consequences-6-67-loss-of-common-wealth/'
 share: true
 comments: false
 comments-locked: false
