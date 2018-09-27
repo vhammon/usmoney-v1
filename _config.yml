@@ -23,7 +23,7 @@ company:
   phone:
 
 touch-icon:
-fav-icon:
+fav-icon: https://res.cloudinary.com/usmoney/image/upload/v1538018637/favicon.ico
 
 cloudinary-name: usmoney
 
