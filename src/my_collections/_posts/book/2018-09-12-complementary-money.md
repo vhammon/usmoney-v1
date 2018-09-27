@@ -6,6 +6,7 @@ section-number: 38
 chapter-number: 4
 next-section: 39
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/money-systems-4-38-complementary-money/'
 share: true
 comments: false
 comments-locked: false
