@@ -7,6 +7,7 @@ section-number: 39
 chapter-number: 4
 next-section: 40
 chapter-end: true
+discourse-page: 'https://forum.usmoney.us/t/money-systems-4-39-experiments-interesting-times/'
 share: true
 comments: false
 comments-locked: false
