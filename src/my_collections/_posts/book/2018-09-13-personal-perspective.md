@@ -7,6 +7,8 @@ section-number: 85
 chapter-number: 8
 next-section: 86
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/modern-money-8-85-personal-perspective-what-will-it-mean-to-you/
 share: true
 comments: false
 comments-locked: false
