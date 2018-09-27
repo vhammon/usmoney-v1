@@ -6,6 +6,7 @@ section-number: 75
 chapter-number: 6
 next-section: 76
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/consequences-6-75-moral-hazard/'
 share: true
 comments: false
 comments-locked: false
