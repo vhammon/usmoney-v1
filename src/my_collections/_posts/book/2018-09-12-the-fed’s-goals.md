@@ -6,6 +6,7 @@ section-number: 44
 chapter-number: 5
 next-section: 45
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/our-current-system-5-44-the-fed-s-goals/'
 share: true
 comments: false
 comments-locked: false
