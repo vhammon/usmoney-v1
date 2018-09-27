@@ -6,6 +6,7 @@ section-number: 72
 chapter-number: 6
 next-section: 73
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/consequences-6-72-no-of-by-and-for-the-people/'
 share: true
 comments: false
 comments-locked: false
