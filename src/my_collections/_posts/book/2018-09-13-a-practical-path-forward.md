@@ -6,6 +6,7 @@ section-number: 93
 chapter-number: 10
 next-section: 94
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/the-path-forward-10-93-a-practical-path-forward/'
 share: true
 comments: false
 comments-locked: false
