@@ -5,6 +5,7 @@ title: Who creates new money?
 section-number: 20
 chapter-number: 3
 next-section: 21
+discourse-page: 'https://forum.usmoney.us/t/money-fundamentals-3-20-who-creates-new-money/'
 share: true
 comments: false
 comments-locked: false
