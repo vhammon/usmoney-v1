@@ -6,6 +6,7 @@ section-number: 43
 chapter-number: 5
 next-section: 44
 chapter-end: false
+discourse-page: m.usmoney.us/t/our-current-system-5-43-the-fed-s-own-words/
 share: true
 comments: false
 comments-locked: false
