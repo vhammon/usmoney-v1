@@ -6,6 +6,8 @@ section-number: 52
 chapter-number: 5
 next-section: 53
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/our-current-system-5-52-conflating-monetary-with-economic/
 share: true
 comments: false
 comments-locked: false
