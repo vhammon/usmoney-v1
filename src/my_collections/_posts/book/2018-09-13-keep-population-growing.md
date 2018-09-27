@@ -6,6 +6,7 @@ section-number: 59
 chapter-number: 6
 next-section: 60
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/consequences-6-59-keep-population-growing/'
 share: true
 comments: false
 comments-locked: false
