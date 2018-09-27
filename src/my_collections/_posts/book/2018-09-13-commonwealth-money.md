@@ -7,6 +7,8 @@ section-number: 81
 chapter-number: 8
 next-section: 82
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/modern-money-8-81-commonwealth-money-shifting-money-from-our-ruler-to-our-servant/
 share: true
 comments: false
 comments-locked: false
