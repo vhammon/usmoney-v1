@@ -7,6 +7,8 @@ section-number: 51
 chapter-number: 5
 next-section: 52
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/our-current-system-5-51-the-golden-goose-government/
 share: true
 comments: false
 comments-locked: false
