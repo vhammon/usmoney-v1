@@ -6,6 +6,7 @@ section-number: 57
 chapter-number: 6
 next-section: 58
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/consequences-6-57-glory-be-to-exponential-growth/'
 share: true
 comments: false
 comments-locked: false
