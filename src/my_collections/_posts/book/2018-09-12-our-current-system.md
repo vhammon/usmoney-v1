@@ -7,6 +7,8 @@ section-number: 40
 chapter-number: 5
 next-section: 41
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/our-current-system-5-40-our-current-system-how-did-we-get-here/
 share: true
 comments: false
 comments-locked: false
