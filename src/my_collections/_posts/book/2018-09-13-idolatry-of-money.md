@@ -6,6 +6,7 @@ section-number: 74
 chapter-number: 6
 next-section: 75
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/consequences-6-74-idolatry-of-money/'
 share: true
 comments: false
 comments-locked: false
