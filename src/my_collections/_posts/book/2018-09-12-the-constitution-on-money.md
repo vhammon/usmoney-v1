@@ -6,6 +6,7 @@ section-number: 41
 chapter-number: 5
 next-section: 42
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/our-current-system-5-41-the-constitution-on-money/'
 share: true
 comments: false
 comments-locked: false
