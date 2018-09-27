@@ -6,6 +6,7 @@ section-number: 66
 chapter-number: 6
 next-section: 67
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/consequences-6-66-everything-costs-more/'
 share: true
 comments: false
 comments-locked: false
