@@ -6,6 +6,7 @@ section-number: 70
 chapter-number: 6
 next-section: 71
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/consequences-6-70-innovation-is-compromised/'
 share: true
 comments: false
 comments-locked: false
