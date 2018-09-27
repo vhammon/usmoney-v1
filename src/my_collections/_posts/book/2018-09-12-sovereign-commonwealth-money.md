@@ -6,6 +6,7 @@ section-number: 37
 chapter-number: 4
 next-section: 38
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/money-systems-4-37-sovereign-commonwealth-money/'
 share: true
 comments: false
 comments-locked: false
