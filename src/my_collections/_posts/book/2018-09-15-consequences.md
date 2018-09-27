@@ -6,6 +6,7 @@ section-number: 56
 chapter-number: 6
 next-section: 57
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/consequences-6-56-consequences/'
 share: true
 comments: false
 comments-locked: false
