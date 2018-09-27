@@ -7,6 +7,8 @@ section-number: 60
 chapter-number: 6
 next-section: 61
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/consequences-6-60-increase-spending-shifting-from-good-citizens-to-good-consumers/
 share: true
 comments: false
 comments-locked: false
