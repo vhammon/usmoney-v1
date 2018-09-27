@@ -6,6 +6,7 @@ section-number: 65
 chapter-number: 6
 next-section: 66
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/consequences-6-65-speculation-reigns/'
 share: true
 comments: false
 comments-locked: false
