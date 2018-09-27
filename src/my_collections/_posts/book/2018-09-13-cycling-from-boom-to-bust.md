@@ -6,6 +6,7 @@ section-number: 63
 chapter-number: 6
 next-section: 64
 chapter-end: false
+discourse-page: 'https://forum.usmoney.us/t/consequences-6-63-cycling-from-boom-to-bust/'
 share: true
 comments: false
 comments-locked: false
