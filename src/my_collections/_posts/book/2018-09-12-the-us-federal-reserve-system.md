@@ -6,6 +6,8 @@ section-number: 42
 chapter-number: 5
 next-section: 43
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/our-current-system-5-42-the-us-federal-reserve-system/
 share: true
 comments: false
 comments-locked: false
