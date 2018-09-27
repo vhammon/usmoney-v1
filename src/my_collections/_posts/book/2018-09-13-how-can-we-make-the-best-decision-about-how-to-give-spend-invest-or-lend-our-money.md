@@ -8,6 +8,8 @@ section-number: 96
 chapter-number: 10
 next-section: 97
 chapter-end: false
+discourse-page: >-
+  https://forum.usmoney.us/t/the-path-forward-10-96-how-can-we-make-the-best-decision-about-how-to-give-spend-invest-or-lend-our-money/
 share: true
 comments: false
 comments-locked: false
