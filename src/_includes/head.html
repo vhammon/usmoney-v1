@@ -2,19 +2,13 @@
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="shortcut icon" href="{{ site.fav-icon }}" type="image/icon">
 
   <!-- SEO -->
   {% seo %}
 
 {% if page.share-image %}
-  <meta property="og:type" content="article">
   <meta property="og:image" content="https://res.cloudinary.com/{{ site.cloudinary-name }}/image/upload/c_limit,f_auto,q_auto:best,w_800/{{ page.share-image }}" />
 {% endif %}
-
-  {% include content-blocks/head-header-footer/fonts.html %}
-  <!-- UIkit CSS -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.0.0-rc.10/css/uikit.min.css" />
 
   <!-- CSS -->
   <!-- inject:css -->
@@ -25,5 +19,11 @@
   <link rel="shortcut icon" href="{{ site.fav-icon }}">
 
   <!-- RSS -->
-  <link rel="alternate" type="application/atom+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml" /> {% include content-blocks/head-header-footer/header-scripts.html %}
+  <link rel="alternate" type="application/atom+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml" />
+
+  <!-- JS -->
+  <!-- inject:js -->
+  <!-- endinject -->
+
+   {% include content-blocks/head-header-footer/header-scripts.html %}
 </head>

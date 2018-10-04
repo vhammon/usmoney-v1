@@ -25,7 +25,9 @@ gulp.task('scripts', () =>
   // NOTE: The order here is important since it's concatenated in order from
   // top to bottom, so you want vendor scripts etc on top
   gulp.src([
-    'src/assets/javascript/vendor.js',
+    'src/assets/javascript/barba.js',
+    'src/assets/javascript/comments.js',
+    'src/assets/javascript/form-submission-handler.js',
     'src/assets/javascript/main.js'
   ])
     .pipe(newer('.tmp/assets/javascript/index.js', {dest: '.tmp/assets/javascript', ext: '.js'}))
@@ -51,6 +53,38 @@ gulp.task('scripts', () =>
       showFiles: true
     })))
     .pipe(gulp.dest('.tmp/assets/javascript'))
+);
+
+gulp.task('scripts:vendor', () =>
+  // NOTE: The order here is important since it's concatenated in order from
+  // top to bottom, so you want vendor scripts etc on top
+  gulp.src([
+    'src/assets/javascript/jquery-3.2.1.min.js',
+    'src/assets/javascript/smoothstate-0.7.2.min.js'
+  ])
+    .pipe(newer('.tmp/assets/javascript/vendor/vendor.js', {dest: '.tmp/assets/javascript', ext: '.js'}))
+    .pipe(when(!argv.prod, sourcemaps.init()))
+    .pipe(babel({
+      presets: ['es2015']
+    }))
+    .pipe(concat('vendor.js'))
+    .pipe(size({
+      showFiles: true
+    }))
+    .pipe(when(argv.prod, rename({suffix: '.min'})))
+    .pipe(when(argv.prod, when('*.js', uglify({preserveComments: 'some'}))))
+    .pipe(when(argv.prod, size({
+      showFiles: true
+    })))
+    .pipe(when(argv.prod, rev()))
+    .pipe(when(!argv.prod, sourcemaps.write('.')))
+    .pipe(when(argv.prod, gulp.dest('.tmp/assets/javascript/vendor')))
+    .pipe(when(argv.prod, when('*.js', gzip({append: true}))))
+    .pipe(when(argv.prod, size({
+      gzip: true,
+      showFiles: true
+    })))
+    .pipe(gulp.dest('.tmp/assets/javascript/vendor'))
 );
 
 // 'gulp styles' -- creates a CSS file from your SASS, adds prefixes and

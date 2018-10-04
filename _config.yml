@@ -27,6 +27,8 @@ fav-icon: https://res.cloudinary.com/usmoney/image/upload/v1538018637/favicon.ic
 
 cloudinary-name: usmoney
 
+add-this-share-id: ra-5b7f8094f772b9b6
+
 algolia:
   application_id: XTP19ZA183
   index_name: us-money-index

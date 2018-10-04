@@ -1,4 +1,10 @@
-# A path:
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+
+ExpiresActive: on
+
 /assets/*
    # Headers for that path:
-   Cache-Control: public, max-age=360000 
+   Cache-Control: public, max-age=360000
+   ExpiresByType: access plus 1 year
