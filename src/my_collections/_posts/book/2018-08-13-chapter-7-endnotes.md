@@ -23,7 +23,7 @@ categories:
 tags:
   - money
 ---
-\### 7.77 Step Backwards – Fewer Laws: Free Market Banking & Money Creation
+### 7.77 Step Backwards – Fewer Laws: Free Market Banking & Money Creation
 
 1 Hayek, F.A. Denationalisation of Money: The Argument Refined. Coronet Books, Inc.
 3rd Edition. 1990.
@@ -31,7 +31,7 @@ tags:
 
 2 Hayek. Ibid.
 
-\### 7.78 Step Backwards: Return to the ‘Gold Standard’ or Gold
+### 7.78 Step Backwards: Return to the ‘Gold Standard’ or Gold
 
 3 Greenspan, Alan. “Gold and Economic Freedom.” Published in Ayn Rand’s
 “Objectivist” newsletter in 1966, and reprinted in her book, _Capitalism: The
@@ -52,7 +52,7 @@ Federal Reserve.” _NewAmerican.com._ July 15, 2015.
 7 Iskyan, Kim. “Here’s the story of how the Hunt brothers tried to corner the silver
 mar ket.” _Business Insider._ May 17, 2016. <https://www.businessinsider.com/hunt-brothers-trying-to-corner-silver-market-2016-5>
 
-\### 7.79 Bandages: More Laws
+### 7.79 Bandages: More Laws
 
 8 Ensign, Rachel Louise. “Biggest Three Banks Gobble Up $2.4 Trillion in New
 Deposits Since Crisis.” The Wall Street Journal. March 22, 2018. [https://www.wsj.
@@ -75,7 +75,7 @@ Louis; <https://fred.stlouisfed.org/series/FDHBFIN>, August 3, 2018.
 (PSP) directly accesses UK payment system.” Published on April
 18, 2018. <https://www.bankofengland.co.uk/news/2018/april/non-bank-psp-access-to-the-payments-system-announcement>
 
-\### 7.80 Bridge: Public Banking & Money Creation
+### 7.80 Bridge: Public Banking & Money Creation
 
 13 State of California. Election Archives. General Election November 8, 2016:
 Proposition 51: School Bonds. Funding for K-12 School and Community College
