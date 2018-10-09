@@ -16,7 +16,7 @@
       success: function (data) {
         $('#comment-form-submit').html('Submitted');
         $('.js-notice').removeClass('uk-alert-danger').addClass('uk-alert-success');
-      showAlert('<strong>Thanks for your message!</strong> It will show on the site once it has been approved.');
+      showAlert('<strong>Thanks for your book review!</strong>');
         $('#comment-form').addClass('hidden');
       },
       error: function (err) {

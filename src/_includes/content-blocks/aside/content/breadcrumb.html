@@ -4,6 +4,10 @@
   <li><a href="/book/{% if page.autopage %}{{ page.autopages.display_name }}{% else %}chapter-{{ page.chapter-number }}{% endif %}/">{% if page.autopage %}{{ page.autopages.display_name }}{% else %}Chapter {{ page.chapter-number }}{% endif %}</a></li>
   {% endunless %}
   {% unless page.permalink == "/book/" %}
+  {% if page.section-number < 100 %}
   <li><a href="{{ page.url }}">Section {{page.section-number}}</a></li>
+  {% else %}
+<li><a href="{{ page.url }}">Endnotes</a></li>
+  {% endif %}
   {% endunless %}
 </ul>
