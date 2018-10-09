@@ -22,6 +22,10 @@ body {
   position: relative;
 }
 
+.content {
+  word-wrap: break-word;
+}
+
 .uk-divider-small {
   margin: 1.25em 0;
   color: $grey;
