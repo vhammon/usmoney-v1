@@ -23,13 +23,13 @@ categories:
 tags:
   - money
 ---
-\### 8.81 Commonwealth Money: Shifting Money from Our Ruler to Our Servant
+### 8.81 Commonwealth Money: Shifting Money from Our Ruler to Our Servant
 
 
 1 Henderson, Hazel. Beyond Globalization: Shaping a Sustainable Global Economy.
 Boulder, Colorado: Kumarian Press, 1999.
 
-\### 8.83 Who Gets It?
+### 8.83 Who Gets It?
 
 
 2 US Government Financial Report 2017. Ibid. p. 55.
@@ -88,7 +88,7 @@ November 10, 2015. <https://www.woodtv.com/news/kalamazoo-and-battle-creek/kalam
 14 House, Kelly and Mark Graves. “Draining Oregon: Water Giveaway Threatens
 Livelihoods, Wildlife.” The Oregonian. August 26, 2016. <https://www.oregonlive.com/environment/index.ssf/page/draining_oregon_day_1.html>
 
-\### 8.86 Global Perspective: What Will It Mean to the World?
+### 8.86 Global Perspective: What Will It Mean to the World?
 
 
 15 The Federal Reserve Board. Judson, Ruth. “Crisis and Calm: Demand for
