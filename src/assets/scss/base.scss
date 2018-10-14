@@ -28,5 +28,16 @@ body {
 
 .uk-divider-small {
   margin: 1.25em 0;
-  color: $grey;
+  color: $light-grey;
+}
+//
+// .uk-divider-small::after, .uk-hr, hr {
+//   border-top: $gold 1px solid;
+// }
+
+
+.headings {
+  border-top: goldenrod 5px solid;
+  border-bottom: goldenrod 5px solid;
+  padding: 1em 0 .7em;
 }

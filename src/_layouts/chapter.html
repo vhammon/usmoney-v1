@@ -10,18 +10,18 @@ layout: default
 {% assign image = page.image %}
 {% include content-blocks/main/image.html image=image %}
     {% endif %}
-
+    <div class="headings">
     <h1 class="uk-h1 {% if page.image %} uk-margin-medium-top {% endif %}" itemprop="name headline">
       {{ page.title | markdownify | markdownify | replace: '<p>', '' | replace: '</p>', '' | widont }}
   </h1>
   {% if page.subtitle %}
-  <h2>{{ page.subtitle }}</h2>
+  <h2 class="uk-margin-remove">{{ page.subtitle | widont }}</h2>
   {% endif %}
 
   {% if page.subtitle-2 %}
-  <h3>{{ page.subtitle-2 }}</h3>
+  <h3 class="uk-margin-remove">{{ page.subtitle-2 | widont }}</h3>
   {% endif %}
-
+</div>
 {% unless page.title contains "Endnotes" %}
     <p class="post-meta uk-margin-top uk-margin-remove-bottom">
       by

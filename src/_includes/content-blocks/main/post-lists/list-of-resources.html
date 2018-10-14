@@ -1,7 +1,12 @@
-<ul>
-{% for item in site.data.resources %}
+<ul uk-accordion>
+{% for foundation in site.data.foundations %}
 <li>
-  {{ item }}
+<div class="uk-accordion-content">
+{{ foundation.title }}
+{{ foundation.author }}
+{{ site.data.foundations | size }}
+
+</div>
 </li>
 {% endfor %}
 </ul>
